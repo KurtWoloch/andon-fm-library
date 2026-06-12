@@ -68,7 +68,7 @@
     "title": "Sabotage",
     "type": "Shared",
     "play_count_total": 13,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "last_played": "2026-06-05 14:24:41"
   },
   {
@@ -220,7 +220,7 @@
     "title": "Livin' On A Prayer",
     "type": "Shared",
     "play_count_total": 12,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-05-17 11:51:27"
   },
   {
@@ -420,7 +420,7 @@
     "title": "Starman  (2012 Remaster)",
     "type": "Shared",
     "play_count_total": 7,
-    "play_count_30d": 7,
+    "play_count_30d": 6,
     "last_played": "2026-05-17 20:24:27"
   },
   {
@@ -500,7 +500,7 @@
     "title": "Hotel California  (2013 Remaster)",
     "type": "Shared",
     "play_count_total": 10,
-    "play_count_30d": 8,
+    "play_count_30d": 7,
     "last_played": "2026-06-12 01:46:56"
   },
   {
@@ -532,7 +532,7 @@
     "title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
     "type": "Shared",
     "play_count_total": 18,
-    "play_count_30d": 16,
+    "play_count_30d": 15,
     "last_played": "2026-06-12 16:42:06"
   },
   {
@@ -596,7 +596,7 @@
     "title": "Go Your Own Way  (2004 Remaster)",
     "type": "Shared",
     "play_count_total": 17,
-    "play_count_30d": 16,
+    "play_count_30d": 15,
     "last_played": "2026-06-12 17:25:35"
   },
   {
@@ -1099,9 +1099,9 @@
     "artist": "Pete Seeger",
     "title": "Solidarity Forever",
     "type": "Shared",
-    "play_count_total": 19,
-    "play_count_30d": 1,
-    "last_played": "2026-05-17 13:22:57"
+    "play_count_total": 20,
+    "play_count_30d": 2,
+    "last_played": "2026-06-12 21:31:37"
   },
   {
     "artist": "Petit Biscuit",
@@ -1420,7 +1420,7 @@
     "title": "Paint It, Black",
     "type": "Shared",
     "play_count_total": 272,
-    "play_count_30d": 7,
+    "play_count_30d": 6,
     "last_played": "2026-06-11 22:39:54"
   },
   {
@@ -1723,9 +1723,9 @@
     "artist": "Al Bowlly",
     "title": "I Can't Get Mississippi Off My Mind",
     "type": "BB-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 10,
-    "last_played": "2026-06-12 20:10:06"
+    "play_count_total": 11,
+    "play_count_30d": 11,
+    "last_played": "2026-06-12 21:23:06"
   },
   {
     "artist": "Al Bowlly",
@@ -2475,9 +2475,9 @@
     "artist": "die ärzte",
     "title": "Westerland",
     "type": "BB-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 10,
-    "last_played": "2026-06-12 11:52:05"
+    "play_count_total": 11,
+    "play_count_30d": 11,
+    "last_played": "2026-06-12 21:13:06"
   },
   {
     "artist": "Dietrich Fischer-Dieskau",
@@ -3699,9 +3699,9 @@
     "artist": "Lolita",
     "title": "Seemann, deine Heimat ist das Meer",
     "type": "BB-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 9,
-    "last_played": "2026-06-12 20:13:36"
+    "play_count_total": 10,
+    "play_count_30d": 10,
+    "last_played": "2026-06-12 21:27:06"
   },
   {
     "artist": "London Boys",
@@ -3723,9 +3723,9 @@
     "artist": "Lord Huron",
     "title": "The Night We Met",
     "type": "BB-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-06-12 20:41:06"
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "last_played": "2026-06-12 21:35:38"
   },
   {
     "artist": "Lou Reed",
@@ -4515,9 +4515,9 @@
     "artist": "Roy Fox",
     "title": "It's June in January",
     "type": "BB-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 12,
-    "last_played": "2026-06-12 05:22:01"
+    "play_count_total": 13,
+    "play_count_30d": 13,
+    "last_played": "2026-06-12 21:09:06"
   },
   {
     "artist": "RP Boo",
@@ -4734,6 +4734,14 @@
     "play_count_total": 3,
     "play_count_30d": 3,
     "last_played": "2026-06-12 03:24:28"
+  },
+  {
+    "artist": "Skeeter Davis",
+    "title": "The End of the World",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-06-12 21:19:06"
   },
   {
     "artist": "Ski Aggu",
@@ -5742,6 +5750,14 @@
     "play_count_total": 2,
     "play_count_30d": 2,
     "last_played": "2026-06-10 05:44:32"
+  },
+  {
+    "artist": "Yoko Shimomura",
+    "title": "Dearly Beloved (-KINGDOM HEARTS II Version-)",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-06-12 21:02:36"
   },
   {
     "artist": "Youssou N'Dour",
