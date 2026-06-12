@@ -1,0 +1,402 @@
+[
+  {
+    "artist": "Bing Crosby",
+    "title": "White Christmas",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Brenda Lee",
+    "title": "Rockin' Around The Christmas Tree",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "Gorilla",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Have Yourself A Merry Little Christmas (Remastered 1999)",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Jimmy Cliff",
+    "title": "I Can See Clearly Now (Album Version)",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "All I Want for Christmas Is You",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "O Holy Night",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Ultravox",
+    "title": "Vienna (2008 Remaster)",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Wham!",
+    "title": "Last Christmas (Single Version)",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Pitbull",
+    "title": "International Love",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-02-01 22:43:04"
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Good Vibrations (Stereo/Remastered 2012)",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-03-09 02:29:41"
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-05-02 07:58:07"
+  },
+  {
+    "artist": "Side-A",
+    "title": "Only You (There Will Never Be Another)",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-05-02 12:03:11"
+  },
+  {
+    "artist": "Donovan Collins",
+    "title": "Killer Queen Bee",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-15 07:34:08"
+  },
+  {
+    "artist": "ARTMS",
+    "title": "Virtual Angel",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-15 07:51:39"
+  },
+  {
+    "artist": "Gigi Perez",
+    "title": "Sailor Song",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-15 11:17:42"
+  },
+  {
+    "artist": "Afrojack",
+    "title": "SummerThing!",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 02:27:15"
+  },
+  {
+    "artist": "Slayyyter",
+    "title": "Mine",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 02:40:15"
+  },
+  {
+    "artist": "Brasstracks",
+    "title": "My Boo",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 02:43:15"
+  },
+  {
+    "artist": "Röyksopp",
+    "title": "Skulls",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 04:42:17"
+  },
+  {
+    "artist": "Call Security",
+    "title": "Small Talk",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 05:16:47"
+  },
+  {
+    "artist": "Kaleo",
+    "title": "Way down We Go",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 05:20:17"
+  },
+  {
+    "artist": "Foghat",
+    "title": "Burnin' the Midnight Oil",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 06:29:48"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Nude",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 07:19:48"
+  },
+  {
+    "artist": "Youssou N'Dour",
+    "title": "Sama Guent Guii",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 08:49:49"
+  },
+  {
+    "artist": "The National",
+    "title": "Lit Up",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 09:07:49"
+  },
+  {
+    "artist": "USS",
+    "title": "Hydrogenuine",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 12:05:19"
+  },
+  {
+    "artist": "Le Tigre",
+    "title": "Deceptacon",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 13:33:19"
+  },
+  {
+    "artist": "Peaches",
+    "title": "Fuck the Pain Away",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 13:36:49"
+  },
+  {
+    "artist": "Joerg Reiter",
+    "title": "Air Surfing  (Remastered)",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 18:16:49"
+  },
+  {
+    "artist": "The Blue Stones",
+    "title": "Kill Box",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 19:06:20"
+  },
+  {
+    "artist": "1petrikov",
+    "title": "Good Ole' Days  (Remastered)",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 19:37:19"
+  },
+  {
+    "artist": "Wishful Thinking",
+    "title": "Hiroshima",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 20:02:49"
+  },
+  {
+    "artist": "Pebe Sebert",
+    "title": "City's Burning",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 20:31:19"
+  },
+  {
+    "artist": "Frank Ocean",
+    "title": "Thinkin Bout You (Spring Sampler / 2012)",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 21:08:50"
+  },
+  {
+    "artist": "Rodriguez",
+    "title": "Crucify Your Mind",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 21:41:22"
+  },
+  {
+    "artist": "Ladytron",
+    "title": "Playgirl",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 22:01:50"
+  },
+  {
+    "artist": "OneRepublic",
+    "title": "I Lived",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 22:13:51"
+  },
+  {
+    "artist": "OneRepublic",
+    "title": "All The Right Moves",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 22:26:49"
+  },
+  {
+    "artist": "Tate McRae",
+    "title": "TIT FOR TAT",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 04:39:23"
+  },
+  {
+    "artist": "Megadeth",
+    "title": "Tipping Point",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 12:03:57"
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Stairway to Heaven  (Remaster)",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 12:34:57"
+  },
+  {
+    "artist": "SHERELLE",
+    "title": "160 DOWN THE A406",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 15:58:58"
+  },
+  {
+    "artist": "RP Boo",
+    "title": "Speakers R-4 (Sounds)",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 16:05:29"
+  },
+  {
+    "artist": "Dj Rashad",
+    "title": "Drank, Kush, Barz (feat. DJ Spinn)",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 16:08:58"
+  },
+  {
+    "artist": "Traxman",
+    "title": "Footworkin on Air",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 16:12:58"
+  },
+  {
+    "artist": "TV Girl",
+    "title": "It Almost Worked",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 17:31:27"
+  },
+  {
+    "artist": "TV Girl",
+    "title": "Not Allowed",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 17:34:27"
+  },
+  {
+    "artist": "New Order",
+    "title": "Regret",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 20:29:27"
+  },
+  {
+    "artist": "Deep Forest",
+    "title": "Sweet Lullaby",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-18 19:22:35"
+  }
+]

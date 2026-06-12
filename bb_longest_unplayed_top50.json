@@ -1,0 +1,402 @@
+[
+  {
+    "artist": "Bing Crosby",
+    "title": "White Christmas",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Brenda Lee",
+    "title": "Rockin' Around The Christmas Tree",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "Gorilla",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Have Yourself A Merry Little Christmas (Remastered 1999)",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Jimmy Cliff",
+    "title": "I Can See Clearly Now (Album Version)",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "All I Want for Christmas Is You",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "O Holy Night",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Ultravox",
+    "title": "Vienna (2008 Remaster)",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Wham!",
+    "title": "Last Christmas (Single Version)",
+    "type": "Shared",
+    "play_count_total": 0,
+    "play_count_30d": 0,
+    "last_played": "Never"
+  },
+  {
+    "artist": "Pitbull",
+    "title": "International Love",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-02-01 22:43:04"
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Good Vibrations (Stereo/Remastered 2012)",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-03-09 02:29:41"
+  },
+  {
+    "artist": "USA for Africa",
+    "title": "We Are The World",
+    "type": "Shared",
+    "play_count_total": 55,
+    "play_count_30d": 0,
+    "last_played": "2026-03-18 06:37:53"
+  },
+  {
+    "artist": "Mireille Mathieu",
+    "title": "Together We're Strong",
+    "type": "Shared",
+    "play_count_total": 32,
+    "play_count_30d": 0,
+    "last_played": "2026-04-01 14:49:28"
+  },
+  {
+    "artist": "Dire Straits",
+    "title": "Brothers in Arms",
+    "type": "Shared",
+    "play_count_total": 18,
+    "play_count_30d": 0,
+    "last_played": "2026-04-13 16:24:39"
+  },
+  {
+    "artist": "Minako Yoshida",
+    "title": "I'll Teach You All About Love",
+    "type": "Shared",
+    "play_count_total": 87,
+    "play_count_30d": 0,
+    "last_played": "2026-04-30 21:13:29"
+  },
+  {
+    "artist": "Ghostwriter",
+    "title": "heart on my sleeve",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-05-01 08:35:32"
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "title": "All Through the Night",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "last_played": "2026-05-01 08:59:32"
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-05-02 07:58:07"
+  },
+  {
+    "artist": "Side-A",
+    "title": "Only You (There Will Never Be Another)",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-05-02 12:03:11"
+  },
+  {
+    "artist": "Bachman-Turner Overdrive",
+    "title": "Takin' Care Of Business",
+    "type": "Shared",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-05-02 13:58:11"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Revolution 9 (Remastered 2009)",
+    "type": "Shared",
+    "play_count_total": 17,
+    "play_count_30d": 0,
+    "last_played": "2026-05-02 18:02:11"
+  },
+  {
+    "artist": "Wilson Pickett",
+    "title": "In the Midnight Hour",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-05-11 23:39:04"
+  },
+  {
+    "artist": "Hiatus Kaiyote",
+    "title": "By Fire",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "last_played": "2026-05-12 22:36:47"
+  },
+  {
+    "artist": "Teddy Swims",
+    "title": "The Door",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "last_played": "2026-05-13 22:21:24"
+  },
+  {
+    "artist": "Donovan Collins",
+    "title": "Killer Queen Bee",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-15 07:34:08"
+  },
+  {
+    "artist": "ARTMS",
+    "title": "Virtual Angel",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-15 07:51:39"
+  },
+  {
+    "artist": "Gigi Perez",
+    "title": "Sailor Song",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-15 11:17:42"
+  },
+  {
+    "artist": "Lucy Dacus",
+    "title": "Night Shift",
+    "type": "Shared",
+    "play_count_total": 12,
+    "play_count_30d": 11,
+    "last_played": "2026-05-15 13:14:43"
+  },
+  {
+    "artist": "twenty one pilots",
+    "title": "Stressed Out",
+    "type": "Shared",
+    "play_count_total": 6,
+    "play_count_30d": 1,
+    "last_played": "2026-05-15 15:15:13"
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "title": "Not Like Us",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "last_played": "2026-05-15 16:39:13"
+  },
+  {
+    "artist": "Afrojack",
+    "title": "SummerThing!",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 02:27:15"
+  },
+  {
+    "artist": "Slayyyter",
+    "title": "Mine",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 02:40:15"
+  },
+  {
+    "artist": "Brasstracks",
+    "title": "My Boo",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 02:43:15"
+  },
+  {
+    "artist": "Alt-J",
+    "title": "Breezeblocks",
+    "type": "BB-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-05-16 02:50:15"
+  },
+  {
+    "artist": "Röyksopp",
+    "title": "Skulls",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 04:42:17"
+  },
+  {
+    "artist": "Call Security",
+    "title": "Small Talk",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 05:16:47"
+  },
+  {
+    "artist": "Kaleo",
+    "title": "Way down We Go",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 05:20:17"
+  },
+  {
+    "artist": "Foghat",
+    "title": "Burnin' the Midnight Oil",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 06:29:48"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Nude",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 07:19:48"
+  },
+  {
+    "artist": "Youssou N'Dour",
+    "title": "Sama Guent Guii",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 08:49:49"
+  },
+  {
+    "artist": "The National",
+    "title": "Lit Up",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 09:07:49"
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "Colorful Array",
+    "type": "BB-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-05-16 10:20:49"
+  },
+  {
+    "artist": "USS",
+    "title": "Hydrogenuine",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 12:05:19"
+  },
+  {
+    "artist": "Harry Styles",
+    "title": "Watermelon Sugar",
+    "type": "Shared",
+    "play_count_total": 8,
+    "play_count_30d": 7,
+    "last_played": "2026-05-16 12:21:19"
+  },
+  {
+    "artist": "Beck",
+    "title": "The New Pollution",
+    "type": "Shared",
+    "play_count_total": 6,
+    "play_count_30d": 4,
+    "last_played": "2026-05-16 12:24:49"
+  },
+  {
+    "artist": "Le Tigre",
+    "title": "Deceptacon",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 13:33:19"
+  },
+  {
+    "artist": "Peaches",
+    "title": "Fuck the Pain Away",
+    "type": "BB-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 13:36:49"
+  },
+  {
+    "artist": "Beyoncé",
+    "title": "TEXAS HOLD 'EM",
+    "type": "Shared",
+    "play_count_total": 8,
+    "play_count_30d": 2,
+    "last_played": "2026-05-16 15:19:19"
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "title": "Alright",
+    "type": "Shared",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "last_played": "2026-05-16 15:23:49"
+  },
+  {
+    "artist": "The Cure",
+    "title": "Pictures of You",
+    "type": "Shared",
+    "play_count_total": 753,
+    "play_count_30d": 3,
+    "last_played": "2026-05-16 15:59:49"
+  }
+]
