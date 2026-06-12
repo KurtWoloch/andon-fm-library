@@ -5,7 +5,10 @@
     "type": "Shared",
     "play_count_total": 0,
     "play_count_30d": 0,
-    "last_played": "Never"
+    "last_played": "Never",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Brenda Lee",
@@ -13,7 +16,10 @@
     "type": "Shared",
     "play_count_total": 0,
     "play_count_30d": 0,
-    "last_played": "Never"
+    "last_played": "Never",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Bruno Mars",
@@ -21,7 +27,10 @@
     "type": "Shared",
     "play_count_total": 0,
     "play_count_30d": 0,
-    "last_played": "Never"
+    "last_played": "Never",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Frank Sinatra",
@@ -29,7 +38,10 @@
     "type": "Shared",
     "play_count_total": 0,
     "play_count_30d": 0,
-    "last_played": "Never"
+    "last_played": "Never",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Jimmy Cliff",
@@ -37,7 +49,10 @@
     "type": "Shared",
     "play_count_total": 0,
     "play_count_30d": 0,
-    "last_played": "Never"
+    "last_played": "Never",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Mariah Carey",
@@ -45,7 +60,10 @@
     "type": "Shared",
     "play_count_total": 0,
     "play_count_30d": 0,
-    "last_played": "Never"
+    "last_played": "Never",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Mariah Carey",
@@ -53,7 +71,10 @@
     "type": "Shared",
     "play_count_total": 0,
     "play_count_30d": 0,
-    "last_played": "Never"
+    "last_played": "Never",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Ultravox",
@@ -61,7 +82,10 @@
     "type": "Shared",
     "play_count_total": 0,
     "play_count_30d": 0,
-    "last_played": "Never"
+    "last_played": "Never",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Wham!",
@@ -69,7 +93,10 @@
     "type": "Shared",
     "play_count_total": 0,
     "play_count_30d": 0,
-    "last_played": "Never"
+    "last_played": "Never",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Pitbull",
@@ -77,7 +104,10 @@
     "type": "Shared",
     "play_count_total": 1,
     "play_count_30d": 0,
-    "last_played": "2026-02-01 22:43:04"
+    "last_played": "2026-02-01 22:43:04",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "The Beach Boys",
@@ -85,7 +115,10 @@
     "type": "Shared",
     "play_count_total": 1,
     "play_count_30d": 0,
-    "last_played": "2026-03-09 02:29:41"
+    "last_played": "2026-03-09 02:29:41",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "USA for Africa",
@@ -93,7 +126,10 @@
     "type": "Shared",
     "play_count_total": 55,
     "play_count_30d": 0,
-    "last_played": "2026-03-18 06:37:53"
+    "last_played": "2026-03-18 06:37:53",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Mireille Mathieu",
@@ -101,7 +137,10 @@
     "type": "Shared",
     "play_count_total": 32,
     "play_count_30d": 0,
-    "last_played": "2026-04-01 14:49:28"
+    "last_played": "2026-04-01 14:49:28",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Dire Straits",
@@ -109,7 +148,10 @@
     "type": "Shared",
     "play_count_total": 18,
     "play_count_30d": 0,
-    "last_played": "2026-04-13 16:24:39"
+    "last_played": "2026-04-13 16:24:39",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Minako Yoshida",
@@ -117,7 +159,10 @@
     "type": "Shared",
     "play_count_total": 87,
     "play_count_30d": 0,
-    "last_played": "2026-04-30 21:13:29"
+    "last_played": "2026-04-30 21:13:29",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Ghostwriter",
@@ -125,7 +170,10 @@
     "type": "Shared",
     "play_count_total": 2,
     "play_count_30d": 0,
-    "last_played": "2026-05-01 08:35:32"
+    "last_played": "2026-05-01 08:35:32",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Cyndi Lauper",
@@ -133,7 +181,10 @@
     "type": "Shared",
     "play_count_total": 5,
     "play_count_30d": 0,
-    "last_played": "2026-05-01 08:59:32"
+    "last_played": "2026-05-01 08:59:32",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Confetti",
@@ -141,7 +192,10 @@
     "type": "Shared",
     "play_count_total": 1,
     "play_count_30d": 0,
-    "last_played": "2026-05-02 07:58:07"
+    "last_played": "2026-05-02 07:58:07",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Side-A",
@@ -149,7 +203,10 @@
     "type": "Shared",
     "play_count_total": 1,
     "play_count_30d": 0,
-    "last_played": "2026-05-02 12:03:11"
+    "last_played": "2026-05-02 12:03:11",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Bachman-Turner Overdrive",
@@ -157,7 +214,10 @@
     "type": "Shared",
     "play_count_total": 3,
     "play_count_30d": 0,
-    "last_played": "2026-05-02 13:58:11"
+    "last_played": "2026-05-02 13:58:11",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "The Beatles",
@@ -165,7 +225,10 @@
     "type": "Shared",
     "play_count_total": 17,
     "play_count_30d": 0,
-    "last_played": "2026-05-02 18:02:11"
+    "last_played": "2026-05-02 18:02:11",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Wilson Pickett",
@@ -173,7 +236,10 @@
     "type": "Shared",
     "play_count_total": 2,
     "play_count_30d": 0,
-    "last_played": "2026-05-11 23:39:04"
+    "last_played": "2026-05-11 23:39:04",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Hiatus Kaiyote",
@@ -181,7 +247,10 @@
     "type": "Shared",
     "play_count_total": 5,
     "play_count_30d": 0,
-    "last_played": "2026-05-12 22:36:47"
+    "last_played": "2026-05-12 22:36:47",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Teddy Swims",
@@ -189,23 +258,32 @@
     "type": "Shared",
     "play_count_total": 5,
     "play_count_30d": 0,
-    "last_played": "2026-05-13 22:21:24"
+    "last_played": "2026-05-13 22:21:24",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Donovan Collins",
     "title": "Killer Queen Bee",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-15 07:34:08"
+    "last_played": "2026-05-15 07:34:08",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "ARTMS",
     "title": "Virtual Angel",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-15 07:51:39"
+    "last_played": "2026-05-15 07:51:39",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Gigi Perez",
@@ -213,7 +291,10 @@
     "type": "Shared",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-15 11:17:42"
+    "last_played": "2026-05-15 11:17:42",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Lucy Dacus",
@@ -221,7 +302,10 @@
     "type": "Shared",
     "play_count_total": 12,
     "play_count_30d": 11,
-    "last_played": "2026-05-15 13:14:43"
+    "last_played": "2026-05-15 13:14:43",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "twenty one pilots",
@@ -229,7 +313,10 @@
     "type": "Shared",
     "play_count_total": 6,
     "play_count_30d": 1,
-    "last_played": "2026-05-15 15:15:13"
+    "last_played": "2026-05-15 15:15:13",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Kendrick Lamar",
@@ -237,111 +324,153 @@
     "type": "Shared",
     "play_count_total": 5,
     "play_count_30d": 2,
-    "last_played": "2026-05-15 16:39:13"
+    "last_played": "2026-05-15 16:39:13",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Afrojack",
     "title": "SummerThing!",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 02:27:15"
+    "last_played": "2026-05-16 02:27:15",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Slayyyter",
     "title": "Mine",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 02:40:15"
+    "last_played": "2026-05-16 02:40:15",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Brasstracks",
     "title": "My Boo",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 02:43:15"
+    "last_played": "2026-05-16 02:43:15",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Alt-J",
     "title": "Breezeblocks",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "last_played": "2026-05-16 02:50:15"
+    "last_played": "2026-05-16 02:50:15",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Röyksopp",
     "title": "Skulls",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 04:42:17"
+    "last_played": "2026-05-16 04:42:17",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Call Security",
     "title": "Small Talk",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 05:16:47"
+    "last_played": "2026-05-16 05:16:47",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Kaleo",
     "title": "Way down We Go",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 05:20:17"
+    "last_played": "2026-05-16 05:20:17",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Foghat",
     "title": "Burnin' the Midnight Oil",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 06:29:48"
+    "last_played": "2026-05-16 06:29:48",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Radiohead",
     "title": "Nude",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 07:19:48"
+    "last_played": "2026-05-16 07:19:48",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Youssou N'Dour",
     "title": "Sama Guent Guii",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 08:49:49"
+    "last_played": "2026-05-16 08:49:49",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "The National",
     "title": "Lit Up",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 09:07:49"
+    "last_played": "2026-05-16 09:07:49",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Neuro-sama",
     "title": "Colorful Array",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "last_played": "2026-05-16 10:20:49"
+    "last_played": "2026-05-16 10:20:49",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "USS",
     "title": "Hydrogenuine",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 12:05:19"
+    "last_played": "2026-05-16 12:05:19",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Harry Styles",
@@ -349,7 +478,10 @@
     "type": "Shared",
     "play_count_total": 8,
     "play_count_30d": 6,
-    "last_played": "2026-05-16 12:21:19"
+    "last_played": "2026-05-16 12:21:19",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Beck",
@@ -357,23 +489,32 @@
     "type": "Shared",
     "play_count_total": 6,
     "play_count_30d": 4,
-    "last_played": "2026-05-16 12:24:49"
+    "last_played": "2026-05-16 12:24:49",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Le Tigre",
     "title": "Deceptacon",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 13:33:19"
+    "last_played": "2026-05-16 13:33:19",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Peaches",
     "title": "Fuck the Pain Away",
-    "type": "BB-Specific",
+    "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 13:36:49"
+    "last_played": "2026-05-16 13:36:49",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
   },
   {
     "artist": "Beyoncé",
@@ -381,7 +522,10 @@
     "type": "Shared",
     "play_count_total": 8,
     "play_count_30d": 1,
-    "last_played": "2026-05-16 15:19:19"
+    "last_played": "2026-05-16 15:19:19",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "Kendrick Lamar",
@@ -389,7 +533,10 @@
     "type": "Shared",
     "play_count_total": 3,
     "play_count_30d": 2,
-    "last_played": "2026-05-16 15:23:49"
+    "last_played": "2026-05-16 15:23:49",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   },
   {
     "artist": "The Cure",
@@ -397,6 +544,9 @@
     "type": "Shared",
     "play_count_total": 753,
     "play_count_30d": 3,
-    "last_played": "2026-05-16 15:59:49"
+    "last_played": "2026-05-16 15:59:49",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
   }
 ]
