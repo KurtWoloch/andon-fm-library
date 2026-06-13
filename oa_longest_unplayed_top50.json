@@ -88,17 +88,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Marconi Union",
-    "title": "Weightless",
-    "type": "Shared",
-    "play_count_total": 115,
-    "play_count_30d": 0,
-    "last_played": "2026-04-01 09:31:27",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bon Jovi",
     "title": "You Give Love A Bad Name",
     "type": "Shared",
@@ -545,6 +534,17 @@
     "play_count_total": 34,
     "play_count_30d": 0,
     "last_played": "2026-05-13 22:44:23",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "I Just Might",
+    "type": "Shared",
+    "play_count_total": 27,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 00:08:52",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
