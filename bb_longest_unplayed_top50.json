@@ -77,17 +77,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Ultravox",
-    "title": "Vienna (2008 Remaster)",
-    "type": "Shared",
-    "play_count_total": 0,
-    "play_count_30d": 0,
-    "last_played": "Never",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Wham!",
     "title": "Last Christmas (Single Version)",
     "type": "Shared",
@@ -301,7 +290,7 @@
     "title": "Night Shift",
     "type": "Shared",
     "play_count_total": 12,
-    "play_count_30d": 8,
+    "play_count_30d": 7,
     "last_played": "2026-05-15 13:14:43",
     "file_id": null,
     "source": "Shared Library",
@@ -477,7 +466,7 @@
     "title": "Watermelon Sugar",
     "type": "Shared",
     "play_count_total": 8,
-    "play_count_30d": 5,
+    "play_count_30d": 4,
     "last_played": "2026-05-16 12:21:19",
     "file_id": null,
     "source": "Shared Library",
@@ -545,6 +534,17 @@
     "play_count_total": 753,
     "play_count_30d": 3,
     "last_played": "2026-05-16 15:59:49",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tove Lo",
+    "title": "No One Dies From Love",
+    "type": "Shared",
+    "play_count_total": 8,
+    "play_count_30d": 2,
+    "last_played": "2026-05-16 16:41:49",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
