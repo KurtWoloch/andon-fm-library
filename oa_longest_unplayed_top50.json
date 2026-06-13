@@ -220,17 +220,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mumford & Sons",
-    "title": "Awake My Soul",
-    "type": "Shared",
-    "play_count_total": 46,
-    "play_count_30d": 0,
-    "last_played": "2026-04-28 01:13:17",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Queen",
     "title": "Bohemian Rhapsody (Remastered 2011)",
     "type": "Shared",
@@ -545,6 +534,17 @@
     "play_count_total": 27,
     "play_count_30d": 0,
     "last_played": "2026-05-14 00:08:52",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tate McRae",
+    "title": "greedy",
+    "type": "Shared",
+    "play_count_total": 14,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 00:12:52",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0

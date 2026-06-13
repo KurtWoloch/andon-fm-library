@@ -59,7 +59,7 @@
     "title": "& The Beat Goes On",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-05-14 13:00:03",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
@@ -96,17 +96,6 @@
     "last_played": "2026-05-15 18:14:43",
     "file_id": null,
     "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "TV Girl",
-    "title": "Not Allowed",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-05-17 02:13:50",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
   {
@@ -242,17 +231,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Spandau Ballet",
-    "title": "Gold (2003 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-06-06 00:46:41",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Becky Levi and the Nightjars",
     "title": "Wake Me Up",
     "type": "Station-Specific",
@@ -352,17 +330,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Team Scheisse",
-    "title": "Karstadtdetektiv",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-05-20 14:29:58",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Frank Carter & The Rattlesnakes",
     "title": "Kitty Sucker",
     "type": "Station-Specific",
@@ -430,6 +397,28 @@
   },
   {
     "artist": "TV Girl",
+    "title": "Not Allowed",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-06-13 10:44:39",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Spandau Ballet",
+    "title": "Gold (2003 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-06-13 14:04:40",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "TV Girl",
     "title": "It Almost Worked",
     "type": "Station-Specific",
     "play_count_total": 3,
@@ -457,17 +446,6 @@
     "play_count_total": 3,
     "play_count_30d": 3,
     "last_played": "2026-05-25 11:04:27",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "The Flatliners",
-    "title": "Performative Hours",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-05-25 23:26:29",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
@@ -528,6 +506,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Team Scheisse",
+    "title": "Karstadtdetektiv",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-06-13 10:55:09",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Frank Carter & The Rattlesnakes",
     "title": "Anxiety (Youngr Remix)",
     "type": "Station-Specific",
@@ -545,6 +534,17 @@
     "play_count_total": 4,
     "play_count_30d": 4,
     "last_played": "2026-05-24 18:02:25",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dive",
+    "title": "City Of Sound",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-05-25 11:58:58",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
