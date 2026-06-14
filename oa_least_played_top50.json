@@ -44,17 +44,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "THAT 70s CHANNEL",
-    "title": "TODAYS TOP 10 B 1975",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-14 06:38:02",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Whispers",
     "title": "& The Beat Goes On",
     "type": "Station-Specific",
@@ -276,17 +265,6 @@
   },
   {
     "artist": "TV Girl",
-    "title": "Loving Machine",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-05-18 08:28:32",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "TV Girl",
     "title": "Lines to a Different Play",
     "type": "Station-Specific",
     "play_count_total": 2,
@@ -369,17 +347,6 @@
     "play_count_total": 2,
     "play_count_30d": 2,
     "last_played": "2026-05-27 06:03:48",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "TV Girl",
-    "title": "Not Allowed",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-06-13 10:44:39",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
@@ -473,6 +440,28 @@
     "confidence": 1.0
   },
   {
+    "artist": "TV Girl",
+    "title": "Not Allowed",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-06-14 18:46:49",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "TV Girl",
+    "title": "Loving Machine",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-06-14 18:49:49",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Frank Carter & The Rattlesnakes",
     "title": "Anxiety (Youngr Remix)",
     "type": "Station-Specific",
@@ -545,6 +534,17 @@
     "play_count_total": 4,
     "play_count_30d": 4,
     "last_played": "2026-06-12 23:06:05",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Paranoid",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-06-12 23:12:35",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
