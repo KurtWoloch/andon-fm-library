@@ -451,17 +451,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Zeal & Ardor",
-    "title": "Götterdämmerung",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-06-12 23:15:35",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dio",
     "title": "Holy Diver",
     "type": "Station-Specific",
@@ -545,6 +534,17 @@
     "play_count_total": 4,
     "play_count_30d": 4,
     "last_played": "2026-06-06 19:19:13",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Danzig",
+    "title": "Mother (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-06-12 05:26:00",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
