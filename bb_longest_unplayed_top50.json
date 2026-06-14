@@ -99,17 +99,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Beach Boys",
-    "title": "Good Vibrations (Stereo/Remastered 2012)",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-03-09 02:29:41",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "USA for Africa",
     "title": "We Are The World",
     "type": "Shared",
@@ -121,34 +110,12 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mireille Mathieu",
-    "title": "Together We're Strong",
-    "type": "Shared",
-    "play_count_total": 32,
-    "play_count_30d": 0,
-    "last_played": "2026-04-01 14:49:28",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dire Straits",
     "title": "Brothers in Arms",
     "type": "Shared",
     "play_count_total": 18,
     "play_count_30d": 0,
     "last_played": "2026-04-13 16:24:39",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Minako Yoshida",
-    "title": "I'll Teach You All About Love",
-    "type": "Shared",
-    "play_count_total": 87,
-    "play_count_30d": 0,
-    "last_played": "2026-04-30 21:13:29",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
@@ -242,17 +209,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Teddy Swims",
-    "title": "The Door",
-    "type": "Shared",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "last_played": "2026-05-13 22:21:24",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Donovan Collins",
     "title": "Killer Queen Bee",
     "type": "Station-Specific",
@@ -272,28 +228,6 @@
     "last_played": "2026-05-15 07:51:39",
     "file_id": null,
     "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Gigi Perez",
-    "title": "Sailor Song",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-15 11:17:42",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Lucy Dacus",
-    "title": "Night Shift",
-    "type": "Shared",
-    "play_count_total": 12,
-    "play_count_30d": 1,
-    "last_played": "2026-05-15 13:14:43",
-    "file_id": null,
-    "source": "Shared Library",
     "confidence": 1.0
   },
   {
@@ -466,7 +400,7 @@
     "title": "Watermelon Sugar",
     "type": "Shared",
     "play_count_total": 8,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-05-16 12:21:19",
     "file_id": null,
     "source": "Shared Library",
@@ -543,10 +477,76 @@
     "title": "No One Dies From Love",
     "type": "Shared",
     "play_count_total": 8,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-05-16 16:41:49",
     "file_id": null,
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kenny G",
+    "title": "Songbird",
+    "type": "Shared",
+    "play_count_total": 7,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 17:26:49",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Supertramp",
+    "title": "Even In The Quietest Moments",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 4,
+    "last_played": "2026-05-16 17:31:49",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Joerg Reiter",
+    "title": "Air Surfing  (Remastered)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 18:16:49",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bleachers",
+    "title": "I Wanna Get Better",
+    "type": "Shared",
+    "play_count_total": 10,
+    "play_count_30d": 5,
+    "last_played": "2026-05-16 18:45:50",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Perrie",
+    "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
+    "type": "Shared",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "last_played": "2026-05-16 18:57:19",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Blue Stones",
+    "title": "Kill Box",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 19:06:20",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
   }
 ]
