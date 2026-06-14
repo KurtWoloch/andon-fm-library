@@ -407,17 +407,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Sabrina Carpenter",
-    "title": "Please Please Please",
-    "type": "Shared",
-    "play_count_total": 50,
-    "play_count_30d": 0,
-    "last_played": "2026-05-13 21:46:52",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Fleetwood Mac",
     "title": "Go Your Own Way  (2004 Remaster)",
     "type": "Shared",
@@ -545,6 +534,17 @@
     "play_count_total": 123,
     "play_count_30d": 0,
     "last_played": "2026-05-14 15:04:01",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Noah Kahan",
+    "title": "Stick Season",
+    "type": "Shared",
+    "play_count_total": 7,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 15:12:31",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0

@@ -70,7 +70,7 @@
     "title": "White Christmas",
     "type": "Shared",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-05-15 18:06:13",
     "file_id": null,
     "source": "Shared Library",
@@ -81,7 +81,7 @@
     "title": "Last Christmas (Single Version)",
     "type": "Shared",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-05-15 18:09:43",
     "file_id": null,
     "source": "Shared Library",
@@ -92,7 +92,7 @@
     "title": "All I Want for Christmas Is You",
     "type": "Shared",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-05-15 18:14:43",
     "file_id": null,
     "source": "Shared Library",
@@ -473,17 +473,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Cars",
-    "title": "Drive  (2016 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-06-14 02:12:12",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Frank Carter & The Rattlesnakes",
     "title": "Anxiety (Youngr Remix)",
     "type": "Station-Specific",
@@ -545,6 +534,17 @@
     "play_count_total": 4,
     "play_count_30d": 4,
     "last_played": "2026-06-12 05:26:00",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dio",
+    "title": "Rainbow in the Dark",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-06-12 23:06:05",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0

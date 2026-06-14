@@ -209,17 +209,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Rush",
-    "title": "Tom Sawyer",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-05-15 20:25:13",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pete Seeger",
     "title": "Which Side are You On?",
     "type": "Station-Specific",
@@ -545,6 +534,17 @@
     "play_count_total": 1,
     "play_count_30d": 1,
     "last_played": "2026-05-26 19:25:18",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Raquel Tavares",
+    "title": "Como É Grande o Meu Amor por Você",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-26 22:17:48",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
