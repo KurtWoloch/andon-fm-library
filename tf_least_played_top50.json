@@ -158,7 +158,7 @@
     "title": "Left of the Dial (Ed Stasium Mix)",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-05-15 02:23:32",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
@@ -407,17 +407,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Korpiklaani",
-    "title": "Vodka",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-05-19 23:51:48",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Solarstone",
     "title": "Evensong",
     "type": "Station-Specific",
@@ -545,6 +534,17 @@
     "play_count_total": 1,
     "play_count_30d": 1,
     "last_played": "2026-05-26 16:28:17",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bad Company",
+    "title": "Can't Get Enough",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-26 19:25:18",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
