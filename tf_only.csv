@@ -1,6 +1,6 @@
 Artist,Title,Type,Play Count Total,Play Count 30d,Last Played,Source,Confidence
 ABBA,Gimme! Gimme! Gimme! (A Man After Midnight),Shared,17,8,2026-06-13 18:56:11,Shared Library,1.0
-Alfa Mist,Organic Rust,Shared,79,37,2026-06-14 06:36:47,Shared Library,1.0
+Alfa Mist,Organic Rust,Shared,79,36,2026-06-14 06:36:47,Shared Library,1.0
 Amy Winehouse,Rehab,Shared,23,16,2026-06-11 15:19:24,Shared Library,1.0
 Aphex Twin,Windowlicker,Shared,12,6,2026-05-24 20:39:56,Shared Library,1.0
 Arctic Monkeys,Do I Wanna Know?,Shared,166,0,2026-05-14 21:30:31,Shared Library,1.0
@@ -93,7 +93,7 @@ Janelle Monáe,Make Me Feel,Shared,29,23,2026-06-10 16:23:03,Shared Library,1.0
 Jill Scott,Golden,Shared,53,32,2026-06-14 00:39:41,Shared Library,1.0
 Jimmy Cliff,I Can See Clearly Now (Album Version),Shared,29,0,2026-04-21 16:04:05,Shared Library,1.0
 John Lennon,Imagine (Remastered 2010),Shared,110,4,2026-05-17 21:28:57,Shared Library,1.0
-John Mayer,New Light,Shared,181,8,2026-05-19 02:18:36,Shared Library,1.0
+John Mayer,New Light,Shared,181,7,2026-05-19 02:18:36,Shared Library,1.0
 Johnny Cash,Redemption Day (Album Version),Shared,96,0,2026-05-14 19:12:01,Shared Library,1.0
 Journey,Lights (Album Version),Shared,3,0,2026-05-14 22:17:01,Shared Library,1.0
 Justice,D.A.N.C.E.,Shared,13,7,2026-05-18 17:58:04,Shared Library,1.0
@@ -173,7 +173,7 @@ The Beatles,Yesterday (Remastered),Shared,36,1,2026-05-25 02:10:26,Shared Librar
 The Clash,London Calling,Shared,112,0,2026-05-14 22:34:01,Shared Library,1.0
 The Clash,Should I Stay or Should I Go (Remastered),Shared,32,0,2026-04-07 19:53:51,Shared Library,1.0
 The Cure,Pictures of You,Shared,19,11,2026-05-25 00:53:26,Shared Library,1.0
-The Dave Brubeck Quartet,Take Five,Shared,33,3,2026-05-25 09:08:27,Shared Library,1.0
+The Dave Brubeck Quartet,Take Five,Shared,33,2,2026-05-25 09:08:27,Shared Library,1.0
 The Killers,Mr. Brightside,Shared,131,10,2026-05-30 08:55:27,Shared Library,1.0
 The National,About Today (2021 Remaster),Shared,168,1,2026-05-25 00:48:26,Shared Library,1.0
 The Rolling Stones,"Paint It, Black",Shared,144,1,2026-05-15 17:19:43,Shared Library,1.0
@@ -188,7 +188,7 @@ Tracy Chapman,Fast Car  (2015 Remaster),Shared,227,22,2026-05-25 15:48:28,Shared
 twenty one pilots,Stressed Out,Shared,18,0,2026-05-14 21:24:01,Shared Library,1.0
 Tycho,A Walk,Shared,80,23,2026-05-25 10:53:28,Shared Library,1.0
 Tycho,Dive,Shared,50,50,2026-06-14 05:14:15,Shared Library,1.0
-Tyla,Water,Shared,214,10,2026-05-20 01:10:49,Shared Library,1.0
+Tyla,Water,Shared,214,9,2026-05-20 01:10:49,Shared Library,1.0
 U2,Where The Streets Have No Name (Remastered 2007),Shared,91,0,2026-05-14 01:42:23,Shared Library,1.0
 Ultravox,Vienna (2008 Remaster),Shared,3,0,2026-05-14 02:27:23,Shared Library,1.0
 USA for Africa,We Are The World,Shared,38,3,2026-06-06 17:56:42,Shared Library,1.0
@@ -215,7 +215,7 @@ Alestorm,Keelhauled,Station-Specific,3,3,2026-06-13 23:47:11,Scraper Logs (TF Pl
 Alex Andre,"thanks, my day is ruined",Station-Specific,1,1,2026-05-24 19:31:26,Scraper Logs (TF Play History),1.0
 Alexander Malter,Pärt: Für Alina,Station-Specific,1,1,2026-06-01 04:18:03,Scraper Logs (TF Play History),1.0
 Ali Farka Touré,Soukora,Station-Specific,4,4,2026-06-13 21:13:11,Scraper Logs (TF Play History),1.0
-Alicia Keys,Fallin' (Album Version),Station-Specific,1,1,2026-06-09 02:21:59,Scraper Logs (TF Play History),1.0
+Alicia Keys,Fallin' (Album Version),Station-Specific,2,2,2026-06-14 15:54:48,Scraper Logs (TF Play History),1.0
 Almendra,Plegaria para un Niño Dormido,Station-Specific,3,3,2026-05-28 23:10:23,Scraper Logs (TF Play History),1.0
 Alvvays,Belinda Says,Station-Specific,5,5,2026-06-06 19:10:12,Scraper Logs (TF Play History),1.0
 Alèmayèhu Eshèté,Tashamanaletch,Station-Specific,2,2,2026-06-07 22:29:45,Scraper Logs (TF Play History),1.0
@@ -365,7 +365,7 @@ Duke Ellington,In A Sentimental Mood,Station-Specific,8,8,2026-06-14 01:02:12,Sc
 Duncan Laurence,Arcade (feat. FLETCHER),Station-Specific,3,3,2026-05-17 23:42:57,Scraper Logs (TF Play History),1.0
 Durand Jones & The Indications,Witchoo,Station-Specific,15,15,2026-06-11 17:15:23,Scraper Logs (TF Play History),1.0
 "Earth, Wind & Fire",September,Station-Specific,14,14,2026-06-13 16:01:41,Scraper Logs (TF Play History),1.0
-"Earth, Wind & Fire",Shining Star,Station-Specific,1,1,2026-06-13 16:46:41,Scraper Logs (TF Play History),1.0
+"Earth, Wind & Fire",Shining Star,Station-Specific,2,2,2026-06-14 15:58:18,Scraper Logs (TF Play History),1.0
 Eiffel 65,Blue (Flume Remix),Station-Specific,1,1,2026-06-06 06:19:41,Scraper Logs (TF Play History),1.0
 Electric Light Orchestra,"Yours Truly, 2095",Station-Specific,3,3,2026-05-27 23:34:51,Scraper Logs (TF Play History),1.0
 Elis Regina,Águas De Marco,Station-Specific,18,18,2026-06-11 23:51:54,Scraper Logs (TF Play History),1.0
@@ -679,7 +679,7 @@ Roberta Flack,The First Time Ever I Saw Your Face (2020 Remaster),Station-Specif
 Robin Packalen,Kesärenkaat,Station-Specific,1,0,2026-05-15 12:58:13,Scraper Logs (TF Play History),1.0
 Roland Dyens,Fuoco (Libra Sonatine),Station-Specific,1,1,2026-06-13 18:19:41,Scraper Logs (TF Play History),1.0
 Roy Ayers Ubiquity,Everybody Loves The Sunshine,Station-Specific,42,42,2026-06-14 14:10:19,Scraper Logs (TF Play History),1.0
-Rufus,Ain't Nobody (Album Version),Station-Specific,11,11,2026-06-13 16:21:11,Scraper Logs (TF Play History),1.0
+Rufus,Ain't Nobody (Album Version),Station-Specific,12,12,2026-06-14 16:09:18,Scraper Logs (TF Play History),1.0
 Rufus Wainwright,Dinner At Eight,Station-Specific,2,2,2026-06-11 14:51:53,Scraper Logs (TF Play History),1.0
 Rumahoy,Forest Party,Station-Specific,2,2,2026-05-19 23:47:48,Scraper Logs (TF Play History),1.0
 Rush,Tom Sawyer,Station-Specific,1,1,2026-05-15 20:25:13,Scraper Logs (TF Play History),1.0
@@ -733,7 +733,7 @@ Stevie Ray Vaughan & Double Trouble,Riviera Paradise,Station-Specific,1,1,2026-0
 Stevie Wonder,Golden Lady,Station-Specific,38,38,2026-06-13 15:39:40,Scraper Logs (TF Play History),1.0
 Stevie Wonder,Happy Birthday,Station-Specific,2,2,2026-06-06 16:16:42,Scraper Logs (TF Play History),1.0
 Stevie Wonder,Higher Ground (Album Version),Station-Specific,9,9,2026-06-14 15:46:49,Scraper Logs (TF Play History),1.0
-Stevie Wonder,Superstition (Album Version),Station-Specific,20,20,2026-06-13 16:05:11,Scraper Logs (TF Play History),1.0
+Stevie Wonder,Superstition (Album Version),Station-Specific,21,21,2026-06-14 16:01:19,Scraper Logs (TF Play History),1.0
 Stratovarius,Black Diamond,Station-Specific,2,2,2026-06-13 23:24:11,Scraper Logs (TF Play History),1.0
 Styx,Mr. Roboto,Station-Specific,2,2,2026-05-27 23:14:20,Scraper Logs (TF Play History),1.0
 Suburban Kids With Biblical Names,Rent A Wreck,Station-Specific,2,2,2026-05-30 17:41:57,Scraper Logs (TF Play History),1.0
