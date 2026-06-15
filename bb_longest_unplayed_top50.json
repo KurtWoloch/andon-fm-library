@@ -132,17 +132,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Cyndi Lauper",
-    "title": "All Through the Night",
-    "type": "Shared",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "last_played": "2026-05-01 08:59:32",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Confetti",
     "title": "People Suck [Explicit]",
     "type": "Shared",
@@ -220,28 +209,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Afrojack",
-    "title": "SummerThing!",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 02:27:15",
-    "file_id": null,
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Slayyyter",
-    "title": "Mine",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 02:40:15",
-    "file_id": null,
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Brasstracks",
     "title": "My Boo",
     "type": "Station-Specific",
@@ -253,56 +220,12 @@
     "confidence": 1.0
   },
   {
-    "artist": "Röyksopp",
-    "title": "Skulls",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 04:42:17",
-    "file_id": null,
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Call Security",
     "title": "Small Talk",
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 0,
     "last_played": "2026-05-16 05:16:47",
-    "file_id": null,
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Kaleo",
-    "title": "Way down We Go",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 05:20:17",
-    "file_id": null,
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Foghat",
-    "title": "Burnin' the Midnight Oil",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 06:29:48",
-    "file_id": null,
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Radiohead",
-    "title": "Nude",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 07:19:48",
     "file_id": null,
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
@@ -330,17 +253,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Neuro-sama",
-    "title": "Colorful Array",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 10:20:49",
-    "file_id": null,
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "USS",
     "title": "Hydrogenuine",
     "type": "Station-Specific",
@@ -360,28 +272,6 @@
     "last_played": "2026-05-16 12:21:19",
     "file_id": null,
     "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Beck",
-    "title": "The New Pollution",
-    "type": "Shared",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 12:24:49",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Le Tigre",
-    "title": "Deceptacon",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 13:33:19",
-    "file_id": null,
-    "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
   },
   {
@@ -413,17 +303,6 @@
     "play_count_total": 3,
     "play_count_30d": 0,
     "last_played": "2026-05-16 15:23:49",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "The Cure",
-    "title": "Pictures of You",
-    "type": "Shared",
-    "play_count_total": 753,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 15:59:49",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
@@ -477,7 +356,7 @@
     "title": "I Wanna Get Better",
     "type": "Shared",
     "play_count_total": 10,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-05-16 18:45:50",
     "file_id": null,
     "source": "Shared Library",
@@ -488,21 +367,10 @@
     "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
     "type": "Shared",
     "play_count_total": 4,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-05-16 18:57:19",
     "file_id": null,
     "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "The Blue Stones",
-    "title": "Kill Box",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-05-16 19:06:20",
-    "file_id": null,
-    "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
   },
   {
@@ -510,7 +378,7 @@
     "title": "Good Ole' Days  (Remastered)",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-05-16 19:37:19",
     "file_id": null,
     "source": "Scraper Logs (BB Play History)",
@@ -521,7 +389,7 @@
     "title": "Hiroshima",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-05-16 20:02:49",
     "file_id": null,
     "source": "Scraper Logs (BB Play History)",
@@ -532,7 +400,7 @@
     "title": "City's Burning",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-05-16 20:31:19",
     "file_id": null,
     "source": "Scraper Logs (BB Play History)",
@@ -543,10 +411,142 @@
     "title": "Crucify Your Mind",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-05-16 21:41:22",
     "file_id": null,
     "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "OneRepublic",
+    "title": "I Lived",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-05-16 22:13:51",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "OneRepublic",
+    "title": "All The Right Moves",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-05-16 22:26:49",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Chris De Burgh",
+    "title": "The Getaway",
+    "type": "Shared",
+    "play_count_total": 4,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 23:46:20",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Guns N' Roses",
+    "title": "Paradise City",
+    "type": "Shared",
+    "play_count_total": 14,
+    "play_count_30d": 1,
+    "last_played": "2026-05-16 23:50:49",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Soundgarden",
+    "title": "Black Hole Sun",
+    "type": "Shared",
+    "play_count_total": 705,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 00:13:20",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Roar",
+    "type": "Shared",
+    "play_count_total": 11,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 01:26:50",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tate McRae",
+    "title": "Miss possessive",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 04:21:23",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dua Lipa",
+    "title": "Training Season",
+    "type": "Shared",
+    "play_count_total": 33,
+    "play_count_30d": 2,
+    "last_played": "2026-05-17 04:26:23",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tinashe",
+    "title": "Nasty",
+    "type": "Shared",
+    "play_count_total": 14,
+    "play_count_30d": 3,
+    "last_played": "2026-05-17 04:30:23",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "title": "Please Please Please",
+    "type": "Shared",
+    "play_count_total": 23,
+    "play_count_30d": 2,
+    "last_played": "2026-05-17 04:35:53",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tate McRae",
+    "title": "TIT FOR TAT",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 04:39:23",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Weeknd",
+    "title": "Gasoline",
+    "type": "Shared",
+    "play_count_total": 970,
+    "play_count_30d": 1,
+    "last_played": "2026-05-17 04:49:23",
+    "file_id": null,
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]

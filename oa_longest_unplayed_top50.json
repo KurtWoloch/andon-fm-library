@@ -99,17 +99,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tate McRae",
-    "title": "Miss possessive",
-    "type": "Shared",
-    "play_count_total": 7,
-    "play_count_30d": 0,
-    "last_played": "2026-04-03 08:47:15",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Khalid",
     "title": "momentary lovers",
     "type": "Shared",
@@ -547,6 +536,17 @@
     "last_played": "2026-05-14 13:00:03",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Perrie",
+    "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
+    "type": "Shared",
+    "play_count_total": 12,
+    "play_count_30d": 0,
+    "last_played": "2026-05-15 17:20:13",
+    "file_id": null,
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
