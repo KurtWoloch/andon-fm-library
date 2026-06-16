@@ -92,7 +92,7 @@
     "title": "All The Right Moves",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-05-17 16:45:57",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
@@ -341,6 +341,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Harold Faltermeyer",
+    "title": "Axel F (From \"Beverly Hills Cop\" Soundtrack)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-06-16 18:12:40",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "The Beatles",
     "title": "Revolution 9 (Remastered 2009)",
     "type": "Shared",
@@ -457,17 +468,6 @@
     "play_count_total": 2,
     "play_count_30d": 2,
     "last_played": "2026-06-13 21:57:12",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Laura Branigan",
-    "title": "Self Control",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-06-16 02:17:32",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0

@@ -418,17 +418,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dire Straits",
-    "title": "Sultans of Swing",
-    "type": "Shared",
-    "play_count_total": 51,
-    "play_count_30d": 0,
-    "last_played": "2026-05-13 23:09:22",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Queen",
     "title": "Bohemian Rhapsody (Remastered 2011)",
     "type": "Shared",
@@ -545,6 +534,17 @@
     "play_count_total": 7,
     "play_count_30d": 0,
     "last_played": "2026-05-14 15:12:31",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Johnny Cash",
+    "title": "Redemption Day (Album Version)",
+    "type": "Shared",
+    "play_count_total": 96,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 19:12:01",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
