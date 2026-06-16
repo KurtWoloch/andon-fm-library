@@ -254,17 +254,6 @@
   },
   {
     "artist": "Michael Jackson",
-    "title": "Smooth Criminal (2012 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-06-15 22:32:01",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Michael Jackson",
     "title": "Dirty Diana (2012 Remaster)",
     "type": "Station-Specific",
     "play_count_total": 1,
@@ -325,17 +314,6 @@
     "play_count_total": 1,
     "play_count_30d": 1,
     "last_played": "2026-06-16 02:08:02",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Dire Straits",
-    "title": "Walk Of Life",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-06-16 03:09:33",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
@@ -495,12 +473,23 @@
     "confidence": 1.0
   },
   {
-    "artist": "Talk Talk",
-    "title": "Life's What You Make It  (1997 Remaster)",
+    "artist": "Dire Straits",
+    "title": "Walk Of Life",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "last_played": "2026-06-16 07:33:38",
+    "last_played": "2026-06-16 15:14:10",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Smooth Criminal (2012 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-06-16 15:34:40",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
@@ -545,6 +534,17 @@
     "play_count_total": 3,
     "play_count_30d": 3,
     "last_played": "2026-06-12 05:40:01",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dio",
+    "title": "Holy Diver",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-06-12 23:54:05",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
