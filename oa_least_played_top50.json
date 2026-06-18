@@ -264,39 +264,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pornophonique",
-    "title": "Sad Robot",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-06-18 00:30:27",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pornophonique",
-    "title": "Son Of A Preacher Man",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-06-18 00:45:27",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pornophonique",
-    "title": "Coming Home",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-06-18 01:01:26",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Confetti",
     "title": "People Suck [Explicit]",
     "type": "Shared",
@@ -413,6 +380,39 @@
     "play_count_total": 2,
     "play_count_30d": 2,
     "last_played": "2026-06-17 23:46:57",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pornophonique",
+    "title": "Sad Robot",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-06-18 10:21:29",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pornophonique",
+    "title": "Son Of A Preacher Man",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-06-18 10:42:59",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pornophonique",
+    "title": "Coming Home",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-06-18 11:14:29",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
