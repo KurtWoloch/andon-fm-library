@@ -421,36 +421,12 @@
   },
   {
     "artist": "Creedence Clearwater Revival",
-    "title": "Bad Moon Rising",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-06-21 01:02:22Z",
-    "last_played_vienna": "2026-06-21 03:02:22 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Creedence Clearwater Revival",
     "title": "Born On The Bayou",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
     "last_played": "2026-06-21 01:04:52Z",
     "last_played_vienna": "2026-06-21 03:04:52 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Creedence Clearwater Revival",
-    "title": "Lookin' Out My Back Door",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-06-21 15:30:59Z",
-    "last_played_vienna": "2026-06-21 17:30:59 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
@@ -571,6 +547,30 @@
     "play_count_30d": 3,
     "last_played": "2026-06-21 08:57:59Z",
     "last_played_vienna": "2026-06-21 10:57:59 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Lookin' Out My Back Door",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-06-22 00:56:02Z",
+    "last_played_vienna": "2026-06-22 02:56:02 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Bad Moon Rising",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-06-22 00:58:31Z",
+    "last_played_vienna": "2026-06-22 02:58:31 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
