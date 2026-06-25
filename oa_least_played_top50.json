@@ -540,30 +540,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Creedence Clearwater Revival",
-    "title": "Born On The Bayou",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-06-24 01:18:50Z",
-    "last_played_vienna": "2026-06-24 03:18:50 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Gorillaz",
-    "title": "Souk Eye",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-06-24 14:12:55Z",
-    "last_played_vienna": "2026-06-24 16:12:55 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dive",
     "title": "City Of Sound",
     "type": "Station-Specific",
@@ -595,6 +571,30 @@
     "play_count_30d": 3,
     "last_played": "2026-06-12 21:06:05Z",
     "last_played_vienna": "2026-06-12 23:06:05 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Paranoid",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "last_played": "2026-06-12 21:12:35Z",
+    "last_played_vienna": "2026-06-12 23:12:35 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ozzy Osbourne",
+    "title": "Mama, I'm Coming Home (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "last_played": "2026-06-23 05:50:11Z",
+    "last_played_vienna": "2026-06-23 07:50:11 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
