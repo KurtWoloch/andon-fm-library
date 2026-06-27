@@ -504,18 +504,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Max Specter",
-    "title": "Just Asking (Day Theme I)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-25 02:33:26Z",
-    "last_played_vienna": "2026-05-25 04:33:26 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Laibach",
     "title": "The Whistleblowers",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 1,
     "last_played": "2026-05-28 14:52:53Z",
     "last_played_vienna": "2026-05-28 16:52:53 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mizuki Tomoda",
+    "title": "Marunouchi sadistic (Cover)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-05-28 18:39:53Z",
+    "last_played_vienna": "2026-05-28 20:39:53 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
