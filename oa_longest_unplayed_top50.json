@@ -360,18 +360,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mötley Crüe",
-    "title": "Kickstart My Heart",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-20 18:28:59Z",
-    "last_played_vienna": "2026-05-20 20:28:59 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Metallica",
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-06-04 22:00:08Z",
     "last_played_vienna": "2026-06-05 00:00:08 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Becky Levi and the Nightjars",
+    "title": "Wake Me Up",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-06-06 16:19:12Z",
+    "last_played_vienna": "2026-06-06 18:19:12 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0

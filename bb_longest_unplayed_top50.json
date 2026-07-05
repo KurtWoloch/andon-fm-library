@@ -48,18 +48,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Jimmy Cliff",
-    "title": "I Can See Clearly Now (Album Version)",
-    "type": "Shared",
-    "play_count_total": 0,
-    "play_count_30d": 0,
-    "last_played": "Never",
-    "last_played_vienna": "Never",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Mariah Carey",
     "title": "All I Want for Christmas Is You",
     "type": "Shared",
@@ -156,18 +144,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bachman-Turner Overdrive",
-    "title": "Takin' Care Of Business",
-    "type": "Shared",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-05-02 11:58:11Z",
-    "last_played_vienna": "2026-05-02 13:58:11 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Beatles",
     "title": "Revolution 9 (Remastered 2009)",
     "type": "Shared",
@@ -175,18 +151,6 @@
     "play_count_30d": 0,
     "last_played": "2026-05-02 16:02:11Z",
     "last_played_vienna": "2026-05-02 18:02:11 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Wilson Pickett",
-    "title": "In the Midnight Hour",
-    "type": "Shared",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-05-11 21:39:04Z",
-    "last_played_vienna": "2026-05-11 23:39:04 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
@@ -595,6 +559,42 @@
     "play_count_30d": 0,
     "last_played": "2026-05-17 02:55:24Z",
     "last_played_vienna": "2026-05-17 04:55:24 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sting",
+    "title": "Fragile",
+    "type": "Shared",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "last_played": "2026-05-17 04:29:54Z",
+    "last_played_vienna": "2026-05-17 06:29:54 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "John Lennon",
+    "title": "Imagine (Remastered 2010)",
+    "type": "Shared",
+    "play_count_total": 7,
+    "play_count_30d": 0,
+    "last_played": "2026-05-17 04:36:24Z",
+    "last_played_vienna": "2026-05-17 06:36:24 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Johnny Cash",
+    "title": "Redemption Day (Album Version)",
+    "type": "Shared",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "last_played": "2026-05-17 04:39:54Z",
+    "last_played_vienna": "2026-05-17 06:39:54 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
