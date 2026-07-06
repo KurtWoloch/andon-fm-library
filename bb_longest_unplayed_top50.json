@@ -432,18 +432,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Soundgarden",
-    "title": "Black Hole Sun",
-    "type": "Shared",
-    "play_count_total": 705,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 22:13:20Z",
-    "last_played_vienna": "2026-05-17 00:13:20 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Katy Perry",
     "title": "Roar",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-17 09:42:27Z",
     "last_played_vienna": "2026-05-17 11:42:27 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bon Jovi",
+    "title": "Livin' On A Prayer",
+    "type": "Shared",
+    "play_count_total": 12,
+    "play_count_30d": 0,
+    "last_played": "2026-05-17 09:51:27Z",
+    "last_played_vienna": "2026-05-17 11:51:27 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
