@@ -324,18 +324,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bleachers",
-    "title": "I Wanna Get Better",
-    "type": "Shared",
-    "play_count_total": 10,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 16:45:50Z",
-    "last_played_vienna": "2026-05-16 18:45:50 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Perrie",
     "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
     "type": "Shared",
@@ -597,6 +585,18 @@
     "last_played_vienna": "2026-05-17 07:09:55 MESZ",
     "file_id": null,
     "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "title": "Taste",
+    "type": "Shared",
+    "play_count_total": 18,
+    "play_count_30d": 0,
+    "last_played": "2026-05-17 05:33:25Z",
+    "last_played_vienna": "2026-05-17 07:33:25 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
