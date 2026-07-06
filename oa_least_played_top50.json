@@ -396,18 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Freddie Mercury",
-    "title": "Love Kills",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-05 16:41:58Z",
-    "last_played_vienna": "2026-07-05 18:41:58 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Mötley Crüe",
     "title": "Kickstart My Heart",
     "type": "Station-Specific",
@@ -487,6 +475,18 @@
     "play_count_30d": 3,
     "last_played": "2026-07-05 18:39:58Z",
     "last_played_vienna": "2026-07-05 20:39:58 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Freddie Mercury",
+    "title": "Love Kills",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-06 03:44:02Z",
+    "last_played_vienna": "2026-07-06 05:44:02 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
@@ -589,12 +589,12 @@
   },
   {
     "artist": "Swan Dive",
-    "title": "Tender Love",
+    "title": "Butterfly Come Home",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "last_played": "2026-07-02 04:48:53Z",
-    "last_played_vienna": "2026-07-02 06:48:53 MESZ",
+    "last_played": "2026-07-02 09:10:56Z",
+    "last_played_vienna": "2026-07-02 11:10:56 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
