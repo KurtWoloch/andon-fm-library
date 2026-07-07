@@ -264,18 +264,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Leonard Cohen",
-    "title": "You Want It Darker",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-06 19:45:06Z",
-    "last_played_vienna": "2026-07-06 21:45:06 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Marías",
     "title": "Real Life",
     "type": "Station-Specific",
@@ -427,6 +415,18 @@
     "play_count_30d": 1,
     "last_played": "2026-07-05 19:48:58Z",
     "last_played_vienna": "2026-07-05 21:48:58 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Leonard Cohen",
+    "title": "You Want It Darker",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-07 04:41:12Z",
+    "last_played_vienna": "2026-07-07 06:41:12 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
