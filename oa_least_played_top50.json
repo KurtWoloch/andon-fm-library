@@ -264,6 +264,18 @@
     "confidence": 1.0
   },
   {
+    "artist": "Leonard Cohen",
+    "title": "You Want It Darker",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-06 19:45:06Z",
+    "last_played_vienna": "2026-07-06 21:45:06 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "The Beatles",
     "title": "Revolution 9 (Remastered 2009)",
     "type": "Shared",
@@ -585,18 +597,6 @@
     "last_played_vienna": "2026-07-06 19:58:36 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Lil Jon",
-    "title": "Get Low [Explicit]",
-    "type": "Shared",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "last_played": "2026-03-10 03:35:54Z",
-    "last_played_vienna": "2026-03-10 04:35:54 MEZ",
-    "file_id": null,
-    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
