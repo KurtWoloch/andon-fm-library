@@ -552,18 +552,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Sabrina Carpenter",
-    "title": "Taste",
-    "type": "Shared",
-    "play_count_total": 18,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 05:33:25Z",
-    "last_played_vienna": "2026-05-17 07:33:25 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Chappell Roan",
     "title": "Pink Pony Club",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-17 09:51:27Z",
     "last_played_vienna": "2026-05-17 11:51:27 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Survivor",
+    "title": "Eye of the Tiger",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "last_played": "2026-05-17 09:55:27Z",
+    "last_played_vienna": "2026-05-17 11:55:27 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
