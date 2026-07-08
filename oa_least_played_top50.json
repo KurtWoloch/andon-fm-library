@@ -480,18 +480,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Leonard Cohen",
-    "title": "You Want It Darker",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-08 04:02:20Z",
-    "last_played_vienna": "2026-07-08 06:02:20 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dive",
     "title": "City Of Sound",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 4,
     "last_played": "2026-07-02 09:10:56Z",
     "last_played_vienna": "2026-07-02 11:10:56 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Freddie Mercury",
+    "title": "Love Kills",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-06 17:58:36Z",
+    "last_played_vienna": "2026-07-06 19:58:36 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
