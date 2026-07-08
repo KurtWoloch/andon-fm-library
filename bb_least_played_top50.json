@@ -384,18 +384,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "New Order",
-    "title": "Blue Monday  (2016 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-25 12:39:28Z",
-    "last_played_vienna": "2026-05-25 14:39:28 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Mumford & Sons",
     "title": "Little Lion Man",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-06-04 19:47:08Z",
     "last_played_vienna": "2026-06-04 21:47:08 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Haftbefehl",
+    "title": "RADW",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-04 20:57:09Z",
+    "last_played_vienna": "2026-06-04 22:57:09 MESZ",
     "file_id": null,
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0

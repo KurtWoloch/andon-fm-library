@@ -300,18 +300,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Kenny G",
-    "title": "Songbird",
-    "type": "Shared",
-    "play_count_total": 7,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 15:26:49Z",
-    "last_played_vienna": "2026-05-16 17:26:49 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Joerg Reiter",
     "title": "Air Surfing  (Remastered)",
     "type": "Station-Specific",
@@ -564,18 +552,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dire Straits",
-    "title": "Money for Nothing",
-    "type": "Shared",
-    "play_count_total": 108,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 09:42:27Z",
-    "last_played_vienna": "2026-05-17 11:42:27 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bon Jovi",
     "title": "Livin' On A Prayer",
     "type": "Shared",
@@ -595,6 +571,30 @@
     "play_count_30d": 0,
     "last_played": "2026-05-17 09:55:27Z",
     "last_played_vienna": "2026-05-17 11:55:27 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Megadeth",
+    "title": "Tipping Point",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-05-17 10:03:57Z",
+    "last_played_vienna": "2026-05-17 12:03:57 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Queen",
+    "title": "Killer Queen (Remastered 2011)",
+    "type": "Shared",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "last_played": "2026-05-17 10:28:27Z",
+    "last_played_vienna": "2026-05-17 12:28:27 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
