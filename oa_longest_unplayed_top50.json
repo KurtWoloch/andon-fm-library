@@ -552,18 +552,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Peter Gabriel",
-    "title": "Don't Give Up  (2012 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 29,
-    "play_count_30d": 0,
-    "last_played": "2026-05-31 11:35:00Z",
-    "last_played_vienna": "2026-05-31 13:35:00 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bob Dylan",
     "title": "The Lonesome Death of Hattie Carroll",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-06-06 16:19:12Z",
     "last_played_vienna": "2026-06-06 18:19:12 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Berlin",
+    "title": "Take My Breath Away",
+    "type": "Station-Specific",
+    "play_count_total": 22,
+    "play_count_30d": 1,
+    "last_played": "2026-06-10 04:10:03Z",
+    "last_played_vienna": "2026-06-10 06:10:03 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
