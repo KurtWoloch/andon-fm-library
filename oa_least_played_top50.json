@@ -432,18 +432,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mötley Crüe",
-    "title": "Kickstart My Heart",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "last_played": "2026-07-10 02:53:00Z",
-    "last_played_vienna": "2026-07-10 04:53:00 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dive",
     "title": "City Of Sound",
     "type": "Station-Specific",
@@ -535,6 +523,18 @@
     "play_count_30d": 4,
     "last_played": "2026-07-11 10:33:40Z",
     "last_played_vienna": "2026-07-11 12:33:40 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mötley Crüe",
+    "title": "Kickstart My Heart",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "last_played": "2026-07-11 12:24:40Z",
+    "last_played_vienna": "2026-07-11 14:24:40 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
