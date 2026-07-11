@@ -528,18 +528,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Linkin Park",
-    "title": "Numb",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-10 13:29:02Z",
-    "last_played_vienna": "2026-07-10 15:29:02 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Lil Jon",
     "title": "Get Low [Explicit]",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 3,
     "last_played": "2026-06-23 18:44:47Z",
     "last_played_vienna": "2026-06-23 20:44:47 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Metallica",
+    "title": "Enter Sandman",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 3,
+    "last_played": "2026-07-10 03:40:30Z",
+    "last_played_vienna": "2026-07-10 05:40:30 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
