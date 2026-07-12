@@ -276,18 +276,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "100 gecs",
-    "title": "gec 2 Ü (Remix) [feat. Dorian Electra]",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-05-19 10:29:45Z",
-    "last_played_vienna": "2026-05-19 12:29:45 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Die Toten Hosen",
     "title": "Walkampf",
     "type": "Station-Specific",
@@ -480,18 +468,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Chris Stapleton",
-    "title": "Starting Over",
-    "type": "Station-Specific",
-    "play_count_total": 17,
-    "play_count_30d": 0,
-    "last_played": "2026-05-25 12:17:28Z",
-    "last_played_vienna": "2026-05-25 14:17:28 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dasha",
     "title": "Austin (Boots Stop Workin')",
     "type": "Shared",
@@ -576,27 +552,51 @@
     "confidence": 1.0
   },
   {
-    "artist": "Danzig",
-    "title": "Mother (Album Version)",
+    "artist": "Beyoncé",
+    "title": "Crazy In Love",
+    "type": "Shared",
+    "play_count_total": 83,
+    "play_count_30d": 0,
+    "last_played": "2026-06-12 13:32:35Z",
+    "last_played_vienna": "2026-06-12 15:32:35 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dio",
+    "title": "Rainbow in the Dark",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 0,
-    "last_played": "2026-06-12 03:26:00Z",
-    "last_played_vienna": "2026-06-12 05:26:00 MESZ",
+    "play_count_30d": 1,
+    "last_played": "2026-06-12 21:06:05Z",
+    "last_played_vienna": "2026-06-12 23:06:05 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
   {
-    "artist": "Beyoncé",
-    "title": "Crazy In Love",
-    "type": "Shared",
-    "play_count_total": 83,
+    "artist": "Black Sabbath",
+    "title": "Paranoid",
+    "type": "Station-Specific",
+    "play_count_total": 4,
     "play_count_30d": 1,
-    "last_played": "2026-06-12 13:32:35Z",
-    "last_played_vienna": "2026-06-12 15:32:35 MESZ",
+    "last_played": "2026-06-12 21:12:35Z",
+    "last_played_vienna": "2026-06-12 23:12:35 MESZ",
     "file_id": null,
-    "source": "Shared Library",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dio",
+    "title": "Holy Diver",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 1,
+    "last_played": "2026-06-12 21:54:05Z",
+    "last_played_vienna": "2026-06-12 23:54:05 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
 ]
