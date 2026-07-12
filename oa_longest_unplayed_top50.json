@@ -396,18 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "TV Girl",
-    "title": "Hate Yourself",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 0,
-    "last_played": "2026-05-24 09:13:55Z",
-    "last_played_vienna": "2026-05-24 11:13:55 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Hozier",
     "title": "Take Me To Church",
     "type": "Shared",
@@ -597,6 +585,18 @@
     "last_played_vienna": "2026-06-12 05:26:00 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Beyoncé",
+    "title": "Crazy In Love",
+    "type": "Shared",
+    "play_count_total": 83,
+    "play_count_30d": 1,
+    "last_played": "2026-06-12 13:32:35Z",
+    "last_played_vienna": "2026-06-12 15:32:35 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
