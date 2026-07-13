@@ -264,18 +264,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mötley Crüe",
-    "title": "Dr. Feelgood",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-12 18:42:45Z",
-    "last_played_vienna": "2026-07-12 20:42:45 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Beatles",
     "title": "Revolution 9 (Remastered 2009)",
     "type": "Shared",
@@ -355,6 +343,18 @@
     "play_count_30d": 2,
     "last_played": "2026-06-18 09:14:29Z",
     "last_played_vienna": "2026-06-18 11:14:29 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mötley Crüe",
+    "title": "Dr. Feelgood",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-13 14:58:19Z",
+    "last_played_vienna": "2026-07-13 16:58:19 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
