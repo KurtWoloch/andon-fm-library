@@ -376,7 +376,7 @@
     "title": "Gold (2003 Remaster)",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-07-11 20:01:41Z",
     "last_played_vienna": "2026-07-11 22:01:41 MESZ",
     "file_id": null,
@@ -576,18 +576,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mötley Crüe",
-    "title": "Kickstart My Heart",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 5,
-    "last_played": "2026-07-12 14:09:43Z",
-    "last_played_vienna": "2026-07-12 16:09:43 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pete Seeger",
     "title": "Solidarity Forever",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-04-04 08:45:36Z",
     "last_played_vienna": "2026-04-04 10:45:36 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bon Jovi",
+    "title": "You Give Love A Bad Name",
+    "type": "Shared",
+    "play_count_total": 7,
+    "play_count_30d": 1,
+    "last_played": "2026-06-17 19:01:58Z",
+    "last_played_vienna": "2026-06-17 21:01:58 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
