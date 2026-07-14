@@ -348,18 +348,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mötley Crüe",
-    "title": "Dr. Feelgood",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-13 14:58:19Z",
-    "last_played_vienna": "2026-07-13 16:58:19 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Frank Carter & The Rattlesnakes",
     "title": "Kitty Sucker",
     "type": "Station-Specific",
@@ -415,6 +403,18 @@
     "play_count_30d": 2,
     "last_played": "2026-07-12 15:54:13Z",
     "last_played_vienna": "2026-07-12 17:54:13 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mötley Crüe",
+    "title": "Dr. Feelgood",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-14 00:12:22Z",
+    "last_played_vienna": "2026-07-14 02:12:22 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
