@@ -261,10 +261,10 @@ tr.ungeplant { color: #f9e2af; }
 <td title="Benjamin Francis Leftwich">Benjamin Francis Leftwich</td>
 <td title="Ticket To Ride">Ticket To Ride</td>
 <td title="Shared">Shared</td>
-<td title="82">82</td>
-<td title="68">68</td>
-<td title="2026-07-14 05:59:27Z">2026-07-14 05:59:27Z</td>
-<td title="2026-07-14 07:59:27 MESZ">2026-07-14 07:59:27 MESZ</td>
+<td title="83">83</td>
+<td title="69">69</td>
+<td title="2026-07-14 20:22:59Z">2026-07-14 20:22:59Z</td>
+<td title="2026-07-14 22:22:59 MESZ">2026-07-14 22:22:59 MESZ</td>
 <td title=""></td>
 <td title="Shared Library">Shared Library</td>
 <td title="1.0">1.0</td>
@@ -753,10 +753,10 @@ tr.ungeplant { color: #f9e2af; }
 <td title="Djo">Djo</td>
 <td title="End of Beginning">End of Beginning</td>
 <td title="Shared">Shared</td>
-<td title="161">161</td>
-<td title="132">132</td>
-<td title="2026-07-14 12:12:28Z">2026-07-14 12:12:28Z</td>
-<td title="2026-07-14 14:12:28 MESZ">2026-07-14 14:12:28 MESZ</td>
+<td title="162">162</td>
+<td title="133">133</td>
+<td title="2026-07-14 20:16:01Z">2026-07-14 20:16:01Z</td>
+<td title="2026-07-14 22:16:01 MESZ">2026-07-14 22:16:01 MESZ</td>
 <td title=""></td>
 <td title="Shared Library">Shared Library</td>
 <td title="1.0">1.0</td>
@@ -3910,7 +3910,7 @@ tr.ungeplant { color: #f9e2af; }
 <td title="Wo bist du, mein Sonnenlicht?">Wo bist du, mein Sonnenlicht?</td>
 <td title="Station-Specific">Station-Specific</td>
 <td title="11">11</td>
-<td title="5">5</td>
+<td title="4">4</td>
 <td title="2026-07-06 06:41:34Z">2026-07-06 06:41:34Z</td>
 <td title="2026-07-06 08:41:34 MESZ">2026-07-06 08:41:34 MESZ</td>
 <td title=""></td>
@@ -6634,7 +6634,7 @@ tr.ungeplant { color: #f9e2af; }
 <td title="Ghost Love Score (Live, at Wacken, 2013)">Ghost Love Score (Live, at Wacken, 2013)</td>
 <td title="Station-Specific">Station-Specific</td>
 <td title="4">4</td>
-<td title="1">1</td>
+<td title="0">0</td>
 <td title="2026-06-14 20:23:50Z">2026-06-14 20:23:50Z</td>
 <td title="2026-06-14 22:23:50 MESZ">2026-06-14 22:23:50 MESZ</td>
 <td title=""></td>
@@ -7582,7 +7582,7 @@ tr.ungeplant { color: #f9e2af; }
 <td title="Maschendrahtzaun">Maschendrahtzaun</td>
 <td title="Station-Specific">Station-Specific</td>
 <td title="10">10</td>
-<td title="2">2</td>
+<td title="1">1</td>
 <td title="2026-06-20 14:14:47Z">2026-06-20 14:14:47Z</td>
 <td title="2026-06-20 16:14:47 MESZ">2026-06-20 16:14:47 MESZ</td>
 <td title=""></td>
@@ -8733,10 +8733,10 @@ tr.ungeplant { color: #f9e2af; }
 <td title="The Turtles">The Turtles</td>
 <td title="Umbassa the Dragon (2016 Remaster)">Umbassa the Dragon (2016 Remaster)</td>
 <td title="Station-Specific">Station-Specific</td>
-<td title="9">9</td>
-<td title="5">5</td>
-<td title="2026-06-22 12:22:39Z">2026-06-22 12:22:39Z</td>
-<td title="2026-06-22 14:22:39 MESZ">2026-06-22 14:22:39 MESZ</td>
+<td title="10">10</td>
+<td title="6">6</td>
+<td title="2026-07-14 20:19:29Z">2026-07-14 20:19:29Z</td>
+<td title="2026-07-14 22:19:29 MESZ">2026-07-14 22:19:29 MESZ</td>
 <td title=""></td>
 <td title="Scraper Logs (BB Play History)">Scraper Logs (BB Play History)</td>
 <td title="1.0">1.0</td>
@@ -9635,9 +9635,23 @@ function sortTable(col) {
     rows.sort((a, b) => {
         let va = a.cells[col].textContent.trim();
         let vb = b.cells[col].textContent.trim();
-        // Try numeric
-        let na = parseFloat(va), nb = parseFloat(vb);
-        if (!isNaN(na) && !isNaN(nb)) return sortAsc ? na - nb : nb - na;
+        
+        // Try numeric (strict check to prevent dates with hyphens from matching)
+        if (!isNaN(va) && !isNaN(vb) && va !== "" && vb !== "") {
+            let na = parseFloat(va), nb = parseFloat(vb);
+            return sortAsc ? na - nb : nb - na;
+        }
+        
+        // Try date (YYYY-MM-DD ...) or "Never"
+        let isDateA = /^\d{4}-\d{2}-\d{2}/.test(va) || va.toLowerCase() === "never";
+        let isDateB = /^\d{4}-\d{2}-\d{2}/.test(vb) || vb.toLowerCase() === "never";
+        if (isDateA && isDateB) {
+            if (va.toLowerCase() === "never" && vb.toLowerCase() === "never") return 0;
+            if (va.toLowerCase() === "never") return sortAsc ? -1 : 1;
+            if (vb.toLowerCase() === "never") return sortAsc ? 1 : -1;
+            return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+        }
+
         // Try time HH:MM
         if (/^\d{2}:\d{2}/.test(va) && /^\d{2}:\d{2}/.test(vb)) {
             return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);

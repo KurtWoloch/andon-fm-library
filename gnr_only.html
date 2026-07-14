@@ -1029,10 +1029,10 @@ tr.ungeplant { color: #f9e2af; }
 <td title="Gigi Perez">Gigi Perez</td>
 <td title="Sailor Song">Sailor Song</td>
 <td title="Shared">Shared</td>
-<td title="52">52</td>
-<td title="9">9</td>
-<td title="2026-07-14 06:34:27Z">2026-07-14 06:34:27Z</td>
-<td title="2026-07-14 08:34:27 MESZ">2026-07-14 08:34:27 MESZ</td>
+<td title="53">53</td>
+<td title="10">10</td>
+<td title="2026-07-14 20:19:00Z">2026-07-14 20:19:00Z</td>
+<td title="2026-07-14 22:19:00 MESZ">2026-07-14 22:19:00 MESZ</td>
 <td title=""></td>
 <td title="Shared Library">Shared Library</td>
 <td title="1.0">1.0</td>
@@ -1149,10 +1149,10 @@ tr.ungeplant { color: #f9e2af; }
 <td title="Jack Johnson">Jack Johnson</td>
 <td title="Better Together">Better Together</td>
 <td title="Shared">Shared</td>
-<td title="49">49</td>
-<td title="14">14</td>
-<td title="2026-07-14 06:37:57Z">2026-07-14 06:37:57Z</td>
-<td title="2026-07-14 08:37:57 MESZ">2026-07-14 08:37:57 MESZ</td>
+<td title="50">50</td>
+<td title="15">15</td>
+<td title="2026-07-14 20:22:29Z">2026-07-14 20:22:29Z</td>
+<td title="2026-07-14 22:22:29 MESZ">2026-07-14 22:22:29 MESZ</td>
 <td title=""></td>
 <td title="Shared Library">Shared Library</td>
 <td title="1.0">1.0</td>
@@ -1605,10 +1605,10 @@ tr.ungeplant { color: #f9e2af; }
 <td title="Nick Drake">Nick Drake</td>
 <td title="Pink Moon">Pink Moon</td>
 <td title="Shared">Shared</td>
-<td title="11">11</td>
-<td title="5">5</td>
-<td title="2026-07-14 06:04:27Z">2026-07-14 06:04:27Z</td>
-<td title="2026-07-14 08:04:27 MESZ">2026-07-14 08:04:27 MESZ</td>
+<td title="12">12</td>
+<td title="6">6</td>
+<td title="2026-07-14 20:16:59Z">2026-07-14 20:16:59Z</td>
+<td title="2026-07-14 22:16:59 MESZ">2026-07-14 22:16:59 MESZ</td>
 <td title=""></td>
 <td title="Shared Library">Shared Library</td>
 <td title="1.0">1.0</td>
@@ -3311,9 +3311,23 @@ function sortTable(col) {
     rows.sort((a, b) => {
         let va = a.cells[col].textContent.trim();
         let vb = b.cells[col].textContent.trim();
-        // Try numeric
-        let na = parseFloat(va), nb = parseFloat(vb);
-        if (!isNaN(na) && !isNaN(nb)) return sortAsc ? na - nb : nb - na;
+        
+        // Try numeric (strict check to prevent dates with hyphens from matching)
+        if (!isNaN(va) && !isNaN(vb) && va !== "" && vb !== "") {
+            let na = parseFloat(va), nb = parseFloat(vb);
+            return sortAsc ? na - nb : nb - na;
+        }
+        
+        // Try date (YYYY-MM-DD ...) or "Never"
+        let isDateA = /^\d{4}-\d{2}-\d{2}/.test(va) || va.toLowerCase() === "never";
+        let isDateB = /^\d{4}-\d{2}-\d{2}/.test(vb) || vb.toLowerCase() === "never";
+        if (isDateA && isDateB) {
+            if (va.toLowerCase() === "never" && vb.toLowerCase() === "never") return 0;
+            if (va.toLowerCase() === "never") return sortAsc ? -1 : 1;
+            if (vb.toLowerCase() === "never") return sortAsc ? 1 : -1;
+            return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+        }
+
         // Try time HH:MM
         if (/^\d{2}:\d{2}/.test(va) && /^\d{2}:\d{2}/.test(vb)) {
             return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
