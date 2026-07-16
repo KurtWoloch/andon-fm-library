@@ -456,18 +456,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bobby Caldwell",
-    "title": "Coming Down from Love",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-07-15 20:15:37Z",
-    "last_played_vienna": "2026-07-15 22:15:37 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Illusion",
     "type": "Station-Specific",
@@ -535,6 +523,18 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 13:21:10Z",
     "last_played_vienna": "2026-06-05 15:21:10 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bobby Caldwell",
+    "title": "Coming Down from Love",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "last_played": "2026-07-16 08:41:25Z",
+    "last_played_vienna": "2026-07-16 10:41:25 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
