@@ -396,18 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "100 gecs",
-    "title": "gec 2 Ü (Remix) [feat. Dorian Electra]",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "last_played": "2026-07-14 22:56:59Z",
-    "last_played_vienna": "2026-07-15 00:56:59 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Spandau Ballet",
     "title": "Gold (2003 Remaster)",
     "type": "Station-Specific",
@@ -511,6 +499,18 @@
     "play_count_30d": 5,
     "last_played": "2026-07-16 16:43:59Z",
     "last_played_vienna": "2026-07-16 18:43:59 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "100 gecs",
+    "title": "gec 2 Ü (Remix) [feat. Dorian Electra]",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 3,
+    "last_played": "2026-07-16 22:59:01Z",
+    "last_played_vienna": "2026-07-17 00:59:01 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0

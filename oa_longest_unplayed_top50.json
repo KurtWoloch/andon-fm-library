@@ -156,18 +156,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bruno Mars",
-    "title": "Gorilla",
-    "type": "Shared",
-    "play_count_total": 10,
-    "play_count_30d": 0,
-    "last_played": "2026-05-13 23:54:23Z",
-    "last_played_vienna": "2026-05-14 01:54:23 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Whispers",
     "title": "& The Beat Goes On",
     "type": "Station-Specific",
@@ -223,18 +211,6 @@
     "play_count_30d": 0,
     "last_played": "2026-05-15 16:14:43Z",
     "last_played_vienna": "2026-05-15 18:14:43 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Led Zeppelin",
-    "title": "Over the Hills and Far Away  (Remaster)",
-    "type": "Shared",
-    "play_count_total": 24,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 03:22:47Z",
-    "last_played_vienna": "2026-05-16 05:22:47 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
@@ -405,18 +381,6 @@
     "last_played_vienna": "2026-05-25 13:12:57 MESZ",
     "file_id": null,
     "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Brandi Carlile",
-    "title": "The Joke",
-    "type": "Station-Specific",
-    "play_count_total": 26,
-    "play_count_30d": 0,
-    "last_played": "2026-05-25 12:12:57Z",
-    "last_played_vienna": "2026-05-25 14:12:57 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
   {
@@ -595,6 +559,42 @@
     "play_count_30d": 1,
     "last_played": "2026-06-17 19:01:58Z",
     "last_played_vienna": "2026-06-17 21:01:58 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "I Just Might",
+    "type": "Shared",
+    "play_count_total": 28,
+    "play_count_30d": 1,
+    "last_played": "2026-06-17 19:34:57Z",
+    "last_played_vienna": "2026-06-17 21:34:57 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bon Jovi",
+    "title": "Livin' On A Prayer",
+    "type": "Shared",
+    "play_count_total": 35,
+    "play_count_30d": 1,
+    "last_played": "2026-06-17 19:53:57Z",
+    "last_played_vienna": "2026-06-17 21:53:57 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Journey",
+    "title": "Lights (Album Version)",
+    "type": "Shared",
+    "play_count_total": 18,
+    "play_count_30d": 1,
+    "last_played": "2026-06-17 21:52:56Z",
+    "last_played_vienna": "2026-06-17 23:52:56 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
