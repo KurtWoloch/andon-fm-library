@@ -276,18 +276,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Foster The People",
-    "title": "Pumped Up Kicks",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-05-20 14:11:59Z",
-    "last_played_vienna": "2026-05-20 16:11:59 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Olivia Newton-John",
     "title": "Xanadu (Live)",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 1,
     "last_played": "2026-06-17 22:04:26Z",
     "last_played_vienna": "2026-06-18 00:04:26 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Guns N' Roses",
+    "title": "Paradise City",
+    "type": "Shared",
+    "play_count_total": 13,
+    "play_count_30d": 1,
+    "last_played": "2026-06-17 22:13:56Z",
+    "last_played_vienna": "2026-06-18 00:13:56 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
