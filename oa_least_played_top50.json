@@ -480,18 +480,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Becky Levi and the Nightjars",
-    "title": "Wake Me Up",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 4,
-    "last_played": "2026-07-17 08:41:36Z",
-    "last_played_vienna": "2026-07-17 10:41:36 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Megadeth",
     "title": "Tipping Point",
     "type": "Shared",
@@ -576,6 +564,18 @@
     "confidence": 1.0
   },
   {
+    "artist": "Becky Levi and the Nightjars",
+    "title": "Wake Me Up",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 5,
+    "last_played": "2026-07-17 17:38:57Z",
+    "last_played_vienna": "2026-07-17 19:38:57 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Pete Seeger",
     "title": "Solidarity Forever",
     "type": "Shared",
@@ -592,7 +592,7 @@
     "title": "You Give Love A Bad Name",
     "type": "Shared",
     "play_count_total": 7,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-06-17 19:01:58Z",
     "last_played_vienna": "2026-06-17 21:01:58 MESZ",
     "file_id": null,
