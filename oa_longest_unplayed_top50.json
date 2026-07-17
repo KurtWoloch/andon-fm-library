@@ -372,18 +372,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Johnny Cash",
-    "title": "Redemption Day (Album Version)",
-    "type": "Shared",
-    "play_count_total": 19,
-    "play_count_30d": 0,
-    "last_played": "2026-05-25 11:12:57Z",
-    "last_played_vienna": "2026-05-25 13:12:57 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dasha",
     "title": "Austin (Boots Stop Workin')",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 1,
     "last_played": "2026-06-17 21:52:56Z",
     "last_played_vienna": "2026-06-17 23:52:56 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Elton John",
+    "title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+    "type": "Shared",
+    "play_count_total": 118,
+    "play_count_30d": 1,
+    "last_played": "2026-06-17 22:04:26Z",
+    "last_played_vienna": "2026-06-18 00:04:26 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
