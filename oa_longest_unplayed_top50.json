@@ -228,18 +228,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tinashe",
-    "title": "Nasty",
-    "type": "Shared",
-    "play_count_total": 24,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 13:38:57Z",
-    "last_played_vienna": "2026-05-17 15:38:57 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "OneRepublic",
     "title": "All The Right Moves",
     "type": "Station-Specific",
@@ -528,18 +516,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bruno Mars",
-    "title": "I Just Might",
-    "type": "Shared",
-    "play_count_total": 28,
-    "play_count_30d": 0,
-    "last_played": "2026-06-17 19:34:57Z",
-    "last_played_vienna": "2026-06-17 21:34:57 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bon Jovi",
     "title": "Livin' On A Prayer",
     "type": "Shared",
@@ -597,6 +573,30 @@
     "last_played_vienna": "2026-06-18 02:44:58 MESZ",
     "file_id": null,
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Chris De Burgh",
+    "title": "The Getaway",
+    "type": "Shared",
+    "play_count_total": 11,
+    "play_count_30d": 0,
+    "last_played": "2026-06-18 00:57:28Z",
+    "last_played_vienna": "2026-06-18 02:57:28 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pornophonique",
+    "title": "Sad Robot",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-06-18 08:21:29Z",
+    "last_played_vienna": "2026-06-18 10:21:29 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
 ]
