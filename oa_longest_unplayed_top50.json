@@ -300,18 +300,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Motörhead",
-    "title": "Ace of Spades (40th Anniversary Master)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-05-20 23:13:29Z",
-    "last_played_vienna": "2026-05-21 01:13:29 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Rolling Stones",
     "title": "Street Fighting Man",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-06-17 22:13:56Z",
     "last_played_vienna": "2026-06-18 00:13:56 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-18 00:44:58Z",
+    "last_played_vienna": "2026-06-18 02:44:58 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
