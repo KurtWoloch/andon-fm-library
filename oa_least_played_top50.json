@@ -480,18 +480,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Spandau Ballet",
-    "title": "Gold (2003 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 3,
-    "last_played": "2026-07-18 15:44:04Z",
-    "last_played_vienna": "2026-07-18 17:44:04 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Megadeth",
     "title": "Tipping Point",
     "type": "Shared",
@@ -535,6 +523,18 @@
     "play_count_30d": 2,
     "last_played": "2026-07-15 11:37:06Z",
     "last_played_vienna": "2026-07-15 13:37:06 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Spandau Ballet",
+    "title": "Gold (2003 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 4,
+    "last_played": "2026-07-19 00:30:07Z",
+    "last_played_vienna": "2026-07-19 02:30:07 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0

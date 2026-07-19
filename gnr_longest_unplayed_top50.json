@@ -12,18 +12,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Katy Perry",
-    "title": "Roar",
-    "type": "Shared",
-    "play_count_total": 48,
-    "play_count_30d": 0,
-    "last_played": "2026-04-13 21:16:39Z",
-    "last_played_vienna": "2026-04-13 23:16:39 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Frank Sinatra",
     "title": "Have Yourself A Merry Little Christmas (Remastered 1999)",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 18:13:41Z",
     "last_played_vienna": "2026-06-05 20:13:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bill Evans Trio",
+    "title": "My Foolish Heart",
+    "type": "Station-Specific",
+    "play_count_total": 19,
+    "play_count_30d": 0,
+    "last_played": "2026-06-05 18:19:11Z",
+    "last_played_vienna": "2026-06-05 20:19:11 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
