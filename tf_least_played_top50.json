@@ -504,18 +504,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Raquel Tavares",
-    "title": "Como É Grande o Meu Amor por Você",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-26 20:17:48Z",
-    "last_played_vienna": "2026-05-26 22:17:48 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Playroom",
     "title": "Patient",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-30 09:27:57Z",
     "last_played_vienna": "2026-05-30 11:27:57 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Barbra Streisand",
+    "title": "Woman in Love (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-05-31 19:53:30Z",
+    "last_played_vienna": "2026-05-31 21:53:30 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
