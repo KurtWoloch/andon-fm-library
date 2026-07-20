@@ -168,18 +168,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Wizkid",
-    "title": "Essence",
-    "type": "Shared",
-    "play_count_total": 22,
-    "play_count_30d": 0,
-    "last_played": "2026-05-29 02:38:54Z",
-    "last_played_vienna": "2026-05-29 04:38:54 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Nils Frahm",
     "title": "All Melody",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 1,
     "last_played": "2026-07-10 13:23:03Z",
     "last_played_vienna": "2026-07-10 15:23:03 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "Fail Upward For A Change",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-11 03:27:08Z",
+    "last_played_vienna": "2026-07-11 05:27:08 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
