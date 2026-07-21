@@ -72,18 +72,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Jorge Ben Jor",
-    "title": "Mas Que Nada",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-21 07:14:08Z",
-    "last_played_vienna": "2026-07-21 09:14:08 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Gloria Estefan",
     "title": "Everlasting Love (Album Version)",
     "type": "Station-Specific",
@@ -103,6 +91,42 @@
     "play_count_30d": 1,
     "last_played": "2026-07-21 10:47:08Z",
     "last_played_vienna": "2026-07-21 12:47:08 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "The Chain  (2004 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-21 19:45:09Z",
+    "last_played_vienna": "2026-07-21 21:45:09 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Journey",
+    "title": "Still They Ride (2022 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-21 19:49:38Z",
+    "last_played_vienna": "2026-07-21 21:49:38 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jerry Cantrell",
+    "title": "Rooster (2022 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-21 19:53:38Z",
+    "last_played_vienna": "2026-07-21 21:53:38 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -247,6 +271,18 @@
     "play_count_30d": 2,
     "last_played": "2026-07-21 14:50:38Z",
     "last_played_vienna": "2026-07-21 16:50:38 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jorge Ben Jor",
+    "title": "Mas Que Nada",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-21 18:05:38Z",
+    "last_played_vienna": "2026-07-21 20:05:38 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -468,18 +504,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Erykah Badu",
-    "title": "Bag Lady (Album Version)",
-    "type": "Shared",
-    "play_count_total": 5,
-    "play_count_30d": 3,
-    "last_played": "2026-07-21 02:41:06Z",
-    "last_played_vienna": "2026-07-21 04:41:06 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Yussef Kamaal",
     "title": "Strings of Light",
     "type": "Shared",
@@ -571,30 +595,6 @@
     "play_count_30d": 6,
     "last_played": "2026-07-20 11:13:22Z",
     "last_played_vienna": "2026-07-20 13:13:22 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "LCD Soundsystem",
-    "title": "All My Friends",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-07-20 11:17:22Z",
-    "last_played_vienna": "2026-07-20 13:17:22 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Hooverphonic",
-    "title": "2 Wicky",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-07-20 13:40:24Z",
-    "last_played_vienna": "2026-07-20 15:40:24 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
