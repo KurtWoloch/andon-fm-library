@@ -120,18 +120,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Olivia Newton-John",
-    "title": "Xanadu (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-20 14:47:58Z",
-    "last_played_vienna": "2026-05-20 16:47:58 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Metallica",
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
@@ -331,6 +319,18 @@
     "play_count_30d": 0,
     "last_played": "2026-06-18 09:14:29Z",
     "last_played_vienna": "2026-06-18 11:14:29 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Olivia Newton-John",
+    "title": "Xanadu (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "last_played": "2026-07-20 23:04:32Z",
+    "last_played_vienna": "2026-07-21 01:04:32 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
