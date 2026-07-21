@@ -300,18 +300,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bob Dylan",
-    "title": "The Lonesome Death of Hattie Carroll",
-    "type": "Shared",
-    "play_count_total": 20,
-    "play_count_30d": 0,
-    "last_played": "2026-06-04 05:20:37Z",
-    "last_played_vienna": "2026-06-04 07:20:37 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tower Of Power",
     "title": "You're Still A Young Man (Single Version)",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-06-19 07:39:38Z",
     "last_played_vienna": "2026-06-19 09:39:38 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ghostwriter",
+    "title": "heart on my sleeve",
+    "type": "Shared",
+    "play_count_total": 13,
+    "play_count_30d": 0,
+    "last_played": "2026-06-19 08:04:08Z",
+    "last_played_vienna": "2026-06-19 10:04:08 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
