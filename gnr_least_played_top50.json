@@ -84,18 +84,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tycho",
-    "title": "Awake",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-21 10:47:08Z",
-    "last_played_vienna": "2026-07-21 12:47:08 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Fleetwood Mac",
     "title": "The Chain  (2004 Remaster)",
     "type": "Station-Specific",
@@ -372,6 +360,18 @@
     "confidence": 1.0
   },
   {
+    "artist": "Tycho",
+    "title": "Awake",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-22 01:18:12Z",
+    "last_played_vienna": "2026-07-22 03:18:12 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Hiatus Kaiyote",
     "title": "By Fire",
     "type": "Shared",
@@ -405,18 +405,6 @@
     "last_played_vienna": "2026-07-20 18:19:57 MESZ",
     "file_id": null,
     "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Lang Lang",
-    "title": "Debussy: Clair de lune, CD 82 No. 3",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-21 16:54:38Z",
-    "last_played_vienna": "2026-07-21 18:54:38 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
@@ -499,6 +487,18 @@
     "play_count_30d": 5,
     "last_played": "2026-07-19 15:34:43Z",
     "last_played_vienna": "2026-07-19 17:34:43 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lang Lang",
+    "title": "Debussy: Clair de lune, CD 82 No. 3",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-07-22 00:33:41Z",
+    "last_played_vienna": "2026-07-22 02:33:41 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
