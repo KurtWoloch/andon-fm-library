@@ -396,18 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Journey",
-    "title": "Lights (Album Version)",
-    "type": "Shared",
-    "play_count_total": 18,
-    "play_count_30d": 0,
-    "last_played": "2026-06-17 21:52:56Z",
-    "last_played_vienna": "2026-06-17 23:52:56 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Guns N' Roses",
     "title": "Paradise City",
     "type": "Shared",
@@ -427,18 +415,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-18 00:44:58Z",
     "last_played_vienna": "2026-06-18 02:44:58 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Chris De Burgh",
-    "title": "The Getaway",
-    "type": "Shared",
-    "play_count_total": 11,
-    "play_count_30d": 0,
-    "last_played": "2026-06-18 00:57:28Z",
-    "last_played_vienna": "2026-06-18 02:57:28 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
@@ -540,18 +516,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Djo",
-    "title": "End of Beginning",
-    "type": "Shared",
-    "play_count_total": 123,
-    "play_count_30d": 0,
-    "last_played": "2026-06-19 22:57:10Z",
-    "last_played_vienna": "2026-06-20 00:57:10 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Supertramp",
     "title": "Even In The Quietest Moments",
     "type": "Shared",
@@ -559,18 +523,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-19 23:12:10Z",
     "last_played_vienna": "2026-06-20 01:12:10 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Gigi Perez",
-    "title": "Sailor Song",
-    "type": "Shared",
-    "play_count_total": 112,
-    "play_count_30d": 0,
-    "last_played": "2026-06-20 00:13:11Z",
-    "last_played_vienna": "2026-06-20 02:13:11 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
@@ -595,6 +547,54 @@
     "play_count_30d": 0,
     "last_played": "2026-06-20 14:53:46Z",
     "last_played_vienna": "2026-06-20 16:53:46 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Weeknd",
+    "title": "Starboy",
+    "type": "Shared",
+    "play_count_total": 62,
+    "play_count_30d": 0,
+    "last_played": "2026-06-21 19:22:00Z",
+    "last_played_vienna": "2026-06-21 21:22:00 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Guns N' Roses",
+    "title": "Sweet Child O' Mine",
+    "type": "Shared",
+    "play_count_total": 11,
+    "play_count_30d": 0,
+    "last_played": "2026-06-21 20:18:31Z",
+    "last_played_vienna": "2026-06-21 22:18:31 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "title": "Not Like Us",
+    "type": "Shared",
+    "play_count_total": 12,
+    "play_count_30d": 0,
+    "last_played": "2026-06-21 20:24:59Z",
+    "last_played_vienna": "2026-06-21 22:24:59 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Beautiful People (feat. Khalid)",
+    "type": "Shared",
+    "play_count_total": 44,
+    "play_count_30d": 0,
+    "last_played": "2026-06-21 20:42:00Z",
+    "last_played_vienna": "2026-06-21 22:42:00 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
