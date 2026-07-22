@@ -84,42 +84,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Steely Dan",
-    "title": "Peg",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-22 05:38:16Z",
-    "last_played_vienna": "2026-07-22 07:38:16 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Steely Dan",
-    "title": "Deacon Blues",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-22 05:42:16Z",
-    "last_played_vienna": "2026-07-22 07:42:16 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Steely Dan",
-    "title": "Home At Last",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-22 05:49:45Z",
-    "last_played_vienna": "2026-07-22 07:49:45 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tyler, The Creator",
     "title": "NEW MAGIC WAND",
     "type": "Station-Specific",
@@ -312,6 +276,42 @@
     "confidence": 1.0
   },
   {
+    "artist": "Steely Dan",
+    "title": "Peg",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-22 18:36:47Z",
+    "last_played_vienna": "2026-07-22 20:36:47 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Steely Dan",
+    "title": "Deacon Blues",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-22 18:40:17Z",
+    "last_played_vienna": "2026-07-22 20:40:17 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Steely Dan",
+    "title": "Home At Last",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-22 18:48:17Z",
+    "last_played_vienna": "2026-07-22 20:48:17 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "GoGo Penguin",
     "title": "Raven",
     "type": "Shared",
@@ -408,42 +408,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Fleetwood Mac",
-    "title": "The Chain  (2004 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-22 06:57:46Z",
-    "last_played_vienna": "2026-07-22 08:57:46 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Journey",
-    "title": "Still They Ride (2022 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-22 07:02:16Z",
-    "last_played_vienna": "2026-07-22 09:02:16 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Jerry Cantrell",
-    "title": "Rooster (2022 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-22 07:06:16Z",
-    "last_played_vienna": "2026-07-22 09:06:16 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Hiatus Kaiyote",
     "title": "By Fire",
     "type": "Shared",
@@ -477,6 +441,42 @@
     "last_played_vienna": "2026-07-20 18:19:57 MESZ",
     "file_id": null,
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "The Chain  (2004 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-22 16:50:18Z",
+    "last_played_vienna": "2026-07-22 18:50:18 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Journey",
+    "title": "Still They Ride (2022 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-22 16:55:17Z",
+    "last_played_vienna": "2026-07-22 18:55:17 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jerry Cantrell",
+    "title": "Rooster (2022 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-22 16:59:17Z",
+    "last_played_vienna": "2026-07-22 18:59:17 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
