@@ -396,18 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tycho",
-    "title": "Awake",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-22 01:18:12Z",
-    "last_played_vienna": "2026-07-22 03:18:12 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Jorge Ben Jor",
     "title": "Mas Que Nada",
     "type": "Station-Specific",
@@ -571,6 +559,18 @@
     "play_count_30d": 5,
     "last_played": "2026-07-19 15:34:43Z",
     "last_played_vienna": "2026-07-19 17:34:43 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tycho",
+    "title": "Awake",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-07-22 14:11:47Z",
+    "last_played_vienna": "2026-07-22 16:11:47 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
