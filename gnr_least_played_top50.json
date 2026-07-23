@@ -528,18 +528,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tycho",
-    "title": "Awake",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-07-22 14:11:47Z",
-    "last_played_vienna": "2026-07-22 16:11:47 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Fleetwood Mac",
     "title": "The Chain  (2004 Remaster)",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-29 08:55:25Z",
     "last_played_vienna": "2026-05-29 10:55:25 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Beyoncé",
+    "title": "Crazy In Love",
+    "type": "Shared",
+    "play_count_total": 6,
+    "play_count_30d": 0,
+    "last_played": "2026-05-29 08:59:25Z",
+    "last_played_vienna": "2026-05-29 10:59:25 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
