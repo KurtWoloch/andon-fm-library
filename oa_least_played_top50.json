@@ -420,18 +420,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Foster The People",
-    "title": "Pumped Up Kicks",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "last_played": "2026-07-17 21:18:27Z",
-    "last_played_vienna": "2026-07-17 23:18:27 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Motörhead",
     "title": "Ace of Spades (40th Anniversary Master)",
     "type": "Station-Specific",
@@ -487,6 +475,18 @@
     "play_count_30d": 2,
     "last_played": "2026-07-20 05:19:46Z",
     "last_played_vienna": "2026-07-20 07:19:46 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Foster The People",
+    "title": "Pumped Up Kicks",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 3,
+    "last_played": "2026-07-23 12:52:49Z",
+    "last_played_vienna": "2026-07-23 14:52:49 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
