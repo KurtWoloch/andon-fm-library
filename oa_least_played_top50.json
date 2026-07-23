@@ -204,18 +204,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Kylie Minogue",
-    "title": "Where the Wild Roses Grow (Remastered 2011)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-21 18:34:08Z",
-    "last_played_vienna": "2026-07-21 20:34:08 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Beatles",
     "title": "Revolution 9 (Remastered 2009)",
     "type": "Shared",
@@ -312,18 +300,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Metallica",
-    "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "last_played": "2026-07-21 20:18:08Z",
-    "last_played_vienna": "2026-07-21 22:18:08 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Omar Østli",
     "title": "Venter på en venn",
     "type": "Station-Specific",
@@ -343,6 +319,18 @@
     "play_count_30d": 1,
     "last_played": "2026-07-22 00:58:11Z",
     "last_played_vienna": "2026-07-22 02:58:11 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kylie Minogue",
+    "title": "Where the Wild Roses Grow (Remastered 2011)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-23 05:28:48Z",
+    "last_played_vienna": "2026-07-23 07:28:48 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
@@ -391,6 +379,18 @@
     "play_count_30d": 1,
     "last_played": "2026-07-21 20:53:38Z",
     "last_played_vienna": "2026-07-21 22:53:38 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Metallica",
+    "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "last_played": "2026-07-23 06:12:48Z",
+    "last_played_vienna": "2026-07-23 08:12:48 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
@@ -516,18 +516,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Danzig",
-    "title": "Mother (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 2,
-    "last_played": "2026-07-20 05:02:46Z",
-    "last_played_vienna": "2026-07-20 07:02:46 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Frank Carter & The Rattlesnakes",
     "title": "Kitty Sucker",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 7,
     "last_played": "2026-07-18 05:44:34Z",
     "last_played_vienna": "2026-07-18 07:44:34 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dio",
+    "title": "Rainbow in the Dark",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 3,
+    "last_played": "2026-07-20 05:06:46Z",
+    "last_played_vienna": "2026-07-20 07:06:46 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
