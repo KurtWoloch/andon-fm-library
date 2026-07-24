@@ -204,18 +204,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Beatles",
-    "title": "Lucy In The Sky With Diamonds (Remastered 2009)",
-    "type": "Shared",
-    "play_count_total": 31,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 21:46:19Z",
-    "last_played_vienna": "2026-05-16 23:46:19 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Die Toten Hosen",
     "title": "Walkampf",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-06-21 20:42:00Z",
     "last_played_vienna": "2026-06-21 22:42:00 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Teddy Swims",
+    "title": "The Door",
+    "type": "Shared",
+    "play_count_total": 40,
+    "play_count_30d": 0,
+    "last_played": "2026-06-22 15:35:36Z",
+    "last_played_vienna": "2026-06-22 17:35:36 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
