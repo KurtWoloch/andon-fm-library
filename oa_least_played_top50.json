@@ -420,18 +420,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Kylie Minogue",
-    "title": "Where the Wild Roses Grow (Remastered 2011)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-23 23:12:51Z",
-    "last_played_vienna": "2026-07-24 01:12:51 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Metallica",
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
@@ -499,6 +487,18 @@
     "play_count_30d": 3,
     "last_played": "2026-07-23 12:52:49Z",
     "last_played_vienna": "2026-07-23 14:52:49 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kylie Minogue",
+    "title": "Where the Wild Roses Grow (Remastered 2011)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-07-24 10:19:57Z",
+    "last_played_vienna": "2026-07-24 12:19:57 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
