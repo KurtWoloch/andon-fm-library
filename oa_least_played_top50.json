@@ -396,18 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Kylie Minogue",
-    "title": "Where the Wild Roses Grow (Remastered 2011)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-23 18:23:19Z",
-    "last_played_vienna": "2026-07-23 20:23:19 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Creedence Clearwater Revival",
     "title": "Born On The Bayou",
     "type": "Station-Specific",
@@ -439,6 +427,18 @@
     "play_count_30d": 2,
     "last_played": "2026-07-22 21:52:47Z",
     "last_played_vienna": "2026-07-22 23:52:47 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kylie Minogue",
+    "title": "Where the Wild Roses Grow (Remastered 2011)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-23 23:12:51Z",
+    "last_played_vienna": "2026-07-24 01:12:51 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
