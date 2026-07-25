@@ -180,30 +180,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Michael Jackson",
-    "title": "Stranger in Moscow",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-18 19:55:05Z",
-    "last_played_vienna": "2026-07-18 21:55:05 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Metric",
-    "title": "Black Sheep (Brie Larson Vocal Version)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-19 00:23:07Z",
-    "last_played_vienna": "2026-07-19 02:23:07 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Marvin Gaye",
     "title": "Sexual Healing (Album Version)",
     "type": "Station-Specific",
@@ -264,18 +240,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Guns N' Roses",
-    "title": "Estranged (2022 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-18 20:05:35Z",
-    "last_played_vienna": "2026-07-18 22:05:35 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "TOOL",
     "title": "Lateralus",
     "type": "Station-Specific",
@@ -307,6 +271,30 @@
     "play_count_30d": 3,
     "last_played": "2026-07-24 02:54:25Z",
     "last_played_vienna": "2026-07-24 04:54:25 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Metric",
+    "title": "Black Sheep (Brie Larson Vocal Version)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-25 02:45:03Z",
+    "last_played_vienna": "2026-07-25 04:45:03 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Stranger in Moscow",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-25 04:12:33Z",
+    "last_played_vienna": "2026-07-25 06:12:33 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -427,6 +415,18 @@
     "play_count_30d": 4,
     "last_played": "2026-07-25 00:25:30Z",
     "last_played_vienna": "2026-07-25 02:25:30 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Guns N' Roses",
+    "title": "Estranged (2022 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-25 04:18:03Z",
+    "last_played_vienna": "2026-07-25 06:18:03 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
