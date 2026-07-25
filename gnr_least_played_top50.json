@@ -336,18 +336,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Thin Lizzy",
-    "title": "Emerald",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-24 20:25:28Z",
-    "last_played_vienna": "2026-07-24 22:25:28 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Led Zeppelin",
     "title": "Ten Years Gone  (Remaster)",
     "type": "Station-Specific",
@@ -583,6 +571,18 @@
     "play_count_30d": 5,
     "last_played": "2026-07-24 04:07:56Z",
     "last_played_vienna": "2026-07-24 06:07:56 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Thin Lizzy",
+    "title": "Emerald",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-07-25 09:54:03Z",
+    "last_played_vienna": "2026-07-25 11:54:03 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
