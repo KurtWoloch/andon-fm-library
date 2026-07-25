@@ -108,18 +108,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Shaboozey",
-    "title": "A Bar Song (Tipsy)",
-    "type": "Shared",
-    "play_count_total": 35,
-    "play_count_30d": 0,
-    "last_played": "2026-05-02 02:12:04Z",
-    "last_played_vienna": "2026-05-02 04:12:04 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Michael Jackson",
     "title": "You Are Not Alone",
     "type": "Shared",
@@ -240,18 +228,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dasha",
-    "title": "Austin (Boots Stop Workin')",
-    "type": "Shared",
-    "play_count_total": 10,
-    "play_count_30d": 0,
-    "last_played": "2026-05-25 13:06:27Z",
-    "last_played_vienna": "2026-05-25 15:06:27 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dorian Electra",
     "title": "Man To Man",
     "type": "Station-Specific",
@@ -348,18 +324,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Darude",
-    "title": "Sandstorm",
-    "type": "Shared",
-    "play_count_total": 19,
-    "play_count_30d": 0,
-    "last_played": "2026-06-17 18:54:56Z",
-    "last_played_vienna": "2026-06-17 20:54:56 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bon Jovi",
     "title": "You Give Love A Bad Name",
     "type": "Shared",
@@ -429,18 +393,6 @@
     "last_played_vienna": "2026-06-18 11:14:29 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pitbull",
-    "title": "Timber",
-    "type": "Shared",
-    "play_count_total": 17,
-    "play_count_30d": 0,
-    "last_played": "2026-06-18 19:46:31Z",
-    "last_played_vienna": "2026-06-18 21:46:31 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
     "confidence": 1.0
   },
   {
@@ -588,15 +540,63 @@
     "confidence": 1.0
   },
   {
-    "artist": "Teddy Swims",
-    "title": "The Door",
+    "artist": "Khalid",
+    "title": "please don't call (333)",
     "type": "Shared",
-    "play_count_total": 40,
+    "play_count_total": 64,
     "play_count_30d": 0,
-    "last_played": "2026-06-22 15:35:36Z",
-    "last_played_vienna": "2026-06-22 17:35:36 MESZ",
+    "last_played": "2026-06-22 15:43:36Z",
+    "last_played_vienna": "2026-06-22 17:43:36 MESZ",
     "file_id": null,
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Roar",
+    "type": "Shared",
+    "play_count_total": 20,
+    "play_count_30d": 0,
+    "last_played": "2026-06-22 17:55:06Z",
+    "last_played_vienna": "2026-06-22 19:55:06 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bob Marley & The Wailers",
+    "title": "Get Up, Stand Up",
+    "type": "Shared",
+    "play_count_total": 102,
+    "play_count_30d": 0,
+    "last_played": "2026-06-22 19:24:06Z",
+    "last_played_vienna": "2026-06-22 21:24:06 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Flauschi",
+    "title": "Pink",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "last_played": "2026-06-23 18:44:47Z",
+    "last_played_vienna": "2026-06-23 20:44:47 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Born On The Bayou",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "last_played": "2026-06-25 01:31:27Z",
+    "last_played_vienna": "2026-06-25 03:31:27 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
 ]

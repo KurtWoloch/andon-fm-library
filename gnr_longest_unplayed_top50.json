@@ -324,18 +324,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Miles Davis",
-    "title": "So What",
-    "type": "Station-Specific",
-    "play_count_total": 52,
-    "play_count_30d": 0,
-    "last_played": "2026-06-04 15:34:08Z",
-    "last_played_vienna": "2026-06-04 17:34:08 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "John Coltrane",
     "title": "My Favorite Things",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 2,
     "last_played": "2026-07-11 11:38:41Z",
     "last_played_vienna": "2026-07-11 13:38:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Arctic Monkeys",
+    "title": "Dangerous Animals",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-12 12:56:13Z",
+    "last_played_vienna": "2026-07-12 14:56:13 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
