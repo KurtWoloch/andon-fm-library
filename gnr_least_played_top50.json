@@ -288,18 +288,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Metric",
-    "title": "Black Sheep (Brie Larson Vocal Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-25 02:45:03Z",
-    "last_played_vienna": "2026-07-25 04:45:03 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Michael Jackson",
     "title": "Stranger in Moscow",
     "type": "Station-Specific",
@@ -379,6 +367,18 @@
     "play_count_30d": 4,
     "last_played": "2026-07-25 04:18:03Z",
     "last_played_vienna": "2026-07-25 06:18:03 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Metric",
+    "title": "Black Sheep (Brie Larson Vocal Version)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-25 15:31:33Z",
+    "last_played_vienna": "2026-07-25 17:31:33 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
