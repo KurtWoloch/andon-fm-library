@@ -96,30 +96,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Radiohead",
-    "title": "Paranoid Android",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-24 20:03:58Z",
-    "last_played_vienna": "2026-07-24 22:03:58 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Gary Lux",
-    "title": "Listen to your heart",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-25 10:52:33Z",
-    "last_played_vienna": "2026-07-25 12:52:33 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Dave Brubeck Quartet",
     "title": "Take Five (Album Version)",
     "type": "Station-Specific",
@@ -216,6 +192,30 @@
     "confidence": 1.0
   },
   {
+    "artist": "Radiohead",
+    "title": "Paranoid Android",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-25 22:31:04Z",
+    "last_played_vienna": "2026-07-26 00:31:04 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gary Lux",
+    "title": "Listen to your heart",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-25 22:57:35Z",
+    "last_played_vienna": "2026-07-26 00:57:35 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "GoGo Penguin",
     "title": "Raven",
     "type": "Shared",
@@ -276,18 +276,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dire Straits",
-    "title": "Six Blade Knife",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-24 02:54:25Z",
-    "last_played_vienna": "2026-07-24 04:54:25 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Michael Jackson",
     "title": "Stranger in Moscow",
     "type": "Station-Specific",
@@ -336,18 +324,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Led Zeppelin",
-    "title": "Ten Years Gone  (Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-24 20:29:57Z",
-    "last_played_vienna": "2026-07-24 22:29:57 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bon Jovi",
     "title": "Runaway",
     "type": "Station-Specific",
@@ -360,25 +336,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "Guns N' Roses",
-    "title": "Estranged (2022 Remaster)",
+    "artist": "Dire Straits",
+    "title": "Six Blade Knife",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "last_played": "2026-07-25 04:18:03Z",
-    "last_played_vienna": "2026-07-25 06:18:03 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Metric",
-    "title": "Black Sheep (Brie Larson Vocal Version)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-25 15:31:33Z",
-    "last_played_vienna": "2026-07-25 17:31:33 MESZ",
+    "last_played": "2026-07-25 22:12:04Z",
+    "last_played_vienna": "2026-07-26 00:12:04 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -523,6 +487,42 @@
     "play_count_30d": 5,
     "last_played": "2026-07-25 14:20:33Z",
     "last_played_vienna": "2026-07-25 16:20:33 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Metric",
+    "title": "Black Sheep (Brie Larson Vocal Version)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-07-25 21:28:34Z",
+    "last_played_vienna": "2026-07-25 23:28:34 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Guns N' Roses",
+    "title": "Estranged (2022 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-07-25 21:56:04Z",
+    "last_played_vienna": "2026-07-25 23:56:04 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Ten Years Gone  (Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-07-25 22:16:04Z",
+    "last_played_vienna": "2026-07-26 00:16:04 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
