@@ -264,18 +264,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bon Jovi",
-    "title": "Runaway",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-12 12:37:43Z",
-    "last_played_vienna": "2026-07-12 14:37:43 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Guns N' Roses",
     "title": "Estranged (2022 Remaster)",
     "type": "Station-Specific",
@@ -319,18 +307,6 @@
     "play_count_30d": 3,
     "last_played": "2026-07-24 02:54:25Z",
     "last_played_vienna": "2026-07-24 04:54:25 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Mariya Takeuchi",
-    "title": "Plastic Love",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-24 04:26:56Z",
-    "last_played_vienna": "2026-07-24 06:26:56 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -427,6 +403,30 @@
     "play_count_30d": 4,
     "last_played": "2026-07-24 20:51:28Z",
     "last_played_vienna": "2026-07-24 22:51:28 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mariya Takeuchi",
+    "title": "Plastic Love",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-24 21:51:28Z",
+    "last_played_vienna": "2026-07-24 23:51:28 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bon Jovi",
+    "title": "Runaway",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-25 00:25:30Z",
+    "last_played_vienna": "2026-07-25 02:25:30 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
