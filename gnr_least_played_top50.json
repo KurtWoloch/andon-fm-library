@@ -204,18 +204,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Gary Lux",
-    "title": "Listen to your heart",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-25 22:57:35Z",
-    "last_played_vienna": "2026-07-26 00:57:35 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "GoGo Penguin",
     "title": "Raven",
     "type": "Shared",
@@ -283,6 +271,18 @@
     "play_count_30d": 3,
     "last_played": "2026-07-25 04:12:33Z",
     "last_played_vienna": "2026-07-25 06:12:33 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gary Lux",
+    "title": "Listen to your heart",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-26 08:36:44Z",
+    "last_played_vienna": "2026-07-26 10:36:44 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -427,18 +427,6 @@
     "play_count_30d": 5,
     "last_played": "2026-07-19 15:34:43Z",
     "last_played_vienna": "2026-07-19 17:34:43 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Thin Lizzy",
-    "title": "Emerald",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-07-25 09:54:03Z",
-    "last_played_vienna": "2026-07-25 11:54:03 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -595,6 +583,18 @@
     "play_count_30d": 6,
     "last_played": "2026-07-20 11:13:22Z",
     "last_played_vienna": "2026-07-20 13:13:22 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "LCD Soundsystem",
+    "title": "All My Friends",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-07-20 11:17:22Z",
+    "last_played_vienna": "2026-07-20 13:17:22 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
