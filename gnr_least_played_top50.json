@@ -288,18 +288,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Fail Upward For A Change",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-27 02:04:46Z",
-    "last_played_vienna": "2026-07-27 04:04:46 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Hiatus Kaiyote",
     "title": "By Fire",
     "type": "Shared",
@@ -321,6 +309,18 @@
     "last_played_vienna": "2026-07-20 18:19:57 MESZ",
     "file_id": null,
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "Fail Upward For A Change",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-27 08:48:28Z",
+    "last_played_vienna": "2026-07-27 10:48:28 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
@@ -415,18 +415,6 @@
     "play_count_30d": 5,
     "last_played": "2026-07-26 15:40:14Z",
     "last_played_vienna": "2026-07-26 17:40:14 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Gary Lux",
-    "title": "Listen to your heart",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-07-27 00:32:15Z",
-    "last_played_vienna": "2026-07-27 02:32:15 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -595,6 +583,18 @@
     "play_count_30d": 6,
     "last_played": "2026-07-26 14:50:13Z",
     "last_played_vienna": "2026-07-26 16:50:13 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Ten Years Gone  (Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-07-26 15:17:44Z",
+    "last_played_vienna": "2026-07-26 17:17:44 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
