@@ -324,18 +324,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Gary Lux",
-    "title": "Listen to your heart",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-26 13:56:44Z",
-    "last_played_vienna": "2026-07-26 15:56:44 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Snarky Puppy",
     "title": "Lingus (Alternate Take)",
     "type": "Shared",
@@ -439,6 +427,18 @@
     "play_count_30d": 5,
     "last_played": "2026-07-26 17:37:14Z",
     "last_played_vienna": "2026-07-26 19:37:14 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gary Lux",
+    "title": "Listen to your heart",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-07-27 00:32:15Z",
+    "last_played_vienna": "2026-07-27 02:32:15 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
