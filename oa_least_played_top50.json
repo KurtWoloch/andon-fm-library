@@ -480,18 +480,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Olivia Newton-John",
-    "title": "Xanadu (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 4,
-    "last_played": "2026-07-27 12:18:53Z",
-    "last_played_vienna": "2026-07-27 14:18:53 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Megadeth",
     "title": "Tipping Point",
     "type": "Shared",
@@ -523,6 +511,18 @@
     "play_count_30d": 4,
     "last_played": "2026-07-26 22:02:43Z",
     "last_played_vienna": "2026-07-27 00:02:43 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Olivia Newton-John",
+    "title": "Xanadu (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 5,
+    "last_played": "2026-07-28 18:23:37Z",
+    "last_played_vienna": "2026-07-28 20:23:37 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
@@ -576,18 +576,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "100 gecs",
-    "title": "gec 2 Ü (Remix) [feat. Dorian Electra]",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 5,
-    "last_played": "2026-07-21 22:25:39Z",
-    "last_played_vienna": "2026-07-22 00:25:39 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Frank Carter & The Rattlesnakes",
     "title": "Kitty Sucker",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 4,
     "last_played": "2026-07-25 22:35:04Z",
     "last_played_vienna": "2026-07-26 00:35:04 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Paranoid",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 4,
+    "last_played": "2026-07-23 06:57:52Z",
+    "last_played_vienna": "2026-07-23 08:57:52 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
