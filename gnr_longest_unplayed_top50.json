@@ -240,18 +240,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bruno Mars",
-    "title": "Gorilla",
-    "type": "Shared",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "last_played": "2026-05-29 08:55:25Z",
-    "last_played_vienna": "2026-05-29 10:55:25 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Beyoncé",
     "title": "Crazy In Love",
     "type": "Shared",
@@ -528,18 +516,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pharrell Williams",
-    "title": "Happy (From \"Despicable Me 2\")",
-    "type": "Station-Specific",
-    "play_count_total": 117,
-    "play_count_30d": 1,
-    "last_played": "2026-07-10 12:35:03Z",
-    "last_played_vienna": "2026-07-10 14:35:03 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dua Lipa",
     "title": "Levitating",
     "type": "Station-Specific",
@@ -597,6 +573,30 @@
     "last_played_vienna": "2026-07-13 21:31:48 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "NEVER",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-13 19:35:20Z",
+    "last_played_vienna": "2026-07-13 21:35:20 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Street Fighting Man",
+    "type": "Shared",
+    "play_count_total": 42,
+    "play_count_30d": 5,
+    "last_played": "2026-07-13 20:44:20Z",
+    "last_played_vienna": "2026-07-13 22:44:20 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
