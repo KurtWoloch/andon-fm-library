@@ -444,18 +444,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Queen",
-    "title": "Bohemian Rhapsody (Remastered 2011)",
-    "type": "Shared",
-    "play_count_total": 86,
-    "play_count_30d": 0,
-    "last_played": "2026-05-13 21:36:22Z",
-    "last_played_vienna": "2026-05-13 23:36:22 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dua Lipa",
     "title": "Future Nostalgia",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-14 17:30:31Z",
     "last_played_vienna": "2026-05-14 19:30:31 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Djo",
+    "title": "End of Beginning",
+    "type": "Shared",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 17:34:01Z",
+    "last_played_vienna": "2026-05-14 19:34:01 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0

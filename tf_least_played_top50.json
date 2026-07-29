@@ -168,18 +168,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Replacements",
-    "title": "Left of the Dial (Ed Stasium Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-15 00:23:32Z",
-    "last_played_vienna": "2026-05-15 02:23:32 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Moes Haven",
     "title": "Shut Up Your Monkey",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-31 19:53:30Z",
     "last_played_vienna": "2026-05-31 21:53:30 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Scorpions",
+    "title": "Still Loving You (2011 Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-05-31 20:10:01Z",
+    "last_played_vienna": "2026-05-31 22:10:01 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
