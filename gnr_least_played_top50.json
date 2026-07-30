@@ -313,30 +313,6 @@
   },
   {
     "artist": "Daft Punk feat. Pharrell Williams",
-    "title": "Get Lucky  (feat. Pharrell Williams and Nile Rodgers)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-29 23:14:12Z",
-    "last_played_vienna": "2026-07-30 01:14:12 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Gala",
-    "title": "Freed From Desire",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-29 23:20:43Z",
-    "last_played_vienna": "2026-07-30 01:20:43 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Daft Punk feat. Pharrell Williams",
     "title": "Lose Yourself to Dance  (feat. Pharrell Williams)",
     "type": "Station-Specific",
     "play_count_total": 2,
@@ -457,24 +433,36 @@
   },
   {
     "artist": "Sade",
-    "title": "No Ordinary Love  (Remastered Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-28 23:36:39Z",
-    "last_played_vienna": "2026-07-29 01:36:39 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Sade",
     "title": "Smooth Operator (2011 Remastered) (Remastered Version)",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
     "last_played": "2026-07-28 23:49:37Z",
     "last_played_vienna": "2026-07-29 01:49:37 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Daft Punk feat. Pharrell Williams",
+    "title": "Get Lucky  (feat. Pharrell Williams and Nile Rodgers)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-30 10:40:21Z",
+    "last_played_vienna": "2026-07-30 12:40:21 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gala",
+    "title": "Freed From Desire",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-30 10:46:22Z",
+    "last_played_vienna": "2026-07-30 12:46:22 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -595,6 +583,18 @@
     "play_count_30d": 4,
     "last_played": "2026-07-29 14:38:41Z",
     "last_played_vienna": "2026-07-29 16:38:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bill Withers",
+    "title": "Lovely Day",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-30 06:57:24Z",
+    "last_played_vienna": "2026-07-30 08:57:24 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0

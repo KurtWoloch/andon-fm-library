@@ -564,18 +564,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Olivia Newton-John",
-    "title": "Xanadu (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 6,
-    "last_played": "2026-07-29 02:25:39Z",
-    "last_played_vienna": "2026-07-29 04:25:39 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Black Sabbath",
     "title": "Paranoid",
     "type": "Station-Specific",
@@ -597,6 +585,18 @@
     "last_played_vienna": "2026-07-24 18:33:27 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bon Jovi",
+    "title": "You Give Love A Bad Name",
+    "type": "Shared",
+    "play_count_total": 8,
+    "play_count_30d": 1,
+    "last_played": "2026-07-25 19:26:33Z",
+    "last_played_vienna": "2026-07-25 21:26:33 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
