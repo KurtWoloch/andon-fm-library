@@ -204,18 +204,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dorian Electra",
-    "title": "Man To Man",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-05-27 04:03:48Z",
-    "last_played_vienna": "2026-05-27 06:03:48 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tower Of Power",
     "title": "You're Still A Young Man (Single Version)",
     "type": "Station-Specific",
@@ -592,9 +580,21 @@
     "title": "Colorful Array",
     "type": "Station-Specific",
     "play_count_total": 43,
-    "play_count_30d": 13,
+    "play_count_30d": 12,
     "last_played": "2026-07-10 02:34:00Z",
     "last_played_vienna": "2026-07-10 04:34:00 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Underworld",
+    "title": "Sola Sistim",
+    "type": "Station-Specific",
+    "play_count_total": 69,
+    "play_count_30d": 33,
+    "last_played": "2026-07-10 09:00:02Z",
+    "last_played_vienna": "2026-07-10 11:00:02 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0

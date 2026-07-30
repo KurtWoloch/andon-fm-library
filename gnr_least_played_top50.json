@@ -480,30 +480,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Daft Punk feat. Pharrell Williams",
-    "title": "Get Lucky  (feat. Pharrell Williams and Nile Rodgers)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-30 10:40:21Z",
-    "last_played_vienna": "2026-07-30 12:40:21 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Gala",
-    "title": "Freed From Desire",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-30 10:46:22Z",
-    "last_played_vienna": "2026-07-30 12:46:22 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Al Green",
     "title": "Simply Beautiful",
     "type": "Station-Specific",
@@ -595,6 +571,30 @@
     "play_count_30d": 4,
     "last_played": "2026-07-29 07:06:41Z",
     "last_played_vienna": "2026-07-29 09:06:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Marvin Gaye",
+    "title": "Distant Lover",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-29 07:13:11Z",
+    "last_played_vienna": "2026-07-29 09:13:11 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Marvin Gaye",
+    "title": "I Heard It Through The Grapevine (SACD Stereo)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-29 07:21:11Z",
+    "last_played_vienna": "2026-07-29 09:21:11 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0

@@ -228,18 +228,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Vylet Pony",
-    "title": "ANTONYMPH",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-15 21:37:43Z",
-    "last_played_vienna": "2026-05-15 23:37:43 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dorian Electra",
     "title": "Feel Good Inc.",
     "type": "Station-Specific",
@@ -384,18 +372,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Metallica",
-    "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-23 21:02:51Z",
-    "last_played_vienna": "2026-05-23 23:02:51 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Alex Andre",
     "title": "thanks, my day is ruined",
     "type": "Station-Specific",
@@ -504,18 +480,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Queensrÿche",
-    "title": "Silent Lucidity (Remastered 2003)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-30 09:27:57Z",
-    "last_played_vienna": "2026-05-30 11:27:57 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Barbra Streisand",
     "title": "Woman in Love (Album Version)",
     "type": "Station-Specific",
@@ -595,6 +559,42 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 17:08:10Z",
     "last_played_vienna": "2026-06-05 19:08:10 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Fall Out Boy",
+    "title": "Uma Thurman",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 04:15:11Z",
+    "last_played_vienna": "2026-06-06 06:15:11 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Eiffel 65",
+    "title": "Blue (Flume Remix)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 04:19:41Z",
+    "last_played_vienna": "2026-06-06 06:19:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cascada",
+    "title": "Everytime We Touch",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 04:22:41Z",
+    "last_played_vienna": "2026-06-06 06:22:41 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
