@@ -204,18 +204,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Gala",
-    "title": "Freed From Desire",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-29 08:45:11Z",
-    "last_played_vienna": "2026-07-29 10:45:11 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Daft Punk",
     "title": "Around the World",
     "type": "Station-Specific",
@@ -247,30 +235,6 @@
     "play_count_30d": 1,
     "last_played": "2026-07-29 09:00:11Z",
     "last_played_vienna": "2026-07-29 11:00:11 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Daft Punk feat. Pharrell Williams",
-    "title": "Get Lucky  (feat. Pharrell Williams and Nile Rodgers)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-29 09:05:41Z",
-    "last_played_vienna": "2026-07-29 11:05:41 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Daft Punk feat. Pharrell Williams",
-    "title": "Lose Yourself to Dance  (feat. Pharrell Williams)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-29 09:13:10Z",
-    "last_played_vienna": "2026-07-29 11:13:10 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -408,6 +372,42 @@
     "confidence": 1.0
   },
   {
+    "artist": "Daft Punk feat. Pharrell Williams",
+    "title": "Get Lucky  (feat. Pharrell Williams and Nile Rodgers)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-29 23:14:12Z",
+    "last_played_vienna": "2026-07-30 01:14:12 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gala",
+    "title": "Freed From Desire",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-29 23:20:43Z",
+    "last_played_vienna": "2026-07-30 01:20:43 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Daft Punk feat. Pharrell Williams",
+    "title": "Lose Yourself to Dance  (feat. Pharrell Williams)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-29 23:32:14Z",
+    "last_played_vienna": "2026-07-30 01:32:14 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "GoGo Penguin",
     "title": "Raven",
     "type": "Shared",
@@ -516,30 +516,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Phoebe Bridgers",
-    "title": "Moon Song",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-29 16:44:41Z",
-    "last_played_vienna": "2026-07-29 18:44:41 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Phoebe Bridgers",
-    "title": "Smoke Signals",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-29 16:49:42Z",
-    "last_played_vienna": "2026-07-29 18:49:42 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Hiatus Kaiyote",
     "title": "By Fire",
     "type": "Shared",
@@ -595,6 +571,30 @@
     "play_count_30d": 4,
     "last_played": "2026-07-29 06:42:41Z",
     "last_played_vienna": "2026-07-29 08:42:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Marvin Gaye",
+    "title": "Inner City Blues (Make Me Wanna Holler)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-29 06:54:11Z",
+    "last_played_vienna": "2026-07-29 08:54:11 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Prince",
+    "title": "Adore  (2020 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-29 06:59:41Z",
+    "last_played_vienna": "2026-07-29 08:59:41 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0

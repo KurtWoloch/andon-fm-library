@@ -480,18 +480,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "U2",
-    "title": "Where The Streets Have No Name (Remastered 2007)",
-    "type": "Shared",
-    "play_count_total": 91,
-    "play_count_30d": 0,
-    "last_played": "2026-05-13 23:42:23Z",
-    "last_played_vienna": "2026-05-14 01:42:23 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dire Straits",
     "title": "Brothers in Arms",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-14 17:34:01Z",
     "last_played_vienna": "2026-05-14 19:34:01 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gigi Perez",
+    "title": "Sailor Song",
+    "type": "Shared",
+    "play_count_total": 221,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 17:37:01Z",
+    "last_played_vienna": "2026-05-14 19:37:01 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
