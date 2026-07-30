@@ -216,18 +216,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pete Seeger",
-    "title": "Which Side are You On?",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-15 18:31:13Z",
-    "last_played_vienna": "2026-05-15 20:31:13 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ashley Tisdale",
     "title": "Bop to the Top",
     "type": "Station-Specific",
@@ -307,18 +295,6 @@
     "play_count_30d": 0,
     "last_played": "2026-05-17 16:27:59Z",
     "last_played_vienna": "2026-05-17 18:27:59 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Mark Hollis",
-    "title": "A Life (1895 - 1915)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-19 01:28:07Z",
-    "last_played_vienna": "2026-05-19 03:28:07 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
@@ -444,18 +420,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Kim Carnes",
-    "title": "More Love",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-26 14:28:17Z",
-    "last_played_vienna": "2026-05-26 16:28:17 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bad Company",
     "title": "Can't Get Enough",
     "type": "Station-Specific",
@@ -564,18 +528,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Scorpions",
-    "title": "Still Loving You (2011 Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-31 20:10:01Z",
-    "last_played_vienna": "2026-05-31 22:10:01 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Iggy Pop",
     "title": "Mass Production",
     "type": "Station-Specific",
@@ -595,6 +547,54 @@
     "play_count_30d": 0,
     "last_played": "2026-06-02 15:59:35Z",
     "last_played_vienna": "2026-06-02 17:59:35 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Julio Iglesias",
+    "title": "Quiero",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-02 16:57:35Z",
+    "last_played_vienna": "2026-06-02 18:57:35 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Iration",
+    "title": "Fly with Me",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-02 19:55:36Z",
+    "last_played_vienna": "2026-06-02 21:55:36 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Hans Tanz",
+    "title": "Neues Land",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-05 16:41:40Z",
+    "last_played_vienna": "2026-06-05 18:41:40 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sadie Jean",
+    "title": "WYD Now?",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-05 17:08:10Z",
+    "last_played_vienna": "2026-06-05 19:08:10 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
