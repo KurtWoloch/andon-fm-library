@@ -576,18 +576,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Jessi Colter",
-    "title": "I'm Not Lisa",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-07-30 04:58:16Z",
-    "last_played_vienna": "2026-07-30 06:58:16 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Black Sabbath",
     "title": "Paranoid",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 4,
     "last_played": "2026-07-23 06:57:52Z",
     "last_played_vienna": "2026-07-23 08:57:52 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mötley Crüe",
+    "title": "Dr. Feelgood",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "last_played": "2026-07-24 16:33:27Z",
+    "last_played_vienna": "2026-07-24 18:33:27 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0

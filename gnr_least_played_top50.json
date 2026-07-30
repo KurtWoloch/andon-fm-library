@@ -180,30 +180,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Al Green",
-    "title": "Simply Beautiful",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-29 05:08:41Z",
-    "last_played_vienna": "2026-07-29 07:08:41 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Al Green",
-    "title": "Love and Happiness",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-29 05:13:11Z",
-    "last_played_vienna": "2026-07-29 07:13:11 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Daft Punk",
     "title": "Around the World",
     "type": "Station-Specific",
@@ -372,6 +348,30 @@
     "confidence": 1.0
   },
   {
+    "artist": "Al Green",
+    "title": "Simply Beautiful",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-30 07:05:18Z",
+    "last_played_vienna": "2026-07-30 09:05:18 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Al Green",
+    "title": "Love and Happiness",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-30 07:09:19Z",
+    "last_played_vienna": "2026-07-30 09:09:19 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "GoGo Penguin",
     "title": "Raven",
     "type": "Shared",
@@ -480,42 +480,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Al Green",
-    "title": "Let's Stay Together",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-30 04:43:17Z",
-    "last_played_vienna": "2026-07-30 06:43:17 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bill Withers",
-    "title": "Ain't No Sunshine (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-30 04:46:47Z",
-    "last_played_vienna": "2026-07-30 06:46:47 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bill Withers",
-    "title": "Lovely Day",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-30 04:48:47Z",
-    "last_played_vienna": "2026-07-30 06:48:47 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Hiatus Kaiyote",
     "title": "By Fire",
     "type": "Shared",
@@ -564,30 +528,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Marvin Gaye",
-    "title": "Let's Get It On",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-29 06:42:41Z",
-    "last_played_vienna": "2026-07-29 08:42:41 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Marvin Gaye",
-    "title": "Inner City Blues (Make Me Wanna Holler)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-29 06:54:11Z",
-    "last_played_vienna": "2026-07-29 08:54:11 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Prince",
     "title": "Adore  (2020 Remaster)",
     "type": "Station-Specific",
@@ -595,6 +535,66 @@
     "play_count_30d": 4,
     "last_played": "2026-07-29 06:59:41Z",
     "last_played_vienna": "2026-07-29 08:59:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sade",
+    "title": "Is It a Crime (Remastered Version)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-29 07:06:41Z",
+    "last_played_vienna": "2026-07-29 09:06:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Marvin Gaye",
+    "title": "Distant Lover",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-29 07:13:11Z",
+    "last_played_vienna": "2026-07-29 09:13:11 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Marvin Gaye",
+    "title": "I Heard It Through The Grapevine (SACD Stereo)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-29 07:21:11Z",
+    "last_played_vienna": "2026-07-29 09:21:11 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sade",
+    "title": "The Sweetest Taboo  (Remastered Version)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-29 07:32:11Z",
+    "last_played_vienna": "2026-07-29 09:32:11 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Emitt Rhodes",
+    "title": "Somebody Made For Me",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-29 14:38:41Z",
+    "last_played_vienna": "2026-07-29 16:38:41 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
