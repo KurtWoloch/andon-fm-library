@@ -336,42 +336,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Al Green",
-    "title": "Let's Stay Together",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-29 20:33:42Z",
-    "last_played_vienna": "2026-07-29 22:33:42 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bill Withers",
-    "title": "Ain't No Sunshine (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-29 20:37:11Z",
-    "last_played_vienna": "2026-07-29 22:37:11 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bill Withers",
-    "title": "Lovely Day",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-29 20:39:12Z",
-    "last_played_vienna": "2026-07-29 22:39:12 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Daft Punk feat. Pharrell Williams",
     "title": "Get Lucky  (feat. Pharrell Williams and Nile Rodgers)",
     "type": "Station-Specific",
@@ -511,6 +475,42 @@
     "play_count_30d": 3,
     "last_played": "2026-07-28 23:49:37Z",
     "last_played_vienna": "2026-07-29 01:49:37 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Al Green",
+    "title": "Let's Stay Together",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-30 04:43:17Z",
+    "last_played_vienna": "2026-07-30 06:43:17 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bill Withers",
+    "title": "Ain't No Sunshine (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-30 04:46:47Z",
+    "last_played_vienna": "2026-07-30 06:46:47 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bill Withers",
+    "title": "Lovely Day",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-30 04:48:47Z",
+    "last_played_vienna": "2026-07-30 06:48:47 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0

@@ -504,18 +504,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Jessi Colter",
-    "title": "I'm Not Lisa",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-07-29 03:35:39Z",
-    "last_played_vienna": "2026-07-29 05:35:39 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pete Seeger",
     "title": "Solidarity Forever",
     "type": "Shared",
@@ -583,6 +571,18 @@
     "play_count_30d": 6,
     "last_played": "2026-07-29 02:25:39Z",
     "last_played_vienna": "2026-07-29 04:25:39 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jessi Colter",
+    "title": "I'm Not Lisa",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "last_played": "2026-07-30 04:58:16Z",
+    "last_played_vienna": "2026-07-30 06:58:16 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0

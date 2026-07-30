@@ -300,18 +300,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Yes",
-    "title": "Mood for a Day  (2008 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 12:03:27Z",
-    "last_played_vienna": "2026-05-17 14:03:27 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pent Up Pup",
     "title": "ORDER:SCORE",
     "type": "Station-Specific",
@@ -415,18 +403,6 @@
     "play_count_30d": 0,
     "last_played": "2026-05-19 22:16:48Z",
     "last_played_vienna": "2026-05-20 00:16:48 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Neil Diamond",
-    "title": "Be (Introduction Of Jonathan)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-21 12:54:35Z",
-    "last_played_vienna": "2026-05-21 14:54:35 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
@@ -595,6 +571,30 @@
     "play_count_30d": 0,
     "last_played": "2026-05-31 20:10:01Z",
     "last_played_vienna": "2026-05-31 22:10:01 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Iggy Pop",
+    "title": "Mass Production",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-01 21:53:32Z",
+    "last_played_vienna": "2026-06-01 23:53:32 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kid Cudi",
+    "title": "Enter Galactic (Love Connection Part I) (Album Version (Explicit))",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-02 15:59:35Z",
+    "last_played_vienna": "2026-06-02 17:59:35 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
