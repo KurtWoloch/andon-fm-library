@@ -456,18 +456,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dorian Electra",
-    "title": "Man To Man",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 1,
-    "last_played": "2026-07-30 21:59:23Z",
-    "last_played_vienna": "2026-07-30 23:59:23 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Creedence Clearwater Revival",
     "title": "Born On The Bayou",
     "type": "Station-Specific",
@@ -511,6 +499,18 @@
     "play_count_30d": 2,
     "last_played": "2026-07-27 21:44:30Z",
     "last_played_vienna": "2026-07-27 23:44:30 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dorian Electra",
+    "title": "Man To Man",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "last_played": "2026-07-31 05:14:58Z",
+    "last_played_vienna": "2026-07-31 07:14:58 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
