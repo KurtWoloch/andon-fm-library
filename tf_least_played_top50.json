@@ -216,18 +216,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Ashley Tisdale",
-    "title": "Bop to the Top",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-15 20:12:13Z",
-    "last_played_vienna": "2026-05-15 22:12:13 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dorian Electra",
     "title": "Feel Good Inc.",
     "type": "Station-Specific",
@@ -247,18 +235,6 @@
     "play_count_30d": 0,
     "last_played": "2026-05-17 11:13:56Z",
     "last_played_vienna": "2026-05-17 13:13:56 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "marshall4",
-    "title": "i get gender envy from shadow the hedgehog",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 11:22:56Z",
-    "last_played_vienna": "2026-05-17 13:22:56 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
@@ -307,18 +283,6 @@
     "play_count_30d": 0,
     "last_played": "2026-05-19 21:19:18Z",
     "last_played_vienna": "2026-05-19 23:19:18 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Nanowar of Steel",
-    "title": "Norwegian Reggaeton (feat. Charly Glamour & Gigatron)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-19 21:22:48Z",
-    "last_played_vienna": "2026-05-19 23:22:48 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
@@ -595,6 +559,42 @@
     "play_count_30d": 0,
     "last_played": "2026-06-06 05:03:42Z",
     "last_played_vienna": "2026-06-06 07:03:42 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Linkin Park",
+    "title": "Numb",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 05:08:11Z",
+    "last_played_vienna": "2026-06-06 07:08:11 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Avril Lavigne",
+    "title": "Sk8er Boi",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 05:11:41Z",
+    "last_played_vienna": "2026-06-06 07:11:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sum 41",
+    "title": "In Too Deep (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 05:18:11Z",
+    "last_played_vienna": "2026-06-06 07:18:11 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
