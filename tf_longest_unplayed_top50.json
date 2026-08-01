@@ -240,18 +240,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dire Straits",
-    "title": "Money for Nothing",
-    "type": "Shared",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-04-09 16:55:08Z",
-    "last_played_vienna": "2026-04-09 18:55:08 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ed Sheeran",
     "title": "Azizam",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-14 17:37:01Z",
     "last_played_vienna": "2026-05-14 19:37:01 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Beautiful People (feat. Khalid)",
+    "type": "Shared",
+    "play_count_total": 67,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 17:53:31Z",
+    "last_played_vienna": "2026-05-14 19:53:31 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
