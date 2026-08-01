@@ -360,18 +360,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Daft Punk feat. Pharrell Williams",
-    "title": "Lose Yourself to Dance  (feat. Pharrell Williams)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-29 23:32:14Z",
-    "last_played_vienna": "2026-07-30 01:32:14 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ramin Djawadi",
     "title": "Runaway",
     "type": "Station-Specific",
@@ -468,6 +456,18 @@
     "confidence": 1.0
   },
   {
+    "artist": "Daft Punk feat. Pharrell Williams",
+    "title": "Lose Yourself to Dance  (feat. Pharrell Williams)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-01 17:15:02Z",
+    "last_played_vienna": "2026-08-01 19:15:02 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Hiatus Kaiyote",
     "title": "By Fire",
     "type": "Shared",
@@ -528,18 +528,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Gala",
-    "title": "Freed From Desire",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-30 21:36:24Z",
-    "last_played_vienna": "2026-07-30 23:36:24 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Snarky Puppy",
     "title": "Lingus (Alternate Take)",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 4,
     "last_played": "2026-07-14 23:28:30Z",
     "last_played_vienna": "2026-07-15 01:28:30 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "WillyB",
+    "title": "Egyptus",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-07-15 02:55:33Z",
+    "last_played_vienna": "2026-07-15 04:55:33 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
