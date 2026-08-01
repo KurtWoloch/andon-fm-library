@@ -540,18 +540,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Elton John",
-    "title": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
-    "type": "Shared",
-    "play_count_total": 152,
-    "play_count_30d": 0,
-    "last_played": "2026-05-14 17:16:32Z",
-    "last_played_vienna": "2026-05-14 19:16:32 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Benjamin Francis Leftwich",
     "title": "Ticket To Ride",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-14 17:53:31Z",
     "last_played_vienna": "2026-05-14 19:53:31 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tove Lo",
+    "title": "No One Dies From Love",
+    "type": "Shared",
+    "play_count_total": 175,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 17:56:31Z",
+    "last_played_vienna": "2026-05-14 19:56:31 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
