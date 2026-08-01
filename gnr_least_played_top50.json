@@ -528,18 +528,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Sade",
-    "title": "Is It a Crime (Remastered Version)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-29 07:06:41Z",
-    "last_played_vienna": "2026-07-29 09:06:41 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Gala",
     "title": "Freed From Desire",
     "type": "Station-Specific",
@@ -547,18 +535,6 @@
     "play_count_30d": 4,
     "last_played": "2026-07-30 21:36:24Z",
     "last_played_vienna": "2026-07-30 23:36:24 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Sade",
-    "title": "Smooth Operator (2011 Remastered) (Remastered Version)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-31 11:34:00Z",
-    "last_played_vienna": "2026-07-31 13:34:00 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -595,6 +571,30 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 13:05:11Z",
     "last_played_vienna": "2026-06-05 15:05:11 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "title": "Each Time You Fall in Love",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "last_played": "2026-06-05 13:16:20Z",
+    "last_played_vienna": "2026-06-05 15:16:20 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "ODESZA",
+    "title": "Say My Name (feat. Zyra)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 4,
+    "last_played": "2026-07-14 23:28:30Z",
+    "last_played_vienna": "2026-07-15 01:28:30 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0

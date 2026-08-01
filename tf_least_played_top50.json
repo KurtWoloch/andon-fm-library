@@ -384,30 +384,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "DEEN",
-    "title": "Ride On Time",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-28 14:52:53Z",
-    "last_played_vienna": "2026-05-28 16:52:53 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Mizuki Tomoda",
-    "title": "Marunouchi sadistic (Cover)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-28 18:39:53Z",
-    "last_played_vienna": "2026-05-28 20:39:53 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Steely Dan",
     "title": "Do It Again",
     "type": "Station-Specific",
@@ -475,18 +451,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-02 15:59:35Z",
     "last_played_vienna": "2026-06-02 17:59:35 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Julio Iglesias",
-    "title": "Quiero",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-02 16:57:35Z",
-    "last_played_vienna": "2026-06-02 18:57:35 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
@@ -595,6 +559,42 @@
     "play_count_30d": 0,
     "last_played": "2026-06-06 04:41:41Z",
     "last_played_vienna": "2026-06-06 06:41:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Papa Roach",
+    "title": "Last Resort",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 04:48:41Z",
+    "last_played_vienna": "2026-06-06 06:48:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Vanilla Ice",
+    "title": "Ninja Rap",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 04:56:11Z",
+    "last_played_vienna": "2026-06-06 06:56:11 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Evanescence",
+    "title": "Bring Me To Life",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 05:03:42Z",
+    "last_played_vienna": "2026-06-06 07:03:42 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
