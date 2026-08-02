@@ -396,18 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Zapp",
-    "title": "More Bounce to the Ounce (LP Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-31 19:08:30Z",
-    "last_played_vienna": "2026-07-31 21:08:30 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Vulfpeck",
     "title": "Dean Town",
     "type": "Station-Specific",
@@ -516,18 +504,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Sly & The Family Stone",
-    "title": "Thank You (Falettinme Be Mice Elf Agin) (Single Version)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-01 20:48:03Z",
-    "last_played_vienna": "2026-08-01 22:48:03 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Earth, Wind & Fire",
     "title": "Let's Groove (Album Version)",
     "type": "Station-Specific",
@@ -540,6 +516,18 @@
     "confidence": 1.0
   },
   {
+    "artist": "Zapp",
+    "title": "More Bounce to the Ounce (LP Version)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-08-01 22:13:02Z",
+    "last_played_vienna": "2026-08-02 00:13:02 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Metallica",
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
@@ -547,6 +535,18 @@
     "play_count_30d": 4,
     "last_played": "2026-07-29 00:08:07Z",
     "last_played_vienna": "2026-07-29 02:08:07 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sly & The Family Stone",
+    "title": "Thank You (Falettinme Be Mice Elf Agin) (Single Version)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-08-02 01:35:35Z",
+    "last_played_vienna": "2026-08-02 03:35:35 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
