@@ -168,18 +168,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Girls' Generation",
-    "title": "Gee",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-15 11:09:43Z",
-    "last_played_vienna": "2026-05-15 13:09:43 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dorian Electra",
     "title": "Feel Good Inc.",
     "type": "Station-Specific",
@@ -432,18 +420,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Vicente Fernández",
-    "title": "El Rey",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-11 17:58:24Z",
-    "last_played_vienna": "2026-06-11 19:58:24 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dire Straits",
     "title": "Sultans Of Swing",
     "type": "Station-Specific",
@@ -528,18 +504,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tom Lehrer",
-    "title": "Poisoning Pigeons in the Park",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-23 19:14:46Z",
-    "last_played_vienna": "2026-06-23 21:14:46 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Paco de Lucía",
     "title": "Mediterranean sundance - Di Meola: Mediterranean sundance",
     "type": "Station-Specific",
@@ -595,6 +559,42 @@
     "play_count_30d": 1,
     "last_played": "2026-07-06 19:36:35Z",
     "last_played_vienna": "2026-07-06 21:36:35 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Vaya Con Dios",
+    "title": "Nah Neh Nah",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-07 18:09:13Z",
+    "last_played_vienna": "2026-07-07 20:09:13 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Proclaimers",
+    "title": "I'm Gonna Be (500 Miles)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-09 02:10:28Z",
+    "last_played_vienna": "2026-07-09 04:10:28 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Chet Atkins",
+    "title": "Why Worry (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-11 23:28:42Z",
+    "last_played_vienna": "2026-07-12 01:28:42 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
