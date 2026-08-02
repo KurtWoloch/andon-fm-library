@@ -456,18 +456,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mr.Kitty",
-    "title": "After Dark",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-12 16:18:05Z",
-    "last_played_vienna": "2026-06-12 18:18:05 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Evergrey",
     "title": "In Orbit",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 1,
     "last_played": "2026-07-05 09:28:56Z",
     "last_played_vienna": "2026-07-05 11:28:56 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lindsey Buckingham",
+    "title": "Trouble",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-06 19:36:35Z",
+    "last_played_vienna": "2026-07-06 21:36:35 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0

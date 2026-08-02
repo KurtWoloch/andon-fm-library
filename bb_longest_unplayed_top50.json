@@ -336,18 +336,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tate McRae",
-    "title": "TIT FOR TAT",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 02:39:23Z",
-    "last_played_vienna": "2026-05-17 04:39:23 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Khalid",
     "title": "please don't call (333)",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-18 21:39:05Z",
     "last_played_vienna": "2026-05-18 23:39:05 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Taylor Swift",
+    "title": "Fortnight",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 0,
+    "last_played": "2026-05-20 17:46:59Z",
+    "last_played_vienna": "2026-05-20 19:46:59 MESZ",
     "file_id": null,
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
