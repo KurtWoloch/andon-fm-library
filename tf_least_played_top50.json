@@ -396,18 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Cure",
-    "title": "Burn (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-10 00:58:02Z",
-    "last_played_vienna": "2026-06-10 02:58:02 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Doobie Brothers",
     "title": "Take Me In Your Arms (Rock Me A Little While)",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 1,
     "last_played": "2026-07-05 01:32:49Z",
     "last_played_vienna": "2026-07-05 03:32:49 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Enjambre",
+    "title": "Vida En El Espejo",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-05 09:28:56Z",
+    "last_played_vienna": "2026-07-05 11:28:56 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
