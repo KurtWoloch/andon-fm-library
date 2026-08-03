@@ -504,18 +504,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Lindsey Buckingham",
-    "title": "Trouble",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-06 19:36:35Z",
-    "last_played_vienna": "2026-07-06 21:36:35 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Vaya Con Dios",
     "title": "Nah Neh Nah",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 1,
     "last_played": "2026-07-21 16:47:08Z",
     "last_played_vienna": "2026-07-21 18:47:08 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Apo Hiking Society",
+    "title": "When I Met You",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-21 17:41:38Z",
+    "last_played_vienna": "2026-07-21 19:41:38 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0

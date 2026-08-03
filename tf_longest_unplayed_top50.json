@@ -264,18 +264,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Boney M.",
-    "title": "Gotta Go Home",
-    "type": "Shared",
-    "play_count_total": 48,
-    "play_count_30d": 0,
-    "last_played": "2026-04-30 00:39:56Z",
-    "last_played_vienna": "2026-04-30 02:39:56 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Lil Jon",
     "title": "Get Low [Explicit]",
     "type": "Shared",
@@ -468,18 +456,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tove Lo",
-    "title": "No One Dies From Love",
-    "type": "Shared",
-    "play_count_total": 175,
-    "play_count_30d": 0,
-    "last_played": "2026-05-14 17:56:31Z",
-    "last_played_vienna": "2026-05-14 19:56:31 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "twenty one pilots",
     "title": "Stressed Out",
     "type": "Shared",
@@ -595,6 +571,30 @@
     "play_count_30d": 0,
     "last_played": "2026-05-14 20:40:31Z",
     "last_played_vienna": "2026-05-14 22:40:31 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Street Fighting Man",
+    "type": "Shared",
+    "play_count_total": 10,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 20:49:01Z",
+    "last_played_vienna": "2026-05-14 22:49:01 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Weeknd",
+    "title": "Starboy",
+    "type": "Shared",
+    "play_count_total": 220,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 21:35:31Z",
+    "last_played_vienna": "2026-05-14 23:35:31 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
