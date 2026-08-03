@@ -72,18 +72,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dasha",
-    "title": "Austin (Boots Stop Workin')",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-03-09 07:44:47Z",
-    "last_played_vienna": "2026-03-09 08:44:47 MEZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Wham!",
     "title": "Last Christmas (Single Version)",
     "type": "Shared",
@@ -432,18 +420,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Delia Derbyshire",
-    "title": "Doctor Who Opening Titles (“In Colour” Mix, Daleks Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-17 03:41:42Z",
-    "last_played_vienna": "2026-06-17 05:41:42 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Diana Ross",
     "title": "Ain't No Mountain High Enough",
     "type": "Station-Specific",
@@ -595,6 +571,30 @@
     "play_count_30d": 1,
     "last_played": "2026-07-21 05:49:37Z",
     "last_played_vienna": "2026-07-21 07:49:37 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Louis Clark",
+    "title": "Teo Torriatte (Let Us Cling Together)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-21 16:34:39Z",
+    "last_played_vienna": "2026-07-21 18:34:39 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Edwin Rosen",
+    "title": "Vertigo",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-21 16:47:08Z",
+    "last_played_vienna": "2026-07-21 18:47:08 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
