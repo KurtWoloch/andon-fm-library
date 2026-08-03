@@ -252,18 +252,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Relaxing Piano Crew",
-    "title": "The Ballad of a Distant Sound",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-31 12:08:59Z",
-    "last_played_vienna": "2026-07-31 14:08:59 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Merle Haggard & The Strangers",
     "title": "Mother, The Queen Of My Heart",
     "type": "Station-Specific",
@@ -271,18 +259,6 @@
     "play_count_30d": 2,
     "last_played": "2026-07-31 12:11:29Z",
     "last_played_vienna": "2026-07-31 14:11:29 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Relaxing Piano Crew",
-    "title": "At the Living Room Door",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-31 12:31:00Z",
-    "last_played_vienna": "2026-07-31 14:31:00 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
@@ -367,6 +343,30 @@
     "play_count_30d": 3,
     "last_played": "2026-08-02 19:57:13Z",
     "last_played_vienna": "2026-08-02 21:57:13 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Relaxing Piano Crew",
+    "title": "The Ballad of a Distant Sound",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-03 09:29:19Z",
+    "last_played_vienna": "2026-08-03 11:29:19 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Relaxing Piano Crew",
+    "title": "At the Living Room Door",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-03 09:31:48Z",
+    "last_played_vienna": "2026-08-03 11:31:48 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
