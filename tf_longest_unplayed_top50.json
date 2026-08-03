@@ -252,18 +252,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Beck",
-    "title": "Devils Haircut",
-    "type": "Shared",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-04-09 17:11:38Z",
-    "last_played_vienna": "2026-04-09 19:11:38 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bon Jovi",
     "title": "You Give Love A Bad Name",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-14 18:25:31Z",
     "last_played_vienna": "2026-05-14 20:25:31 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tate McRae",
+    "title": "greedy",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 18:28:02Z",
+    "last_played_vienna": "2026-05-14 20:28:02 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
