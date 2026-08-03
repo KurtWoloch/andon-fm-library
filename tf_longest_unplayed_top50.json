@@ -120,18 +120,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Megadeth",
-    "title": "Tipping Point",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-03-18 18:46:25Z",
-    "last_played_vienna": "2026-03-18 19:46:25 MEZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Chris De Burgh",
     "title": "The Getaway",
     "type": "Shared",
@@ -175,18 +163,6 @@
     "play_count_30d": 0,
     "last_played": "2026-03-28 10:40:57Z",
     "last_played_vienna": "2026-03-28 11:40:57 MEZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Chappell Roan",
-    "title": "Good Luck, Babe!",
-    "type": "Shared",
-    "play_count_total": 64,
-    "play_count_30d": 0,
-    "last_played": "2026-03-29 02:53:03Z",
-    "last_played_vienna": "2026-03-29 04:53:03 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
@@ -480,18 +456,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Side-A",
-    "title": "Only You (There Will Never Be Another)",
-    "type": "Shared",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-05-14 12:53:01Z",
-    "last_played_vienna": "2026-05-14 14:53:01 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Noah Kahan",
     "title": "Stick Season",
     "type": "Shared",
@@ -595,6 +559,42 @@
     "play_count_30d": 0,
     "last_played": "2026-05-14 18:28:02Z",
     "last_played_vienna": "2026-05-14 20:28:02 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Teddy Swims",
+    "title": "The Door",
+    "type": "Shared",
+    "play_count_total": 8,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 18:39:32Z",
+    "last_played_vienna": "2026-05-14 20:39:32 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ethel Cain",
+    "title": "Punish",
+    "type": "Shared",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 19:06:01Z",
+    "last_played_vienna": "2026-05-14 21:06:01 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "twenty one pilots",
+    "title": "Stressed Out",
+    "type": "Shared",
+    "play_count_total": 18,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 19:24:01Z",
+    "last_played_vienna": "2026-05-14 21:24:01 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
