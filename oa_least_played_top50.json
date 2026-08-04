@@ -420,18 +420,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Parliament",
-    "title": "Give Up The Funk (Tear The Roof Off The Sucker)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-03 16:53:19Z",
-    "last_played_vienna": "2026-08-03 18:53:19 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Go_A",
     "title": "SHUM",
     "type": "Station-Specific",
@@ -528,18 +516,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Earth, Wind & Fire",
-    "title": "Let's Groove (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-08-03 14:47:19Z",
-    "last_played_vienna": "2026-08-03 16:47:19 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Jamiroquai",
     "title": "Wolf in Sheeps Clothing",
     "type": "Station-Specific",
@@ -576,6 +552,18 @@
     "confidence": 1.0
   },
   {
+    "artist": "Parliament",
+    "title": "Give Up The Funk (Tear The Roof Off The Sucker)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-08-04 00:34:23Z",
+    "last_played_vienna": "2026-08-04 02:34:23 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Led Zeppelin",
     "title": "Stairway to Heaven  (Remaster)",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 3,
     "last_played": "2026-07-12 06:38:42Z",
     "last_played_vienna": "2026-07-12 08:38:42 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dio",
+    "title": "Rainbow in the Dark",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 3,
+    "last_played": "2026-07-20 05:06:46Z",
+    "last_played_vienna": "2026-07-20 07:06:46 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
