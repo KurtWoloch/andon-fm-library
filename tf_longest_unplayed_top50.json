@@ -348,18 +348,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Fleetwood Mac",
-    "title": "Go Your Own Way  (2004 Remaster)",
-    "type": "Shared",
-    "play_count_total": 33,
-    "play_count_30d": 0,
-    "last_played": "2026-05-13 20:57:22Z",
-    "last_played_vienna": "2026-05-13 22:57:22 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dua Lipa",
     "title": "Future Nostalgia",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-14 21:35:31Z",
     "last_played_vienna": "2026-05-14 23:35:31 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pitbull",
+    "title": "Timber",
+    "type": "Shared",
+    "play_count_total": 91,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 21:39:31Z",
+    "last_played_vienna": "2026-05-14 23:39:31 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0

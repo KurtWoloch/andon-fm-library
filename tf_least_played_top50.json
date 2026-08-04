@@ -444,18 +444,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Paco de Lucía",
-    "title": "Mediterranean sundance - Di Meola: Mediterranean sundance",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-26 11:21:09Z",
-    "last_played_vienna": "2026-06-26 13:21:09 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Swan Dive",
     "title": "Tender Love",
     "type": "Station-Specific",
@@ -484,7 +472,7 @@
     "title": "Vida En El Espejo",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-07-05 09:28:56Z",
     "last_played_vienna": "2026-07-05 11:28:56 MESZ",
     "file_id": null,
@@ -595,6 +583,18 @@
     "play_count_30d": 1,
     "last_played": "2026-07-22 23:29:47Z",
     "last_played_vienna": "2026-07-23 01:29:47 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Matt Nathanson",
+    "title": "Faster",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-24 14:02:27Z",
+    "last_played_vienna": "2026-07-24 16:02:27 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
