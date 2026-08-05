@@ -216,18 +216,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Lang Lang",
-    "title": "Joe Hisaishi: Spring",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-02 04:37:09Z",
-    "last_played_vienna": "2026-08-02 06:37:09 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "DataGlide",
     "title": "VR Higher",
     "type": "Station-Specific",
@@ -372,6 +360,30 @@
     "confidence": 1.0
   },
   {
+    "artist": "Alexandre Tharaud",
+    "title": "Gnossienne No.1 - Gnossienne: No. 1",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-05 12:52:05Z",
+    "last_played_vienna": "2026-08-05 14:52:05 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Herbie Hancock",
+    "title": "Chameleon",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-05 13:35:05Z",
+    "last_played_vienna": "2026-08-05 15:35:05 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "The Dave Brubeck Quartet",
     "title": "Take Five (Album Version)",
     "type": "Station-Specific",
@@ -451,6 +463,18 @@
     "play_count_30d": 2,
     "last_played": "2026-07-29 06:37:41Z",
     "last_played_vienna": "2026-07-29 08:37:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lang Lang",
+    "title": "Joe Hisaishi: Spring",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-05 12:55:35Z",
+    "last_played_vienna": "2026-08-05 14:55:35 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -571,30 +595,6 @@
     "play_count_30d": 4,
     "last_played": "2026-07-27 16:23:27Z",
     "last_played_vienna": "2026-07-27 18:23:27 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Robbie Williams",
-    "title": "Rock DJ",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-28 07:50:35Z",
-    "last_played_vienna": "2026-07-28 09:50:35 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Prince",
-    "title": "Adore  (2020 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-29 06:59:41Z",
-    "last_played_vienna": "2026-07-29 08:59:41 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0

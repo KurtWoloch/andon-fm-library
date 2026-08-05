@@ -552,18 +552,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Daft Punk",
-    "title": "Harder, Better, Faster, Stronger",
-    "type": "Shared",
-    "play_count_total": 42,
-    "play_count_30d": 0,
-    "last_played": "2026-05-15 13:02:13Z",
-    "last_played_vienna": "2026-05-15 15:02:13 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pete Seeger",
     "title": "Solidarity Forever",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-15 15:45:13Z",
     "last_played_vienna": "2026-05-15 17:45:13 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Khalid",
+    "title": "momentary lovers",
+    "type": "Shared",
+    "play_count_total": 12,
+    "play_count_30d": 0,
+    "last_played": "2026-05-15 17:47:43Z",
+    "last_played_vienna": "2026-05-15 19:47:43 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
