@@ -168,30 +168,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dorian Electra",
-    "title": "Hella Good",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 11:42:57Z",
-    "last_played_vienna": "2026-05-17 13:42:57 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Nekrogoblikon",
-    "title": "No One Survives",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-19 21:10:18Z",
-    "last_played_vienna": "2026-05-19 23:10:18 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Nekrogoblikon",
     "title": "Powercore",
     "type": "Station-Specific",
@@ -283,18 +259,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-02 19:55:36Z",
     "last_played_vienna": "2026-06-02 21:55:36 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Eiffel 65",
-    "title": "Blue (Flume Remix)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-06 04:19:41Z",
-    "last_played_vienna": "2026-06-06 06:19:41 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
@@ -595,6 +559,42 @@
     "play_count_30d": 1,
     "last_played": "2026-07-24 14:58:27Z",
     "last_played_vienna": "2026-07-24 16:58:27 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "When Did Love Become A Test",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-26 03:45:09Z",
+    "last_played_vienna": "2026-07-26 05:45:09 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Who Is It",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-26 04:18:40Z",
+    "last_played_vienna": "2026-07-26 06:18:40 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Edwin Starr",
+    "title": "War",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-29 21:47:41Z",
+    "last_played_vienna": "2026-07-29 23:47:41 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0

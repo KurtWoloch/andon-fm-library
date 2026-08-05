@@ -120,18 +120,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mireille Mathieu",
-    "title": "Together We're Strong",
-    "type": "Shared",
-    "play_count_total": 35,
-    "play_count_30d": 0,
-    "last_played": "2026-03-18 21:47:25Z",
-    "last_played_vienna": "2026-03-18 22:47:25 MEZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Benson Boone",
     "title": "Beautiful Things",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-15 15:04:43Z",
     "last_played_vienna": "2026-05-15 17:04:43 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Taylor Swift",
+    "title": "Cruel Summer",
+    "type": "Shared",
+    "play_count_total": 128,
+    "play_count_30d": 0,
+    "last_played": "2026-05-15 15:45:13Z",
+    "last_played_vienna": "2026-05-15 17:45:13 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
