@@ -204,18 +204,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Roberta Flack",
-    "title": "Killing Me Softly With His Song",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-02 04:32:09Z",
-    "last_played_vienna": "2026-08-02 06:32:09 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "DataGlide",
     "title": "VR Higher",
     "type": "Station-Specific",
@@ -463,6 +451,18 @@
     "play_count_30d": 2,
     "last_played": "2026-08-05 15:30:36Z",
     "last_played_vienna": "2026-08-05 17:30:36 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Roberta Flack",
+    "title": "Killing Me Softly With His Song",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-05 20:53:06Z",
+    "last_played_vienna": "2026-08-05 22:53:06 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0

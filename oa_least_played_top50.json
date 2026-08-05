@@ -252,18 +252,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Merle Haggard & The Strangers",
-    "title": "Mother, The Queen Of My Heart",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-07-31 12:11:29Z",
-    "last_played_vienna": "2026-07-31 14:11:29 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Confetti",
     "title": "People Suck [Explicit]",
     "type": "Shared",
@@ -355,6 +343,18 @@
     "play_count_30d": 3,
     "last_played": "2026-08-03 09:31:48Z",
     "last_played_vienna": "2026-08-03 11:31:48 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Merle Haggard & The Strangers",
+    "title": "Mother, The Queen Of My Heart",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-05 20:48:35Z",
+    "last_played_vienna": "2026-08-05 22:48:35 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
@@ -576,18 +576,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Earth, Wind & Fire",
-    "title": "Let's Groove (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-08-04 00:28:23Z",
-    "last_played_vienna": "2026-08-04 02:28:23 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Kool & The Gang",
     "title": "Jungle Boogie (Album Version)",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 7,
     "last_played": "2026-08-05 18:36:05Z",
     "last_played_vienna": "2026-08-05 20:36:05 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mötley Crüe",
+    "title": "Dr. Feelgood",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "last_played": "2026-07-24 16:33:27Z",
+    "last_played_vienna": "2026-07-24 18:33:27 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
