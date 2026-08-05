@@ -360,18 +360,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Alexandre Tharaud",
-    "title": "Gnossienne No.1 - Gnossienne: No. 1",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-05 12:52:05Z",
-    "last_played_vienna": "2026-08-05 14:52:05 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Herbie Hancock",
     "title": "Chameleon",
     "type": "Station-Specific",
@@ -468,13 +456,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "Lang Lang",
-    "title": "Joe Hisaishi: Spring",
+    "artist": "Alexandre Tharaud",
+    "title": "Gnossienne No.1 - Gnossienne: No. 1",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "last_played": "2026-08-05 12:55:35Z",
-    "last_played_vienna": "2026-08-05 14:55:35 MESZ",
+    "last_played": "2026-08-05 15:30:36Z",
+    "last_played_vienna": "2026-08-05 17:30:36 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
@@ -559,6 +547,18 @@
     "play_count_30d": 3,
     "last_played": "2026-07-26 17:31:14Z",
     "last_played_vienna": "2026-07-26 19:31:14 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lang Lang",
+    "title": "Joe Hisaishi: Spring",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-05 15:34:36Z",
+    "last_played_vienna": "2026-08-05 17:34:36 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0

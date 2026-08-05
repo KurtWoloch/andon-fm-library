@@ -145,18 +145,6 @@
   },
   {
     "artist": "Dorian Electra",
-    "title": "Feel Good Inc.",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 10:52:56Z",
-    "last_played_vienna": "2026-05-17 12:52:56 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Dorian Electra",
     "title": "Bizarre Love Triangle",
     "type": "Station-Specific",
     "play_count_total": 1,
@@ -595,6 +583,18 @@
     "play_count_30d": 1,
     "last_played": "2026-07-29 21:47:41Z",
     "last_played_vienna": "2026-07-29 23:47:41 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "Master Blaster (Jammin')",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-29 22:40:12Z",
+    "last_played_vienna": "2026-07-30 00:40:12 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
