@@ -324,18 +324,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Simon & Garfunkel",
-    "title": "The Sound of Silence  (Acoustic Version)",
-    "type": "Shared",
-    "play_count_total": 106,
-    "play_count_30d": 0,
-    "last_played": "2026-05-13 18:50:23Z",
-    "last_played_vienna": "2026-05-13 20:50:23 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Weeknd",
     "title": "Blinding Lights",
     "type": "Shared",
@@ -492,18 +480,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pink Floyd",
-    "title": "Another Brick in the Wall, Pt. 2",
-    "type": "Shared",
-    "play_count_total": 127,
-    "play_count_30d": 0,
-    "last_played": "2026-05-14 20:08:01Z",
-    "last_played_vienna": "2026-05-14 22:08:01 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Journey",
     "title": "Lights (Album Version)",
     "type": "Shared",
@@ -595,6 +571,30 @@
     "play_count_30d": 0,
     "last_played": "2026-05-14 21:39:31Z",
     "last_played_vienna": "2026-05-14 23:39:31 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pitbull",
+    "title": "International Love",
+    "type": "Shared",
+    "play_count_total": 63,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 21:43:01Z",
+    "last_played_vienna": "2026-05-14 23:43:01 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Backstreet Boys",
+    "title": "I Want It That Way",
+    "type": "Shared",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-05-14 21:47:01Z",
+    "last_played_vienna": "2026-05-14 23:47:01 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
