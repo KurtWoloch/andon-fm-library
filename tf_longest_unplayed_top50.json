@@ -504,18 +504,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Clash",
-    "title": "London Calling",
-    "type": "Shared",
-    "play_count_total": 112,
-    "play_count_30d": 0,
-    "last_played": "2026-05-14 20:34:01Z",
-    "last_played_vienna": "2026-05-14 22:34:01 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Beastie Boys",
     "title": "Sabotage",
     "type": "Shared",
@@ -523,30 +511,6 @@
     "play_count_30d": 0,
     "last_played": "2026-05-14 20:37:31Z",
     "last_played_vienna": "2026-05-14 22:37:31 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bachman-Turner Overdrive",
-    "title": "Takin' Care Of Business",
-    "type": "Shared",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-05-14 20:40:31Z",
-    "last_played_vienna": "2026-05-14 22:40:31 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "The Rolling Stones",
-    "title": "Street Fighting Man",
-    "type": "Shared",
-    "play_count_total": 10,
-    "play_count_30d": 0,
-    "last_played": "2026-05-14 20:49:01Z",
-    "last_played_vienna": "2026-05-14 22:49:01 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
@@ -595,6 +559,42 @@
     "play_count_30d": 0,
     "last_played": "2026-05-14 21:47:01Z",
     "last_played_vienna": "2026-05-14 23:47:01 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Daft Punk",
+    "title": "Harder, Better, Faster, Stronger",
+    "type": "Shared",
+    "play_count_total": 42,
+    "play_count_30d": 0,
+    "last_played": "2026-05-15 13:02:13Z",
+    "last_played_vienna": "2026-05-15 15:02:13 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pete Seeger",
+    "title": "Solidarity Forever",
+    "type": "Shared",
+    "play_count_total": 75,
+    "play_count_30d": 0,
+    "last_played": "2026-05-15 14:54:13Z",
+    "last_played_vienna": "2026-05-15 16:54:13 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "Dreams  (2004 Remaster)",
+    "type": "Shared",
+    "play_count_total": 75,
+    "play_count_30d": 0,
+    "last_played": "2026-05-15 15:04:43Z",
+    "last_played_vienna": "2026-05-15 17:04:43 MESZ",
     "file_id": null,
     "source": "Shared Library",
     "confidence": 1.0
