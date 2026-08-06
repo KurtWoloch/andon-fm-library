@@ -84,18 +84,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Beatles",
-    "title": "Revolution 9 (Remastered 2009)",
-    "type": "Shared",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-03-15 06:31:01Z",
-    "last_played_vienna": "2026-03-15 07:31:01 MEZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Wham!",
     "title": "Last Christmas (Single Version)",
     "type": "Shared",
@@ -564,18 +552,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Queen",
-    "title": "Under Pressure (Remastered 2011)",
-    "type": "Shared",
-    "play_count_total": 10,
-    "play_count_30d": 0,
-    "last_played": "2026-05-15 20:43:43Z",
-    "last_played_vienna": "2026-05-15 22:43:43 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "John Lennon",
     "title": "Imagine (Remastered 2010)",
     "type": "Shared",
@@ -588,15 +564,39 @@
     "confidence": 1.0
   },
   {
-    "artist": "ABBA",
-    "title": "Waterloo (English Version)",
+    "artist": "Duncan Laurence",
+    "title": "Arcade (feat. FLETCHER)",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 0,
-    "last_played": "2026-05-17 21:28:27Z",
-    "last_played_vienna": "2026-05-17 23:28:27 MESZ",
+    "last_played": "2026-05-17 21:42:57Z",
+    "last_played_vienna": "2026-05-17 23:42:57 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Henry Cow",
+    "title": "Beautiful as the Moo",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-05-18 02:02:00Z",
+    "last_played_vienna": "2026-05-18 04:02:00 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Petit Biscuit",
+    "title": "Sunset Lover",
+    "type": "Shared",
+    "play_count_total": 142,
+    "play_count_30d": 0,
+    "last_played": "2026-05-18 13:05:33Z",
+    "last_played_vienna": "2026-05-18 15:05:33 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]

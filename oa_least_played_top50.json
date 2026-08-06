@@ -348,18 +348,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Fela Kuti",
-    "title": "Water No Get Enemy",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-06 12:56:46Z",
-    "last_played_vienna": "2026-08-06 14:56:46 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Creedence Clearwater Revival",
     "title": "Born On The Bayou",
     "type": "Station-Specific",
@@ -405,6 +393,18 @@
     "last_played_vienna": "2026-07-31 22:52:29 MESZ",
     "file_id": null,
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Fela Kuti",
+    "title": "Water No Get Enemy",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-08-06 20:02:17Z",
+    "last_played_vienna": "2026-08-06 22:02:17 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
   {
