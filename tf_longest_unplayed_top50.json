@@ -300,18 +300,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Minako Yoshida",
-    "title": "I'll Teach You All About Love",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-13 17:29:22Z",
-    "last_played_vienna": "2026-05-13 19:29:22 MESZ",
-    "file_id": null,
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Weeknd",
     "title": "Blinding Lights",
     "type": "Shared",
@@ -597,6 +585,18 @@
     "last_played_vienna": "2026-05-17 13:13:56 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "John Lennon",
+    "title": "Imagine (Remastered 2010)",
+    "type": "Shared",
+    "play_count_total": 110,
+    "play_count_30d": 0,
+    "last_played": "2026-05-17 19:28:57Z",
+    "last_played_vienna": "2026-05-17 21:28:57 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
