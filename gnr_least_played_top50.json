@@ -444,18 +444,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Alexandre Tharaud",
-    "title": "Gnossienne No.1 - Gnossienne: No. 1",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-05 15:30:36Z",
-    "last_played_vienna": "2026-08-05 17:30:36 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Roberta Flack",
     "title": "Killing Me Softly With His Song",
     "type": "Station-Specific",
@@ -552,18 +540,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Lang Lang",
-    "title": "Joe Hisaishi: Spring",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-05 15:34:36Z",
-    "last_played_vienna": "2026-08-05 17:34:36 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Hiatus Kaiyote",
     "title": "By Fire",
     "type": "Shared",
@@ -595,6 +571,30 @@
     "play_count_30d": 4,
     "last_played": "2026-07-27 16:23:27Z",
     "last_played_vienna": "2026-07-27 18:23:27 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Robbie Williams",
+    "title": "Rock DJ",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-28 07:50:35Z",
+    "last_played_vienna": "2026-07-28 09:50:35 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Prince",
+    "title": "Adore  (2020 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-29 06:59:41Z",
+    "last_played_vienna": "2026-07-29 08:59:41 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0

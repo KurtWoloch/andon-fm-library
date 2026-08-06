@@ -420,18 +420,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Earth, Wind & Fire",
-    "title": "September",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-05 12:22:35Z",
-    "last_played_vienna": "2026-08-05 14:22:35 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Alone Again (Naturally)",
     "type": "Station-Specific",
@@ -511,6 +499,18 @@
     "play_count_30d": 3,
     "last_played": "2026-07-31 20:42:30Z",
     "last_played_vienna": "2026-07-31 22:42:30 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "September",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-08-06 00:05:07Z",
+    "last_played_vienna": "2026-08-06 02:05:07 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
