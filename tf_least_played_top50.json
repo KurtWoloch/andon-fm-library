@@ -480,18 +480,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Edwin Rosen",
-    "title": "Vertigo",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-21 16:47:08Z",
-    "last_played_vienna": "2026-07-21 18:47:08 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Apo Hiking Society",
     "title": "When I Met You",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 1,
     "last_played": "2026-07-29 22:40:12Z",
     "last_played_vienna": "2026-07-30 00:40:12 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "U2",
+    "title": "Beautiful Day (Remastered 2020)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-29 22:45:41Z",
+    "last_played_vienna": "2026-07-30 00:45:41 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
