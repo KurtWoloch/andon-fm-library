@@ -360,6 +360,30 @@
     "confidence": 1.0
   },
   {
+    "artist": "Stevie Wonder",
+    "title": "Isn't She Lovely",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-06 14:53:17Z",
+    "last_played_vienna": "2026-08-06 16:53:17 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Stevie Wonder",
+    "title": "Higher Ground (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-06 15:00:17Z",
+    "last_played_vienna": "2026-08-06 17:00:17 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "The Dave Brubeck Quartet",
     "title": "Take Five (Album Version)",
     "type": "Station-Specific",
@@ -571,30 +595,6 @@
     "play_count_30d": 4,
     "last_played": "2026-07-27 16:23:27Z",
     "last_played_vienna": "2026-07-27 18:23:27 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Robbie Williams",
-    "title": "Rock DJ",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-28 07:50:35Z",
-    "last_played_vienna": "2026-07-28 09:50:35 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Prince",
-    "title": "Adore  (2020 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-07-29 06:59:41Z",
-    "last_played_vienna": "2026-07-29 08:59:41 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0

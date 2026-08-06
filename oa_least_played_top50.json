@@ -564,18 +564,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Kool & The Gang",
-    "title": "Jungle Boogie (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-08-05 18:36:05Z",
-    "last_played_vienna": "2026-08-05 20:36:05 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Earth, Wind & Fire",
     "title": "September",
     "type": "Station-Specific",
@@ -597,6 +585,18 @@
     "last_played_vienna": "2026-07-24 18:33:27 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pete Seeger",
+    "title": "Solidarity Forever",
+    "type": "Shared",
+    "play_count_total": 8,
+    "play_count_30d": 1,
+    "last_played": "2026-07-31 12:14:59Z",
+    "last_played_vienna": "2026-07-31 14:14:59 MESZ",
+    "file_id": null,
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]

@@ -576,18 +576,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dorian Electra",
-    "title": "Bizarre Love Triangle",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 11:13:56Z",
-    "last_played_vienna": "2026-05-17 13:13:56 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "John Lennon",
     "title": "Imagine (Remastered 2010)",
     "type": "Shared",
@@ -597,6 +585,18 @@
     "last_played_vienna": "2026-05-17 21:28:57 MESZ",
     "file_id": null,
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "ABBA",
+    "title": "Waterloo (English Version)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-05-17 21:28:27Z",
+    "last_played_vienna": "2026-05-17 23:28:27 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
 ]

@@ -132,18 +132,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dorian Electra",
-    "title": "Bizarre Love Triangle",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 11:13:56Z",
-    "last_played_vienna": "2026-05-17 13:13:56 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Nekrogoblikon",
     "title": "Powercore",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 1,
     "last_played": "2026-07-30 07:38:48Z",
     "last_played_vienna": "2026-07-30 09:38:48 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Glass Animals",
+    "title": "Heat Waves (Stripped Back)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-30 08:32:49Z",
+    "last_played_vienna": "2026-07-30 10:32:49 MESZ",
     "file_id": null,
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
