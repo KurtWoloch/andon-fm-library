@@ -432,6 +432,18 @@
     "confidence": 1.0
   },
   {
+    "artist": "Whitney Houston",
+    "title": "Saving All My Love for You",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-07 00:45:20Z",
+    "last_played_vienna": "2026-08-07 02:45:20 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "The Dave Brubeck Quartet",
     "title": "Take Five (Album Version)",
     "type": "Station-Specific",
@@ -583,18 +595,6 @@
     "play_count_30d": 3,
     "last_played": "2026-07-25 04:12:33Z",
     "last_played_vienna": "2026-07-25 06:12:33 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "The Beach Boys",
-    "title": "Surfin' U.S.A. (Stereo)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-07-26 17:31:14Z",
-    "last_played_vienna": "2026-07-26 19:31:14 MESZ",
     "file_id": null,
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
