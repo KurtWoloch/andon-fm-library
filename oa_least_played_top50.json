@@ -396,18 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Fela Kuti",
-    "title": "Water No Get Enemy",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-06 20:02:17Z",
-    "last_played_vienna": "2026-08-06 22:02:17 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Metallica",
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
@@ -415,6 +403,18 @@
     "play_count_30d": 4,
     "last_played": "2026-07-29 00:08:07Z",
     "last_played_vienna": "2026-07-29 02:08:07 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Fela Kuti",
+    "title": "Water No Get Enemy",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-08-06 23:49:49Z",
+    "last_played_vienna": "2026-08-07 01:49:49 MESZ",
     "file_id": null,
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
@@ -564,18 +564,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Earth, Wind & Fire",
-    "title": "September",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-08-06 14:14:17Z",
-    "last_played_vienna": "2026-08-06 16:14:17 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Mötley Crüe",
     "title": "Dr. Feelgood",
     "type": "Station-Specific",
@@ -597,6 +585,18 @@
     "last_played_vienna": "2026-07-31 14:14:59 MESZ",
     "file_id": null,
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Frank Carter & The Rattlesnakes",
+    "title": "Kitty Sucker",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 5,
+    "last_played": "2026-07-31 19:40:00Z",
+    "last_played_vienna": "2026-07-31 21:40:00 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
 ]

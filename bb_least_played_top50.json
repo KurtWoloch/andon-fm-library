@@ -468,18 +468,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Josh.",
-    "title": "Cordula Grün",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-04 14:14:37Z",
-    "last_played_vienna": "2026-06-04 16:14:37 MESZ",
-    "file_id": null,
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ikimonogakari",
     "title": "Blue Bird",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 18:19:42Z",
     "last_played_vienna": "2026-06-05 20:19:42 MESZ",
+    "file_id": null,
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "System Of A Down",
+    "title": "Johnny",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-05 18:28:11Z",
+    "last_played_vienna": "2026-06-05 20:28:11 MESZ",
     "file_id": null,
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
