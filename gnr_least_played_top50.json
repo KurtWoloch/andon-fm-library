@@ -319,17 +319,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Whitney Houston",
-    "title": "Saving All My Love for You",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-07 20:24:57Z",
-    "last_played_vienna": "2026-08-07 22:24:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Daft Punk",
     "title": "Face to Face",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 3,
     "last_played": "2026-08-06 07:50:16Z",
     "last_played_vienna": "2026-08-06 09:50:16 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Whitney Houston",
+    "title": "I Wanna Dance with Somebody (Who Loves Me)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-08 09:20:32Z",
+    "last_played_vienna": "2026-08-08 11:20:32 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
