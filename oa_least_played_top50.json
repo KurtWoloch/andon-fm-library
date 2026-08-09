@@ -165,6 +165,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Pet Shop Boys",
+    "title": "What Have I Done to Deserve This? (with Dusty Springfield)  (2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-09 10:44:33Z",
+    "last_played_vienna": "2026-08-09 12:44:33 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Pornophonique",
     "title": "Son Of A Preacher Man",
     "type": "Station-Specific",
@@ -535,17 +546,6 @@
     "play_count_30d": 5,
     "last_played": "2026-07-31 19:40:00Z",
     "last_played_vienna": "2026-07-31 21:40:00 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Oasis",
-    "title": "Live Forever",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 6,
-    "last_played": "2026-07-21 20:25:09Z",
-    "last_played_vienna": "2026-07-21 22:25:09 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }

@@ -253,17 +253,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Swan Dive",
-    "title": "Tender Love",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-26 13:13:36Z",
-    "last_played_vienna": "2026-06-26 15:13:36 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Miley Cyrus",
     "title": "Party In The U.S.A.",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-01 10:00:31Z",
     "last_played_vienna": "2026-08-01 12:00:31 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Victor Leksell",
+    "title": "Skriker mitt namn",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-01 10:23:01Z",
+    "last_played_vienna": "2026-08-01 12:23:01 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
