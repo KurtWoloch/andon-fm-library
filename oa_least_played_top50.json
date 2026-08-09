@@ -165,17 +165,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pet Shop Boys",
-    "title": "What Have I Done to Deserve This? (with Dusty Springfield)  (2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-09 10:44:33Z",
-    "last_played_vienna": "2026-08-09 12:44:33 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pornophonique",
     "title": "Son Of A Preacher Man",
     "type": "Station-Specific",
@@ -260,6 +249,17 @@
     "play_count_30d": 1,
     "last_played": "2026-07-31 18:50:30Z",
     "last_played_vienna": "2026-07-31 20:50:30 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "title": "What Have I Done to Deserve This? (with Dusty Springfield)  (2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-09 16:44:34Z",
+    "last_played_vienna": "2026-08-09 18:44:34 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
