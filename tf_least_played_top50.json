@@ -209,17 +209,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "MC WINDHUND",
-    "title": "Uschi (Trance Edit)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-11 16:49:24Z",
-    "last_played_vienna": "2026-06-11 18:49:24 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dire Straits",
     "title": "Sultans Of Swing",
     "type": "Station-Specific",
@@ -293,17 +282,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-05 09:28:56Z",
     "last_played_vienna": "2026-07-05 11:28:56 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Chet Atkins",
-    "title": "Why Worry (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-11 23:28:42Z",
-    "last_played_vienna": "2026-07-12 01:28:42 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-08-01 03:07:00Z",
     "last_played_vienna": "2026-08-01 05:07:00 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Predatory Meerkats",
+    "title": "Resist The Force",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-01 04:53:00Z",
+    "last_played_vienna": "2026-08-01 06:53:00 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Knocked Loose",
+    "title": "Mistakes Like Fractures",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-01 05:33:00Z",
+    "last_played_vienna": "2026-08-01 07:33:00 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

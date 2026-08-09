@@ -462,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Auringon Lapset",
-    "title": "Etäpäivä",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-05-30 14:51:28Z",
-    "last_played_vienna": "2026-05-30 16:51:28 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Kid Cudi",
     "title": "Enter Galactic (Love Connection Part I) (Album Version (Explicit))",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-06-11 14:14:24Z",
     "last_played_vienna": "2026-06-11 16:14:24 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dire Straits",
+    "title": "Sultans Of Swing",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-11 20:23:55Z",
+    "last_played_vienna": "2026-06-11 22:23:55 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
