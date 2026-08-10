@@ -11,17 +11,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Brenda Lee",
-    "title": "Rockin' Around The Christmas Tree",
-    "type": "Shared",
-    "play_count_total": 0,
-    "play_count_30d": 0,
-    "last_played": "Never",
-    "last_played_vienna": "Never",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Confetti",
     "title": "People Suck [Explicit]",
     "type": "Shared",
@@ -198,17 +187,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dua Lipa",
-    "title": "Future Nostalgia",
-    "type": "Shared",
-    "play_count_total": 53,
-    "play_count_30d": 0,
-    "last_played": "2026-05-13 22:35:22Z",
-    "last_played_vienna": "2026-05-14 00:35:22 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Weeknd",
     "title": "Gasoline",
     "type": "Shared",
@@ -338,17 +316,6 @@
     "last_played": "2026-05-17 21:42:57Z",
     "last_played_vienna": "2026-05-17 23:42:57 MESZ",
     "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "David Bowie",
-    "title": "Starman  (2012 Remaster)",
-    "type": "Shared",
-    "play_count_total": 17,
-    "play_count_30d": 0,
-    "last_played": "2026-05-18 15:38:05Z",
-    "last_played_vienna": "2026-05-18 17:38:05 MESZ",
-    "source": "Shared Library",
     "confidence": 1.0
   },
   {
@@ -546,6 +513,39 @@
     "play_count_30d": 0,
     "last_played": "2026-06-13 21:09:11Z",
     "last_played_vienna": "2026-06-13 23:09:11 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Blind Guardian",
+    "title": "Mirror Mirror (Remastered 2007)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-06-13 21:14:11Z",
+    "last_played_vienna": "2026-06-13 23:14:11 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Hammerfall",
+    "title": "Hearts On Fire",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-06-13 21:19:41Z",
+    "last_played_vienna": "2026-06-13 23:19:41 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Rhapsody Of Fire",
+    "title": "Emerald Sword (Re-Recorded)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-06-13 21:33:41Z",
+    "last_played_vienna": "2026-06-13 23:33:41 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
