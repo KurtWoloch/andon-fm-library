@@ -389,7 +389,7 @@
     "title": "Alone Again (Naturally)",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-07-12 07:31:12Z",
     "last_played_vienna": "2026-07-12 09:31:12 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -462,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pet Shop Boys",
-    "title": "What Have I Done to Deserve This? (with Dusty Springfield)  (2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-08-10 14:19:10Z",
-    "last_played_vienna": "2026-08-10 16:19:10 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Led Zeppelin",
     "title": "Stairway to Heaven  (Remaster)",
     "type": "Shared",
@@ -524,6 +513,17 @@
     "play_count_30d": 5,
     "last_played": "2026-08-03 19:51:49Z",
     "last_played_vienna": "2026-08-03 21:51:49 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "title": "What Have I Done to Deserve This? (with Dusty Springfield)  (2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "last_played": "2026-08-10 16:06:40Z",
+    "last_played_vienna": "2026-08-10 18:06:40 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
