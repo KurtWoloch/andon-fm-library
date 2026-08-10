@@ -484,17 +484,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Jonathan Parecki",
-    "title": "Senbonzakura (Hatsune Miku)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-06-13 18:59:41Z",
-    "last_played_vienna": "2026-06-13 20:59:41 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Helloween",
     "title": "Eagle Fly Free (Remastered 2024)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-06-13 21:43:11Z",
     "last_played_vienna": "2026-06-13 23:43:11 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Alestorm",
+    "title": "Keelhauled",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-06-13 21:47:11Z",
+    "last_played_vienna": "2026-06-13 23:47:11 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

@@ -352,17 +352,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Blondie",
-    "title": "Heart Of Glass",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-10 14:36:40Z",
-    "last_played_vienna": "2026-08-10 16:36:40 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Metallica",
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
@@ -381,6 +370,17 @@
     "play_count_30d": 5,
     "last_played": "2026-08-08 00:22:58Z",
     "last_played_vienna": "2026-08-08 02:22:58 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Blondie",
+    "title": "Heart Of Glass",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-08-10 21:06:41Z",
+    "last_played_vienna": "2026-08-10 23:06:41 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -506,28 +506,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bonnie Tyler",
-    "title": "Holding Out for a Hero (From \"Footloose\" Soundtrack)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 5,
-    "last_played": "2026-08-03 19:51:49Z",
-    "last_played_vienna": "2026-08-03 21:51:49 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pet Shop Boys",
-    "title": "What Have I Done to Deserve This? (with Dusty Springfield)  (2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-08-10 16:06:40Z",
-    "last_played_vienna": "2026-08-10 18:06:40 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Mötley Crüe",
     "title": "Dr. Feelgood",
     "type": "Station-Specific",
@@ -547,6 +525,28 @@
     "last_played": "2026-07-31 12:14:59Z",
     "last_played_vienna": "2026-07-31 14:14:59 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Frank Carter & The Rattlesnakes",
+    "title": "Kitty Sucker",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 5,
+    "last_played": "2026-07-31 19:40:00Z",
+    "last_played_vienna": "2026-07-31 21:40:00 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bonnie Tyler",
+    "title": "Holding Out for a Hero (From \"Footloose\" Soundtrack)",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 6,
+    "last_played": "2026-08-10 20:06:41Z",
+    "last_played_vienna": "2026-08-10 22:06:41 MESZ",
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
 ]
