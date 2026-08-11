@@ -352,17 +352,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Wings",
-    "title": "Goodnight Tonight (Single Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-30 07:38:48Z",
-    "last_played_vienna": "2026-07-30 09:38:48 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Glass Animals",
     "title": "Heat Waves (Stripped Back)",
     "type": "Station-Specific",
@@ -414,17 +403,6 @@
     "play_count_30d": 1,
     "last_played": "2026-07-31 02:30:26Z",
     "last_played_vienna": "2026-07-31 04:30:26 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Kate Bush",
-    "title": "L'Amour Looks Something Like You (2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-31 02:49:27Z",
-    "last_played_vienna": "2026-07-31 04:49:27 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-08-02 00:04:04Z",
     "last_played_vienna": "2026-08-02 02:04:04 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Thievery Corporation",
+    "title": "Omid",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-02 00:16:34Z",
+    "last_played_vienna": "2026-08-02 02:16:34 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Groove Armada",
+    "title": "Madder",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-02 02:44:07Z",
+    "last_played_vienna": "2026-08-02 04:44:07 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

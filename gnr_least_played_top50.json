@@ -143,17 +143,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "DataGlide",
-    "title": "VR Higher",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-02 05:18:40Z",
-    "last_played_vienna": "2026-08-02 07:18:40 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Creedence Clearwater Revival",
     "title": "It Came Out Of The Sky",
     "type": "Station-Specific",
@@ -220,94 +209,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bill Withers",
-    "title": "Lean on Me",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-10 03:12:08Z",
-    "last_played_vienna": "2026-08-10 05:12:08 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bill Withers",
-    "title": "Who Is He (And What Is He to You)?",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-10 03:20:08Z",
-    "last_played_vienna": "2026-08-10 05:20:08 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Grover Washington Jr.",
-    "title": "Just the Two of Us (feat. Bill Withers)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-10 03:32:38Z",
-    "last_played_vienna": "2026-08-10 05:32:38 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "John Legend",
-    "title": "All of Me",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-10 03:45:08Z",
-    "last_played_vienna": "2026-08-10 05:45:08 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "John Legend",
-    "title": "Love Me Now",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-10 05:23:40Z",
-    "last_played_vienna": "2026-08-10 07:23:40 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "John Legend",
-    "title": "Ordinary People",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-10 05:27:09Z",
-    "last_played_vienna": "2026-08-10 07:27:09 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "John Legend",
-    "title": "Conversations in the Dark",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-10 05:32:09Z",
-    "last_played_vienna": "2026-08-10 07:32:09 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "John Legend",
-    "title": "Nervous",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-10 05:36:10Z",
-    "last_played_vienna": "2026-08-10 07:36:10 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Norah Jones",
     "title": "Summertime Blue",
     "type": "Station-Specific",
@@ -315,17 +216,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-10 05:42:10Z",
     "last_played_vienna": "2026-08-10 07:42:10 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Faouzia",
-    "title": "Minefields",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-10 05:45:39Z",
-    "last_played_vienna": "2026-08-10 07:45:39 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -546,6 +436,116 @@
     "play_count_30d": 2,
     "last_played": "2026-08-08 08:07:32Z",
     "last_played_vienna": "2026-08-08 10:07:32 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tears For Fears",
+    "title": "Everybody Wants To Rule The World",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-08 08:12:02Z",
+    "last_played_vienna": "2026-08-08 10:12:02 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tears For Fears",
+    "title": "Mad World",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-08 08:16:32Z",
+    "last_played_vienna": "2026-08-08 10:16:32 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "U2",
+    "title": "Beautiful Day (Remastered 2020)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-08 08:20:32Z",
+    "last_played_vienna": "2026-08-08 10:20:32 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Daft Punk",
+    "title": "Touch It / Technologic",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-10 18:00:11Z",
+    "last_played_vienna": "2026-08-10 20:00:11 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "title": "Time After Time",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-11 05:26:47Z",
+    "last_played_vienna": "2026-08-11 07:26:47 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Måneskin",
+    "title": "Torna a casa",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-11 07:41:17Z",
+    "last_played_vienna": "2026-08-11 09:41:17 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Vanessa-mae",
+    "title": "Storm",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-11 08:01:47Z",
+    "last_played_vienna": "2026-08-11 10:01:47 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "David Garrett",
+    "title": "Bitter Sweet Symphony",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-11 08:06:46Z",
+    "last_played_vienna": "2026-08-11 10:06:46 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Vanessa-mae",
+    "title": "Toccata and Fugue in D Minor",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-11 08:10:16Z",
+    "last_played_vienna": "2026-08-11 10:10:16 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Boris Sass",
+    "title": "The Devil's Trill Sonata",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-11 08:18:17Z",
+    "last_played_vienna": "2026-08-11 10:18:17 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
