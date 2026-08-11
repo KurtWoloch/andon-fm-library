@@ -451,17 +451,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Blondie",
-    "title": "Heart Of Glass",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-08-11 03:24:15Z",
-    "last_played_vienna": "2026-08-11 05:24:15 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Led Zeppelin",
     "title": "Stairway to Heaven  (Remaster)",
     "type": "Shared",
@@ -503,6 +492,17 @@
     "last_played": "2026-07-31 18:42:29Z",
     "last_played_vienna": "2026-07-31 20:42:29 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Blondie",
+    "title": "Heart Of Glass",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "last_played": "2026-08-11 11:23:16Z",
+    "last_played_vienna": "2026-08-11 13:23:16 MESZ",
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
   {
