@@ -353,17 +353,6 @@
   },
   {
     "artist": "Bill Withers",
-    "title": "Use Me",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-10 03:16:38Z",
-    "last_played_vienna": "2026-08-10 05:16:38 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bill Withers",
     "title": "Who Is He (And What Is He to You)?",
     "type": "Station-Specific",
     "play_count_total": 1,
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-05-16 20:15:20Z",
     "last_played_vienna": "2026-05-16 22:15:20 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Miles Davis Quintet",
+    "title": "My Funny Valentine",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-05-22 19:06:40Z",
+    "last_played_vienna": "2026-05-22 21:06:40 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }

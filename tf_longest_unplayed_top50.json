@@ -495,17 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Blind Guardian",
-    "title": "Mirror Mirror (Remastered 2007)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-06-13 21:14:11Z",
-    "last_played_vienna": "2026-06-13 23:14:11 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Hammerfall",
     "title": "Hearts On Fire",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-06-13 21:47:11Z",
     "last_played_vienna": "2026-06-13 23:47:11 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Becky Levi and the Nightjars",
+    "title": "Wake Me Up",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-06-14 19:57:49Z",
+    "last_played_vienna": "2026-06-14 21:57:49 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
