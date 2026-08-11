@@ -495,17 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Blondie",
-    "title": "Heart Of Glass",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-08-11 11:23:16Z",
-    "last_played_vienna": "2026-08-11 13:23:16 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Mötley Crüe",
     "title": "Dr. Feelgood",
     "type": "Station-Specific",
@@ -543,9 +532,20 @@
     "title": "Holding Out for a Hero (From \"Footloose\" Soundtrack)",
     "type": "Station-Specific",
     "play_count_total": 8,
-    "play_count_30d": 6,
+    "play_count_30d": 5,
     "last_played": "2026-08-10 20:06:41Z",
     "last_played_vienna": "2026-08-10 22:06:41 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Oasis",
+    "title": "Live Forever",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 1,
+    "last_played": "2026-07-21 20:25:09Z",
+    "last_played_vienna": "2026-07-21 22:25:09 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
