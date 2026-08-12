@@ -253,17 +253,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Louis Clark",
-    "title": "Teo Torriatte (Let Us Cling Together)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-21 16:34:39Z",
-    "last_played_vienna": "2026-07-21 18:34:39 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Luca Di Sabatino",
     "title": "Switched-on Wendy",
     "type": "Station-Specific",
@@ -337,17 +326,6 @@
     "play_count_30d": 1,
     "last_played": "2026-07-29 22:45:41Z",
     "last_played_vienna": "2026-07-30 00:45:41 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Glass Animals",
-    "title": "Heat Waves (Stripped Back)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-30 08:32:49Z",
-    "last_played_vienna": "2026-07-30 10:32:49 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-08-02 05:11:09Z",
     "last_played_vienna": "2026-08-02 07:11:09 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Studio Group",
+    "title": "Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-02 06:02:40Z",
+    "last_played_vienna": "2026-08-02 08:02:40 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dúné",
+    "title": "Hardcore Vibes",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-03 05:01:18Z",
+    "last_played_vienna": "2026-08-03 07:01:18 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
