@@ -374,17 +374,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Nine Inch Nails",
-    "title": "Heresy (Nine Inch Noize Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-30 20:49:53Z",
-    "last_played_vienna": "2026-07-30 22:49:53 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Various Interprets",
     "title": "Come Tomorrow (Duet With Barry Gibb (Album Version))",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-02 02:44:07Z",
     "last_played_vienna": "2026-08-02 04:44:07 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Petra",
+    "title": "This Means War",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-02 03:05:37Z",
+    "last_played_vienna": "2026-08-02 05:05:37 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
