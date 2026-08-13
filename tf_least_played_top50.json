@@ -11,17 +11,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Confetti",
-    "title": "People Suck [Explicit]",
-    "type": "Shared",
-    "play_count_total": 0,
-    "play_count_30d": 0,
-    "last_played": "Never",
-    "last_played_vienna": "Never",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Perrie",
     "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
     "type": "Shared",
@@ -110,17 +99,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Fraunhofer Diffraction",
-    "title": "Kvrt in Space",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-29 15:43:25Z",
-    "last_played_vienna": "2026-05-29 17:43:25 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Kid Cudi",
     "title": "Enter Galactic (Love Connection Part I) (Album Version (Explicit))",
     "type": "Station-Specific",
@@ -165,28 +143,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Donna De Lory",
-    "title": "Praying For Love",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-08 18:04:59Z",
-    "last_played_vienna": "2026-06-08 20:04:59 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "S Club",
-    "title": "I Really Miss You",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-11 14:14:24Z",
-    "last_played_vienna": "2026-06-11 16:14:24 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dire Straits",
     "title": "Sultans Of Swing",
     "type": "Station-Specific",
@@ -227,17 +183,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-05 01:32:49Z",
     "last_played_vienna": "2026-07-05 03:32:49 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Enjambre",
-    "title": "Vida En El Espejo",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-07-05 09:28:56Z",
-    "last_played_vienna": "2026-07-05 11:28:56 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +491,61 @@
     "play_count_30d": 1,
     "last_played": "2026-08-03 13:32:19Z",
     "last_played_vienna": "2026-08-03 15:32:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Alexander Rybak",
+    "title": "Fairytale",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-03 17:54:49Z",
+    "last_played_vienna": "2026-08-03 19:54:49 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Maria McKee",
+    "title": "Absolutely Barking Stars",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-04 14:40:30Z",
+    "last_played_vienna": "2026-08-04 16:40:30 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Josh Rouse",
+    "title": "Street Lights",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-04 15:19:59Z",
+    "last_played_vienna": "2026-08-04 17:19:59 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ray Anthony",
+    "title": "The Hokey Pokey",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-04 18:57:00Z",
+    "last_played_vienna": "2026-08-04 20:57:00 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Huey Lewis And The News",
+    "title": "Hip To Be Square",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-04 19:10:30Z",
+    "last_played_vienna": "2026-08-04 21:10:30 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
