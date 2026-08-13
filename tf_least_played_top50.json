@@ -1,49 +1,5 @@
 [
   {
-    "artist": "Bing Crosby",
-    "title": "White Christmas",
-    "type": "Shared",
-    "play_count_total": 0,
-    "play_count_30d": 0,
-    "last_played": "Never",
-    "last_played_vienna": "Never",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Perrie",
-    "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
-    "type": "Shared",
-    "play_count_total": 0,
-    "play_count_30d": 0,
-    "last_played": "Never",
-    "last_played_vienna": "Never",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Tate McRae",
-    "title": "Miss possessive",
-    "type": "Shared",
-    "play_count_total": 0,
-    "play_count_30d": 0,
-    "last_played": "Never",
-    "last_played_vienna": "Never",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Wham!",
-    "title": "Last Christmas (Single Version)",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-03-16 22:41:12Z",
-    "last_played_vienna": "2026-03-16 23:41:12 MEZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Chris De Burgh",
     "title": "The Getaway",
     "type": "Shared",
@@ -117,17 +73,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-02 19:55:36Z",
     "last_played_vienna": "2026-06-02 21:55:36 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Neuro-sama",
-    "title": "NEVER",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-06 13:28:42Z",
-    "last_played_vienna": "2026-06-06 15:28:42 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -253,17 +198,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Michael Jackson",
-    "title": "Who Is It",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-26 04:18:40Z",
-    "last_played_vienna": "2026-07-26 06:18:40 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "U2",
     "title": "Beautiful Day (Remastered 2020)",
     "type": "Station-Specific",
@@ -315,17 +249,6 @@
     "play_count_30d": 1,
     "last_played": "2026-07-31 03:05:27Z",
     "last_played_vienna": "2026-07-31 05:05:27 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Lofi Lia",
-    "title": "Tell Your World (From \"Hatsune Miku\")  (Lofi Remix)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-31 20:55:00Z",
-    "last_played_vienna": "2026-07-31 22:55:00 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +469,83 @@
     "play_count_30d": 1,
     "last_played": "2026-08-04 19:10:30Z",
     "last_played_vienna": "2026-08-04 21:10:30 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Blue Öyster Cult",
+    "title": "(Don't Fear) The Reaper",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-04 19:24:30Z",
+    "last_played_vienna": "2026-08-04 21:24:30 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "ABBA",
+    "title": "Don't Shut Me Down",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-04 20:00:30Z",
+    "last_played_vienna": "2026-08-04 22:00:30 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Martin Garrix",
+    "title": "Carry You",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-04 23:05:00Z",
+    "last_played_vienna": "2026-08-05 01:05:00 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sophie Hunger",
+    "title": "Shape",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-04 23:54:31Z",
+    "last_played_vienna": "2026-08-05 01:54:31 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "KAYA!",
+    "title": "Turn It Up",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-05 04:11:04Z",
+    "last_played_vienna": "2026-08-05 06:11:04 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Haddaway",
+    "title": "What Is Love (Lynx & Pico Remix)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-05 09:29:05Z",
+    "last_played_vienna": "2026-08-05 11:29:05 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "LoneGray",
+    "title": "Tell Your World",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-07 20:21:57Z",
+    "last_played_vienna": "2026-08-07 22:21:57 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
