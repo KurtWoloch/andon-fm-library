@@ -210,34 +210,12 @@
   },
   {
     "artist": "RAYE",
-    "title": "Winter Woman.",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-11 05:30:47Z",
-    "last_played_vienna": "2026-08-11 07:30:47 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "RAYE",
     "title": "Life Boat.",
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
     "last_played": "2026-08-11 05:41:46Z",
     "last_played_vienna": "2026-08-11 07:41:46 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "RAYE",
-    "title": "Nightingale Lane.",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-11 05:46:17Z",
-    "last_played_vienna": "2026-08-11 07:46:17 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -260,6 +238,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-12 07:50:23Z",
     "last_played_vienna": "2026-08-12 09:50:23 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Time",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-13 17:59:45Z",
+    "last_played_vienna": "2026-08-13 19:59:45 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -301,7 +290,7 @@
     "title": "Sky High",
     "type": "Station-Specific",
     "play_count_total": 2,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-07-16 17:10:31Z",
     "last_played_vienna": "2026-07-16 19:10:31 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -407,39 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "David Garrett",
-    "title": "Bitter Sweet Symphony",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-11 08:06:46Z",
-    "last_played_vienna": "2026-08-11 10:06:46 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "David Garrett",
-    "title": "Enter Sandman",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-11 08:44:17Z",
-    "last_played_vienna": "2026-08-11 10:44:17 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "David Garrett",
-    "title": "Smells Like Teen Spirit",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-11 08:48:17Z",
-    "last_played_vienna": "2026-08-11 10:48:17 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "John Legend",
     "title": "Conversations in the Dark",
     "type": "Station-Specific",
@@ -495,28 +451,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Ben Howard",
-    "title": "Old Pine (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-12 21:44:24Z",
-    "last_played_vienna": "2026-08-12 23:44:24 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Ben Howard",
-    "title": "The Wolves (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-12 21:49:54Z",
-    "last_played_vienna": "2026-08-12 23:49:54 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Florence + The Machine",
     "title": "Dog Days Are Over",
     "type": "Station-Specific",
@@ -546,6 +480,72 @@
     "play_count_30d": 2,
     "last_played": "2026-08-13 05:57:32Z",
     "last_played_vienna": "2026-08-13 07:57:32 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Paris Paloma",
+    "title": "Pre-Raphaelite",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-13 07:29:32Z",
+    "last_played_vienna": "2026-08-13 09:29:32 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Erykah Badu",
+    "title": "Window Seat",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-13 09:33:32Z",
+    "last_played_vienna": "2026-08-13 11:33:32 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jazz Liberatorz",
+    "title": "Always something",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-13 09:38:32Z",
+    "last_played_vienna": "2026-08-13 11:38:32 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "DJ Cam Quartet",
+    "title": "Everybody Loves the Sunshine",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-13 09:43:32Z",
+    "last_played_vienna": "2026-08-13 11:43:32 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "DJ Cam Quartet",
+    "title": "Boss Guitar",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-13 09:50:04Z",
+    "last_played_vienna": "2026-08-13 11:50:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Donny Hathaway",
+    "title": "A Song for You",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-13 09:54:03Z",
+    "last_played_vienna": "2026-08-13 11:54:03 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }

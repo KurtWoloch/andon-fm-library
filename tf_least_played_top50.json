@@ -22,17 +22,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Ed Sheeran",
-    "title": "Azizam",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-04-09 17:08:38Z",
-    "last_played_vienna": "2026-04-09 19:08:38 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Nekrogoblikon",
     "title": "Powercore",
     "type": "Station-Specific",
@@ -121,17 +110,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Miley Cyrus",
-    "title": "Party In The U.S.A.",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-07-05 01:32:49Z",
-    "last_played_vienna": "2026-07-05 03:32:49 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Camouflage (Acoustic Mix)",
     "type": "Station-Specific",
@@ -187,17 +165,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tom Konkle",
-    "title": "When Did Love Become A Test",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-26 03:45:09Z",
-    "last_played_vienna": "2026-07-26 05:45:09 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "U2",
     "title": "Beautiful Day (Remastered 2020)",
     "type": "Station-Specific",
@@ -238,17 +205,6 @@
     "play_count_30d": 1,
     "last_played": "2026-07-31 02:30:26Z",
     "last_played_vienna": "2026-07-31 04:30:26 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Queen",
-    "title": "The March of the Black Queen (2026 Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-31 03:05:27Z",
-    "last_played_vienna": "2026-07-31 05:05:27 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -337,17 +293,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-02 00:04:04Z",
     "last_played_vienna": "2026-08-02 02:04:04 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Thievery Corporation",
-    "title": "Omid",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-02 00:16:34Z",
-    "last_played_vienna": "2026-08-02 02:16:34 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +491,61 @@
     "play_count_30d": 1,
     "last_played": "2026-08-07 20:21:57Z",
     "last_played_vienna": "2026-08-07 22:21:57 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Billy Joel",
+    "title": "Honesty (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-08 15:18:32Z",
+    "last_played_vienna": "2026-08-08 17:18:32 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tubeway Army",
+    "title": "Are 'Friends' Electric? (1998 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-08 15:37:02Z",
+    "last_played_vienna": "2026-08-08 17:37:02 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Chris Christodoulou",
+    "title": "The Rain Formerly Known as Purple",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-08 21:13:32Z",
+    "last_played_vienna": "2026-08-08 23:13:32 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "George Michael Duet with Mary J. Blige",
+    "title": "As (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-08 23:13:02Z",
+    "last_played_vienna": "2026-08-09 01:13:02 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Studio Group",
+    "title": "As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-08 23:18:32Z",
+    "last_played_vienna": "2026-08-09 01:18:32 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
