@@ -429,17 +429,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "ANNIE",
-    "title": "Heartbeat",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-01 16:24:31Z",
-    "last_played_vienna": "2026-08-01 18:24:31 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Czech Philharmonic and Theatre",
     "title": "Lazing On a Sunday Afternoon",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-03 05:01:18Z",
     "last_played_vienna": "2026-08-03 07:01:18 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "London Symphony Orchestra",
+    "title": "Duel of the Fates",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-03 11:42:19Z",
+    "last_played_vienna": "2026-08-03 13:42:19 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
