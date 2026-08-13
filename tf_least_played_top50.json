@@ -484,17 +484,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Groove Armada",
-    "title": "Madder",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-02 02:44:07Z",
-    "last_played_vienna": "2026-08-02 04:44:07 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Petra",
     "title": "This Means War",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-03 11:42:19Z",
     "last_played_vienna": "2026-08-03 13:42:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lyres",
+    "title": "Help You Ann",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-03 13:32:19Z",
+    "last_played_vienna": "2026-08-03 15:32:19 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

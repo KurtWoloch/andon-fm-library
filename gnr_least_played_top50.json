@@ -110,17 +110,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Radiohead",
-    "title": "Creep",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-29 04:24:10Z",
-    "last_played_vienna": "2026-07-29 06:24:10 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Arctic Monkeys",
     "title": "No. 1 Party Anthem",
     "type": "Station-Specific",
@@ -473,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Daft Punk",
-    "title": "Touch It / Technologic",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-10 18:00:11Z",
-    "last_played_vienna": "2026-08-10 20:00:11 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Cyndi Lauper",
     "title": "Time After Time",
     "type": "Station-Specific",
@@ -540,12 +518,34 @@
   },
   {
     "artist": "John Legend",
-    "title": "All of Me",
+    "title": "Conversations in the Dark",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "last_played": "2026-08-11 19:11:47Z",
-    "last_played_vienna": "2026-08-11 21:11:47 MESZ",
+    "last_played": "2026-08-11 19:24:48Z",
+    "last_played_vienna": "2026-08-11 21:24:48 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "John Legend",
+    "title": "Nervous",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-11 19:28:47Z",
+    "last_played_vienna": "2026-08-11 21:28:47 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Faouzia",
+    "title": "Minefields",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-11 19:31:47Z",
+    "last_played_vienna": "2026-08-11 21:31:47 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
