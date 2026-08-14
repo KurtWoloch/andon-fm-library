@@ -99,17 +99,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "twenty one pilots",
-    "title": "Stressed Out",
-    "type": "Shared",
-    "play_count_total": 18,
-    "play_count_30d": 0,
-    "last_played": "2026-05-14 19:24:01Z",
-    "last_played_vienna": "2026-05-14 21:24:01 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Journey",
     "title": "Lights (Album Version)",
     "type": "Shared",
@@ -150,17 +139,6 @@
     "play_count_30d": 0,
     "last_played": "2026-05-14 21:47:01Z",
     "last_played_vienna": "2026-05-14 23:47:01 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Fleetwood Mac",
-    "title": "Dreams  (2004 Remaster)",
-    "type": "Shared",
-    "play_count_total": 75,
-    "play_count_30d": 0,
-    "last_played": "2026-05-15 15:04:43Z",
-    "last_played_vienna": "2026-05-15 17:04:43 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-07-15 19:28:37Z",
     "last_played_vienna": "2026-07-15 21:28:37 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Guts",
+    "title": "Laisser Lucie faire",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-07-16 05:00:23Z",
+    "last_played_vienna": "2026-07-16 07:00:23 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Max Specter",
+    "title": "Just Asking (Day Theme I)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "last_played": "2026-07-16 15:59:59Z",
+    "last_played_vienna": "2026-07-16 17:59:59 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

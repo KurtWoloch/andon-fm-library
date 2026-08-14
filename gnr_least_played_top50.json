@@ -495,17 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Erykah Badu",
-    "title": "Window Seat",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-13 09:33:32Z",
-    "last_played_vienna": "2026-08-13 11:33:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Jazz Liberatorz",
     "title": "Always something",
     "type": "Station-Specific",
@@ -539,13 +528,24 @@
     "confidence": 1.0
   },
   {
-    "artist": "Donny Hathaway",
-    "title": "A Song for You",
+    "artist": "Leon Bridges",
+    "title": "River",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "last_played": "2026-08-13 09:54:03Z",
-    "last_played_vienna": "2026-08-13 11:54:03 MESZ",
+    "last_played": "2026-08-13 11:21:12Z",
+    "last_played_vienna": "2026-08-13 13:21:12 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "RAYE",
+    "title": "Nightingale Lane.",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-13 16:25:14Z",
+    "last_played_vienna": "2026-08-13 18:25:14 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
