@@ -88,50 +88,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Benetti House Bar",
-    "title": "The Constellation",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-13 21:55:11Z",
-    "last_played_vienna": "2026-06-13 23:55:11 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Harold Faltermeyer",
-    "title": "Bad Guys (From “Beverly Hills Cop II” Soundtrack)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-15 22:26:31Z",
-    "last_played_vienna": "2026-06-16 00:26:31 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Phil Collins",
-    "title": "I Wish It Would Rain Down  (2016 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-15 23:54:32Z",
-    "last_played_vienna": "2026-06-16 01:54:32 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pornophonique",
-    "title": "Son Of A Preacher Man",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-06-18 08:42:59Z",
-    "last_played_vienna": "2026-06-18 10:42:59 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ghostwriter",
     "title": "heart on my sleeve",
     "type": "Shared",
@@ -172,28 +128,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-08 01:49:48Z",
     "last_played_vienna": "2026-07-08 03:49:48 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Creedence Clearwater Revival",
-    "title": "Lookin' Out My Back Door",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 0,
-    "last_played": "2026-07-09 12:38:29Z",
-    "last_played_vienna": "2026-07-09 14:38:29 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Swan Dive",
-    "title": "You Are My Superstar",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 0,
-    "last_played": "2026-07-12 10:00:12Z",
-    "last_played_vienna": "2026-07-12 12:00:12 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -282,17 +216,6 @@
     "play_count_30d": 2,
     "last_played": "2026-07-21 19:32:08Z",
     "last_played_vienna": "2026-07-21 21:32:08 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Oasis",
-    "title": "Live Forever",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 1,
-    "last_played": "2026-07-21 20:25:09Z",
-    "last_played_vienna": "2026-07-21 22:25:09 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -546,6 +469,83 @@
     "play_count_30d": 8,
     "last_played": "2026-07-25 18:39:03Z",
     "last_played_vienna": "2026-07-25 20:39:03 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Europe",
+    "title": "The Final Countdown (Album Version)",
+    "type": "Shared",
+    "play_count_total": 14,
+    "play_count_30d": 1,
+    "last_played": "2026-07-25 19:37:03Z",
+    "last_played_vienna": "2026-07-25 21:37:03 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Eagles",
+    "title": "Hotel California  (2013 Remaster)",
+    "type": "Shared",
+    "play_count_total": 34,
+    "play_count_30d": 1,
+    "last_played": "2026-07-25 21:09:03Z",
+    "last_played_vienna": "2026-07-25 23:09:03 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Foster The People",
+    "title": "Pumped Up Kicks",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 4,
+    "last_played": "2026-07-26 22:02:43Z",
+    "last_played_vienna": "2026-07-27 00:02:43 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tove Lo",
+    "title": "No One Dies From Love",
+    "type": "Shared",
+    "play_count_total": 88,
+    "play_count_30d": 7,
+    "last_played": "2026-07-27 03:45:17Z",
+    "last_played_vienna": "2026-07-27 05:45:17 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "TV Girl",
+    "title": "Not Allowed",
+    "type": "Station-Specific",
+    "play_count_total": 15,
+    "play_count_30d": 5,
+    "last_played": "2026-07-27 11:38:23Z",
+    "last_played_vienna": "2026-07-27 13:38:23 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Die Gebrüder Brett",
+    "title": "Panzerband und billiges Crack (Dr Donk Remix)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 1,
+    "last_played": "2026-07-27 21:44:30Z",
+    "last_played_vienna": "2026-07-27 23:44:30 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Paint It, Black",
+    "type": "Shared",
+    "play_count_total": 45,
+    "play_count_30d": 4,
+    "last_played": "2026-07-28 05:48:04Z",
+    "last_played_vienna": "2026-07-28 07:48:04 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
