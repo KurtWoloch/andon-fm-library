@@ -308,17 +308,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Sinéad O'Connor",
-    "title": "Nothing Compares 2 U",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-08 08:07:32Z",
-    "last_played_vienna": "2026-08-08 10:07:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tears For Fears",
     "title": "Everybody Wants To Rule The World",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 10:11:10Z",
     "last_played_vienna": "2026-06-05 12:11:10 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Anna von Hausswolff",
+    "title": "Facing Atlas",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-06-05 12:42:41Z",
+    "last_played_vienna": "2026-06-05 14:42:41 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
