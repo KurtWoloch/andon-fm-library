@@ -154,17 +154,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pornophonique",
-    "title": "Coming Home",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-06-18 09:14:29Z",
-    "last_played_vienna": "2026-06-18 11:14:29 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ghostwriter",
     "title": "heart on my sleeve",
     "type": "Shared",
@@ -209,17 +198,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dive",
-    "title": "Same Old Town",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 0,
-    "last_played": "2026-07-08 23:54:26Z",
-    "last_played_vienna": "2026-07-09 01:54:26 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Creedence Clearwater Revival",
     "title": "Lookin' Out My Back Door",
     "type": "Station-Specific",
@@ -227,17 +205,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-09 12:38:29Z",
     "last_played_vienna": "2026-07-09 14:38:29 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Harold Faltermeyer",
-    "title": "Axel F (From \"Beverly Hills Cop\" Soundtrack)",
-    "type": "Station-Specific",
-    "play_count_total": 56,
-    "play_count_30d": 0,
-    "last_played": "2026-07-09 20:16:30Z",
-    "last_played_vienna": "2026-07-09 22:16:30 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -264,17 +231,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Freddie Mercury",
-    "title": "Love Kills",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 0,
-    "last_played": "2026-07-11 18:12:11Z",
-    "last_played_vienna": "2026-07-11 20:12:11 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tate McRae",
     "title": "TIT FOR TAT",
     "type": "Shared",
@@ -286,39 +242,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Talk Talk",
-    "title": "It's My Life (Extended Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 24,
-    "play_count_30d": 0,
-    "last_played": "2026-07-12 00:32:41Z",
-    "last_played_vienna": "2026-07-12 02:32:41 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Swan Dive",
-    "title": "Butterfly Come Home",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 0,
-    "last_played": "2026-07-12 06:38:42Z",
-    "last_played_vienna": "2026-07-12 08:38:42 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Tom Konkle",
-    "title": "Alone Again (Naturally)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "last_played": "2026-07-12 07:31:12Z",
-    "last_played_vienna": "2026-07-12 09:31:12 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Swan Dive",
     "title": "You Are My Superstar",
     "type": "Station-Specific",
@@ -326,39 +249,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-12 10:00:12Z",
     "last_played_vienna": "2026-07-12 12:00:12 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Swan Dive",
-    "title": "Until",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 0,
-    "last_played": "2026-07-12 13:54:43Z",
-    "last_played_vienna": "2026-07-12 15:54:43 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Leonard Cohen",
-    "title": "You Want It Darker",
-    "type": "Station-Specific",
-    "play_count_total": 15,
-    "play_count_30d": 0,
-    "last_played": "2026-07-12 17:39:13Z",
-    "last_played_vienna": "2026-07-12 19:39:13 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Dive",
-    "title": "When The River Turns To Sea",
-    "type": "Station-Specific",
-    "play_count_total": 17,
-    "play_count_30d": 1,
-    "last_played": "2026-07-15 11:53:06Z",
-    "last_played_vienna": "2026-07-15 13:53:06 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -411,7 +301,7 @@
     "title": "Rainbow in the Dark",
     "type": "Station-Specific",
     "play_count_total": 7,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "last_played": "2026-07-20 05:06:46Z",
     "last_played_vienna": "2026-07-20 07:06:46 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -436,28 +326,6 @@
     "play_count_30d": 16,
     "last_played": "2026-07-20 22:20:02Z",
     "last_played_vienna": "2026-07-21 00:20:02 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Jennifer Warnes",
-    "title": "Bird on a Wire (Digitally Remastered)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "last_played": "2026-07-21 10:59:07Z",
-    "last_played_vienna": "2026-07-21 12:59:07 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Swan Dive",
-    "title": "Tender Love",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 1,
-    "last_played": "2026-07-21 11:10:37Z",
-    "last_played_vienna": "2026-07-21 13:10:37 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -506,17 +374,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bob Dylan",
-    "title": "The Lonesome Death of Hattie Carroll",
-    "type": "Shared",
-    "play_count_total": 23,
-    "play_count_30d": 3,
-    "last_played": "2026-07-22 03:40:14Z",
-    "last_played_vienna": "2026-07-22 05:40:14 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bonnie Tyler",
     "title": "Total Eclipse of the Heart",
     "type": "Station-Specific",
@@ -539,13 +396,156 @@
     "confidence": 1.0
   },
   {
-    "artist": "Khalid",
-    "title": "momentary lovers",
+    "artist": "Johnny Cash",
+    "title": "Redemption Day (Album Version)",
     "type": "Shared",
-    "play_count_total": 62,
+    "play_count_total": 24,
+    "play_count_30d": 5,
+    "last_played": "2026-07-23 02:46:18Z",
+    "last_played_vienna": "2026-07-23 04:46:18 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "NEVER",
+    "type": "Station-Specific",
+    "play_count_total": 31,
+    "play_count_30d": 3,
+    "last_played": "2026-07-23 13:03:19Z",
+    "last_played_vienna": "2026-07-23 15:03:19 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mötley Crüe",
+    "title": "Kickstart My Heart",
+    "type": "Station-Specific",
+    "play_count_total": 10,
     "play_count_30d": 2,
-    "last_played": "2026-07-22 09:54:15Z",
-    "last_played_vienna": "2026-07-22 11:54:15 MESZ",
+    "last_played": "2026-07-23 13:27:48Z",
+    "last_played_vienna": "2026-07-23 15:27:48 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "LIFE",
+    "type": "Station-Specific",
+    "play_count_total": 23,
+    "play_count_30d": 1,
+    "last_played": "2026-07-23 13:56:18Z",
+    "last_played_vienna": "2026-07-23 15:56:18 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Harry Kaze",
+    "title": "Sunlight",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 2,
+    "last_played": "2026-07-23 15:31:19Z",
+    "last_played_vienna": "2026-07-23 17:31:19 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "title": "Please Please Please",
+    "type": "Shared",
+    "play_count_total": 73,
+    "play_count_30d": 1,
+    "last_played": "2026-07-23 17:44:19Z",
+    "last_played_vienna": "2026-07-23 19:44:19 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Obie Fernandez",
+    "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 24,
+    "play_count_30d": 4,
+    "last_played": "2026-07-23 19:25:19Z",
+    "last_played_vienna": "2026-07-23 21:25:19 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "Honeymoon Phase (Grudgy Pajamas Version)",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 10,
+    "last_played": "2026-07-24 04:17:56Z",
+    "last_played_vienna": "2026-07-24 06:17:56 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dive",
+    "title": "City Of Sound",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 3,
+    "last_played": "2026-07-24 13:41:57Z",
+    "last_played_vienna": "2026-07-24 15:41:57 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mötley Crüe",
+    "title": "Dr. Feelgood",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 3,
+    "last_played": "2026-07-24 16:33:27Z",
+    "last_played_vienna": "2026-07-24 18:33:27 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Run To The Hills (2015 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "last_played": "2026-07-24 16:45:27Z",
+    "last_played_vienna": "2026-07-24 18:45:27 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "TV Girl",
+    "title": "Lines to a Different Play",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 6,
+    "last_played": "2026-07-25 07:44:02Z",
+    "last_played_vienna": "2026-07-25 09:44:02 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Quinn XCII",
+    "title": "Kings Of Summer (Live from Red Rocks)",
+    "type": "Station-Specific",
+    "play_count_total": 106,
+    "play_count_30d": 18,
+    "last_played": "2026-07-25 11:49:32Z",
+    "last_played_vienna": "2026-07-25 13:49:32 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "title": "Taste",
+    "type": "Shared",
+    "play_count_total": 70,
+    "play_count_30d": 3,
+    "last_played": "2026-07-25 13:45:03Z",
+    "last_played_vienna": "2026-07-25 15:45:03 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
