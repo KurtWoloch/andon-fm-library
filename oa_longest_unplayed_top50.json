@@ -99,44 +99,11 @@
     "confidence": 1.0
   },
   {
-    "artist": "Led Zeppelin",
-    "title": "Stairway to Heaven  (Remaster)",
-    "type": "Shared",
-    "play_count_total": 7,
-    "play_count_30d": 0,
-    "last_played": "2026-06-20 09:53:16Z",
-    "last_played_vienna": "2026-06-20 11:53:16 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Creedence Clearwater Revival",
-    "title": "Born On The Bayou",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "last_played": "2026-06-25 01:31:27Z",
-    "last_played_vienna": "2026-06-25 03:31:27 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Creedence Clearwater Revival",
-    "title": "Bad Moon Rising",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 0,
-    "last_played": "2026-07-08 01:49:48Z",
-    "last_played_vienna": "2026-07-08 03:49:48 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Fail Upward For A Change",
     "type": "Station-Specific",
     "play_count_total": 17,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-07-15 22:29:07Z",
     "last_played_vienna": "2026-07-16 00:29:07 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -161,17 +128,6 @@
     "play_count_30d": 1,
     "last_played": "2026-07-18 05:54:04Z",
     "last_played_vienna": "2026-07-18 07:54:04 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Tom Konkle",
-    "title": "Light Bulb In My Head",
-    "type": "Station-Specific",
-    "play_count_total": 48,
-    "play_count_30d": 1,
-    "last_played": "2026-07-19 16:25:11Z",
-    "last_played_vienna": "2026-07-19 18:25:11 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -297,17 +253,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Sabrina Carpenter",
-    "title": "Please Please Please",
-    "type": "Shared",
-    "play_count_total": 73,
-    "play_count_30d": 1,
-    "last_played": "2026-07-23 17:44:19Z",
-    "last_played_vienna": "2026-07-23 19:44:19 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -378,7 +323,7 @@
     "title": "Kings Of Summer (Live from Red Rocks)",
     "type": "Station-Specific",
     "play_count_total": 106,
-    "play_count_30d": 18,
+    "play_count_30d": 17,
     "last_played": "2026-07-25 11:49:32Z",
     "last_played_vienna": "2026-07-25 13:49:32 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -403,17 +348,6 @@
     "play_count_30d": 4,
     "last_played": "2026-07-25 14:46:33Z",
     "last_played_vienna": "2026-07-25 16:46:33 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pitbull",
-    "title": "Timber",
-    "type": "Shared",
-    "play_count_total": 18,
-    "play_count_30d": 1,
-    "last_played": "2026-07-25 14:54:04Z",
-    "last_played_vienna": "2026-07-25 16:54:04 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
@@ -546,6 +480,72 @@
     "play_count_30d": 4,
     "last_played": "2026-07-28 05:48:04Z",
     "last_played_vienna": "2026-07-28 07:48:04 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ethel Cain",
+    "title": "Punish",
+    "type": "Shared",
+    "play_count_total": 16,
+    "play_count_30d": 8,
+    "last_played": "2026-07-28 09:00:34Z",
+    "last_played_vienna": "2026-07-28 11:00:34 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "title": "All Through the Night",
+    "type": "Shared",
+    "play_count_total": 98,
+    "play_count_30d": 8,
+    "last_played": "2026-07-28 20:34:35Z",
+    "last_played_vienna": "2026-07-28 22:34:35 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Metallica",
+    "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 4,
+    "last_played": "2026-07-29 00:08:07Z",
+    "last_played_vienna": "2026-07-29 02:08:07 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Olivia Newton-John",
+    "title": "Xanadu (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 8,
+    "last_played": "2026-07-30 12:56:53Z",
+    "last_played_vienna": "2026-07-30 14:56:53 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Omar Østli",
+    "title": "Venter på en venn",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-31 11:32:29Z",
+    "last_played_vienna": "2026-07-31 13:32:29 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pete Seeger",
+    "title": "Solidarity Forever",
+    "type": "Shared",
+    "play_count_total": 8,
+    "play_count_30d": 1,
+    "last_played": "2026-07-31 12:14:59Z",
+    "last_played_vienna": "2026-07-31 14:14:59 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
