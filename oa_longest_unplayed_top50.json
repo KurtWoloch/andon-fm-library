@@ -110,17 +110,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Queen",
-    "title": "Bohemian Rhapsody (Remastered 2011)",
-    "type": "Shared",
-    "play_count_total": 12,
-    "play_count_30d": 1,
-    "last_played": "2026-07-17 06:07:36Z",
-    "last_played_vienna": "2026-07-17 08:07:36 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Hämatom",
     "title": "Liebe auf den ersten Fick",
     "type": "Station-Specific",
@@ -158,7 +147,7 @@
     "title": "Real Life",
     "type": "Station-Specific",
     "play_count_total": 24,
-    "play_count_30d": 14,
+    "play_count_30d": 13,
     "last_played": "2026-07-20 22:20:02Z",
     "last_played_vienna": "2026-07-21 00:20:02 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -172,17 +161,6 @@
     "play_count_30d": 2,
     "last_played": "2026-07-21 19:32:08Z",
     "last_played_vienna": "2026-07-21 21:32:08 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bonnie Tyler",
-    "title": "Total Eclipse of the Heart",
-    "type": "Station-Specific",
-    "play_count_total": 22,
-    "play_count_30d": 2,
-    "last_played": "2026-07-22 04:38:45Z",
-    "last_played_vienna": "2026-07-22 06:38:45 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -345,7 +323,7 @@
     "title": "In the Midnight Hour",
     "type": "Shared",
     "play_count_total": 71,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "last_played": "2026-07-25 15:11:33Z",
     "last_played_vienna": "2026-07-25 17:11:33 MESZ",
     "source": "Shared Library",
@@ -367,7 +345,7 @@
     "title": "Loving Machine",
     "type": "Station-Specific",
     "play_count_total": 36,
-    "play_count_30d": 11,
+    "play_count_30d": 10,
     "last_played": "2026-07-25 18:21:33Z",
     "last_played_vienna": "2026-07-25 20:21:33 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -407,17 +385,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Eagles",
-    "title": "Hotel California  (2013 Remaster)",
-    "type": "Shared",
-    "play_count_total": 34,
-    "play_count_30d": 1,
-    "last_played": "2026-07-25 21:09:03Z",
-    "last_played_vienna": "2026-07-25 23:09:03 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Foster The People",
     "title": "Pumped Up Kicks",
     "type": "Station-Specific",
@@ -433,7 +400,7 @@
     "title": "Not Allowed",
     "type": "Station-Specific",
     "play_count_total": 15,
-    "play_count_30d": 5,
+    "play_count_30d": 4,
     "last_played": "2026-07-27 11:38:23Z",
     "last_played_vienna": "2026-07-27 13:38:23 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -547,6 +514,39 @@
     "last_played": "2026-07-31 13:26:59Z",
     "last_played_vienna": "2026-07-31 15:26:59 MESZ",
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Queen",
+    "title": "Killer Queen (Remastered 2011)",
+    "type": "Shared",
+    "play_count_total": 42,
+    "play_count_30d": 3,
+    "last_played": "2026-07-31 16:53:00Z",
+    "last_played_vienna": "2026-07-31 18:53:00 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kenny G",
+    "title": "Songbird",
+    "type": "Shared",
+    "play_count_total": 136,
+    "play_count_30d": 2,
+    "last_played": "2026-07-31 16:59:29Z",
+    "last_played_vienna": "2026-07-31 18:59:29 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dire Straits",
+    "title": "Money for Nothing",
+    "type": "Shared",
+    "play_count_total": 20,
+    "play_count_30d": 3,
+    "last_played": "2026-07-31 17:05:00Z",
+    "last_played_vienna": "2026-07-31 19:05:00 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
