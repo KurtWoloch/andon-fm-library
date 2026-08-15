@@ -209,17 +209,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Lemon Jelly",
-    "title": "Ramblin' Man",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-12 07:50:23Z",
-    "last_played_vienna": "2026-08-12 09:50:23 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Dave Brubeck Quartet",
     "title": "Take Five (Album Version)",
     "type": "Station-Specific",
@@ -447,6 +436,17 @@
     "play_count_30d": 2,
     "last_played": "2026-08-14 20:35:24Z",
     "last_played_vienna": "2026-08-14 22:35:24 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lemon Jelly",
+    "title": "Ramblin' Man",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-15 03:40:25Z",
+    "last_played_vienna": "2026-08-15 05:40:25 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },

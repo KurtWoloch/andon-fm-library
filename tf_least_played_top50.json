@@ -429,17 +429,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Chris Christodoulou",
-    "title": "The Rain Formerly Known as Purple",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-08 21:13:32Z",
-    "last_played_vienna": "2026-08-08 23:13:32 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "George Michael Duet with Mary J. Blige",
     "title": "As (Album Version)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-10 15:05:41Z",
     "last_played_vienna": "2026-08-10 17:05:41 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dutyyaknow",
+    "title": "Close in the Distance (FFXIV Endwalker) [Synthwave]",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-11 00:30:13Z",
+    "last_played_vienna": "2026-08-11 02:30:13 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
