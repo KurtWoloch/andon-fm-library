@@ -286,17 +286,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Pointer Sisters",
-    "title": "I'm So Excited (12\" Remix)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 3,
-    "last_played": "2026-08-14 23:03:53Z",
-    "last_played_vienna": "2026-08-15 01:03:53 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Metallica",
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
@@ -341,17 +330,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tears For Fears",
-    "title": "Pale Shelter (2nd Single Version)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 4,
-    "last_played": "2026-08-14 23:09:23Z",
-    "last_played_vienna": "2026-08-15 01:09:23 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pornophonique",
     "title": "Coming Home",
     "type": "Station-Specific",
@@ -370,6 +348,17 @@
     "play_count_30d": 4,
     "last_played": "2026-08-15 10:45:27Z",
     "last_played_vienna": "2026-08-15 12:45:27 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Pointer Sisters",
+    "title": "I'm So Excited (12\" Remix)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 4,
+    "last_played": "2026-08-15 16:02:27Z",
+    "last_played_vienna": "2026-08-15 18:02:27 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -425,6 +414,17 @@
     "play_count_30d": 2,
     "last_played": "2026-07-31 20:42:30Z",
     "last_played_vienna": "2026-07-31 22:42:30 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tears For Fears",
+    "title": "Pale Shelter (2nd Single Version)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 5,
+    "last_played": "2026-08-15 16:12:57Z",
+    "last_played_vienna": "2026-08-15 18:12:57 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
