@@ -319,17 +319,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tracy Chapman",
-    "title": "Fast Car  (2015 Remaster)",
-    "type": "Shared",
-    "play_count_total": 228,
-    "play_count_30d": 0,
-    "last_played": "2026-06-26 12:39:06Z",
-    "last_played_vienna": "2026-06-26 14:39:06 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ed Sheeran",
     "title": "Perfect",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 2,
     "last_played": "2026-07-21 19:29:38Z",
     "last_played_vienna": "2026-07-21 21:29:38 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Luca Di Sabatino",
+    "title": "Switched-on Wendy",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-22 15:11:46Z",
+    "last_played_vienna": "2026-07-22 17:11:46 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
