@@ -187,17 +187,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Victor Leksell",
-    "title": "Skriker mitt namn",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-01 10:23:01Z",
-    "last_played_vienna": "2026-08-01 12:23:01 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Czech Philharmonic and Theatre",
     "title": "Lazing On a Sunday Afternoon",
     "type": "Station-Specific",
@@ -205,17 +194,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-01 19:59:02Z",
     "last_played_vienna": "2026-08-01 21:59:02 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Michael Jackson",
-    "title": "Morphine (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-01 21:39:01Z",
-    "last_played_vienna": "2026-08-01 23:39:01 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-08-12 12:46:22Z",
     "last_played_vienna": "2026-08-12 14:46:22 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Guitar Tribute Players",
+    "title": "Angel of Small Death and the Codeine Scene",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-12 16:17:23Z",
+    "last_played_vienna": "2026-08-12 18:17:23 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Hozier",
+    "title": "Angel Of Small Death & The Codeine Scene",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-12 16:26:53Z",
+    "last_played_vienna": "2026-08-12 18:26:53 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
