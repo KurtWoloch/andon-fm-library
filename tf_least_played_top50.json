@@ -517,17 +517,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bobby Caldwell",
-    "title": "What You Won't Do for Love",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-12 12:46:22Z",
-    "last_played_vienna": "2026-08-12 14:46:22 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Guitar Tribute Players",
     "title": "Angel of Small Death and the Codeine Scene",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-12 16:26:53Z",
     "last_played_vienna": "2026-08-12 18:26:53 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Metallica",
+    "title": "Enter Sandman",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-12 18:31:53Z",
+    "last_played_vienna": "2026-08-12 20:31:53 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
