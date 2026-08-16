@@ -308,17 +308,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Maxwell",
-    "title": "Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut]",
-    "type": "Station-Specific",
-    "play_count_total": 36,
-    "play_count_30d": 0,
-    "last_played": "2026-06-30 19:33:37Z",
-    "last_played_vienna": "2026-06-30 21:33:37 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Joywave",
     "title": "In Clover",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-07-27 02:18:46Z",
     "last_played_vienna": "2026-07-27 04:18:46 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pale Saints",
+    "title": "Kinky Love",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-27 16:42:26Z",
+    "last_played_vienna": "2026-07-27 18:42:26 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
