@@ -418,17 +418,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Norah Jones",
-    "title": "Sunrise",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-16 22:00:14Z",
-    "last_played_vienna": "2026-08-17 00:00:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Erykah Badu",
     "title": "Witch Doctor",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 3,
     "last_played": "2026-08-15 11:34:57Z",
     "last_played_vienna": "2026-08-15 13:34:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "John Legend",
+    "title": "Nervous",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-16 00:21:58Z",
+    "last_played_vienna": "2026-08-16 02:21:58 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }

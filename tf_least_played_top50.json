@@ -275,17 +275,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Josh Rouse",
-    "title": "Street Lights",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-04 15:19:59Z",
-    "last_played_vienna": "2026-08-04 17:19:59 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ray Anthony",
     "title": "The Hokey Pokey",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-13 11:25:11Z",
     "last_played_vienna": "2026-08-13 13:25:11 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bing Crosby",
+    "title": "White Christmas",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-13 13:24:43Z",
+    "last_played_vienna": "2026-08-13 15:24:43 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
