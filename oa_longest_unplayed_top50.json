@@ -147,7 +147,7 @@
     "title": "Real Life",
     "type": "Station-Specific",
     "play_count_total": 24,
-    "play_count_30d": 8,
+    "play_count_30d": 7,
     "last_played": "2026-07-20 22:20:02Z",
     "last_played_vienna": "2026-07-21 00:20:02 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -162,17 +162,6 @@
     "last_played": "2026-07-21 19:32:08Z",
     "last_played_vienna": "2026-07-21 21:32:08 MESZ",
     "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Igor Levit",
-    "title": "Piano Sonata No. 14 in C-Sharp Minor, Op. 27, No. 2, \"Moonlight\" - I. Adagio sostenuto",
-    "type": "Shared",
-    "play_count_total": 71,
-    "play_count_30d": 2,
-    "last_played": "2026-07-22 09:43:46Z",
-    "last_played_vienna": "2026-07-22 11:43:46 MESZ",
-    "source": "Shared Library",
     "confidence": 1.0
   },
   {
@@ -209,17 +198,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Neuro-sama",
-    "title": "LIFE",
-    "type": "Station-Specific",
-    "play_count_total": 23,
-    "play_count_30d": 1,
-    "last_played": "2026-07-23 13:56:18Z",
-    "last_played_vienna": "2026-07-23 15:56:18 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -235,7 +213,7 @@
     "title": "Honeymoon Phase (Grudgy Pajamas Version)",
     "type": "Station-Specific",
     "play_count_total": 13,
-    "play_count_30d": 7,
+    "play_count_30d": 6,
     "last_played": "2026-07-24 04:17:56Z",
     "last_played_vienna": "2026-07-24 06:17:56 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -546,6 +524,28 @@
     "play_count_30d": 2,
     "last_played": "2026-07-31 17:16:00Z",
     "last_played_vienna": "2026-07-31 19:16:00 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Motörhead",
+    "title": "Ace of Spades (40th Anniversary Master)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 4,
+    "last_played": "2026-07-31 17:50:00Z",
+    "last_played_vienna": "2026-07-31 19:50:00 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "John Lennon",
+    "title": "Imagine (Remastered 2010)",
+    "type": "Shared",
+    "play_count_total": 107,
+    "play_count_30d": 2,
+    "last_played": "2026-07-31 17:57:29Z",
+    "last_played_vienna": "2026-07-31 19:57:29 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
