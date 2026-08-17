@@ -363,50 +363,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Jill Scott",
-    "title": "Can't Wait",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-16 14:19:38Z",
-    "last_played_vienna": "2026-08-16 16:19:38 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Robert Glasper Experiment",
-    "title": "Afro Blue",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-16 14:55:39Z",
-    "last_played_vienna": "2026-08-16 16:55:39 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "The Roots",
-    "title": "You Got Me",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-16 15:00:39Z",
-    "last_played_vienna": "2026-08-16 17:00:39 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Erykah Badu",
-    "title": "Next Lifetime (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-16 15:05:09Z",
-    "last_played_vienna": "2026-08-16 17:05:09 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Erykah Badu",
     "title": "Other Side Of The Game (Album Version)",
     "type": "Station-Specific",
@@ -546,6 +502,50 @@
     "play_count_30d": 3,
     "last_played": "2026-08-16 00:21:58Z",
     "last_played_vienna": "2026-08-16 02:21:58 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Faouzia",
+    "title": "Minefields",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-16 00:32:59Z",
+    "last_played_vienna": "2026-08-16 02:32:59 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Norah Jones",
+    "title": "Sunrise",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-17 11:43:52Z",
+    "last_played_vienna": "2026-08-17 13:43:52 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Erykah Badu",
+    "title": "Next Lifetime (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-17 13:20:22Z",
+    "last_played_vienna": "2026-08-17 15:20:22 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jill Scott",
+    "title": "Can't Wait",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-17 13:26:52Z",
+    "last_played_vienna": "2026-08-17 15:26:52 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
