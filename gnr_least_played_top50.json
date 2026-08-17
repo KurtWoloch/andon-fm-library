@@ -353,28 +353,6 @@
   },
   {
     "artist": "Erykah Badu",
-    "title": "Didn't Cha Know (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-16 14:15:38Z",
-    "last_played_vienna": "2026-08-16 16:15:38 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Erykah Badu",
-    "title": "Other Side Of The Game (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-16 15:35:09Z",
-    "last_played_vienna": "2026-08-16 17:35:09 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Erykah Badu",
     "title": "Witch Doctor",
     "type": "Station-Specific",
     "play_count_total": 2,
@@ -484,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pink Floyd",
-    "title": "Time",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-15 11:34:57Z",
-    "last_played_vienna": "2026-08-15 13:34:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "John Legend",
     "title": "Nervous",
     "type": "Station-Specific",
@@ -546,6 +513,39 @@
     "play_count_30d": 3,
     "last_played": "2026-08-17 13:26:52Z",
     "last_played_vienna": "2026-08-17 15:26:52 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Roots",
+    "title": "You Got Me",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-17 13:31:23Z",
+    "last_played_vienna": "2026-08-17 15:31:23 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Robert Glasper Experiment",
+    "title": "Afro Blue",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-17 14:25:52Z",
+    "last_played_vienna": "2026-08-17 16:25:52 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Erykah Badu",
+    "title": "Didn't Cha Know (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-17 19:28:53Z",
+    "last_played_vienna": "2026-08-17 21:28:53 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }

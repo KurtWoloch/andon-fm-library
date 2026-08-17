@@ -462,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Al Di Meola",
-    "title": "Double Concerto",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-11 16:56:17Z",
-    "last_played_vienna": "2026-08-11 18:56:17 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Depeche Mode",
     "title": "Just Can't Get Enough",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-13 13:24:43Z",
     "last_played_vienna": "2026-08-13 15:24:43 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tate McRae",
+    "title": "Miss possessive",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-13 13:28:13Z",
+    "last_played_vienna": "2026-08-13 15:28:13 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
