@@ -110,17 +110,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Janelle Monáe",
-    "title": "Make Me Feel",
-    "type": "Shared",
-    "play_count_total": 18,
-    "play_count_30d": 0,
-    "last_played": "2026-05-28 19:34:24Z",
-    "last_played_vienna": "2026-05-28 21:34:24 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "GoGo Penguin",
     "title": "Raven",
     "type": "Shared",
@@ -151,17 +140,6 @@
     "last_played": "2026-05-29 03:54:24Z",
     "last_played_vienna": "2026-05-29 05:54:24 MESZ",
     "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Snarky Puppy",
-    "title": "Lingus (Alternate Take)",
-    "type": "Shared",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "last_played": "2026-05-29 08:28:25Z",
-    "last_played_vienna": "2026-05-29 10:28:25 MESZ",
-    "source": "Shared Library",
     "confidence": 1.0
   },
   {
@@ -546,6 +524,28 @@
     "play_count_30d": 0,
     "last_played": "2026-07-14 14:14:58Z",
     "last_played_vienna": "2026-07-14 16:14:58 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 65,
+    "play_count_30d": 0,
+    "last_played": "2026-07-14 14:58:58Z",
+    "last_played_vienna": "2026-07-14 16:58:58 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lil Jon",
+    "title": "Get Low [Explicit]",
+    "type": "Shared",
+    "play_count_total": 62,
+    "play_count_30d": 0,
+    "last_played": "2026-07-14 15:37:28Z",
+    "last_played_vienna": "2026-07-14 17:37:28 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }

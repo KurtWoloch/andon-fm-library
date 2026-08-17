@@ -198,17 +198,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Norah Jones",
-    "title": "Sunrise",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-16 04:18:28Z",
-    "last_played_vienna": "2026-08-16 06:18:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Margaret Glaspy",
     "title": "Michigan",
     "type": "Station-Specific",
@@ -374,17 +363,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Anita Baker",
-    "title": "Sweet Love",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-16 14:07:38Z",
-    "last_played_vienna": "2026-08-16 16:07:38 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Erykah Badu",
     "title": "Didn't Cha Know (Album Version)",
     "type": "Station-Specific",
@@ -447,6 +425,17 @@
     "play_count_30d": 2,
     "last_played": "2026-08-16 15:35:09Z",
     "last_played_vienna": "2026-08-16 17:35:09 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Norah Jones",
+    "title": "Sunrise",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-16 22:00:14Z",
+    "last_played_vienna": "2026-08-17 00:00:14 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -546,6 +535,17 @@
     "play_count_30d": 3,
     "last_played": "2026-08-13 20:27:18Z",
     "last_played_vienna": "2026-08-13 22:27:18 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Donny Hathaway",
+    "title": "A Song for You",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-13 21:27:44Z",
+    "last_played_vienna": "2026-08-13 23:27:44 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
