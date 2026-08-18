@@ -411,7 +411,7 @@
     "title": "Lateralus",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-07-19 15:05:11Z",
     "last_played_vienna": "2026-07-19 17:05:11 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -495,17 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Erykah Badu",
-    "title": "Other Side Of The Game (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-17 20:03:23Z",
-    "last_played_vienna": "2026-08-17 22:03:23 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Michael Jackson",
     "title": "Stranger in Moscow",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 4,
     "last_played": "2026-08-13 20:06:14Z",
     "last_played_vienna": "2026-08-13 22:06:14 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Vanessa-mae",
+    "title": "Aurora",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-08-13 20:14:14Z",
+    "last_played_vienna": "2026-08-13 22:14:14 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
