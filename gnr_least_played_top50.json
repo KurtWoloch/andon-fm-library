@@ -198,17 +198,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Sting",
-    "title": "Fields Of Gold (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-18 02:53:30Z",
-    "last_played_vienna": "2026-08-18 04:53:30 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Dave Brubeck Quartet",
     "title": "Take Five (Album Version)",
     "type": "Station-Specific",
@@ -374,6 +363,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Sting",
+    "title": "Fields Of Gold (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-18 16:35:12Z",
+    "last_played_vienna": "2026-08-18 18:35:12 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "GoGo Penguin",
     "title": "Raven",
     "type": "Shared",
@@ -422,7 +422,7 @@
     "title": "In Clover",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "last_played": "2026-07-20 11:38:52Z",
     "last_played_vienna": "2026-07-20 13:38:52 MESZ",
     "source": "Scraper Logs (GNR Play History)",

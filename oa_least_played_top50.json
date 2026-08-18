@@ -528,17 +528,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Pointer Sisters",
-    "title": "I'm So Excited (12\" Remix)",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 8,
-    "last_played": "2026-08-18 13:48:09Z",
-    "last_played_vienna": "2026-08-18 15:48:09 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Helene Fischer",
     "title": "Atemlos durch die Nacht",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 2,
     "last_played": "2026-08-03 20:39:49Z",
     "last_played_vienna": "2026-08-03 22:39:49 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Metallica",
+    "title": "Enter Sandman",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 3,
+    "last_played": "2026-08-03 20:50:19Z",
+    "last_played_vienna": "2026-08-03 22:50:19 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
