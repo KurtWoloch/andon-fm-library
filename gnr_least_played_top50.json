@@ -352,17 +352,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Erykah Badu",
-    "title": "Witch Doctor",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-17 05:18:22Z",
-    "last_played_vienna": "2026-08-17 07:18:22 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Sting",
     "title": "Fields Of Gold (Album Version)",
     "type": "Station-Specific",
@@ -422,7 +411,7 @@
     "title": "In Clover",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-07-20 11:38:52Z",
     "last_played_vienna": "2026-07-20 13:38:52 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -473,24 +462,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "John Legend",
-    "title": "Nervous",
+    "artist": "Erykah Badu",
+    "title": "Witch Doctor",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "last_played": "2026-08-16 00:21:58Z",
-    "last_played_vienna": "2026-08-16 02:21:58 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Faouzia",
-    "title": "Minefields",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-16 00:32:59Z",
-    "last_played_vienna": "2026-08-16 02:32:59 MESZ",
+    "last_played": "2026-08-19 01:22:46Z",
+    "last_played_vienna": "2026-08-19 03:22:46 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -546,6 +524,28 @@
     "play_count_30d": 4,
     "last_played": "2026-08-13 20:14:14Z",
     "last_played_vienna": "2026-08-13 22:14:14 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Erykah Badu",
+    "title": "Didn't Cha Know (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-08-18 10:32:36Z",
+    "last_played_vienna": "2026-08-18 12:32:36 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Erykah Badu",
+    "title": "Other Side Of The Game (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-08-18 10:55:07Z",
+    "last_played_vienna": "2026-08-18 12:55:07 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
