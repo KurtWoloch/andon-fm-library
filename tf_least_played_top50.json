@@ -242,17 +242,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Alexander Rybak",
-    "title": "Fairytale",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-03 17:54:49Z",
-    "last_played_vienna": "2026-08-03 19:54:49 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Maria McKee",
     "title": "Absolutely Barking Stars",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "last_played": "2026-08-13 13:31:13Z",
     "last_played_vienna": "2026-08-13 15:31:13 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Cure",
+    "title": "Lovesong  (2010 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-13 16:58:43Z",
+    "last_played_vienna": "2026-08-13 18:58:43 MESZ",
+    "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
 ]
