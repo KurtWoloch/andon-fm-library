@@ -187,17 +187,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Train",
-    "title": "Drops of Jupiter (Tell Me)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-01 23:24:33Z",
-    "last_played_vienna": "2026-08-02 01:24:33 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Petra",
     "title": "This Means War",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-13 13:28:13Z",
     "last_played_vienna": "2026-08-13 15:28:13 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Perrie",
+    "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-13 13:31:13Z",
+    "last_played_vienna": "2026-08-13 15:31:13 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
