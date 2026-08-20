@@ -147,7 +147,7 @@
     "title": "Redemption Day (Album Version)",
     "type": "Shared",
     "play_count_total": 24,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "last_played": "2026-07-23 02:46:18Z",
     "last_played_vienna": "2026-07-23 04:46:18 MESZ",
     "source": "Shared Library",
@@ -172,17 +172,6 @@
     "play_count_30d": 2,
     "last_played": "2026-07-24 04:17:56Z",
     "last_played_vienna": "2026-07-24 06:17:56 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Dive",
-    "title": "City Of Sound",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 2,
-    "last_played": "2026-07-24 13:41:57Z",
-    "last_played_vienna": "2026-07-24 15:41:57 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -216,17 +205,6 @@
     "play_count_30d": 2,
     "last_played": "2026-07-25 07:44:02Z",
     "last_played_vienna": "2026-07-25 09:44:02 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Quinn XCII",
-    "title": "Kings Of Summer (Live from Red Rocks)",
-    "type": "Station-Specific",
-    "play_count_total": 106,
-    "play_count_30d": 7,
-    "last_played": "2026-07-25 11:49:32Z",
-    "last_played_vienna": "2026-07-25 13:49:32 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -268,7 +246,7 @@
     "title": "Loving Machine",
     "type": "Station-Specific",
     "play_count_total": 36,
-    "play_count_30d": 6,
+    "play_count_30d": 5,
     "last_played": "2026-07-25 18:21:33Z",
     "last_played_vienna": "2026-07-25 20:21:33 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -381,17 +359,6 @@
     "play_count_30d": 4,
     "last_played": "2026-07-29 00:08:07Z",
     "last_played_vienna": "2026-07-29 02:08:07 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Olivia Newton-John",
-    "title": "Xanadu (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 7,
-    "last_played": "2026-07-30 12:56:53Z",
-    "last_played_vienna": "2026-07-30 14:56:53 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -546,6 +513,39 @@
     "play_count_30d": 1,
     "last_played": "2026-07-31 18:50:30Z",
     "last_played_vienna": "2026-07-31 20:50:30 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lil Jon",
+    "title": "Get Low [Explicit]",
+    "type": "Shared",
+    "play_count_total": 6,
+    "play_count_30d": 1,
+    "last_played": "2026-07-31 19:14:00Z",
+    "last_played_vienna": "2026-07-31 21:14:00 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tinashe",
+    "title": "Nasty",
+    "type": "Shared",
+    "play_count_total": 28,
+    "play_count_30d": 3,
+    "last_played": "2026-07-31 19:20:00Z",
+    "last_played_vienna": "2026-07-31 21:20:00 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Frank Carter & The Rattlesnakes",
+    "title": "Kitty Sucker",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 3,
+    "last_played": "2026-07-31 19:40:00Z",
+    "last_played_vienna": "2026-07-31 21:40:00 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
