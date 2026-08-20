@@ -55,17 +55,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Journey",
-    "title": "Lights (Album Version)",
-    "type": "Shared",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-05-14 20:17:01Z",
-    "last_played_vienna": "2026-05-14 22:17:01 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Weeknd",
     "title": "Starboy",
     "type": "Shared",
@@ -418,17 +407,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Luca Di Sabatino",
-    "title": "Switched-on Wendy",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-22 15:11:46Z",
-    "last_played_vienna": "2026-07-22 17:11:46 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Royal Blood",
     "title": "Boilermaker",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-07-29 02:40:09Z",
     "last_played_vienna": "2026-07-29 04:40:09 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Marvin Gaye",
+    "title": "Let's Get It On",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-07-29 07:31:40Z",
+    "last_played_vienna": "2026-07-29 09:31:40 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "RY X",
+    "title": "Let You Go",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 1,
+    "last_played": "2026-07-29 12:38:41Z",
+    "last_played_vienna": "2026-07-29 14:38:41 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

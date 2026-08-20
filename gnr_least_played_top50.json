@@ -224,7 +224,7 @@
     "title": "In Stride",
     "type": "Station-Specific",
     "play_count_total": 2,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-07-21 14:50:38Z",
     "last_played_vienna": "2026-07-21 16:50:38 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -539,13 +539,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "Erykah Badu",
-    "title": "Other Side Of The Game (Album Version)",
+    "artist": "John Legend",
+    "title": "Nervous",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "last_played": "2026-08-19 16:26:49Z",
-    "last_played_vienna": "2026-08-19 18:26:49 MESZ",
+    "last_played": "2026-08-19 23:05:19Z",
+    "last_played_vienna": "2026-08-20 01:05:19 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }

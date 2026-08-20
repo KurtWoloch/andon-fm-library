@@ -77,17 +77,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Luca Di Sabatino",
-    "title": "Switched-on Wendy",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-07-22 15:11:46Z",
-    "last_played_vienna": "2026-07-22 17:11:46 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Royal Blood",
     "title": "Boilermaker",
     "type": "Station-Specific",
@@ -473,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Confetti",
-    "title": "People Suck [Explicit]",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-13 11:25:11Z",
-    "last_played_vienna": "2026-08-13 13:25:11 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-08-14 01:49:48Z",
     "last_played_vienna": "2026-08-14 03:49:48 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Depeche Mode",
+    "title": "Enjoy the Silence",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-14 02:04:18Z",
+    "last_played_vienna": "2026-08-14 04:04:18 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Haute & Freddy",
+    "title": "Dance The Pain Away",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-14 02:28:48Z",
+    "last_played_vienna": "2026-08-14 04:28:48 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

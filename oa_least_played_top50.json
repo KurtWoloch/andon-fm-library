@@ -440,17 +440,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Megadeth",
-    "title": "Tipping Point",
-    "type": "Shared",
-    "play_count_total": 8,
-    "play_count_30d": 2,
-    "last_played": "2026-08-14 23:36:53Z",
-    "last_played_vienna": "2026-08-15 01:36:53 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bon Jovi",
     "title": "You Give Love A Bad Name",
     "type": "Shared",
@@ -481,6 +470,17 @@
     "last_played": "2026-08-17 05:47:21Z",
     "last_played_vienna": "2026-08-17 07:47:21 MESZ",
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Megadeth",
+    "title": "Tipping Point",
+    "type": "Shared",
+    "play_count_total": 9,
+    "play_count_30d": 3,
+    "last_played": "2026-08-20 15:38:26Z",
+    "last_played_vienna": "2026-08-20 17:38:26 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   },
   {
