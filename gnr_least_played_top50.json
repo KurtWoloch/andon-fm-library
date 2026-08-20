@@ -187,17 +187,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Margaret Glaspy",
-    "title": "Michigan",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-16 04:26:59Z",
-    "last_played_vienna": "2026-08-16 06:26:59 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Dave Brubeck Quartet",
     "title": "Take Five (Album Version)",
     "type": "Station-Specific",
@@ -348,6 +337,17 @@
     "play_count_30d": 2,
     "last_played": "2026-08-15 12:57:28Z",
     "last_played_vienna": "2026-08-15 14:57:28 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Margaret Glaspy",
+    "title": "Michigan",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-19 21:31:19Z",
+    "last_played_vienna": "2026-08-19 23:31:19 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -518,34 +518,34 @@
   },
   {
     "artist": "Erykah Badu",
-    "title": "Didn't Cha Know (Album Version)",
+    "title": "Witch Doctor",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "last_played": "2026-08-18 10:32:36Z",
-    "last_played_vienna": "2026-08-18 12:32:36 MESZ",
+    "last_played": "2026-08-19 16:15:19Z",
+    "last_played_vienna": "2026-08-19 18:15:19 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
-    "artist": "John Legend",
-    "title": "Nervous",
+    "artist": "Serge Gainsbourg",
+    "title": "Je t'aime moi non plus",
     "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-19 00:22:16Z",
-    "last_played_vienna": "2026-08-19 02:22:16 MESZ",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "last_played": "2026-06-05 13:05:11Z",
+    "last_played_vienna": "2026-06-05 15:05:11 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
-    "artist": "Faouzia",
-    "title": "Minefields",
+    "artist": "Cigarettes After Sex",
+    "title": "Each Time You Fall in Love",
     "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-19 00:25:15Z",
-    "last_played_vienna": "2026-08-19 02:25:15 MESZ",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "last_played": "2026-06-05 13:16:20Z",
+    "last_played_vienna": "2026-06-05 15:16:20 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }

@@ -286,17 +286,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Paul Leonard-Morgan",
-    "title": "She's a Pass",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-06-27 05:53:47Z",
-    "last_played_vienna": "2026-06-27 07:53:47 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Joywave",
     "title": "In Clover",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-07-27 16:50:26Z",
     "last_played_vienna": "2026-07-27 18:50:26 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Emancipator",
+    "title": "Soon It Will Be Cold Enough to Build Fires",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 5,
+    "last_played": "2026-07-28 08:34:04Z",
+    "last_played_vienna": "2026-07-28 10:34:04 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
