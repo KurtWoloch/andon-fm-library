@@ -286,17 +286,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Joywave",
-    "title": "In Clover",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "last_played": "2026-07-03 02:39:02Z",
-    "last_played_vienna": "2026-07-03 04:39:02 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Creed",
     "title": "With Arms Wide Open",
     "type": "Station-Specific",
@@ -543,9 +532,20 @@
     "title": "Soon It Will Be Cold Enough to Build Fires",
     "type": "Station-Specific",
     "play_count_total": 7,
-    "play_count_30d": 5,
+    "play_count_30d": 4,
     "last_played": "2026-07-28 08:34:04Z",
     "last_played_vienna": "2026-07-28 10:34:04 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Vampire Lestat",
+    "title": "Brutal Love",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-07-28 17:03:35Z",
+    "last_played_vienna": "2026-07-28 19:03:35 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

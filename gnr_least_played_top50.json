@@ -48,7 +48,7 @@
     "title": "Everlasting Love (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-07-21 08:43:08Z",
     "last_played_vienna": "2026-07-21 10:43:08 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -224,7 +224,7 @@
     "title": "In Stride",
     "type": "Station-Specific",
     "play_count_total": 2,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-07-21 14:50:38Z",
     "last_played_vienna": "2026-07-21 16:50:38 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -506,17 +506,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Sting",
-    "title": "Fields Of Gold (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-20 01:37:21Z",
-    "last_played_vienna": "2026-08-20 03:37:21 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Serge Gainsbourg",
     "title": "Je t'aime moi non plus",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-07-15 02:55:33Z",
     "last_played_vienna": "2026-07-15 04:55:33 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Arctic Monkeys",
+    "title": "Dangerous Animals",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 3,
+    "last_played": "2026-08-17 00:59:18Z",
+    "last_played_vienna": "2026-08-17 02:59:18 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
