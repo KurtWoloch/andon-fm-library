@@ -264,17 +264,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Huey Lewis And The News",
-    "title": "Hip To Be Square",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-04 19:10:30Z",
-    "last_played_vienna": "2026-08-04 21:10:30 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Martin Garrix",
     "title": "Carry You",
     "type": "Station-Specific",
@@ -528,17 +517,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Cure",
-    "title": "Lovesong  (2010 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-13 16:58:43Z",
-    "last_played_vienna": "2026-08-13 18:58:43 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Jars Of Clay",
     "title": "Flood",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-08-13 17:09:43Z",
     "last_played_vienna": "2026-08-13 19:09:43 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bikini Kill",
+    "title": "Rebel Girl",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-14 01:35:17Z",
+    "last_played_vienna": "2026-08-14 03:35:17 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pussy Riot",
+    "title": "Straight Outta Vagina (feat. Desi Mo & Leikeli47)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-14 01:49:48Z",
+    "last_played_vienna": "2026-08-14 03:49:48 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
