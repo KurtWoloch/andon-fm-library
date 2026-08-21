@@ -231,17 +231,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Maria McKee",
-    "title": "Absolutely Barking Stars",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-04 14:40:30Z",
-    "last_played_vienna": "2026-08-04 16:40:30 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ray Anthony",
     "title": "The Hokey Pokey",
     "type": "Station-Specific",
@@ -271,17 +260,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-05 04:11:04Z",
     "last_played_vienna": "2026-08-05 06:11:04 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Haddaway",
-    "title": "What Is Love (Lynx & Pico Remix)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-05 09:29:05Z",
-    "last_played_vienna": "2026-08-05 11:29:05 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -484,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Jars Of Clay",
-    "title": "Flood",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-13 17:09:43Z",
-    "last_played_vienna": "2026-08-13 19:09:43 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bikini Kill",
     "title": "Rebel Girl",
     "type": "Station-Specific",
@@ -546,6 +513,39 @@
     "play_count_30d": 1,
     "last_played": "2026-08-14 02:32:48Z",
     "last_played_vienna": "2026-08-14 04:32:48 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Child Seat",
+    "title": "Hyperphantasia",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-14 02:35:18Z",
+    "last_played_vienna": "2026-08-14 04:35:18 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Father John Misty",
+    "title": "Just Dumb Enough to Try",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-14 02:39:49Z",
+    "last_played_vienna": "2026-08-14 04:39:49 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "TilaR",
+    "title": "More Than A Friend",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-14 02:43:48Z",
+    "last_played_vienna": "2026-08-14 04:43:48 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
