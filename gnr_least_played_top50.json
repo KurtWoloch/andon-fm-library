@@ -275,17 +275,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Paris Paloma",
-    "title": "labour",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-13 03:06:00Z",
-    "last_played_vienna": "2026-08-13 05:06:00 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Radiohead",
     "title": "Creep",
     "type": "Station-Specific",
@@ -293,17 +282,6 @@
     "play_count_30d": 2,
     "last_played": "2026-08-13 05:57:32Z",
     "last_played_vienna": "2026-08-13 07:57:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Paris Paloma",
-    "title": "Pre-Raphaelite",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-13 07:29:32Z",
-    "last_played_vienna": "2026-08-13 09:29:32 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -447,6 +425,28 @@
     "play_count_30d": 3,
     "last_played": "2026-08-13 20:27:18Z",
     "last_played_vienna": "2026-08-13 22:27:18 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Paris Paloma",
+    "title": "labour",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-22 08:25:13Z",
+    "last_played_vienna": "2026-08-22 10:25:13 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Paris Paloma",
+    "title": "Pre-Raphaelite",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-22 08:46:14Z",
+    "last_played_vienna": "2026-08-22 10:46:14 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
