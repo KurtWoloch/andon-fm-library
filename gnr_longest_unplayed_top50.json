@@ -110,17 +110,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Yussef Kamaal",
-    "title": "Strings of Light",
-    "type": "Shared",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "last_played": "2026-05-29 08:46:55Z",
-    "last_played_vienna": "2026-05-29 10:46:55 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Beyoncé",
     "title": "Crazy In Love",
     "type": "Shared",
@@ -161,17 +150,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-04 14:38:37Z",
     "last_played_vienna": "2026-06-04 16:38:37 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "John Coltrane",
-    "title": "My Favorite Things",
-    "type": "Station-Specific",
-    "play_count_total": 52,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 05:54:10Z",
-    "last_played_vienna": "2026-06-05 07:54:10 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -484,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "John Coltrane",
-    "title": "Giant Steps",
-    "type": "Station-Specific",
-    "play_count_total": 46,
-    "play_count_30d": 0,
-    "last_played": "2026-07-15 02:45:03Z",
-    "last_played_vienna": "2026-07-15 04:45:03 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "WillyB",
     "title": "Egyptus",
     "type": "Station-Specific",
@@ -547,6 +514,39 @@
     "last_played": "2026-07-16 06:03:24Z",
     "last_played_vienna": "2026-07-16 08:03:24 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Boney M.",
+    "title": "Gotta Go Home",
+    "type": "Shared",
+    "play_count_total": 167,
+    "play_count_30d": 0,
+    "last_played": "2026-07-16 12:25:27Z",
+    "last_played_vienna": "2026-07-16 14:25:27 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Chappell Roan",
+    "title": "HOT TO GO!",
+    "type": "Shared",
+    "play_count_total": 29,
+    "play_count_30d": 0,
+    "last_played": "2026-07-16 12:47:28Z",
+    "last_played_vienna": "2026-07-16 14:47:28 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jigsaw",
+    "title": "Sky High",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-07-16 17:10:31Z",
+    "last_played_vienna": "2026-07-16 19:10:31 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
 ]
