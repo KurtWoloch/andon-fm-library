@@ -341,17 +341,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Light Bulb In My Head",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "last_played": "2026-07-16 16:49:59Z",
-    "last_played_vienna": "2026-07-16 18:49:59 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Quad City DJ's",
     "title": "Space Jam",
     "type": "Station-Specific",
@@ -389,7 +378,7 @@
     "title": "Faster",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-07-24 14:02:27Z",
     "last_played_vienna": "2026-07-24 16:02:27 MESZ",
     "source": "Scraper Logs (TF Play History)",
@@ -400,7 +389,7 @@
     "title": "Come On Get Higher",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-07-24 14:58:27Z",
     "last_played_vienna": "2026-07-24 16:58:27 MESZ",
     "source": "Scraper Logs (TF Play History)",
@@ -547,6 +536,17 @@
     "last_played": "2026-07-29 15:05:41Z",
     "last_played_vienna": "2026-07-29 17:05:41 MESZ",
     "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Katy Perry",
+    "title": "Roar",
+    "type": "Shared",
+    "play_count_total": 104,
+    "play_count_30d": 1,
+    "last_played": "2026-07-29 17:17:41Z",
+    "last_played_vienna": "2026-07-29 19:17:41 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
