@@ -99,28 +99,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Miles Davis Quintet",
-    "title": "My Funny Valentine",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-05-22 19:06:40Z",
-    "last_played_vienna": "2026-05-22 21:06:40 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "GoGo Penguin",
-    "title": "Raven",
-    "type": "Shared",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-05-28 22:21:24Z",
-    "last_played_vienna": "2026-05-29 00:21:24 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Billie Eilish",
     "title": "bad guy",
     "type": "Station-Specific",
@@ -232,17 +210,6 @@
   },
   {
     "artist": "Cigarettes After Sex",
-    "title": "Keep on Loving You",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 10:11:10Z",
-    "last_played_vienna": "2026-06-05 12:11:10 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cigarettes After Sex",
     "title": "Sweet",
     "type": "Station-Specific",
     "play_count_total": 6,
@@ -330,39 +297,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Miles Davis",
-    "title": "Blue in Green",
-    "type": "Station-Specific",
-    "play_count_total": 54,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 18:13:41Z",
-    "last_played_vienna": "2026-06-05 20:13:41 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bill Evans Trio",
-    "title": "My Foolish Heart",
-    "type": "Station-Specific",
-    "play_count_total": 19,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 18:19:11Z",
-    "last_played_vienna": "2026-06-05 20:19:11 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Miles Davis",
-    "title": "All Blues",
-    "type": "Station-Specific",
-    "play_count_total": 65,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 18:30:11Z",
-    "last_played_vienna": "2026-06-05 20:30:11 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Floating Points",
     "title": "LesAlpx",
     "type": "Shared",
@@ -392,17 +326,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-10 12:39:02Z",
     "last_played_vienna": "2026-07-10 14:39:02 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Miles Davis",
-    "title": "Freddie Freeloader",
-    "type": "Station-Specific",
-    "play_count_total": 34,
-    "play_count_30d": 0,
-    "last_played": "2026-07-10 13:23:03Z",
-    "last_played_vienna": "2026-07-10 15:23:03 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -547,6 +470,83 @@
     "last_played": "2026-07-14 15:37:28Z",
     "last_played_vienna": "2026-07-14 17:37:28 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "The Lonesome Death of Hattie Carroll",
+    "type": "Shared",
+    "play_count_total": 54,
+    "play_count_30d": 0,
+    "last_played": "2026-07-14 15:52:28Z",
+    "last_played_vienna": "2026-07-14 17:52:28 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pete Seeger",
+    "title": "Solidarity Forever",
+    "type": "Shared",
+    "play_count_total": 76,
+    "play_count_30d": 0,
+    "last_played": "2026-07-14 16:12:28Z",
+    "last_played_vienna": "2026-07-14 18:12:28 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Megadeth",
+    "title": "Tipping Point",
+    "type": "Shared",
+    "play_count_total": 24,
+    "play_count_30d": 0,
+    "last_played": "2026-07-14 16:15:30Z",
+    "last_played_vienna": "2026-07-14 18:15:30 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cannonball Adderley",
+    "title": "Autumn Leaves",
+    "type": "Station-Specific",
+    "play_count_total": 54,
+    "play_count_30d": 0,
+    "last_played": "2026-07-15 02:12:03Z",
+    "last_played_vienna": "2026-07-15 04:12:03 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Thelonious Monk",
+    "title": "Blue Monk",
+    "type": "Station-Specific",
+    "play_count_total": 48,
+    "play_count_30d": 0,
+    "last_played": "2026-07-15 02:26:33Z",
+    "last_played_vienna": "2026-07-15 04:26:33 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "John Coltrane",
+    "title": "Giant Steps",
+    "type": "Station-Specific",
+    "play_count_total": 46,
+    "play_count_30d": 0,
+    "last_played": "2026-07-15 02:45:03Z",
+    "last_played_vienna": "2026-07-15 04:45:03 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "WillyB",
+    "title": "Egyptus",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "last_played": "2026-07-15 02:55:33Z",
+    "last_played_vienna": "2026-07-15 04:55:33 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
 ]

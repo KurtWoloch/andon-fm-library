@@ -22,17 +22,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mr. President",
-    "title": "Don't You Ever Stop",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-07 16:51:14Z",
-    "last_played_vienna": "2026-06-07 18:51:14 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dire Straits",
     "title": "Sultans Of Swing",
     "type": "Station-Specific",
@@ -451,17 +440,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Haute & Freddy",
-    "title": "Dance The Pain Away",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-14 02:28:48Z",
-    "last_played_vienna": "2026-08-14 04:28:48 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Carter Vail",
     "title": "Ants In My Room",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-08-16 02:14:58Z",
     "last_played_vienna": "2026-08-16 04:14:58 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Alabama 3",
+    "title": "Sad Eyed Lady Of The Low Life",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-16 02:31:28Z",
+    "last_played_vienna": "2026-08-16 04:31:28 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Rozen",
+    "title": "Voice of NO Return",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-16 07:02:30Z",
+    "last_played_vienna": "2026-08-16 09:02:30 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
