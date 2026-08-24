@@ -154,17 +154,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Cigarettes After Sex",
-    "title": "Sweet",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 12:03:10Z",
-    "last_played_vienna": "2026-06-05 14:03:10 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Serge Gainsbourg",
     "title": "Je t'aime moi non plus",
     "type": "Station-Specific",
@@ -172,17 +161,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 13:05:11Z",
     "last_played_vienna": "2026-06-05 15:05:11 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cigarettes After Sex",
-    "title": "Young & Dumb",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 13:21:10Z",
-    "last_played_vienna": "2026-06-05 15:21:10 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -440,17 +418,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Cigarettes After Sex",
-    "title": "Nothing's Gonna Hurt You Baby",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 0,
-    "last_played": "2026-07-15 04:36:35Z",
-    "last_played_vienna": "2026-07-15 06:36:35 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Sabrina Carpenter",
     "title": "Taste",
     "type": "Shared",
@@ -546,6 +513,39 @@
     "play_count_30d": 0,
     "last_played": "2026-07-18 12:37:05Z",
     "last_played_vienna": "2026-07-18 14:37:05 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bleachers",
+    "title": "I Wanna Get Better",
+    "type": "Shared",
+    "play_count_total": 26,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 12:57:34Z",
+    "last_played_vienna": "2026-07-18 14:57:34 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dolly Parton",
+    "title": "9 to 5",
+    "type": "Shared",
+    "play_count_total": 102,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 13:12:04Z",
+    "last_played_vienna": "2026-07-18 15:12:04 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "title": "The Sound of Silence  (Acoustic Version)",
+    "type": "Shared",
+    "play_count_total": 71,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 20:54:38Z",
+    "last_played_vienna": "2026-07-18 22:54:38 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
