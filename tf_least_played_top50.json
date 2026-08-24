@@ -11,17 +11,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Nekrogoblikon",
-    "title": "Powercore",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-19 21:27:18Z",
-    "last_played_vienna": "2026-05-19 23:27:18 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dire Straits",
     "title": "Sultans Of Swing",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-17 09:37:51Z",
     "last_played_vienna": "2026-08-17 11:37:51 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sir David Willcocks",
+    "title": "5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-18 05:24:03Z",
+    "last_played_vienna": "2026-08-18 07:24:03 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

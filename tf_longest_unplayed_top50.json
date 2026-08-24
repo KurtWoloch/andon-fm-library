@@ -66,17 +66,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Nekrogoblikon",
-    "title": "Powercore",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-19 21:27:18Z",
-    "last_played_vienna": "2026-05-19 23:27:18 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Rumahoy",
     "title": "Forest Party",
     "type": "Station-Specific",
@@ -117,17 +106,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-13 21:09:11Z",
     "last_played_vienna": "2026-06-13 23:09:11 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Hammerfall",
-    "title": "Hearts On Fire",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-06-13 21:19:41Z",
-    "last_played_vienna": "2026-06-13 23:19:41 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -484,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "RY X",
-    "title": "Let You Go",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 1,
-    "last_played": "2026-07-29 12:38:41Z",
-    "last_played_vienna": "2026-07-29 14:38:41 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "A Winged Victory For The Sullen",
     "title": "Minuet for a Cheap Piano Number Two",
     "type": "Station-Specific",
@@ -517,17 +484,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The 1975",
-    "title": "Jesus Christ 2005 God Bless America",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 1,
-    "last_played": "2026-07-29 14:54:11Z",
-    "last_played_vienna": "2026-07-29 16:54:11 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Katy Perry",
     "title": "Roar",
     "type": "Shared",
@@ -546,6 +502,50 @@
     "play_count_30d": 1,
     "last_played": "2026-07-29 17:25:41Z",
     "last_played_vienna": "2026-07-29 19:25:41 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "U2",
+    "title": "Beautiful Day (Remastered 2020)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-07-29 22:45:41Z",
+    "last_played_vienna": "2026-07-30 00:45:41 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Yo La Tengo",
+    "title": "You Can Have It All",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 1,
+    "last_played": "2026-07-30 07:48:19Z",
+    "last_played_vienna": "2026-07-30 09:48:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Euology",
+    "title": "Logic",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-07-30 08:10:19Z",
+    "last_played_vienna": "2026-07-30 10:10:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lana Del Rey",
+    "title": "Heroin",
+    "type": "Station-Specific",
+    "play_count_total": 16,
+    "play_count_30d": 1,
+    "last_played": "2026-07-30 08:36:49Z",
+    "last_played_vienna": "2026-07-30 10:36:49 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
