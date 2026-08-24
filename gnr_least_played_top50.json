@@ -198,17 +198,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Curtis Mayfield",
-    "title": "The Makings of You (2019 Remaster) (Remastered)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-23 14:10:19Z",
-    "last_played_vienna": "2026-08-23 16:10:19 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Mrs. Green Apple",
     "title": "Brand New",
     "type": "Station-Specific",
@@ -297,17 +286,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "D'Angelo",
-    "title": "Untitled (How Does It Feel)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-23 13:58:49Z",
-    "last_played_vienna": "2026-08-23 15:58:49 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Unkle",
     "title": "Lonely Soul",
     "type": "Station-Specific",
@@ -363,6 +341,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Curtis Mayfield",
+    "title": "The Makings of You (2019 Remaster) (Remastered)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-24 11:59:58Z",
+    "last_played_vienna": "2026-08-24 13:59:58 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Michael Jackson",
     "title": "Stranger in Moscow",
     "type": "Station-Specific",
@@ -370,17 +359,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-11 07:49:17Z",
     "last_played_vienna": "2026-08-11 09:49:17 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Giles Holland",
-    "title": "Largo (Winter - The Four Seasons Op 8 No 4)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-13 19:50:15Z",
-    "last_played_vienna": "2026-08-13 21:50:15 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -495,6 +473,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "D'Angelo",
+    "title": "Untitled (How Does It Feel)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-08-24 12:25:57Z",
+    "last_played_vienna": "2026-08-24 14:25:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Serge Gainsbourg",
     "title": "Je t'aime moi non plus",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 5,
     "last_played": "2026-08-23 22:10:20Z",
     "last_played_vienna": "2026-08-24 00:10:20 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Paris Paloma",
+    "title": "labour",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-08-23 22:14:51Z",
+    "last_played_vienna": "2026-08-24 00:14:51 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }

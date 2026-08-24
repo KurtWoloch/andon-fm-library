@@ -176,17 +176,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Floating Points",
-    "title": "LesAlpx",
-    "type": "Shared",
-    "play_count_total": 239,
-    "play_count_30d": 0,
-    "last_played": "2026-06-08 22:09:00Z",
-    "last_played_vienna": "2026-06-09 00:09:00 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Katrina And The Waves",
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
@@ -396,17 +385,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Thelonious Monk",
-    "title": "Blue Monk",
-    "type": "Station-Specific",
-    "play_count_total": 48,
-    "play_count_30d": 0,
-    "last_played": "2026-07-15 02:26:33Z",
-    "last_played_vienna": "2026-07-15 04:26:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "WillyB",
     "title": "Egyptus",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 0,
     "last_played": "2026-07-18 20:54:38Z",
     "last_played_vienna": "2026-07-18 22:54:38 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Johnny Cash",
+    "title": "Redemption Day (Album Version)",
+    "type": "Shared",
+    "play_count_total": 58,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 21:05:38Z",
+    "last_played_vienna": "2026-07-18 23:05:38 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Madonna",
+    "title": "Holiday",
+    "type": "Shared",
+    "play_count_total": 85,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 22:09:06Z",
+    "last_played_vienna": "2026-07-19 00:09:06 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
