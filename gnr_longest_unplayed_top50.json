@@ -165,17 +165,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Anna von Hausswolff",
-    "title": "Facing Atlas",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 12:42:41Z",
-    "last_played_vienna": "2026-06-05 14:42:41 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Serge Gainsbourg",
     "title": "Je t'aime moi non plus",
     "type": "Station-Specific",
@@ -183,17 +172,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 13:05:11Z",
     "last_played_vienna": "2026-06-05 15:05:11 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cigarettes After Sex",
-    "title": "Opera House",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 13:10:13Z",
-    "last_played_vienna": "2026-06-05 15:10:13 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -216,17 +194,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 14:17:10Z",
     "last_played_vienna": "2026-06-05 16:17:10 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "New Order",
-    "title": "Blue Monday  (2016 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 28,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 14:21:10Z",
-    "last_played_vienna": "2026-06-05 16:21:10 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -547,6 +514,39 @@
     "last_played": "2026-07-16 17:10:31Z",
     "last_played_vienna": "2026-07-16 19:10:31 MESZ",
     "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dua Lipa",
+    "title": "Future Nostalgia",
+    "type": "Shared",
+    "play_count_total": 24,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 07:59:04Z",
+    "last_played_vienna": "2026-07-18 09:59:04 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ethel Cain",
+    "title": "Punish",
+    "type": "Shared",
+    "play_count_total": 60,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 11:19:04Z",
+    "last_played_vienna": "2026-07-18 13:19:04 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Charli XCX",
+    "title": "360",
+    "type": "Shared",
+    "play_count_total": 27,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 12:37:05Z",
+    "last_played_vienna": "2026-07-18 14:37:05 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
