@@ -341,17 +341,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Curtis Mayfield",
-    "title": "The Makings of You (2019 Remaster) (Remastered)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-24 11:59:58Z",
-    "last_played_vienna": "2026-08-24 13:59:58 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Michael Jackson",
     "title": "Stranger in Moscow",
     "type": "Station-Specific",
@@ -480,6 +469,17 @@
     "play_count_30d": 4,
     "last_played": "2026-08-24 12:25:57Z",
     "last_played_vienna": "2026-08-24 14:25:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Curtis Mayfield",
+    "title": "The Makings of You (2019 Remaster) (Remastered)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-08-24 17:02:28Z",
+    "last_played_vienna": "2026-08-24 19:02:28 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
