@@ -264,17 +264,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Hozier",
-    "title": "Angel Of Small Death & The Codeine Scene",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-12 16:26:53Z",
-    "last_played_vienna": "2026-08-12 18:26:53 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Metallica",
     "title": "Enter Sandman",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-23 17:29:19Z",
     "last_played_vienna": "2026-08-23 19:29:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Beatles",
+    "title": "A Day In The Life (2017 Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-23 17:41:19Z",
+    "last_played_vienna": "2026-08-23 19:41:19 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
