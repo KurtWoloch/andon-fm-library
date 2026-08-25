@@ -99,17 +99,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Jigsaw",
-    "title": "Sky High",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-07-16 17:10:31Z",
-    "last_played_vienna": "2026-07-16 19:10:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "DataGlide",
     "title": "VR Higher",
     "type": "Station-Specific",
@@ -150,28 +139,6 @@
     "play_count_30d": 2,
     "last_played": "2026-08-19 21:31:19Z",
     "last_played_vienna": "2026-08-19 23:31:19 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "D'Angelo",
-    "title": "Brown Sugar",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-23 14:06:19Z",
-    "last_played_vienna": "2026-08-23 16:06:19 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Mrs. Green Apple",
-    "title": "Brand New",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-24 03:05:25Z",
-    "last_played_vienna": "2026-08-24 05:05:25 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -304,6 +271,39 @@
     "play_count_30d": 3,
     "last_played": "2026-08-25 01:15:31Z",
     "last_played_vienna": "2026-08-25 03:15:31 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mrs. Green Apple",
+    "title": "Brand New",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-25 03:35:03Z",
+    "last_played_vienna": "2026-08-25 05:35:03 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jigsaw",
+    "title": "Sky High",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 03:38:32Z",
+    "last_played_vienna": "2026-08-25 05:38:32 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "D'Angelo",
+    "title": "Brown Sugar",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-25 04:04:32Z",
+    "last_played_vienna": "2026-08-25 06:04:32 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },

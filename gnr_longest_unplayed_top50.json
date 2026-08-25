@@ -451,17 +451,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Jigsaw",
-    "title": "Sky High",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-07-16 17:10:31Z",
-    "last_played_vienna": "2026-07-16 19:10:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dua Lipa",
     "title": "Future Nostalgia",
     "type": "Shared",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-07-18 22:09:06Z",
     "last_played_vienna": "2026-07-19 00:09:06 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Minako Yoshida",
+    "title": "I'll Teach You All About Love",
+    "type": "Shared",
+    "play_count_total": 29,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 22:40:36Z",
+    "last_played_vienna": "2026-07-19 00:40:36 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
