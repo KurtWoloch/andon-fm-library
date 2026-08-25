@@ -462,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Creedence Clearwater Revival",
-    "title": "Born On The Bayou",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 6,
-    "last_played": "2026-08-24 22:49:58Z",
-    "last_played_vienna": "2026-08-25 00:49:58 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pornophonique",
     "title": "Son Of A Preacher Man",
     "type": "Station-Specific",
@@ -524,6 +513,17 @@
     "play_count_30d": 2,
     "last_played": "2026-08-25 10:49:33Z",
     "last_played_vienna": "2026-08-25 12:49:33 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "Born On The Bayou",
+    "type": "Station-Specific",
+    "play_count_total": 11,
+    "play_count_30d": 7,
+    "last_played": "2026-08-25 18:52:04Z",
+    "last_played_vienna": "2026-08-25 20:52:04 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },

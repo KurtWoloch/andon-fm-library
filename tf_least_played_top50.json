@@ -407,17 +407,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Rozen",
-    "title": "Voice of NO Return",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-16 07:02:30Z",
-    "last_played_vienna": "2026-08-16 09:02:30 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "OhtoPlaya",
     "title": "SPACEDOG (OhtoPlaya Remix)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-23 17:41:19Z",
     "last_played_vienna": "2026-08-23 19:41:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gary Moore",
+    "title": "Parisienne Walkways",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-23 18:02:19Z",
+    "last_played_vienna": "2026-08-23 20:02:19 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
