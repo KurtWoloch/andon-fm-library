@@ -121,17 +121,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Alestorm",
-    "title": "Keelhauled",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-06-13 21:47:11Z",
-    "last_played_vienna": "2026-06-13 23:47:11 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Becky Levi and the Nightjars",
     "title": "Wake Me Up",
     "type": "Station-Specific",
@@ -220,17 +209,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Lana Del Rey",
-    "title": "Salvatore",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "last_played": "2026-07-12 02:35:42Z",
-    "last_played_vienna": "2026-07-12 04:35:42 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Martina McBride",
     "title": "Independence Day",
     "type": "Station-Specific",
@@ -260,17 +238,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-15 14:21:06Z",
     "last_played_vienna": "2026-07-15 16:21:06 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Electric Light Orchestra",
-    "title": "Evil Woman",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "last_played": "2026-07-15 19:28:37Z",
-    "last_played_vienna": "2026-07-15 21:28:37 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -337,17 +304,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-22 23:29:47Z",
     "last_played_vienna": "2026-07-23 01:29:47 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Freddie King",
-    "title": "Going Down",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-07-23 20:43:19Z",
-    "last_played_vienna": "2026-07-23 22:43:19 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -547,6 +503,50 @@
     "last_played": "2026-07-30 08:36:49Z",
     "last_played_vienna": "2026-07-30 10:36:49 MESZ",
     "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Civil Wars",
+    "title": "The One That Got Away",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "last_played": "2026-07-30 10:37:51Z",
+    "last_played_vienna": "2026-07-30 12:37:51 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Banners",
+    "title": "Shine A Light",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 1,
+    "last_played": "2026-07-30 12:09:22Z",
+    "last_played_vienna": "2026-07-30 14:09:22 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Haute & Freddy",
+    "title": "Shy Girl",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "last_played": "2026-07-30 12:23:23Z",
+    "last_played_vienna": "2026-07-30 14:23:23 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "Gorilla",
+    "type": "Shared",
+    "play_count_total": 4,
+    "play_count_30d": 1,
+    "last_played": "2026-07-30 15:15:23Z",
+    "last_played_vienna": "2026-07-30 17:15:23 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
