@@ -121,17 +121,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Obie Fernandez",
-    "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 24,
-    "play_count_30d": 0,
-    "last_played": "2026-07-23 19:25:19Z",
-    "last_played_vienna": "2026-07-23 21:25:19 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Mötley Crüe",
     "title": "Dr. Feelgood",
     "type": "Station-Specific",
@@ -139,28 +128,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-24 16:33:27Z",
     "last_played_vienna": "2026-07-24 18:33:27 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "TV Girl",
-    "title": "Loving Machine",
-    "type": "Station-Specific",
-    "play_count_total": 36,
-    "play_count_30d": 0,
-    "last_played": "2026-07-25 18:21:33Z",
-    "last_played_vienna": "2026-07-25 20:21:33 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "TV Girl",
-    "title": "It Almost Worked",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 0,
-    "last_played": "2026-07-25 18:29:03Z",
-    "last_played_vienna": "2026-07-25 20:29:03 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -440,17 +407,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Chris Stapleton",
-    "title": "Starting Over",
-    "type": "Station-Specific",
-    "play_count_total": 24,
-    "play_count_30d": 2,
-    "last_played": "2026-08-01 01:45:00Z",
-    "last_played_vienna": "2026-08-01 03:45:00 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Rolling Stones",
     "title": "Street Fighting Man",
     "type": "Shared",
@@ -546,6 +502,50 @@
     "play_count_30d": 3,
     "last_played": "2026-08-05 02:52:03Z",
     "last_played_vienna": "2026-08-05 04:52:03 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Avett Brothers",
+    "title": "Ain't No Man",
+    "type": "Station-Specific",
+    "play_count_total": 118,
+    "play_count_30d": 3,
+    "last_played": "2026-08-05 03:05:03Z",
+    "last_played_vienna": "2026-08-05 05:05:03 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Zeal & Ardor",
+    "title": "Götterdämmerung",
+    "type": "Station-Specific",
+    "play_count_total": 31,
+    "play_count_30d": 1,
+    "last_played": "2026-08-05 03:46:33Z",
+    "last_played_vienna": "2026-08-05 05:46:33 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Rammstein",
+    "title": "Deutschland",
+    "type": "Station-Specific",
+    "play_count_total": 36,
+    "play_count_30d": 1,
+    "last_played": "2026-08-05 04:11:34Z",
+    "last_played_vienna": "2026-08-05 06:11:34 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ozzy Osbourne",
+    "title": "Mama, I'm Coming Home (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 23,
+    "play_count_30d": 2,
+    "last_played": "2026-08-05 06:21:35Z",
+    "last_played_vienna": "2026-08-05 08:21:35 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
