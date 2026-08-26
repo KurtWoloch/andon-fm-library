@@ -286,17 +286,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Frank Carter & The Rattlesnakes",
-    "title": "Kitty Sucker",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 1,
-    "last_played": "2026-07-31 19:40:00Z",
-    "last_played_vienna": "2026-07-31 21:40:00 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dio",
     "title": "Holy Diver",
     "type": "Station-Specific",
@@ -451,17 +440,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Black Sabbath",
-    "title": "Paranoid",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 2,
-    "last_played": "2026-08-09 20:00:05Z",
-    "last_played_vienna": "2026-08-09 22:00:05 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dorian Electra",
     "title": "Man To Man",
     "type": "Station-Specific",
@@ -528,17 +506,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bonnie Tyler",
-    "title": "Holding Out for a Hero (From \"Footloose\" Soundtrack)",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 6,
-    "last_played": "2026-08-16 22:55:15Z",
-    "last_played_vienna": "2026-08-17 00:55:15 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Zara Larsson",
     "title": "Midnight Sun",
     "type": "Station-Specific",
@@ -546,6 +513,39 @@
     "play_count_30d": 1,
     "last_played": "2026-08-19 22:34:18Z",
     "last_played_vienna": "2026-08-20 00:34:18 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Olivia Newton-John",
+    "title": "Xanadu (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 5,
+    "last_played": "2026-08-20 02:30:22Z",
+    "last_played_vienna": "2026-08-20 04:30:22 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Cars",
+    "title": "Drive  (2016 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 132,
+    "play_count_30d": 62,
+    "last_played": "2026-08-20 04:35:54Z",
+    "last_played_vienna": "2026-08-20 06:35:54 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Run To The Hills (2015 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 1,
+    "last_played": "2026-08-20 22:20:28Z",
+    "last_played_vienna": "2026-08-21 00:20:28 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }

@@ -110,17 +110,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Franz Ferdinand",
-    "title": "Take Me Out",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 21:42:06Z",
-    "last_played_vienna": "2026-08-25 23:42:06 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pet Shop Boys",
     "title": "It's a Sin  (2018 Remaster)",
     "type": "Station-Specific",
@@ -161,6 +150,17 @@
     "play_count_30d": 2,
     "last_played": "2026-08-26 06:51:12Z",
     "last_played_vienna": "2026-08-26 08:51:12 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Franz Ferdinand",
+    "title": "Take Me Out",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-26 15:54:43Z",
+    "last_played_vienna": "2026-08-26 17:54:43 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -363,17 +363,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Frank Carter & The Rattlesnakes",
-    "title": "Kitty Sucker",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 1,
-    "last_played": "2026-07-31 19:40:00Z",
-    "last_played_vienna": "2026-07-31 21:40:00 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Constellation",
     "title": "The Reaching",
     "type": "Station-Specific",
@@ -381,17 +370,6 @@
     "play_count_30d": 8,
     "last_played": "2026-08-21 06:18:05Z",
     "last_played_vienna": "2026-08-21 08:18:05 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Dio",
-    "title": "Rainbow in the Dark",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 1,
-    "last_played": "2026-08-21 08:22:05Z",
-    "last_played_vienna": "2026-08-21 10:22:05 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -429,24 +407,24 @@
     "confidence": 1.0
   },
   {
-    "artist": "Black Sabbath",
-    "title": "Paranoid",
+    "artist": "Dio",
+    "title": "Rainbow in the Dark",
     "type": "Station-Specific",
-    "play_count_total": 10,
+    "play_count_total": 9,
     "play_count_30d": 2,
-    "last_played": "2026-08-09 20:00:05Z",
-    "last_played_vienna": "2026-08-09 22:00:05 MESZ",
+    "last_played": "2026-08-26 15:30:43Z",
+    "last_played_vienna": "2026-08-26 17:30:43 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
   {
-    "artist": "Bonnie Tyler",
-    "title": "Holding Out for a Hero (From \"Footloose\" Soundtrack)",
+    "artist": "Frank Carter & The Rattlesnakes",
+    "title": "Kitty Sucker",
     "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 6,
-    "last_played": "2026-08-16 22:55:15Z",
-    "last_played_vienna": "2026-08-17 00:55:15 MESZ",
+    "play_count_total": 9,
+    "play_count_30d": 2,
+    "last_played": "2026-08-26 16:22:13Z",
+    "last_played_vienna": "2026-08-26 18:22:13 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -524,6 +502,28 @@
     "play_count_30d": 10,
     "last_played": "2026-08-26 08:02:42Z",
     "last_played_vienna": "2026-08-26 10:02:42 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bonnie Tyler",
+    "title": "Holding Out for a Hero (From \"Footloose\" Soundtrack)",
+    "type": "Station-Specific",
+    "play_count_total": 11,
+    "play_count_30d": 7,
+    "last_played": "2026-08-26 15:17:44Z",
+    "last_played_vienna": "2026-08-26 17:17:44 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Paranoid",
+    "type": "Station-Specific",
+    "play_count_total": 11,
+    "play_count_30d": 3,
+    "last_played": "2026-08-26 16:11:13Z",
+    "last_played_vienna": "2026-08-26 18:11:13 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
