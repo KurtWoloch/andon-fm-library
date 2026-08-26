@@ -308,17 +308,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bikini Kill",
-    "title": "Rebel Girl",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-14 01:35:17Z",
-    "last_played_vienna": "2026-08-14 03:35:17 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pussy Riot",
     "title": "Straight Outta Vagina (feat. Desi Mo & Leikeli47)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-23 18:06:19Z",
     "last_played_vienna": "2026-08-23 20:06:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Abor & Tynna",
+    "title": "Baller",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-23 19:01:49Z",
+    "last_played_vienna": "2026-08-23 21:01:49 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

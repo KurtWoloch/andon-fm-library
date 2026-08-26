@@ -308,17 +308,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Dave Brubeck Quartet",
-    "title": "Take Five (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "last_played": "2026-08-24 09:05:27Z",
-    "last_played_vienna": "2026-08-24 11:05:27 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Miles Davis Quintet",
     "title": "My Funny Valentine",
     "type": "Station-Specific",
@@ -502,6 +491,17 @@
     "play_count_30d": 4,
     "last_played": "2026-08-25 19:43:34Z",
     "last_played_vienna": "2026-08-25 21:43:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Dave Brubeck Quartet",
+    "title": "Take Five (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 3,
+    "last_played": "2026-08-26 04:58:42Z",
+    "last_played_vienna": "2026-08-26 06:58:42 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },

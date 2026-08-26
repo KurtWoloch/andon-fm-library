@@ -242,17 +242,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Ed Sheeran",
-    "title": "Beautiful People (feat. Khalid)",
-    "type": "Shared",
-    "play_count_total": 24,
-    "play_count_30d": 0,
-    "last_played": "2026-07-14 12:37:59Z",
-    "last_played_vienna": "2026-07-14 14:37:59 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "USA for Africa",
     "title": "We Are The World",
     "type": "Shared",
@@ -382,17 +371,6 @@
     "last_played": "2026-07-15 02:55:33Z",
     "last_played_vienna": "2026-07-15 04:55:33 MESZ",
     "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Sabrina Carpenter",
-    "title": "Taste",
-    "type": "Shared",
-    "play_count_total": 25,
-    "play_count_30d": 0,
-    "last_played": "2026-07-16 05:57:54Z",
-    "last_played_vienna": "2026-07-16 07:57:54 MESZ",
-    "source": "Shared Library",
     "confidence": 1.0
   },
   {
@@ -546,6 +524,28 @@
     "play_count_30d": 0,
     "last_played": "2026-07-18 22:45:06Z",
     "last_played_vienna": "2026-07-19 00:45:06 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Teddy Swims",
+    "title": "The Door",
+    "type": "Shared",
+    "play_count_total": 29,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 22:48:36Z",
+    "last_played_vienna": "2026-07-19 00:48:36 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "OneRepublic",
+    "title": "I Lived",
+    "type": "Shared",
+    "play_count_total": 66,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 23:00:37Z",
+    "last_played_vienna": "2026-07-19 01:00:37 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
