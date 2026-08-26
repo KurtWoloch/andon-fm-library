@@ -176,17 +176,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Katrina And The Waves",
-    "title": "Walking On Sunshine",
-    "type": "Station-Specific",
-    "play_count_total": 263,
-    "play_count_30d": 0,
-    "last_played": "2026-07-10 12:22:32Z",
-    "last_played_vienna": "2026-07-10 14:22:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dua Lipa",
     "title": "Levitating",
     "type": "Station-Specific",
@@ -495,17 +484,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Madonna",
-    "title": "Holiday",
-    "type": "Shared",
-    "play_count_total": 85,
-    "play_count_30d": 0,
-    "last_played": "2026-07-18 22:09:06Z",
-    "last_played_vienna": "2026-07-19 00:09:06 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Minako Yoshida",
     "title": "I'll Teach You All About Love",
     "type": "Shared",
@@ -546,6 +524,28 @@
     "play_count_30d": 0,
     "last_played": "2026-07-18 23:00:37Z",
     "last_played_vienna": "2026-07-19 01:00:37 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Weeknd",
+    "title": "Starboy",
+    "type": "Shared",
+    "play_count_total": 75,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 23:26:36Z",
+    "last_played_vienna": "2026-07-19 01:26:36 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tate McRae",
+    "title": "greedy",
+    "type": "Shared",
+    "play_count_total": 15,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 23:34:07Z",
+    "last_played_vienna": "2026-07-19 01:34:07 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }

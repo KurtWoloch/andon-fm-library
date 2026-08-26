@@ -495,17 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Beatles",
-    "title": "A Day In The Life (2017 Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-23 17:41:19Z",
-    "last_played_vienna": "2026-08-23 19:41:19 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Gary Moore",
     "title": "Parisienne Walkways",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-23 20:00:50Z",
     "last_played_vienna": "2026-08-23 22:00:50 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cocteau Twins",
+    "title": "Ivo",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-23 20:15:20Z",
+    "last_played_vienna": "2026-08-23 22:15:20 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

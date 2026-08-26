@@ -220,17 +220,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Losing Faith",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "last_played": "2026-07-16 16:12:59Z",
-    "last_played_vienna": "2026-07-16 18:12:59 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Obie Fernandez",
     "title": "Naked",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-07-31 18:18:59Z",
     "last_played_vienna": "2026-07-31 20:18:59 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bobby McFerrin",
+    "title": "Common Threads",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 1,
+    "last_played": "2026-07-31 19:59:00Z",
+    "last_played_vienna": "2026-07-31 21:59:00 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
