@@ -12,17 +12,6 @@
   },
   {
     "artist": "Neuro-sama",
-    "title": "LIFE",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-07-13 19:27:20Z",
-    "last_played_vienna": "2026-07-13 21:27:20 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Neuro-sama",
     "title": "Colorful Array",
     "type": "Station-Specific",
     "play_count_total": 1,
@@ -150,6 +139,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-25 01:40:31Z",
     "last_played_vienna": "2026-08-25 03:40:31 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "LIFE",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 21:30:45Z",
+    "last_played_vienna": "2026-08-25 23:30:45 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },

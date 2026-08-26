@@ -147,7 +147,7 @@
     "title": "Pumped Up Kicks",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-07-26 22:02:43Z",
     "last_played_vienna": "2026-07-27 00:02:43 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -385,17 +385,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Helene Fischer",
-    "title": "Atemlos durch die Nacht",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 1,
-    "last_played": "2026-08-03 20:39:49Z",
-    "last_played_vienna": "2026-08-03 22:39:49 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Zeal & Ardor",
     "title": "Götterdämmerung",
     "type": "Station-Specific",
@@ -425,17 +414,6 @@
     "play_count_30d": 3,
     "last_played": "2026-08-05 18:19:35Z",
     "last_played_vienna": "2026-08-05 20:19:35 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Team Scheisse",
-    "title": "Karstadtdetektiv",
-    "type": "Station-Specific",
-    "play_count_total": 47,
-    "play_count_30d": 5,
-    "last_played": "2026-08-05 21:26:35Z",
-    "last_played_vienna": "2026-08-05 23:26:35 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -547,6 +525,28 @@
     "last_played": "2026-08-14 23:32:23Z",
     "last_played_vienna": "2026-08-15 01:32:23 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Perrie",
+    "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
+    "type": "Shared",
+    "play_count_total": 21,
+    "play_count_30d": 8,
+    "last_played": "2026-08-16 11:46:35Z",
+    "last_played_vienna": "2026-08-16 13:46:35 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "Colorful Array",
+    "type": "Station-Specific",
+    "play_count_total": 46,
+    "play_count_30d": 3,
+    "last_played": "2026-08-16 17:46:11Z",
+    "last_played_vienna": "2026-08-16 19:46:11 MESZ",
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
 ]
