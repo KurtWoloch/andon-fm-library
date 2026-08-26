@@ -264,17 +264,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "DataGlide",
-    "title": "VR Higher",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-25 18:49:05Z",
-    "last_played_vienna": "2026-08-25 20:49:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Michael Jackson",
     "title": "Stranger in Moscow",
     "type": "Station-Specific",
@@ -319,17 +308,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Curtis Mayfield",
-    "title": "The Makings of You (2019 Remaster) (Remastered)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-24 17:02:28Z",
-    "last_played_vienna": "2026-08-24 19:02:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Arctic Monkeys",
     "title": "No. 1 Party Anthem",
     "type": "Station-Specific",
@@ -370,6 +348,17 @@
     "play_count_30d": 4,
     "last_played": "2026-08-25 13:45:04Z",
     "last_played_vienna": "2026-08-25 15:45:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "DataGlide",
+    "title": "VR Higher",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-08-26 08:46:43Z",
+    "last_played_vienna": "2026-08-26 10:46:43 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -502,6 +491,17 @@
     "play_count_30d": 3,
     "last_played": "2026-08-26 04:58:42Z",
     "last_played_vienna": "2026-08-26 06:58:42 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Curtis Mayfield",
+    "title": "The Makings of You (2019 Remaster) (Remastered)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-08-26 08:43:13Z",
+    "last_played_vienna": "2026-08-26 10:43:13 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },

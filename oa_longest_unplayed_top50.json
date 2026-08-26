@@ -158,20 +158,9 @@
     "title": "Not Allowed",
     "type": "Station-Specific",
     "play_count_total": 15,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-07-27 11:38:23Z",
     "last_played_vienna": "2026-07-27 13:38:23 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Die Gebrüder Brett",
-    "title": "Panzerband und billiges Crack (Dr Donk Remix)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 1,
-    "last_played": "2026-07-27 21:44:30Z",
-    "last_played_vienna": "2026-07-27 23:44:30 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -546,6 +535,17 @@
     "play_count_30d": 3,
     "last_played": "2026-08-16 17:46:11Z",
     "last_played_vienna": "2026-08-16 19:46:11 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bonnie Tyler",
+    "title": "Holding Out for a Hero (From \"Footloose\" Soundtrack)",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 6,
+    "last_played": "2026-08-16 22:55:15Z",
+    "last_played_vienna": "2026-08-17 00:55:15 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
