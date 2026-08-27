@@ -77,17 +77,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Al Stewart",
-    "title": "On the Border  (2001 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-23 20:30:50Z",
-    "last_played_vienna": "2026-08-23 22:30:50 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Nattalia Sarria",
     "title": "Last Summer Whisper (From \"Anri\")",
     "type": "Station-Specific",
@@ -143,13 +132,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "TOOL",
-    "title": "Lateralus",
+    "artist": "Al Stewart",
+    "title": "On the Border  (2001 Remaster)",
     "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-07-19 15:05:11Z",
-    "last_played_vienna": "2026-07-19 17:05:11 MESZ",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-27 07:03:49Z",
+    "last_played_vienna": "2026-08-27 09:03:49 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -319,6 +308,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "TOOL",
+    "title": "Lateralus",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 04:22:18Z",
+    "last_played_vienna": "2026-08-27 06:22:18 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Serge Gainsbourg",
     "title": "Je t'aime moi non plus",
     "type": "Station-Specific",
@@ -348,17 +348,6 @@
     "play_count_30d": 5,
     "last_played": "2026-08-23 22:10:20Z",
     "last_played_vienna": "2026-08-24 00:10:20 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Paris Paloma",
-    "title": "labour",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-23 22:14:51Z",
-    "last_played_vienna": "2026-08-24 00:14:51 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -473,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "DataGlide",
-    "title": "VR Higher",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-26 18:39:15Z",
-    "last_played_vienna": "2026-08-26 20:39:15 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Mrs. Green Apple",
     "title": "Brand New",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 6,
     "last_played": "2026-08-25 19:39:34Z",
     "last_played_vienna": "2026-08-25 21:39:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "title": "Keep on Loving You",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 3,
+    "last_played": "2026-08-25 19:47:34Z",
+    "last_played_vienna": "2026-08-25 21:47:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Paris Paloma",
+    "title": "labour",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-08-27 02:57:48Z",
+    "last_played_vienna": "2026-08-27 04:57:48 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
