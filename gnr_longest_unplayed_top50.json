@@ -242,17 +242,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Beyoncé",
-    "title": "TEXAS HOLD 'EM",
-    "type": "Shared",
-    "play_count_total": 59,
-    "play_count_30d": 0,
-    "last_played": "2026-07-14 13:19:28Z",
-    "last_played_vienna": "2026-07-14 15:19:28 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Kendrick Lamar",
     "title": "Not Like Us",
     "type": "Shared",
@@ -271,17 +260,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-14 13:58:27Z",
     "last_played_vienna": "2026-07-14 15:58:27 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Dasha",
-    "title": "Austin (Boots Stop Workin')",
-    "type": "Shared",
-    "play_count_total": 36,
-    "play_count_30d": 0,
-    "last_played": "2026-07-14 14:14:58Z",
-    "last_played_vienna": "2026-07-14 16:14:58 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
@@ -363,17 +341,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Ed Sheeran",
-    "title": "Azizam",
-    "type": "Shared",
-    "play_count_total": 24,
-    "play_count_30d": 0,
-    "last_played": "2026-07-16 06:00:24Z",
-    "last_played_vienna": "2026-07-16 08:00:24 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dua Lipa",
     "title": "Training Season",
     "type": "Shared",
@@ -381,17 +348,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-16 06:03:24Z",
     "last_played_vienna": "2026-07-16 08:03:24 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Boney M.",
-    "title": "Gotta Go Home",
-    "type": "Shared",
-    "play_count_total": 167,
-    "play_count_30d": 0,
-    "last_played": "2026-07-16 12:25:27Z",
-    "last_played_vienna": "2026-07-16 14:25:27 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
@@ -425,39 +381,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-18 11:19:04Z",
     "last_played_vienna": "2026-07-18 13:19:04 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Charli XCX",
-    "title": "360",
-    "type": "Shared",
-    "play_count_total": 27,
-    "play_count_30d": 0,
-    "last_played": "2026-07-18 12:37:05Z",
-    "last_played_vienna": "2026-07-18 14:37:05 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bleachers",
-    "title": "I Wanna Get Better",
-    "type": "Shared",
-    "play_count_total": 26,
-    "play_count_30d": 0,
-    "last_played": "2026-07-18 12:57:34Z",
-    "last_played_vienna": "2026-07-18 14:57:34 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Dolly Parton",
-    "title": "9 to 5",
-    "type": "Shared",
-    "play_count_total": 102,
-    "play_count_30d": 0,
-    "last_played": "2026-07-18 13:12:04Z",
-    "last_played_vienna": "2026-07-18 15:12:04 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
@@ -539,13 +462,90 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tate McRae",
-    "title": "greedy",
+    "artist": "twenty one pilots",
+    "title": "Stressed Out",
     "type": "Shared",
-    "play_count_total": 15,
+    "play_count_total": 85,
     "play_count_30d": 0,
-    "last_played": "2026-07-18 23:34:07Z",
-    "last_played_vienna": "2026-07-19 01:34:07 MESZ",
+    "last_played": "2026-07-18 23:36:37Z",
+    "last_played_vienna": "2026-07-19 01:36:37 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Perrie",
+    "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
+    "type": "Shared",
+    "play_count_total": 87,
+    "play_count_30d": 0,
+    "last_played": "2026-07-18 23:57:07Z",
+    "last_played_vienna": "2026-07-19 01:57:07 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pitbull",
+    "title": "Timber",
+    "type": "Shared",
+    "play_count_total": 57,
+    "play_count_30d": 0,
+    "last_played": "2026-07-19 00:15:37Z",
+    "last_played_vienna": "2026-07-19 02:15:37 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pitbull",
+    "title": "International Love",
+    "type": "Shared",
+    "play_count_total": 74,
+    "play_count_30d": 0,
+    "last_played": "2026-07-19 00:19:07Z",
+    "last_played_vienna": "2026-07-19 02:19:07 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ghostwriter",
+    "title": "heart on my sleeve",
+    "type": "Shared",
+    "play_count_total": 63,
+    "play_count_30d": 0,
+    "last_played": "2026-07-19 00:48:08Z",
+    "last_played_vienna": "2026-07-19 02:48:08 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Beastie Boys",
+    "title": "Sabotage",
+    "type": "Shared",
+    "play_count_total": 228,
+    "play_count_30d": 0,
+    "last_played": "2026-07-19 14:52:41Z",
+    "last_played_vienna": "2026-07-19 16:52:41 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "title": "Alright",
+    "type": "Shared",
+    "play_count_total": 140,
+    "play_count_30d": 0,
+    "last_played": "2026-07-19 14:58:12Z",
+    "last_played_vienna": "2026-07-19 16:58:12 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tinashe",
+    "title": "Nasty",
+    "type": "Shared",
+    "play_count_total": 24,
+    "play_count_30d": 0,
+    "last_played": "2026-07-19 15:02:12Z",
+    "last_played_vienna": "2026-07-19 17:02:12 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
