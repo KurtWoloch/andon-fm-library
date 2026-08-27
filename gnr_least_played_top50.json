@@ -275,17 +275,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "D'Angelo",
-    "title": "Brown Sugar",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-26 15:45:14Z",
-    "last_played_vienna": "2026-08-26 17:45:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "David Garrett",
     "title": "Bitter Sweet Symphony",
     "type": "Station-Specific",
@@ -337,17 +326,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-15 02:55:33Z",
     "last_played_vienna": "2026-07-15 04:55:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Paris Paloma",
-    "title": "Pre-Raphaelite",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-23 22:10:20Z",
-    "last_played_vienna": "2026-08-24 00:10:20 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -473,6 +451,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "D'Angelo",
+    "title": "Brown Sugar",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-08-27 08:15:19Z",
+    "last_played_vienna": "2026-08-27 10:15:19 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Beyoncé",
     "title": "Crazy In Love",
     "type": "Shared",
@@ -506,28 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "D'Angelo",
-    "title": "Untitled (How Does It Feel)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-08-25 10:43:03Z",
-    "last_played_vienna": "2026-08-25 12:43:03 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cyndi Lauper",
-    "title": "Time After Time",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-08-25 19:39:34Z",
-    "last_played_vienna": "2026-08-25 21:39:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Cigarettes After Sex",
     "title": "Keep on Loving You",
     "type": "Station-Specific",
@@ -539,13 +506,46 @@
     "confidence": 1.0
   },
   {
-    "artist": "Paris Paloma",
-    "title": "labour",
+    "artist": "DataGlide",
+    "title": "VR Higher",
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "last_played": "2026-08-27 02:57:48Z",
-    "last_played_vienna": "2026-08-27 04:57:48 MESZ",
+    "last_played": "2026-08-27 05:36:22Z",
+    "last_played_vienna": "2026-08-27 07:36:22 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Paris Paloma",
+    "title": "Pre-Raphaelite",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-08-27 09:33:49Z",
+    "last_played_vienna": "2026-08-27 11:33:49 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "MGMT",
+    "title": "Kids (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 1,
+    "last_played": "2026-08-23 21:10:51Z",
+    "last_played_vienna": "2026-08-23 23:10:51 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "title": "Each Time You Fall in Love",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 2,
+    "last_played": "2026-08-24 06:29:56Z",
+    "last_played_vienna": "2026-08-24 08:29:56 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
