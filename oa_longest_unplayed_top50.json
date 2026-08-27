@@ -121,17 +121,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mötley Crüe",
-    "title": "Dr. Feelgood",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 0,
-    "last_played": "2026-07-24 16:33:27Z",
-    "last_played_vienna": "2026-07-24 18:33:27 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Europe",
     "title": "The Final Countdown (Album Version)",
     "type": "Shared",
@@ -433,7 +422,7 @@
     "title": "Xanadu (Live)",
     "type": "Station-Specific",
     "play_count_total": 10,
-    "play_count_30d": 5,
+    "play_count_30d": 4,
     "last_played": "2026-08-20 02:30:22Z",
     "last_played_vienna": "2026-08-20 04:30:22 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -547,6 +536,17 @@
     "last_played": "2026-08-21 08:26:35Z",
     "last_played_vienna": "2026-08-21 10:26:35 MESZ",
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "last_played": "2026-08-21 08:33:35Z",
+    "last_played_vienna": "2026-08-21 10:33:35 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]

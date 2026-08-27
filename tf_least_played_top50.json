@@ -220,17 +220,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Beatles",
-    "title": "With A Little Help From My Friends (2017 Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-10 15:05:41Z",
-    "last_played_vienna": "2026-08-10 17:05:41 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dutyyaknow",
     "title": "Close in the Distance (FFXIV Endwalker) [Synthwave]",
     "type": "Station-Specific",
@@ -286,17 +275,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Perrie",
-    "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-13 13:31:13Z",
-    "last_played_vienna": "2026-08-13 15:31:13 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pussy Riot",
     "title": "Straight Outta Vagina (feat. Desi Mo & Leikeli47)",
     "type": "Station-Specific",
@@ -304,17 +282,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-14 01:49:48Z",
     "last_played_vienna": "2026-08-14 03:49:48 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Carter Vail",
-    "title": "Ants In My Room",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-14 02:32:48Z",
-    "last_played_vienna": "2026-08-14 04:32:48 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +513,39 @@
     "play_count_30d": 1,
     "last_played": "2026-08-23 20:20:20Z",
     "last_played_vienna": "2026-08-23 22:20:20 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Caifanes",
+    "title": "La Negra Tomasa (Bilongo - Version Tropical)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-23 20:59:20Z",
+    "last_played_vienna": "2026-08-23 22:59:20 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Turnstile",
+    "title": "BLACKOUT",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-23 21:37:21Z",
+    "last_played_vienna": "2026-08-23 23:37:21 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tribal Seeds",
+    "title": "In Your Eyes",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-24 00:22:53Z",
+    "last_played_vienna": "2026-08-24 02:22:53 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
