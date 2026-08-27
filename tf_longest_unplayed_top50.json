@@ -451,17 +451,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Banners",
-    "title": "Shine A Light",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 1,
-    "last_played": "2026-07-30 12:09:22Z",
-    "last_played_vienna": "2026-07-30 14:09:22 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Haute & Freddy",
     "title": "Shy Girl",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-07-31 19:59:00Z",
     "last_played_vienna": "2026-07-31 21:59:00 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Remi Wolf",
+    "title": "Disco Man",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "last_played": "2026-07-31 23:41:00Z",
+    "last_played_vienna": "2026-08-01 01:41:00 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

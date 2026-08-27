@@ -220,17 +220,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tyler, The Creator",
-    "title": "NEW MAGIC WAND",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "last_played": "2026-08-26 21:49:15Z",
-    "last_played_vienna": "2026-08-26 23:49:15 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Joywave",
     "title": "In Clover",
     "type": "Station-Specific",
@@ -304,6 +293,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-27 04:22:18Z",
     "last_played_vienna": "2026-08-27 06:22:18 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tyler, The Creator",
+    "title": "NEW MAGIC WAND",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "last_played": "2026-08-27 15:17:49Z",
+    "last_played_vienna": "2026-08-27 17:17:49 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -495,17 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Cigarettes After Sex",
-    "title": "Keep on Loving You",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 3,
-    "last_played": "2026-08-25 19:47:34Z",
-    "last_played_vienna": "2026-08-25 21:47:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "DataGlide",
     "title": "VR Higher",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 2,
     "last_played": "2026-08-24 06:29:56Z",
     "last_played_vienna": "2026-08-24 08:29:56 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "title": "Sweet",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 1,
+    "last_played": "2026-08-24 06:34:56Z",
+    "last_played_vienna": "2026-08-24 08:34:56 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
