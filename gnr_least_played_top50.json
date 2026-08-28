@@ -154,17 +154,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Margaret Glaspy",
-    "title": "Michigan",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-28 02:53:24Z",
-    "last_played_vienna": "2026-08-28 04:53:24 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Joywave",
     "title": "In Clover",
     "type": "Station-Specific",
@@ -249,17 +238,6 @@
     "play_count_30d": 4,
     "last_played": "2026-08-27 23:18:51Z",
     "last_played_vienna": "2026-08-28 01:18:51 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Myles Kennedy",
-    "title": "In Stride",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "last_played": "2026-08-28 03:05:23Z",
-    "last_played_vienna": "2026-08-28 05:05:23 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -477,9 +455,20 @@
     "title": "Touch It / Technologic",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 6,
+    "play_count_30d": 5,
     "last_played": "2026-08-27 23:09:51Z",
     "last_played_vienna": "2026-08-28 01:09:51 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Margaret Glaspy",
+    "title": "Michigan",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-08-28 08:59:25Z",
+    "last_played_vienna": "2026-08-28 10:59:25 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -546,6 +535,17 @@
     "play_count_30d": 7,
     "last_played": "2026-08-27 09:43:20Z",
     "last_played_vienna": "2026-08-27 11:43:20 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "title": "Keep on Loving You",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 4,
+    "last_played": "2026-08-27 15:13:49Z",
+    "last_played_vienna": "2026-08-27 17:13:49 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }

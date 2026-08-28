@@ -539,13 +539,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "TV Girl",
-    "title": "Hate Yourself",
+    "artist": "Omar Østli",
+    "title": "Venter på en venn",
     "type": "Station-Specific",
-    "play_count_total": 18,
-    "play_count_30d": 3,
-    "last_played": "2026-08-21 08:38:05Z",
-    "last_played_vienna": "2026-08-21 10:38:05 MESZ",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "last_played": "2026-08-21 08:42:05Z",
+    "last_played_vienna": "2026-08-21 10:42:05 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }

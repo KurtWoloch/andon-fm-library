@@ -528,17 +528,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tribal Seeds",
-    "title": "In Your Eyes",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-24 00:22:53Z",
-    "last_played_vienna": "2026-08-24 02:22:53 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Rayland Baxter",
     "title": "Objects In The Mirror",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-24 01:46:24Z",
     "last_played_vienna": "2026-08-24 03:46:24 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Booker T. & The M.G.'s",
+    "title": "Time Is Tight  (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-24 13:04:27Z",
+    "last_played_vienna": "2026-08-24 15:04:27 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
