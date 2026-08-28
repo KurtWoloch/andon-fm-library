@@ -451,28 +451,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Solar Void",
-    "title": "Krieg Field Manual: Straight to Shovel",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-03 01:29:16Z",
-    "last_played_vienna": "2026-08-03 03:29:16 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "RAYE",
-    "title": "Click Clack Symphony. (feat. Hans Zimmer)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-11 04:32:46Z",
-    "last_played_vienna": "2026-08-11 06:32:46 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dua Lipa",
     "title": "Houdini",
     "type": "Shared",
@@ -528,17 +506,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "RAYE",
-    "title": "Winter Woman.",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-13 16:30:14Z",
-    "last_played_vienna": "2026-08-13 18:30:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Erykah Badu",
     "title": "On & On",
     "type": "Shared",
@@ -546,6 +513,39 @@
     "play_count_30d": 38,
     "last_played": "2026-08-13 21:47:44Z",
     "last_played_vienna": "2026-08-13 23:47:44 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jill Scott",
+    "title": "Golden",
+    "type": "Shared",
+    "play_count_total": 61,
+    "play_count_30d": 37,
+    "last_played": "2026-08-14 03:01:19Z",
+    "last_played_vienna": "2026-08-14 05:01:19 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Erykah Badu",
+    "title": "Bag Lady (Album Version)",
+    "type": "Shared",
+    "play_count_total": 52,
+    "play_count_30d": 29,
+    "last_played": "2026-08-14 03:32:19Z",
+    "last_played_vienna": "2026-08-14 05:32:19 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ben&Ben",
+    "title": "Maybe The Night",
+    "type": "Shared",
+    "play_count_total": 29,
+    "play_count_30d": 1,
+    "last_played": "2026-08-14 04:31:20Z",
+    "last_played_vienna": "2026-08-14 06:31:20 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
