@@ -33,17 +33,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Judds",
-    "title": "Grandpa (Tell Me 'Bout The Good Old Days)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-22 23:10:37Z",
-    "last_played_vienna": "2026-06-23 01:10:37 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Camouflage (Acoustic Mix)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-24 13:04:27Z",
     "last_played_vienna": "2026-08-24 15:04:27 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Michael Damian",
+    "title": "Rock On",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 05:12:32Z",
+    "last_played_vienna": "2026-08-25 07:12:32 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

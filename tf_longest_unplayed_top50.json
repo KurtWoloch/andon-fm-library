@@ -154,17 +154,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Judds",
-    "title": "Grandpa (Tell Me 'Bout The Good Old Days)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-22 23:10:37Z",
-    "last_played_vienna": "2026-06-23 01:10:37 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ed Sheeran",
     "title": "Perfect",
     "type": "Station-Specific",
@@ -488,7 +477,7 @@
     "title": "Dancing With Myself",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "last_played": "2026-07-31 02:35:56Z",
     "last_played_vienna": "2026-07-31 04:35:56 MESZ",
     "source": "Scraper Logs (TF Play History)",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-01 03:17:30Z",
     "last_played_vienna": "2026-08-01 05:17:30 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Vylet Pony",
+    "title": "ANTONYMPH",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "last_played": "2026-08-01 05:19:00Z",
+    "last_played_vienna": "2026-08-01 07:19:00 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
