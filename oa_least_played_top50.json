@@ -242,17 +242,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pet Shop Boys",
-    "title": "It's a Sin  (2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-27 18:58:19Z",
-    "last_played_vienna": "2026-08-27 20:58:19 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Metallica",
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
@@ -271,6 +260,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-20 22:20:28Z",
     "last_played_vienna": "2026-08-21 00:20:28 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "title": "It's a Sin  (2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-08-28 12:50:24Z",
+    "last_played_vienna": "2026-08-28 14:50:24 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -352,17 +352,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Luis Miguel",
-    "title": "La Mentira",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-08-27 19:03:19Z",
-    "last_played_vienna": "2026-08-27 21:03:19 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pete Seeger",
     "title": "Solidarity Forever",
     "type": "Shared",
@@ -381,6 +370,17 @@
     "play_count_30d": 8,
     "last_played": "2026-08-21 06:18:05Z",
     "last_played_vienna": "2026-08-21 08:18:05 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Luis Miguel",
+    "title": "La Mentira",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "last_played": "2026-08-28 11:43:54Z",
+    "last_played_vienna": "2026-08-28 13:43:54 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -451,28 +451,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bonnie Tyler",
-    "title": "Holding Out for a Hero (From \"Footloose\" Soundtrack)",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 7,
-    "last_played": "2026-08-26 15:17:44Z",
-    "last_played_vienna": "2026-08-26 17:17:44 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Black Sabbath",
-    "title": "Paranoid",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 3,
-    "last_played": "2026-08-26 16:11:13Z",
-    "last_played_vienna": "2026-08-26 18:11:13 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Danzig",
     "title": "Mother (Album Version)",
     "type": "Station-Specific",
@@ -513,6 +491,28 @@
     "play_count_30d": 10,
     "last_played": "2026-08-27 13:54:19Z",
     "last_played_vienna": "2026-08-27 15:54:19 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Paranoid",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 4,
+    "last_played": "2026-08-28 09:44:54Z",
+    "last_played_vienna": "2026-08-28 11:44:54 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bonnie Tyler",
+    "title": "Holding Out for a Hero (From \"Footloose\" Soundtrack)",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 8,
+    "last_played": "2026-08-28 10:16:24Z",
+    "last_played_vienna": "2026-08-28 12:16:24 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
