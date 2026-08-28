@@ -121,6 +121,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "DataGlide",
+    "title": "VR Higher",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-28 15:17:24Z",
+    "last_played_vienna": "2026-08-28 17:17:24 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Benetti House Bar",
     "title": "The Constellation",
     "type": "Station-Specific",
@@ -187,17 +198,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Franz Ferdinand",
-    "title": "Take Me Out",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-27 18:13:19Z",
-    "last_played_vienna": "2026-08-27 20:13:19 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Relaxing Piano Crew",
     "title": "The Ballad of a Distant Sound",
     "type": "Station-Specific",
@@ -238,6 +238,17 @@
     "play_count_30d": 2,
     "last_played": "2026-08-21 08:42:05Z",
     "last_played_vienna": "2026-08-21 10:42:05 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Franz Ferdinand",
+    "title": "Take Me Out",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-08-28 17:52:25Z",
+    "last_played_vienna": "2026-08-28 19:52:25 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -535,17 +546,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-20 10:39:51Z",
     "last_played_vienna": "2026-07-20 12:39:51 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Chris De Burgh",
-    "title": "The Getaway",
-    "type": "Shared",
-    "play_count_total": 13,
-    "play_count_30d": 1,
-    "last_played": "2026-07-31 17:16:00Z",
-    "last_played_vienna": "2026-07-31 19:16:00 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
