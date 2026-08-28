@@ -257,7 +257,7 @@
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-07-29 00:08:07Z",
     "last_played_vienna": "2026-07-29 02:08:07 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -271,17 +271,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-20 22:20:28Z",
     "last_played_vienna": "2026-08-21 00:20:28 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Die Toten Hosen",
-    "title": "Walkampf",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 4,
-    "last_played": "2026-08-26 20:40:14Z",
-    "last_played_vienna": "2026-08-26 22:40:14 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -337,6 +326,17 @@
     "play_count_30d": 2,
     "last_played": "2026-08-26 23:45:15Z",
     "last_played_vienna": "2026-08-27 01:45:15 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Die Toten Hosen",
+    "title": "Walkampf",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 5,
+    "last_played": "2026-08-27 21:30:19Z",
+    "last_played_vienna": "2026-08-27 23:30:19 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -451,17 +451,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Danzig",
-    "title": "Mother (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 2,
-    "last_played": "2026-08-26 19:44:44Z",
-    "last_played_vienna": "2026-08-26 21:44:44 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bonnie Tyler",
     "title": "Holding Out for a Hero (From \"Footloose\" Soundtrack)",
     "type": "Station-Specific",
@@ -480,6 +469,17 @@
     "play_count_30d": 3,
     "last_played": "2026-08-26 16:11:13Z",
     "last_played_vienna": "2026-08-26 18:11:13 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Danzig",
+    "title": "Mother (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 11,
+    "play_count_30d": 3,
+    "last_played": "2026-08-27 21:11:49Z",
+    "last_played_vienna": "2026-08-27 23:11:49 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -506,28 +506,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Metallica",
-    "title": "Enter Sandman",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 3,
-    "last_played": "2026-08-26 20:47:14Z",
-    "last_played_vienna": "2026-08-26 22:47:14 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Helene Fischer",
-    "title": "Atemlos durch die Nacht",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 3,
-    "last_played": "2026-08-26 22:54:15Z",
-    "last_played_vienna": "2026-08-27 00:54:15 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Creedence Clearwater Revival",
     "title": "Born On The Bayou",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 3,
     "last_played": "2026-08-27 02:19:47Z",
     "last_played_vienna": "2026-08-27 04:19:47 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Harold Faltermeyer",
+    "title": "Bad Guys (From “Beverly Hills Cop II” Soundtrack)",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 11,
+    "last_played": "2026-08-27 02:38:18Z",
+    "last_played_vienna": "2026-08-27 04:38:18 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pornophonique",
+    "title": "Son Of A Preacher Man",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 10,
+    "last_played": "2026-08-27 13:54:19Z",
+    "last_played_vienna": "2026-08-27 15:54:19 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }

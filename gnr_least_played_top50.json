@@ -55,17 +55,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "RAYE",
-    "title": "Life Boat.",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-11 05:41:46Z",
-    "last_played_vienna": "2026-08-11 07:41:46 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Nattalia Sarria",
     "title": "Last Summer Whisper (From \"Anri\")",
     "type": "Station-Specific",
@@ -73,17 +62,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-26 19:13:14Z",
     "last_played_vienna": "2026-08-26 21:13:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "RAYE",
-    "title": "Nightingale Lane.",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-13 16:25:14Z",
-    "last_played_vienna": "2026-08-13 18:25:14 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -111,28 +89,6 @@
   },
   {
     "artist": "RAYE",
-    "title": "Goodbye Henry. (feat. Al Green)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-24 08:12:56Z",
-    "last_played_vienna": "2026-08-24 10:12:56 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Al Stewart",
-    "title": "On the Border  (2001 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-27 07:03:49Z",
-    "last_played_vienna": "2026-08-27 09:03:49 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "RAYE",
     "title": "WHERE IS MY HUSBAND!",
     "type": "Station-Specific",
     "play_count_total": 2,
@@ -143,24 +99,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "David Garrett",
-    "title": "Smells Like Teen Spirit",
+    "artist": "RAYE",
+    "title": "Life Boat.",
     "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-13 20:19:15Z",
-    "last_played_vienna": "2026-08-13 22:19:15 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "David Garrett",
-    "title": "Enter Sandman",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-13 20:27:18Z",
-    "last_played_vienna": "2026-08-13 22:27:18 MESZ",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-08-27 23:43:21Z",
+    "last_played_vienna": "2026-08-28 01:43:21 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -198,6 +143,39 @@
     "confidence": 1.0
   },
   {
+    "artist": "Al Stewart",
+    "title": "On the Border  (2001 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-27 21:00:20Z",
+    "last_played_vienna": "2026-08-27 23:00:20 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "RAYE",
+    "title": "Nightingale Lane.",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-27 22:47:21Z",
+    "last_played_vienna": "2026-08-28 00:47:21 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "RAYE",
+    "title": "Goodbye Henry. (feat. Al Green)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-08-28 00:08:21Z",
+    "last_played_vienna": "2026-08-28 02:08:21 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Joywave",
     "title": "In Clover",
     "type": "Station-Specific",
@@ -216,17 +194,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-23 22:30:21Z",
     "last_played_vienna": "2026-08-24 00:30:21 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Arctic Monkeys",
-    "title": "No. 1 Party Anthem",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-25 01:22:31Z",
-    "last_played_vienna": "2026-08-25 03:22:31 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -275,6 +242,28 @@
     "confidence": 1.0
   },
   {
+    "artist": "David Garrett",
+    "title": "Smells Like Teen Spirit",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-08-27 22:32:20Z",
+    "last_played_vienna": "2026-08-28 00:32:20 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "David Garrett",
+    "title": "Enter Sandman",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-08-27 23:18:51Z",
+    "last_played_vienna": "2026-08-28 01:18:51 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Serge Gainsbourg",
     "title": "Je t'aime moi non plus",
     "type": "Station-Specific",
@@ -293,39 +282,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-15 02:55:33Z",
     "last_played_vienna": "2026-07-15 04:55:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Daft Punk",
-    "title": "Touch It / Technologic",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-24 18:46:28Z",
-    "last_played_vienna": "2026-08-24 20:46:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Arctic Monkeys",
-    "title": "Fake Tales Of San Francisco",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-25 01:19:31Z",
-    "last_played_vienna": "2026-08-25 03:19:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Radiohead",
-    "title": "Creep",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-25 01:30:03Z",
-    "last_played_vienna": "2026-08-25 03:30:03 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -451,6 +407,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Arctic Monkeys",
+    "title": "No. 1 Party Anthem",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-08-27 23:05:21Z",
+    "last_played_vienna": "2026-08-28 01:05:21 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Beyoncé",
     "title": "Crazy In Love",
     "type": "Shared",
@@ -459,17 +426,6 @@
     "last_played": "2026-05-29 08:59:25Z",
     "last_played_vienna": "2026-05-29 10:59:25 MESZ",
     "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Radiohead",
-    "title": "Nude",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-08-25 01:11:00Z",
-    "last_played_vienna": "2026-08-25 03:11:00 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
@@ -517,6 +473,39 @@
     "confidence": 1.0
   },
   {
+    "artist": "Radiohead",
+    "title": "Creep",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-08-27 22:00:20Z",
+    "last_played_vienna": "2026-08-28 00:00:20 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Arctic Monkeys",
+    "title": "Fake Tales Of San Francisco",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-08-27 22:36:21Z",
+    "last_played_vienna": "2026-08-28 00:36:21 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Daft Punk",
+    "title": "Touch It / Technologic",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-08-27 23:09:51Z",
+    "last_played_vienna": "2026-08-28 01:09:51 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "MGMT",
     "title": "Kids (Album Version)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-24 06:34:56Z",
     "last_played_vienna": "2026-08-24 08:34:56 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Paris Paloma",
+    "title": "labour",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "last_played": "2026-08-27 08:29:19Z",
+    "last_played_vienna": "2026-08-27 10:29:19 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
