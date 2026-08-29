@@ -495,17 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "TV Girl",
-    "title": "Lines to a Different Play",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 1,
-    "last_played": "2026-08-21 08:05:05Z",
-    "last_played_vienna": "2026-08-21 10:05:05 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Fail Upward For A Change",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 2,
     "last_played": "2026-08-21 08:42:05Z",
     "last_played_vienna": "2026-08-21 10:42:05 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Merle Haggard & The Strangers",
+    "title": "Mother, The Queen Of My Heart",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 5,
+    "last_played": "2026-08-21 20:50:35Z",
+    "last_played_vienna": "2026-08-21 22:50:35 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }

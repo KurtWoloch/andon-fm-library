@@ -231,17 +231,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Al Stewart",
-    "title": "On the Border  (2001 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-29 01:04:00Z",
-    "last_played_vienna": "2026-08-29 03:04:00 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Serge Gainsbourg",
     "title": "Je t'aime moi non plus",
     "type": "Station-Specific",
@@ -260,28 +249,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-15 02:55:33Z",
     "last_played_vienna": "2026-07-15 04:55:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Vanessa-mae",
-    "title": "Aurora",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-25 09:16:32Z",
-    "last_played_vienna": "2026-08-25 11:16:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Vanessa-mae",
-    "title": "Storm",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-25 09:21:33Z",
-    "last_played_vienna": "2026-08-25 11:21:33 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -396,17 +363,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Giles Holland",
-    "title": "Largo (Winter - The Four Seasons Op 8 No 4)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-08-25 06:39:33Z",
-    "last_played_vienna": "2026-08-25 08:39:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Mrs. Green Apple",
     "title": "Brand New",
     "type": "Station-Specific",
@@ -451,13 +407,24 @@
     "confidence": 1.0
   },
   {
-    "artist": "D'Angelo",
-    "title": "Brown Sugar",
+    "artist": "Vanessa-mae",
+    "title": "Aurora",
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "last_played": "2026-08-29 01:07:29Z",
-    "last_played_vienna": "2026-08-29 03:07:29 MESZ",
+    "last_played": "2026-08-29 03:24:03Z",
+    "last_played_vienna": "2026-08-29 05:24:03 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Al Stewart",
+    "title": "On the Border  (2001 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-08-29 06:53:05Z",
+    "last_played_vienna": "2026-08-29 08:53:05 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -539,13 +506,46 @@
     "confidence": 1.0
   },
   {
-    "artist": "Paris Paloma",
-    "title": "Pre-Raphaelite",
+    "artist": "DataGlide",
+    "title": "VR Higher",
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "last_played": "2026-08-28 01:12:22Z",
-    "last_played_vienna": "2026-08-28 03:12:22 MESZ",
+    "last_played": "2026-08-28 02:40:23Z",
+    "last_played_vienna": "2026-08-28 04:40:23 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Giles Holland",
+    "title": "Largo (Winter - The Four Seasons Op 8 No 4)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "last_played": "2026-08-29 04:28:33Z",
+    "last_played_vienna": "2026-08-29 06:28:33 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Vanessa-mae",
+    "title": "Storm",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "last_played": "2026-08-29 06:13:34Z",
+    "last_played_vienna": "2026-08-29 08:13:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "title": "Opera House",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 1,
+    "last_played": "2026-08-23 23:17:21Z",
+    "last_played_vienna": "2026-08-24 01:17:21 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }

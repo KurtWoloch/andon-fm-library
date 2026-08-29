@@ -495,17 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Caifanes",
-    "title": "La Negra Tomasa (Bilongo - Version Tropical)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-23 20:59:20Z",
-    "last_played_vienna": "2026-08-23 22:59:20 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Turnstile",
     "title": "BLACKOUT",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-25 05:12:32Z",
     "last_played_vienna": "2026-08-25 07:12:32 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bulgarian State Television Female Choir",
+    "title": "Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 13:55:03Z",
+    "last_played_vienna": "2026-08-25 15:55:03 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
