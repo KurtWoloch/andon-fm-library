@@ -88,28 +88,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Maxwell",
-    "title": "This Woman's Work (Uncut)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-29 10:54:06Z",
-    "last_played_vienna": "2026-08-29 12:54:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Lauryn Hill",
-    "title": "Ex-Factor",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-08-29 11:02:06Z",
-    "last_played_vienna": "2026-08-29 13:02:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Måneskin",
     "title": "Torna a casa",
     "type": "Station-Specific",
@@ -370,6 +348,28 @@
     "play_count_30d": 4,
     "last_played": "2026-08-27 23:05:21Z",
     "last_played_vienna": "2026-08-28 01:05:21 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Maxwell",
+    "title": "This Woman's Work (Uncut)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-08-29 14:50:06Z",
+    "last_played_vienna": "2026-08-29 16:50:06 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lauryn Hill",
+    "title": "Ex-Factor",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-08-29 15:02:06Z",
+    "last_played_vienna": "2026-08-29 17:02:06 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
