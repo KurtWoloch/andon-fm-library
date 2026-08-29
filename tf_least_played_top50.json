@@ -275,17 +275,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Father John Misty",
-    "title": "Just Dumb Enough to Try",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-14 02:39:49Z",
-    "last_played_vienna": "2026-08-14 04:39:49 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "TilaR",
     "title": "More Than A Friend",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-25 13:55:03Z",
     "last_played_vienna": "2026-08-25 15:55:03 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Curve",
+    "title": "Fait Accompli",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 14:02:03Z",
+    "last_played_vienna": "2026-08-25 16:02:03 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
