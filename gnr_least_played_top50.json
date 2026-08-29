@@ -110,17 +110,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Al Stewart",
-    "title": "On the Border  (2001 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-08-27 21:00:20Z",
-    "last_played_vienna": "2026-08-27 23:00:20 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "RAYE",
     "title": "Nightingale Lane.",
     "type": "Station-Specific",
@@ -242,6 +231,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Al Stewart",
+    "title": "On the Border  (2001 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-08-29 01:04:00Z",
+    "last_played_vienna": "2026-08-29 03:04:00 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Serge Gainsbourg",
     "title": "Je t'aime moi non plus",
     "type": "Station-Specific",
@@ -337,17 +337,6 @@
     "play_count_30d": 3,
     "last_played": "2026-08-26 15:06:14Z",
     "last_played_vienna": "2026-08-26 17:06:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "D'Angelo",
-    "title": "Brown Sugar",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-27 08:15:19Z",
-    "last_played_vienna": "2026-08-27 10:15:19 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -462,6 +451,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "D'Angelo",
+    "title": "Brown Sugar",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-08-29 01:07:29Z",
+    "last_played_vienna": "2026-08-29 03:07:29 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "MGMT",
     "title": "Kids (Album Version)",
     "type": "Station-Specific",
@@ -491,17 +491,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-24 06:34:56Z",
     "last_played_vienna": "2026-08-24 08:34:56 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Paris Paloma",
-    "title": "labour",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-08-27 08:29:19Z",
-    "last_played_vienna": "2026-08-27 10:29:19 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -546,6 +535,17 @@
     "play_count_30d": 6,
     "last_played": "2026-08-27 22:39:21Z",
     "last_played_vienna": "2026-08-28 00:39:21 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Paris Paloma",
+    "title": "Pre-Raphaelite",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "last_played": "2026-08-28 01:12:22Z",
+    "last_played_vienna": "2026-08-28 03:12:22 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
