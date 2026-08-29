@@ -506,22 +506,11 @@
     "confidence": 1.0
   },
   {
-    "artist": "Erykah Badu",
-    "title": "On & On",
-    "type": "Shared",
-    "play_count_total": 62,
-    "play_count_30d": 35,
-    "last_played": "2026-08-13 21:47:44Z",
-    "last_played_vienna": "2026-08-13 23:47:44 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Jill Scott",
     "title": "Golden",
     "type": "Shared",
     "play_count_total": 61,
-    "play_count_30d": 34,
+    "play_count_30d": 33,
     "last_played": "2026-08-14 03:01:19Z",
     "last_played_vienna": "2026-08-14 05:01:19 MESZ",
     "source": "Shared Library",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-14 04:31:20Z",
     "last_played_vienna": "2026-08-14 06:31:20 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Khalid",
+    "title": "please don't call (333)",
+    "type": "Shared",
+    "play_count_total": 14,
+    "play_count_30d": 1,
+    "last_played": "2026-08-16 02:42:28Z",
+    "last_played_vienna": "2026-08-16 04:42:28 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
