@@ -92,7 +92,7 @@
     "title": "Won't Turn It Down",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-07-30 20:32:53Z",
     "last_played_vienna": "2026-07-30 22:32:53 MESZ",
     "source": "Scraper Logs (TF Play History)",
@@ -451,17 +451,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Wolfsheim",
-    "title": "Künstliche Welten",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-23 20:00:50Z",
-    "last_played_vienna": "2026-08-23 22:00:50 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Cocteau Twins",
     "title": "Ivo",
     "type": "Station-Specific",
@@ -469,17 +458,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-23 20:15:20Z",
     "last_played_vienna": "2026-08-23 22:15:20 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pedro Infante",
-    "title": "Amorcito corazón",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-23 20:20:20Z",
-    "last_played_vienna": "2026-08-23 22:20:20 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -506,28 +484,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Booker T. & The M.G.'s",
-    "title": "Time Is Tight  (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-24 13:04:27Z",
-    "last_played_vienna": "2026-08-24 15:04:27 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Michael Damian",
-    "title": "Rock On",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 05:12:32Z",
-    "last_played_vienna": "2026-08-25 07:12:32 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bulgarian State Television Female Choir",
     "title": "Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House)",
     "type": "Station-Specific",
@@ -546,6 +502,50 @@
     "play_count_30d": 1,
     "last_played": "2026-08-25 14:02:03Z",
     "last_played_vienna": "2026-08-25 16:02:03 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "VAST",
+    "title": "Thrown Away",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 14:08:33Z",
+    "last_played_vienna": "2026-08-25 16:08:33 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Def Leppard",
+    "title": "Photograph",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 14:24:03Z",
+    "last_played_vienna": "2026-08-25 16:24:03 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cult With No Name",
+    "title": "You Know Me Better Than I Know Myself",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 18:37:33Z",
+    "last_played_vienna": "2026-08-25 20:37:33 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Filippo Beck Peccoz",
+    "title": "Main Theme",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 19:07:34Z",
+    "last_played_vienna": "2026-08-25 21:07:34 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
