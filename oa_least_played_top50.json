@@ -180,7 +180,7 @@
     "title": "The Ballad of a Distant Sound",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "last_played": "2026-08-21 07:56:05Z",
     "last_played_vienna": "2026-08-21 09:56:05 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -213,20 +213,9 @@
     "title": "Venter på en venn",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-08-21 08:42:05Z",
     "last_played_vienna": "2026-08-21 10:42:05 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "DataGlide",
-    "title": "VR Higher",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-08-29 22:59:07Z",
-    "last_played_vienna": "2026-08-30 00:59:07 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -260,6 +249,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-20 22:20:28Z",
     "last_played_vienna": "2026-08-21 00:20:28 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "DataGlide",
+    "title": "VR Higher",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-08-30 09:55:43Z",
+    "last_played_vienna": "2026-08-30 11:55:43 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
