@@ -198,17 +198,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dutyyaknow",
-    "title": "Close in the Distance (FFXIV Endwalker) [Synthwave]",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-11 00:30:13Z",
-    "last_played_vienna": "2026-08-11 02:30:13 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Guitar Tribute Players",
     "title": "Angel of Small Death and the Codeine Scene",
     "type": "Station-Specific",
@@ -473,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Def Leppard",
-    "title": "Photograph",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 14:24:03Z",
-    "last_played_vienna": "2026-08-25 16:24:03 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Cult With No Name",
     "title": "You Know Me Better Than I Know Myself",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-08-25 19:25:34Z",
     "last_played_vienna": "2026-08-25 21:25:34 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Chris Huelsbeck",
+    "title": "GSTD Ingame 4",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 19:30:34Z",
+    "last_played_vienna": "2026-08-25 21:30:34 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Filippo Beck Peccoz",
+    "title": "The Thieves of Imai",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 19:34:04Z",
+    "last_played_vienna": "2026-08-25 21:34:04 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
