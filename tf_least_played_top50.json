@@ -220,17 +220,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Metallica",
-    "title": "Enter Sandman",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-12 18:31:53Z",
-    "last_played_vienna": "2026-08-12 20:31:53 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -407,17 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Marc Rebillet",
-    "title": "Late To Work",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-23 17:29:19Z",
-    "last_played_vienna": "2026-08-23 19:29:19 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Gary Moore",
     "title": "Parisienne Walkways",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-08-25 19:07:34Z",
     "last_played_vienna": "2026-08-25 21:07:34 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Shira Kammen",
+    "title": "Downstream (Remastered, 2024)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 19:10:34Z",
+    "last_played_vienna": "2026-08-25 21:10:34 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Fat Bard",
+    "title": "Crashlands!",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 19:18:04Z",
+    "last_played_vienna": "2026-08-25 21:18:04 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
