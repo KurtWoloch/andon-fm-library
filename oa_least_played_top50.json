@@ -242,17 +242,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tenacious D",
-    "title": "Tribute",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-30 18:46:43Z",
-    "last_played_vienna": "2026-08-30 20:46:43 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Foster The People",
     "title": "Pumped Up Kicks",
     "type": "Station-Specific",
@@ -304,6 +293,17 @@
     "play_count_30d": 6,
     "last_played": "2026-08-31 02:34:17Z",
     "last_played_vienna": "2026-08-31 04:34:17 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tenacious D",
+    "title": "Tribute",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-08-31 15:48:49Z",
+    "last_played_vienna": "2026-08-31 17:48:49 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
