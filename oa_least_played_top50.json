@@ -242,17 +242,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "DataGlide",
-    "title": "VR Higher",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-08-30 09:55:43Z",
-    "last_played_vienna": "2026-08-30 11:55:43 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tenacious D",
     "title": "Tribute",
     "type": "Station-Specific",
@@ -304,6 +293,17 @@
     "play_count_30d": 4,
     "last_played": "2026-08-21 20:50:35Z",
     "last_played_vienna": "2026-08-21 22:50:35 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "DataGlide",
+    "title": "VR Higher",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-08-31 02:34:17Z",
+    "last_played_vienna": "2026-08-31 04:34:17 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -506,17 +506,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pornophonique",
-    "title": "Sad Robot",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 10,
-    "last_played": "2026-08-27 10:45:19Z",
-    "last_played_vienna": "2026-08-27 12:45:19 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Alone Again (Naturally)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 4,
     "last_played": "2026-08-29 03:36:31Z",
     "last_played_vienna": "2026-08-29 05:36:31 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Black Sabbath",
+    "title": "Paranoid",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 5,
+    "last_played": "2026-08-29 15:43:36Z",
+    "last_played_vienna": "2026-08-29 17:43:36 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }

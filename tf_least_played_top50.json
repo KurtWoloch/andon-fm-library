@@ -154,17 +154,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "LoneGray",
-    "title": "Tell Your World",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-07 20:21:57Z",
-    "last_played_vienna": "2026-08-07 22:21:57 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Studio Group",
     "title": "As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-25 19:34:04Z",
     "last_played_vienna": "2026-08-25 21:34:04 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Liam Comerford",
+    "title": "Front Line (action)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-25 19:38:04Z",
+    "last_played_vienna": "2026-08-25 21:38:04 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
