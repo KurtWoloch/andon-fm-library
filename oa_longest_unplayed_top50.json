@@ -418,17 +418,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Marías",
-    "title": "Real Life",
-    "type": "Station-Specific",
-    "play_count_total": 27,
-    "play_count_30d": 3,
-    "last_played": "2026-08-21 06:07:35Z",
-    "last_played_vienna": "2026-08-21 08:07:35 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ellis",
     "title": "The Taste",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 21,
     "last_played": "2026-08-23 05:47:48Z",
     "last_played_vienna": "2026-08-23 07:47:48 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Talking Heads",
+    "title": "Genius of Love (Tom Tom Club) (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 39,
+    "play_count_30d": 37,
+    "last_played": "2026-08-23 14:42:20Z",
+    "last_played_vienna": "2026-08-23 16:42:20 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
