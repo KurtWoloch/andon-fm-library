@@ -143,17 +143,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pink Floyd",
-    "title": "Comfortably Numb",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-10 09:42:10Z",
-    "last_played_vienna": "2026-08-10 11:42:10 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Napalm Death",
     "title": "You Suffer",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-26 17:18:14Z",
     "last_played_vienna": "2026-08-26 19:18:14 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Girl (Remastered)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 02:26:18Z",
+    "last_played_vienna": "2026-08-27 04:26:18 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
