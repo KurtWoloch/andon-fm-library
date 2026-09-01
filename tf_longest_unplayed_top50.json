@@ -297,17 +297,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Vampire Lestat",
-    "title": "Brutal Love",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-07-28 17:03:35Z",
-    "last_played_vienna": "2026-07-28 19:03:35 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Groove Armada",
     "title": "My Friend (Album Version)",
     "type": "Station-Specific",
@@ -349,17 +338,6 @@
     "last_played": "2026-07-29 13:35:41Z",
     "last_played_vienna": "2026-07-29 15:35:41 MESZ",
     "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Katy Perry",
-    "title": "Roar",
-    "type": "Shared",
-    "play_count_total": 104,
-    "play_count_30d": 0,
-    "last_played": "2026-07-29 17:17:41Z",
-    "last_played_vienna": "2026-07-29 19:17:41 MESZ",
-    "source": "Shared Library",
     "confidence": 1.0
   },
   {
@@ -546,6 +524,28 @@
     "play_count_30d": 0,
     "last_played": "2026-08-01 05:19:00Z",
     "last_played_vienna": "2026-08-01 07:19:00 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Alex Andre",
+    "title": "thanks, my day is ruined",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-08-01 05:28:30Z",
+    "last_played_vienna": "2026-08-01 07:28:30 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Just Dance",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 0,
+    "last_played": "2026-08-01 06:15:30Z",
+    "last_played_vienna": "2026-08-01 08:15:30 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
