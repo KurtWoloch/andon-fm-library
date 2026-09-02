@@ -99,17 +99,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Europe",
-    "title": "The Final Countdown (Album Version)",
-    "type": "Shared",
-    "play_count_total": 14,
-    "play_count_30d": 0,
-    "last_played": "2026-07-25 19:37:03Z",
-    "last_played_vienna": "2026-07-25 21:37:03 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Metallica",
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
@@ -352,17 +341,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Olivia Newton-John",
-    "title": "Xanadu (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 1,
-    "last_played": "2026-08-20 02:30:22Z",
-    "last_played_vienna": "2026-08-20 04:30:22 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Iron Maiden",
     "title": "Run To The Hills (2015 Remaster)",
     "type": "Station-Specific",
@@ -506,17 +484,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Light Bulb In My Head",
-    "type": "Station-Specific",
-    "play_count_total": 54,
-    "play_count_30d": 6,
-    "last_played": "2026-08-23 17:39:19Z",
-    "last_played_vienna": "2026-08-23 19:39:19 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Michael Jackson",
     "title": "Dirty Diana (2012 Remaster)",
     "type": "Station-Specific",
@@ -532,7 +499,7 @@
     "title": "Kiara",
     "type": "Shared",
     "play_count_total": 182,
-    "play_count_30d": 34,
+    "play_count_30d": 33,
     "last_played": "2026-08-24 00:28:23Z",
     "last_played_vienna": "2026-08-24 02:28:23 MESZ",
     "source": "Shared Library",
@@ -547,6 +514,39 @@
     "last_played": "2026-08-24 03:38:55Z",
     "last_played_vienna": "2026-08-24 05:38:55 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Smooth Criminal (2012 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 68,
+    "play_count_30d": 14,
+    "last_played": "2026-08-24 05:08:56Z",
+    "last_played_vienna": "2026-08-24 07:08:56 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kraftwerk",
+    "title": "Autobahn  (2024 Single Edit)",
+    "type": "Station-Specific",
+    "play_count_total": 38,
+    "play_count_30d": 16,
+    "last_played": "2026-08-24 08:15:57Z",
+    "last_played_vienna": "2026-08-24 10:15:57 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Constellation",
+    "title": "You Decide",
+    "type": "Station-Specific",
+    "play_count_total": 59,
+    "play_count_30d": 13,
+    "last_played": "2026-08-24 08:49:56Z",
+    "last_played_vienna": "2026-08-24 10:49:56 MESZ",
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
 ]
