@@ -198,17 +198,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Child Seat",
-    "title": "Hyperphantasia",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-14 02:35:18Z",
-    "last_played_vienna": "2026-08-14 04:35:18 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "TilaR",
     "title": "More Than A Friend",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-27 07:14:19Z",
     "last_played_vienna": "2026-08-27 09:14:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Billie Eilish",
+    "title": "Lo Vas A Olvidar",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 07:50:19Z",
+    "last_played_vienna": "2026-08-27 09:50:19 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
