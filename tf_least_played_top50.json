@@ -374,17 +374,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bulgarian State Television Female Choir",
-    "title": "Nazdrave ti, Chorbadjiio (Cheers to You, Master of the House)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 13:55:03Z",
-    "last_played_vienna": "2026-08-25 15:55:03 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Curve",
     "title": "Fait Accompli",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-27 07:50:19Z",
     "last_played_vienna": "2026-08-27 09:50:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Glenn Miller & His Orchestra",
+    "title": "At Last",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 14:06:49Z",
+    "last_played_vienna": "2026-08-27 16:06:49 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
