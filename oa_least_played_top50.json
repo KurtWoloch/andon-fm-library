@@ -187,17 +187,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Confetti",
-    "title": "People Suck [Explicit]",
-    "type": "Shared",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "last_played": "2026-08-21 08:33:35Z",
-    "last_played_vienna": "2026-08-21 10:33:35 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Omar Østli",
     "title": "Venter på en venn",
     "type": "Station-Specific",
@@ -239,6 +228,17 @@
     "last_played": "2026-09-01 23:26:23Z",
     "last_played_vienna": "2026-09-02 01:26:23 MESZ",
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 3,
+    "last_played": "2026-09-03 02:57:29Z",
+    "last_played_vienna": "2026-09-03 04:57:29 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   },
   {
@@ -308,17 +308,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pet Shop Boys",
-    "title": "It's a Sin  (2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 8,
-    "last_played": "2026-08-31 22:20:20Z",
-    "last_played_vienna": "2026-09-01 00:20:20 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tenacious D",
     "title": "Tribute",
     "type": "Station-Specific",
@@ -363,17 +352,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "DataGlide",
-    "title": "VR Higher",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 9,
-    "last_played": "2026-09-02 08:20:52Z",
-    "last_played_vienna": "2026-09-02 10:20:52 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Die Toten Hosen",
     "title": "Walkampf",
     "type": "Station-Specific",
@@ -396,6 +374,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Pet Shop Boys",
+    "title": "It's a Sin  (2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 9,
+    "last_played": "2026-09-03 05:42:30Z",
+    "last_played_vienna": "2026-09-03 07:42:30 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Frank Carter & The Rattlesnakes",
     "title": "Kitty Sucker",
     "type": "Station-Specific",
@@ -403,6 +392,17 @@
     "play_count_30d": 2,
     "last_played": "2026-08-28 21:27:25Z",
     "last_played_vienna": "2026-08-28 23:27:25 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "DataGlide",
+    "title": "VR Higher",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 10,
+    "last_played": "2026-09-03 05:25:00Z",
+    "last_played_vienna": "2026-09-03 07:25:00 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },

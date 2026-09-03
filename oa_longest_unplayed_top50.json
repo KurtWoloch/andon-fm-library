@@ -363,17 +363,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Confetti",
-    "title": "People Suck [Explicit]",
-    "type": "Shared",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "last_played": "2026-08-21 08:33:35Z",
-    "last_played_vienna": "2026-08-21 10:33:35 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Omar Østli",
     "title": "Venter på en venn",
     "type": "Station-Specific",
@@ -433,7 +422,7 @@
     "title": "Kiara",
     "type": "Shared",
     "play_count_total": 182,
-    "play_count_30d": 31,
+    "play_count_30d": 30,
     "last_played": "2026-08-24 00:28:23Z",
     "last_played_vienna": "2026-08-24 02:28:23 MESZ",
     "source": "Shared Library",
@@ -547,6 +536,17 @@
     "last_played": "2026-08-27 00:31:18Z",
     "last_played_vienna": "2026-08-27 02:31:18 MESZ",
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sabrina Carpenter",
+    "title": "Taste",
+    "type": "Shared",
+    "play_count_total": 82,
+    "play_count_30d": 12,
+    "last_played": "2026-08-27 02:02:48Z",
+    "last_played_vienna": "2026-08-27 04:02:48 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
