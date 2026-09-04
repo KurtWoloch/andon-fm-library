@@ -374,17 +374,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Curve",
-    "title": "Fait Accompli",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 14:02:03Z",
-    "last_played_vienna": "2026-08-25 16:02:03 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Cult With No Name",
     "title": "You Know Me Better Than I Know Myself",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-27 14:10:19Z",
     "last_played_vienna": "2026-08-27 16:10:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gene Watson",
+    "title": "At Last",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 14:31:49Z",
+    "last_played_vienna": "2026-08-27 16:31:49 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
