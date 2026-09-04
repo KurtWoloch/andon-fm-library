@@ -220,17 +220,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Alabama 3",
-    "title": "Sad Eyed Lady Of The Low Life",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-16 02:31:28Z",
-    "last_played_vienna": "2026-08-16 04:31:28 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "OhtoPlaya",
     "title": "SPACEDOG (OhtoPlaya Remix)",
     "type": "Station-Specific",
@@ -418,17 +407,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Filippo Beck Peccoz",
-    "title": "The Thieves of Imai",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 19:34:04Z",
-    "last_played_vienna": "2026-08-25 21:34:04 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Liam Comerford",
     "title": "Front Line (action)",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-08-27 14:31:49Z",
     "last_played_vienna": "2026-08-27 16:31:49 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Eva Cassidy",
+    "title": "At Last (Acoustic)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 14:47:49Z",
+    "last_played_vienna": "2026-08-27 16:47:49 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "title": "At Last (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 14:57:19Z",
+    "last_played_vienna": "2026-08-27 16:57:19 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
