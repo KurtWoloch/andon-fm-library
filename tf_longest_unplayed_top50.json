@@ -1,27 +1,5 @@
 [
   {
-    "artist": "Benson Boone",
-    "title": "Beautiful Things",
-    "type": "Shared",
-    "play_count_total": 9,
-    "play_count_30d": 0,
-    "last_played": "2026-03-27 04:26:13Z",
-    "last_played_vienna": "2026-03-27 05:26:13 MEZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Tate McRae",
-    "title": "TIT FOR TAT",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-03-28 10:40:57Z",
-    "last_played_vienna": "2026-03-28 11:40:57 MEZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Mariah Carey",
     "title": "All I Want for Christmas Is You",
     "type": "Shared",
@@ -41,17 +19,6 @@
     "last_played": "2026-04-30 06:20:58Z",
     "last_played_vienna": "2026-04-30 08:20:58 MESZ",
     "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Rumahoy",
-    "title": "Forest Party",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-05-19 21:47:48Z",
-    "last_played_vienna": "2026-05-19 23:47:48 MESZ",
-    "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
   {
@@ -139,17 +106,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-20 19:07:17Z",
     "last_played_vienna": "2026-06-20 21:07:17 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Nanowar of Steel",
-    "title": "Valhalleluja",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "last_played": "2026-06-21 03:40:25Z",
-    "last_played_vienna": "2026-06-21 05:40:25 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -271,17 +227,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-24 14:58:27Z",
     "last_played_vienna": "2026-07-24 16:58:27 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pale Saints",
-    "title": "Kinky Love",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-07-27 16:42:26Z",
-    "last_played_vienna": "2026-07-27 18:42:26 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -451,17 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Alestorm",
-    "title": "Captain Morgan`s Revenge",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-07-31 17:59:30Z",
-    "last_played_vienna": "2026-07-31 19:59:30 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Insane Clown Posse",
     "title": "Cemetary Girl",
     "type": "Station-Specific",
@@ -546,6 +480,72 @@
     "play_count_30d": 0,
     "last_played": "2026-08-01 10:00:31Z",
     "last_played_vienna": "2026-08-01 12:00:31 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ashley Tisdale",
+    "title": "Bop to the Top",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-08-01 15:33:02Z",
+    "last_played_vienna": "2026-08-01 17:33:02 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Boy Throb",
+    "title": "Finger",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-08-01 16:32:31Z",
+    "last_played_vienna": "2026-08-01 18:32:31 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Queen",
+    "title": "The Fairy Feller's Master-Stroke (2026 Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-08-01 16:36:31Z",
+    "last_played_vienna": "2026-08-01 18:36:31 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pent Up Pup",
+    "title": "ORDER:SCORE",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-08-01 19:01:02Z",
+    "last_played_vienna": "2026-08-01 21:01:02 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Nickelback",
+    "title": "How You Remind Me (- LP Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-08-02 01:28:35Z",
+    "last_played_vienna": "2026-08-02 03:28:35 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lofi Fruits Music",
+    "title": "Plastic Love",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-08-02 05:11:09Z",
+    "last_played_vienna": "2026-08-02 07:11:09 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
