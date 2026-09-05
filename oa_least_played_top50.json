@@ -352,17 +352,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tenacious D",
-    "title": "Tribute",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 9,
-    "last_played": "2026-09-03 19:49:02Z",
-    "last_played_vienna": "2026-09-03 21:49:02 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Frank Carter & The Rattlesnakes",
     "title": "Kitty Sucker",
     "type": "Station-Specific",
@@ -385,6 +374,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Tenacious D",
+    "title": "Tribute",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 10,
+    "last_played": "2026-09-05 00:20:12Z",
+    "last_played_vienna": "2026-09-05 02:20:12 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Olivia Newton-John",
     "title": "Xanadu (Live)",
     "type": "Station-Specific",
@@ -392,17 +392,6 @@
     "play_count_30d": 2,
     "last_played": "2026-09-01 23:41:59Z",
     "last_played_vienna": "2026-09-02 01:41:59 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "DataGlide",
-    "title": "VR Higher",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 11,
-    "last_played": "2026-09-04 02:37:06Z",
-    "last_played_vienna": "2026-09-04 04:37:06 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -418,17 +407,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mötley Crüe",
-    "title": "Dr. Feelgood",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 4,
-    "last_played": "2026-09-02 22:31:24Z",
-    "last_played_vienna": "2026-09-03 00:31:24 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Die Gebrüder Brett",
     "title": "Panzerband und billiges Crack (Dr Donk Remix)",
     "type": "Station-Specific",
@@ -436,6 +414,17 @@
     "play_count_30d": 8,
     "last_played": "2026-09-03 20:50:31Z",
     "last_played_vienna": "2026-09-03 22:50:31 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "DataGlide",
+    "title": "VR Higher",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 12,
+    "last_played": "2026-09-04 23:50:42Z",
+    "last_played_vienna": "2026-09-05 01:50:42 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -480,6 +469,17 @@
     "play_count_30d": 7,
     "last_played": "2026-08-28 09:29:24Z",
     "last_played_vienna": "2026-08-28 11:29:24 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mötley Crüe",
+    "title": "Dr. Feelgood",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 5,
+    "last_played": "2026-09-05 00:24:43Z",
+    "last_played_vienna": "2026-09-05 02:24:43 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
