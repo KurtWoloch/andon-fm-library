@@ -176,17 +176,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bobby Vinton",
-    "title": "Blue Velvet",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-09-04 01:59:06Z",
-    "last_played_vienna": "2026-09-04 03:59:06 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bob Seger",
     "title": "Night Moves",
     "type": "Station-Specific",
@@ -227,6 +216,17 @@
     "play_count_30d": 3,
     "last_played": "2026-09-01 23:26:23Z",
     "last_played_vienna": "2026-09-02 01:26:23 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bobby Vinton",
+    "title": "Blue Velvet",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-09-05 04:17:47Z",
+    "last_played_vienna": "2026-09-05 06:17:47 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
