@@ -154,17 +154,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bing Crosby",
-    "title": "White Christmas",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-13 13:24:43Z",
-    "last_played_vienna": "2026-08-13 15:24:43 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tate McRae",
     "title": "Miss possessive",
     "type": "Shared",
@@ -330,17 +319,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Rayland Baxter",
-    "title": "Objects In The Mirror",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-24 01:46:24Z",
-    "last_played_vienna": "2026-08-24 03:46:24 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Cult With No Name",
     "title": "You Know Me Better Than I Know Myself",
     "type": "Station-Specific",
@@ -385,17 +363,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Beatles",
-    "title": "Octopus's Garden (Remastered)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-27 07:14:19Z",
-    "last_played_vienna": "2026-08-27 09:14:19 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Billie Eilish",
     "title": "Lo Vas A Olvidar",
     "type": "Station-Specific",
@@ -403,17 +370,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-27 07:50:19Z",
     "last_played_vienna": "2026-08-27 09:50:19 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Glenn Miller & His Orchestra",
-    "title": "At Last",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-27 14:06:49Z",
-    "last_played_vienna": "2026-08-27 16:06:49 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +502,50 @@
     "play_count_30d": 1,
     "last_played": "2026-08-28 13:54:24Z",
     "last_played_vienna": "2026-08-28 15:54:24 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tenacious D",
+    "title": "Tribute",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-28 18:01:55Z",
+    "last_played_vienna": "2026-08-28 20:01:55 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ludovico Einaudi",
+    "title": "Primavera",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-29 06:42:34Z",
+    "last_played_vienna": "2026-08-29 08:42:34 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "title": "Time After Time",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-01 17:43:22Z",
+    "last_played_vienna": "2026-09-01 19:43:22 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Elliott Smith",
+    "title": "Independence Day",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-01 18:21:52Z",
+    "last_played_vienna": "2026-09-01 20:21:52 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

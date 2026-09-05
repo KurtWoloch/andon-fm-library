@@ -330,17 +330,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dio",
-    "title": "Holy Diver",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 3,
-    "last_played": "2026-08-29 21:42:36Z",
-    "last_played_vienna": "2026-08-29 23:42:36 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Franz Ferdinand",
     "title": "Take Me Out",
     "type": "Station-Specific",
@@ -363,17 +352,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Frank Carter & The Rattlesnakes",
-    "title": "Kitty Sucker",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 2,
-    "last_played": "2026-08-28 21:27:25Z",
-    "last_played_vienna": "2026-08-28 23:27:25 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tenacious D",
     "title": "Tribute",
     "type": "Station-Specific",
@@ -381,6 +359,17 @@
     "play_count_30d": 10,
     "last_played": "2026-09-05 00:20:12Z",
     "last_played_vienna": "2026-09-05 02:20:12 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dio",
+    "title": "Holy Diver",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 4,
+    "last_played": "2026-09-05 21:15:48Z",
+    "last_played_vienna": "2026-09-05 23:15:48 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -415,6 +404,17 @@
     "last_played": "2026-09-05 16:25:18Z",
     "last_played_vienna": "2026-09-05 18:25:18 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Frank Carter & The Rattlesnakes",
+    "title": "Kitty Sucker",
+    "type": "Station-Specific",
+    "play_count_total": 11,
+    "play_count_30d": 3,
+    "last_played": "2026-09-05 23:34:19Z",
+    "last_played_vienna": "2026-09-06 01:34:19 MESZ",
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
   {
