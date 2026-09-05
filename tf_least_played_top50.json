@@ -198,17 +198,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Michael Jackson",
-    "title": "Thriller",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-14 05:19:51Z",
-    "last_played_vienna": "2026-08-14 07:19:51 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "OhtoPlaya",
     "title": "SPACEDOG (OhtoPlaya Remix)",
     "type": "Station-Specific",
@@ -363,72 +352,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Filippo Beck Peccoz",
-    "title": "Main Theme",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 19:07:34Z",
-    "last_played_vienna": "2026-08-25 21:07:34 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Fat Bard",
-    "title": "Crashlands!",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 19:18:04Z",
-    "last_played_vienna": "2026-08-25 21:18:04 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Chris Huelsbeck",
-    "title": "GSTD Ingame 4",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 19:30:34Z",
-    "last_played_vienna": "2026-08-25 21:30:34 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Liam Comerford",
-    "title": "Front Line (action)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 19:38:04Z",
-    "last_played_vienna": "2026-08-25 21:38:04 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Fat Bard",
-    "title": "The Tendraam",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 19:42:34Z",
-    "last_played_vienna": "2026-08-25 21:42:34 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Filippo Beck Peccoz",
-    "title": "Until Death Do Us Part",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 19:45:34Z",
-    "last_played_vienna": "2026-08-25 21:45:34 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Men At Work",
     "title": "Overkill",
     "type": "Station-Specific",
@@ -546,6 +469,83 @@
     "play_count_30d": 1,
     "last_played": "2026-08-27 15:01:49Z",
     "last_played_vienna": "2026-08-27 17:01:49 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jeff Lynne",
+    "title": "At Last",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 15:12:19Z",
+    "last_played_vienna": "2026-08-27 17:12:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Blur",
+    "title": "Song 2",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 19:10:49Z",
+    "last_played_vienna": "2026-08-27 21:10:49 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Vampire Lestat",
+    "title": "La Fontaine De Sang",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 19:49:19Z",
+    "last_played_vienna": "2026-08-27 21:49:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lester Flatt, Earl Scruggs",
+    "title": "Foggy Mountain Breakdown",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 21:05:19Z",
+    "last_played_vienna": "2026-08-27 23:05:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Stan Bush",
+    "title": "The Touch",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 22:15:20Z",
+    "last_played_vienna": "2026-08-28 00:15:20 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Golden Slumbers (Remastered)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 22:25:20Z",
+    "last_played_vienna": "2026-08-28 00:25:20 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jack Johnson",
+    "title": "Upside Down",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-08-28 13:54:24Z",
+    "last_played_vienna": "2026-08-28 15:54:24 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

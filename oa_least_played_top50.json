@@ -187,17 +187,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bob Seger",
-    "title": "Night Moves",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-09-04 20:39:40Z",
-    "last_played_vienna": "2026-09-04 22:39:40 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Metallica",
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
@@ -242,6 +231,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Bob Seger",
+    "title": "Night Moves",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-09-05 16:35:18Z",
+    "last_played_vienna": "2026-09-05 18:35:18 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Motörhead",
     "title": "Ace of Spades (40th Anniversary Master)",
     "type": "Station-Specific",
@@ -275,17 +275,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Confetti",
-    "title": "People Suck [Explicit]",
-    "type": "Shared",
-    "play_count_total": 6,
-    "play_count_30d": 4,
-    "last_played": "2026-09-04 02:41:06Z",
-    "last_played_vienna": "2026-09-04 04:41:06 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Foster The People",
     "title": "Pumped Up Kicks",
     "type": "Station-Specific",
@@ -305,6 +294,17 @@
     "last_played": "2026-09-03 20:19:31Z",
     "last_played_vienna": "2026-09-03 22:19:31 MESZ",
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 7,
+    "play_count_30d": 5,
+    "last_played": "2026-09-05 16:30:18Z",
+    "last_played_vienna": "2026-09-05 18:30:18 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   },
   {
@@ -374,17 +374,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pete Seeger",
-    "title": "Solidarity Forever",
-    "type": "Shared",
-    "play_count_total": 10,
-    "play_count_30d": 2,
-    "last_played": "2026-09-03 23:42:04Z",
-    "last_played_vienna": "2026-09-04 01:42:04 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tenacious D",
     "title": "Tribute",
     "type": "Station-Specific",
@@ -415,6 +404,17 @@
     "last_played": "2026-09-04 17:47:40Z",
     "last_played_vienna": "2026-09-04 19:47:40 MESZ",
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pete Seeger",
+    "title": "Solidarity Forever",
+    "type": "Shared",
+    "play_count_total": 11,
+    "play_count_30d": 3,
+    "last_played": "2026-09-05 16:25:18Z",
+    "last_played_vienna": "2026-09-05 18:25:18 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   },
   {

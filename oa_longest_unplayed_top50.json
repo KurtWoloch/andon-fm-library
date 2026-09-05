@@ -444,7 +444,7 @@
     "title": "Autobahn  (2024 Single Edit)",
     "type": "Station-Specific",
     "play_count_total": 38,
-    "play_count_30d": 12,
+    "play_count_30d": 11,
     "last_played": "2026-08-24 08:15:57Z",
     "last_played_vienna": "2026-08-24 10:15:57 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -528,17 +528,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Sabrina Carpenter",
-    "title": "Taste",
-    "type": "Shared",
-    "play_count_total": 82,
-    "play_count_30d": 12,
-    "last_played": "2026-08-27 02:02:48Z",
-    "last_played_vienna": "2026-08-27 04:02:48 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Neuro-sama",
     "title": "NEVER",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 3,
     "last_played": "2026-08-27 02:53:18Z",
     "last_played_vienna": "2026-08-27 04:53:18 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Röyksopp",
+    "title": "What Else Is There?",
+    "type": "Station-Specific",
+    "play_count_total": 78,
+    "play_count_30d": 27,
+    "last_played": "2026-08-27 08:46:19Z",
+    "last_played_vienna": "2026-08-27 10:46:19 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
