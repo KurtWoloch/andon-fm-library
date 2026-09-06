@@ -77,17 +77,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Cuco",
-    "title": "One and Only",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 0,
-    "last_played": "2026-06-15 15:44:00Z",
-    "last_played_vienna": "2026-06-15 17:44:00 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Fail Upward For A Change",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-08-02 07:36:11Z",
     "last_played_vienna": "2026-08-02 09:36:11 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Avett Brothers",
+    "title": "The Ballad of Love and Hate",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "last_played": "2026-08-02 12:21:43Z",
+    "last_played_vienna": "2026-08-02 14:21:43 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

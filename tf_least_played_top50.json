@@ -429,17 +429,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Blur",
-    "title": "Song 2",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-27 19:10:49Z",
-    "last_played_vienna": "2026-08-27 21:10:49 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Vampire Lestat",
     "title": "La Fontaine De Sang",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-01 19:20:52Z",
     "last_played_vienna": "2026-09-01 21:20:52 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "King Crimson",
+    "title": "21st Century Schizoid Man (Including 'Mirrors')",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-01 20:00:22Z",
+    "last_played_vienna": "2026-09-01 22:00:22 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
