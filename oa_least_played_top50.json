@@ -88,28 +88,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pet Shop Boys",
-    "title": "Se a vida é (that’s the way life is)  (2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-02 04:42:22Z",
-    "last_played_vienna": "2026-09-02 06:42:22 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Joe Cocker",
-    "title": "With A Little Help From My Friends",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-05 11:04:48Z",
-    "last_played_vienna": "2026-09-05 13:04:48 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Benetti House Bar",
     "title": "The Constellation",
     "type": "Station-Specific",
@@ -128,6 +106,28 @@
     "play_count_30d": 1,
     "last_played": "2026-08-31 21:13:20Z",
     "last_played_vienna": "2026-08-31 23:13:20 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "title": "Se a vida é (that’s the way life is)  (2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-09-06 17:06:24Z",
+    "last_played_vienna": "2026-09-06 19:06:24 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "With A Little Help From My Friends",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-09-06 18:00:54Z",
+    "last_played_vienna": "2026-09-06 20:00:54 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -220,17 +220,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bob Seger",
-    "title": "Night Moves",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-09-05 16:35:18Z",
-    "last_played_vienna": "2026-09-05 18:35:18 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Motörhead",
     "title": "Ace of Spades (40th Anniversary Master)",
     "type": "Station-Specific",
@@ -271,6 +260,17 @@
     "play_count_30d": 6,
     "last_played": "2026-09-06 01:25:20Z",
     "last_played_vienna": "2026-09-06 03:25:20 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bob Seger",
+    "title": "Night Moves",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-09-06 19:26:54Z",
+    "last_played_vienna": "2026-09-06 21:26:54 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -385,17 +385,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pete Seeger",
-    "title": "Solidarity Forever",
-    "type": "Shared",
-    "play_count_total": 11,
-    "play_count_30d": 3,
-    "last_played": "2026-09-05 16:25:18Z",
-    "last_played_vienna": "2026-09-05 18:25:18 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Frank Carter & The Rattlesnakes",
     "title": "Kitty Sucker",
     "type": "Station-Specific",
@@ -426,6 +415,17 @@
     "last_played": "2026-09-03 20:50:31Z",
     "last_played_vienna": "2026-09-03 22:50:31 MESZ",
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pete Seeger",
+    "title": "Solidarity Forever",
+    "type": "Shared",
+    "play_count_total": 12,
+    "play_count_30d": 4,
+    "last_played": "2026-09-06 18:16:54Z",
+    "last_played_vienna": "2026-09-06 20:16:54 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   },
   {
@@ -517,17 +517,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pornophonique",
-    "title": "Son Of A Preacher Man",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 12,
-    "last_played": "2026-08-31 20:48:50Z",
-    "last_played_vienna": "2026-08-31 22:48:50 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dio",
     "title": "Rainbow in the Dark",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "last_played": "2026-09-04 17:51:40Z",
     "last_played_vienna": "2026-09-04 19:51:40 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pornophonique",
+    "title": "Son Of A Preacher Man",
+    "type": "Station-Specific",
+    "play_count_total": 15,
+    "play_count_30d": 13,
+    "last_played": "2026-09-06 17:16:54Z",
+    "last_played_vienna": "2026-09-06 19:16:54 MESZ",
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
 ]
