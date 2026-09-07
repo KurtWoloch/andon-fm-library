@@ -396,17 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tenacious D",
-    "title": "Tribute",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 11,
-    "last_played": "2026-09-06 05:01:53Z",
-    "last_played_vienna": "2026-09-06 07:01:53 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pete Seeger",
     "title": "Solidarity Forever",
     "type": "Shared",
@@ -415,6 +404,17 @@
     "last_played": "2026-09-06 18:16:54Z",
     "last_played_vienna": "2026-09-06 20:16:54 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tenacious D",
+    "title": "Tribute",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 12,
+    "last_played": "2026-09-07 19:58:33Z",
+    "last_played_vienna": "2026-09-07 21:58:33 MESZ",
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
   {
