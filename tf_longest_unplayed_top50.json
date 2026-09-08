@@ -418,17 +418,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tammy Wynette",
-    "title": "Stand By Your Man (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 0,
-    "last_played": "2026-08-02 07:36:11Z",
-    "last_played_vienna": "2026-08-02 09:36:11 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Avett Brothers",
     "title": "The Ballad of Love and Hate",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-08-05 10:30:05Z",
     "last_played_vienna": "2026-08-05 12:30:05 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pellek",
+    "title": "Bohemian Rhapsody",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 0,
+    "last_played": "2026-08-06 04:38:42Z",
+    "last_played_vienna": "2026-08-06 06:38:42 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

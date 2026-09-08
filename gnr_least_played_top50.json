@@ -154,17 +154,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Anna von Hausswolff",
-    "title": "Facing Atlas",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 1,
-    "last_played": "2026-08-23 22:30:21Z",
-    "last_played_vienna": "2026-08-24 00:30:21 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "TOOL",
     "title": "Lateralus",
     "type": "Station-Specific",
@@ -213,7 +202,7 @@
     "title": "Toccata and Fugue in D Minor",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 5,
+    "play_count_30d": 4,
     "last_played": "2026-08-25 10:20:03Z",
     "last_played_vienna": "2026-08-25 12:20:03 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -304,6 +293,17 @@
     "play_count_30d": 5,
     "last_played": "2026-09-07 21:20:04Z",
     "last_played_vienna": "2026-09-07 23:20:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Anna von Hausswolff",
+    "title": "Facing Atlas",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "last_played": "2026-09-08 02:02:34Z",
+    "last_played_vienna": "2026-09-08 04:02:34 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -429,28 +429,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Giles Holland",
-    "title": "Largo (Winter - The Four Seasons Op 8 No 4)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-08-29 04:28:33Z",
-    "last_played_vienna": "2026-08-29 06:28:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Vanessa-mae",
-    "title": "Storm",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-08-29 06:13:34Z",
-    "last_played_vienna": "2026-08-29 08:13:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Al Stewart",
     "title": "On the Border  (2001 Remaster)",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 2,
     "last_played": "2026-08-26 23:58:46Z",
     "last_played_vienna": "2026-08-27 01:58:46 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "title": "Time After Time",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 7,
+    "last_played": "2026-09-07 15:51:33Z",
+    "last_played_vienna": "2026-09-07 17:51:33 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Nude",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 7,
+    "last_played": "2026-09-07 17:25:05Z",
+    "last_played_vienna": "2026-09-07 19:25:05 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
