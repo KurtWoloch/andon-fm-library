@@ -66,17 +66,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Obie Fernandez",
-    "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-19 16:47:49Z",
-    "last_played_vienna": "2026-05-19 18:47:49 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Beatles",
     "title": "Revolution 9 (Remastered 2009)",
     "type": "Shared",
@@ -150,17 +139,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-04 14:38:37Z",
     "last_played_vienna": "2026-06-04 16:38:37 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Serge Gainsbourg",
-    "title": "Je t'aime moi non plus",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 13:05:11Z",
-    "last_played_vienna": "2026-06-05 15:05:11 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -462,17 +440,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Ultravox",
-    "title": "Vienna (2008 Remaster)",
-    "type": "Shared",
-    "play_count_total": 146,
-    "play_count_30d": 1,
-    "last_played": "2026-08-13 14:59:14Z",
-    "last_played_vienna": "2026-08-13 16:59:14 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pet Shop Boys",
     "title": "West End Girls  (2001 Remaster)",
     "type": "Shared",
@@ -499,7 +466,7 @@
     "title": "Espresso",
     "type": "Shared",
     "play_count_total": 129,
-    "play_count_30d": 8,
+    "play_count_30d": 7,
     "last_played": "2026-08-13 16:09:14Z",
     "last_played_vienna": "2026-08-13 18:09:14 MESZ",
     "source": "Shared Library",
@@ -546,6 +513,39 @@
     "play_count_30d": 1,
     "last_played": "2026-08-16 02:42:28Z",
     "last_played_vienna": "2026-08-16 04:42:28 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Strokes",
+    "title": "Last Nite",
+    "type": "Shared",
+    "play_count_total": 93,
+    "play_count_30d": 15,
+    "last_played": "2026-08-21 10:22:35Z",
+    "last_played_vienna": "2026-08-21 12:22:35 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bon Jovi",
+    "title": "You Give Love A Bad Name",
+    "type": "Shared",
+    "play_count_total": 76,
+    "play_count_30d": 8,
+    "last_played": "2026-08-21 11:12:36Z",
+    "last_played_vienna": "2026-08-21 13:12:36 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Killers",
+    "title": "Mr. Brightside",
+    "type": "Shared",
+    "play_count_total": 178,
+    "play_count_30d": 15,
+    "last_played": "2026-08-21 18:58:36Z",
+    "last_played_vienna": "2026-08-21 20:58:36 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
