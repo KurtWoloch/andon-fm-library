@@ -286,17 +286,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Simon & Garfunkel",
-    "title": "The Sound of Silence  (Acoustic Version)",
-    "type": "Shared",
-    "play_count_total": 71,
-    "play_count_30d": 0,
-    "last_played": "2026-07-18 20:54:38Z",
-    "last_played_vienna": "2026-07-18 22:54:38 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Minako Yoshida",
     "title": "I'll Teach You All About Love",
     "type": "Shared",
@@ -319,28 +308,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Teddy Swims",
-    "title": "The Door",
-    "type": "Shared",
-    "play_count_total": 29,
-    "play_count_30d": 0,
-    "last_played": "2026-07-18 22:48:36Z",
-    "last_played_vienna": "2026-07-19 00:48:36 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "OneRepublic",
-    "title": "I Lived",
-    "type": "Shared",
-    "play_count_total": 66,
-    "play_count_30d": 0,
-    "last_played": "2026-07-18 23:00:37Z",
-    "last_played_vienna": "2026-07-19 01:00:37 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Weeknd",
     "title": "Starboy",
     "type": "Shared",
@@ -359,17 +326,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-18 23:36:37Z",
     "last_played_vienna": "2026-07-19 01:36:37 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Perrie",
-    "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
-    "type": "Shared",
-    "play_count_total": 87,
-    "play_count_30d": 0,
-    "last_played": "2026-07-18 23:57:07Z",
-    "last_played_vienna": "2026-07-19 01:57:07 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
@@ -418,17 +374,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Wizkid",
-    "title": "Essence",
-    "type": "Shared",
-    "play_count_total": 23,
-    "play_count_30d": 0,
-    "last_played": "2026-07-20 11:34:22Z",
-    "last_played_vienna": "2026-07-20 13:34:22 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dua Lipa",
     "title": "Houdini",
     "type": "Shared",
@@ -469,17 +414,6 @@
     "play_count_30d": 7,
     "last_played": "2026-08-13 16:09:14Z",
     "last_played_vienna": "2026-08-13 18:09:14 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Jill Scott",
-    "title": "Golden",
-    "type": "Shared",
-    "play_count_total": 61,
-    "play_count_30d": 9,
-    "last_played": "2026-08-14 03:01:19Z",
-    "last_played_vienna": "2026-08-14 05:01:19 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
@@ -546,6 +480,72 @@
     "play_count_30d": 15,
     "last_played": "2026-08-21 18:58:36Z",
     "last_played_vienna": "2026-08-21 20:58:36 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Queen",
+    "title": "Killer Queen (Remastered 2011)",
+    "type": "Shared",
+    "play_count_total": 76,
+    "play_count_30d": 15,
+    "last_played": "2026-08-21 19:10:35Z",
+    "last_played_vienna": "2026-08-21 21:10:35 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Stairway to Heaven  (Remaster)",
+    "type": "Shared",
+    "play_count_total": 141,
+    "play_count_30d": 6,
+    "last_played": "2026-08-22 00:14:08Z",
+    "last_played_vienna": "2026-08-22 02:14:08 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Queen",
+    "title": "Under Pressure (Remastered 2011)",
+    "type": "Shared",
+    "play_count_total": 207,
+    "play_count_30d": 11,
+    "last_played": "2026-08-22 15:02:13Z",
+    "last_played_vienna": "2026-08-22 17:02:13 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Clash",
+    "title": "London Calling",
+    "type": "Shared",
+    "play_count_total": 101,
+    "play_count_30d": 17,
+    "last_played": "2026-08-22 16:09:13Z",
+    "last_played_vienna": "2026-08-22 18:09:13 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bruce Springsteen",
+    "title": "Streets of Philadelphia  (Single Edit)",
+    "type": "Shared",
+    "play_count_total": 115,
+    "play_count_30d": 9,
+    "last_played": "2026-08-22 16:47:44Z",
+    "last_played_vienna": "2026-08-22 18:47:44 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Eagles",
+    "title": "Desperado (Live On MTV, 1994)",
+    "type": "Shared",
+    "play_count_total": 101,
+    "play_count_30d": 13,
+    "last_played": "2026-08-22 17:03:13Z",
+    "last_played_vienna": "2026-08-22 19:03:13 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }

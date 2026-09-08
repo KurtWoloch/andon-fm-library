@@ -341,17 +341,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Various Interprets",
-    "title": "At Last",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-27 14:10:19Z",
-    "last_played_vienna": "2026-08-27 16:10:19 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Gene Watson",
     "title": "At Last",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-01 23:13:22Z",
     "last_played_vienna": "2026-09-02 01:13:22 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Postal Service",
+    "title": "Such Great Heights (Remastered)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-02 02:03:52Z",
+    "last_played_vienna": "2026-09-02 04:03:52 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

@@ -297,17 +297,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Franko Mladen",
-    "title": "Jamboree  (Remastered)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-08-01 03:17:30Z",
-    "last_played_vienna": "2026-08-01 05:17:30 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Vylet Pony",
     "title": "ANTONYMPH",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-08-06 04:38:42Z",
     "last_played_vienna": "2026-08-06 06:38:42 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Glenn Gould",
+    "title": "3 Klavierstücke, Op. 11 - No. 3, Bewegte Achtel (Instrumental)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-08-06 23:56:49Z",
+    "last_played_vienna": "2026-08-07 01:56:49 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
