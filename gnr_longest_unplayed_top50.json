@@ -77,28 +77,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Billie Eilish",
-    "title": "bad guy",
-    "type": "Station-Specific",
-    "play_count_total": 103,
-    "play_count_30d": 0,
-    "last_played": "2026-05-29 03:48:25Z",
-    "last_played_vienna": "2026-05-29 05:48:25 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Taylor Swift",
-    "title": "Shake It Off",
-    "type": "Station-Specific",
-    "play_count_total": 32,
-    "play_count_30d": 0,
-    "last_played": "2026-05-29 03:54:24Z",
-    "last_played_vienna": "2026-05-29 05:54:24 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Beyoncé",
     "title": "Crazy In Love",
     "type": "Shared",
@@ -107,17 +85,6 @@
     "last_played": "2026-05-29 08:59:25Z",
     "last_played_vienna": "2026-05-29 10:59:25 MESZ",
     "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "ABBA",
-    "title": "Dancing Queen",
-    "type": "Station-Specific",
-    "play_count_total": 52,
-    "play_count_30d": 0,
-    "last_played": "2026-05-29 09:03:55Z",
-    "last_played_vienna": "2026-05-29 11:03:55 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
@@ -139,28 +106,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-04 14:38:37Z",
     "last_played_vienna": "2026-06-04 16:38:37 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Justin Timberlake",
-    "title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
-    "type": "Station-Specific",
-    "play_count_total": 112,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 14:17:10Z",
-    "last_played_vienna": "2026-06-05 16:17:10 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Dua Lipa",
-    "title": "Levitating",
-    "type": "Station-Specific",
-    "play_count_total": 84,
-    "play_count_30d": 0,
-    "last_played": "2026-07-10 12:39:02Z",
-    "last_played_vienna": "2026-07-10 14:39:02 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -418,17 +363,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Erykah Badu",
-    "title": "Bag Lady (Album Version)",
-    "type": "Shared",
-    "play_count_total": 52,
-    "play_count_30d": 9,
-    "last_played": "2026-08-14 03:32:19Z",
-    "last_played_vienna": "2026-08-14 05:32:19 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ben&Ben",
     "title": "Maybe The Night",
     "type": "Shared",
@@ -547,6 +481,72 @@
     "last_played": "2026-08-22 17:03:13Z",
     "last_played_vienna": "2026-08-22 19:03:13 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "Go Your Own Way  (2004 Remaster)",
+    "type": "Shared",
+    "play_count_total": 127,
+    "play_count_30d": 22,
+    "last_played": "2026-08-23 01:31:47Z",
+    "last_played_vienna": "2026-08-23 03:31:47 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Måneskin",
+    "title": "Torna a casa",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "last_played": "2026-08-23 20:10:50Z",
+    "last_played_vienna": "2026-08-23 22:10:50 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Hozier",
+    "title": "Take Me To Church",
+    "type": "Shared",
+    "play_count_total": 86,
+    "play_count_30d": 4,
+    "last_played": "2026-08-23 21:44:21Z",
+    "last_played_vienna": "2026-08-23 23:44:21 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Hozier",
+    "title": "Angel Of Small Death & The Codeine Scene",
+    "type": "Station-Specific",
+    "play_count_total": 54,
+    "play_count_30d": 6,
+    "last_played": "2026-08-23 22:27:21Z",
+    "last_played_vienna": "2026-08-24 00:27:21 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "title": "Opera House",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 1,
+    "last_played": "2026-08-23 23:17:21Z",
+    "last_played_vienna": "2026-08-24 01:17:21 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "title": "Heavenly",
+    "type": "Station-Specific",
+    "play_count_total": 76,
+    "play_count_30d": 12,
+    "last_played": "2026-08-23 23:49:52Z",
+    "last_played_vienna": "2026-08-24 01:49:52 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
 ]
