@@ -385,17 +385,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tenacious D",
-    "title": "Tribute",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 12,
-    "last_played": "2026-09-07 19:58:33Z",
-    "last_played_vienna": "2026-09-07 21:58:33 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Die Toten Hosen",
     "title": "Walkampf",
     "type": "Station-Specific",
@@ -473,6 +462,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Tenacious D",
+    "title": "Tribute",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 13,
+    "last_played": "2026-09-08 21:44:36Z",
+    "last_played_vienna": "2026-09-08 23:44:36 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Creedence Clearwater Revival",
     "title": "Lookin' Out My Back Door",
     "type": "Station-Specific",
@@ -517,17 +517,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dio",
-    "title": "Rainbow in the Dark",
-    "type": "Station-Specific",
-    "play_count_total": 15,
-    "play_count_30d": 8,
-    "last_played": "2026-09-08 01:37:34Z",
-    "last_played_vienna": "2026-09-08 03:37:34 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "DataGlide",
     "title": "VR Higher",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 3,
     "last_played": "2026-08-30 10:49:13Z",
     "last_played_vienna": "2026-08-30 12:49:13 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dive",
+    "title": "City Of Sound",
+    "type": "Station-Specific",
+    "play_count_total": 16,
+    "play_count_30d": 7,
+    "last_played": "2026-09-04 16:04:09Z",
+    "last_played_vienna": "2026-09-04 18:04:09 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }

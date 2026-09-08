@@ -308,17 +308,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Cult With No Name",
-    "title": "You Know Me Better Than I Know Myself",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-25 18:37:33Z",
-    "last_played_vienna": "2026-08-25 20:37:33 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Richard O Brien",
     "title": "The Time Warp",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-02 02:03:52Z",
     "last_played_vienna": "2026-09-02 04:03:52 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bobby Vinton",
+    "title": "Blue Velvet",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-08 10:53:05Z",
+    "last_played_vienna": "2026-09-08 12:53:05 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
