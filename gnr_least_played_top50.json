@@ -143,17 +143,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "RAYE",
-    "title": "Goodbye Henry. (feat. Al Green)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-09-08 04:14:05Z",
-    "last_played_vienna": "2026-09-08 06:14:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Måneskin",
     "title": "Torna a casa",
     "type": "Station-Specific",
@@ -227,6 +216,17 @@
     "play_count_30d": 4,
     "last_played": "2026-09-08 14:24:06Z",
     "last_played_vienna": "2026-09-08 16:24:06 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "RAYE",
+    "title": "Goodbye Henry. (feat. Al Green)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-09-09 08:53:12Z",
+    "last_played_vienna": "2026-09-09 10:53:12 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
