@@ -143,17 +143,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Joe Cocker",
-    "title": "With A Little Help From My Friends",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-09-08 02:43:04Z",
-    "last_played_vienna": "2026-09-08 04:43:04 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Relaxing Piano Crew",
     "title": "The Ballad of a Distant Sound",
     "type": "Station-Specific",
@@ -183,6 +172,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-21 08:42:05Z",
     "last_played_vienna": "2026-08-21 10:42:05 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "With A Little Help From My Friends",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-09-09 03:32:40Z",
+    "last_played_vienna": "2026-09-09 05:32:40 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -286,28 +286,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "DrachenLord",
-    "title": "Skrrr Skrrr",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 6,
-    "last_played": "2026-09-06 22:13:24Z",
-    "last_played_vienna": "2026-09-07 00:13:24 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bobby Vinton",
-    "title": "Blue Velvet",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 8,
-    "last_played": "2026-09-08 05:15:04Z",
-    "last_played_vienna": "2026-09-08 07:15:04 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Confetti",
     "title": "People Suck [Explicit]",
     "type": "Shared",
@@ -348,6 +326,28 @@
     "play_count_30d": 9,
     "last_played": "2026-09-03 05:42:30Z",
     "last_played_vienna": "2026-09-03 07:42:30 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "DrachenLord",
+    "title": "Skrrr Skrrr",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 7,
+    "last_played": "2026-09-09 00:48:08Z",
+    "last_played_vienna": "2026-09-09 02:48:08 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bobby Vinton",
+    "title": "Blue Velvet",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 9,
+    "last_played": "2026-09-09 01:38:39Z",
+    "last_played_vienna": "2026-09-09 03:38:39 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
