@@ -330,17 +330,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Henry Cow",
-    "title": "Beautiful as the Moon; Terrible as an Army with Banners",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 08:01:41Z",
-    "last_played_vienna": "2026-09-09 10:01:41 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Robert Fripp",
     "title": "Here Comes The Flood (Exposure Fourth Edition: 2021 Stereo Mix)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-10 00:24:14Z",
     "last_played_vienna": "2026-09-10 02:24:14 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Astor Piazzolla",
+    "title": "Adiós Nonino",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-10 00:41:44Z",
+    "last_played_vienna": "2026-09-10 02:41:44 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
