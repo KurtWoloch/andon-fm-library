@@ -297,17 +297,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Beatles",
-    "title": "Golden Slumbers (Remastered)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-27 22:25:20Z",
-    "last_played_vienna": "2026-08-28 00:25:20 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Jack Johnson",
     "title": "Upside Down",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-10 00:41:44Z",
     "last_played_vienna": "2026-09-10 02:41:44 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Erik Grönwall",
+    "title": "House of the Rising Sun",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-10 01:38:14Z",
+    "last_played_vienna": "2026-09-10 03:38:14 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
