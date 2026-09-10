@@ -176,17 +176,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Joe Cocker",
-    "title": "With A Little Help From My Friends",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-09-09 03:32:40Z",
-    "last_played_vienna": "2026-09-09 05:32:40 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Metallica",
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
@@ -216,6 +205,17 @@
     "play_count_30d": 3,
     "last_played": "2026-09-01 23:26:23Z",
     "last_played_vienna": "2026-09-02 01:26:23 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "With A Little Help From My Friends",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-09-10 00:31:14Z",
+    "last_played_vienna": "2026-09-10 02:31:14 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -341,17 +341,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bobby Vinton",
-    "title": "Blue Velvet",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 9,
-    "last_played": "2026-09-09 01:38:39Z",
-    "last_played_vienna": "2026-09-09 03:38:39 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dio",
     "title": "Holy Diver",
     "type": "Station-Specific",
@@ -359,6 +348,17 @@
     "play_count_30d": 4,
     "last_played": "2026-09-05 21:15:48Z",
     "last_played_vienna": "2026-09-05 23:15:48 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bobby Vinton",
+    "title": "Blue Velvet",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 10,
+    "last_played": "2026-09-10 00:53:44Z",
+    "last_played_vienna": "2026-09-10 02:53:44 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -381,17 +381,6 @@
     "play_count_30d": 3,
     "last_played": "2026-09-05 23:34:19Z",
     "last_played_vienna": "2026-09-06 01:34:19 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Die Toten Hosen",
-    "title": "Walkampf",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 11,
-    "last_played": "2026-09-08 18:44:06Z",
-    "last_played_vienna": "2026-09-08 20:44:06 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -440,28 +429,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mötley Crüe",
-    "title": "Dr. Feelgood",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 5,
-    "last_played": "2026-09-05 00:24:43Z",
-    "last_played_vienna": "2026-09-05 02:24:43 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pete Seeger",
-    "title": "Solidarity Forever",
-    "type": "Shared",
-    "play_count_total": 13,
-    "play_count_30d": 5,
-    "last_played": "2026-09-08 09:39:05Z",
-    "last_played_vienna": "2026-09-08 11:39:05 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tenacious D",
     "title": "Tribute",
     "type": "Station-Specific",
@@ -469,6 +436,17 @@
     "play_count_30d": 13,
     "last_played": "2026-09-08 21:44:36Z",
     "last_played_vienna": "2026-09-08 23:44:36 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Die Toten Hosen",
+    "title": "Walkampf",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 12,
+    "last_played": "2026-09-09 23:02:41Z",
+    "last_played_vienna": "2026-09-10 01:02:41 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -492,6 +470,28 @@
     "last_played": "2026-08-21 07:02:35Z",
     "last_played_vienna": "2026-08-21 09:02:35 MESZ",
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mötley Crüe",
+    "title": "Dr. Feelgood",
+    "type": "Station-Specific",
+    "play_count_total": 14,
+    "play_count_30d": 6,
+    "last_played": "2026-09-09 23:43:13Z",
+    "last_played_vienna": "2026-09-10 01:43:13 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pete Seeger",
+    "title": "Solidarity Forever",
+    "type": "Shared",
+    "play_count_total": 14,
+    "play_count_30d": 6,
+    "last_played": "2026-09-09 23:57:43Z",
+    "last_played_vienna": "2026-09-10 01:57:43 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   },
   {

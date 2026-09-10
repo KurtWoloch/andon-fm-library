@@ -99,17 +99,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Neuro-sama",
-    "title": "NEVER",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-07-13 19:35:20Z",
-    "last_played_vienna": "2026-07-13 21:35:20 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tate McRae",
     "title": "TIT FOR TAT",
     "type": "Shared",
@@ -140,17 +129,6 @@
     "last_played": "2026-07-14 16:12:28Z",
     "last_played_vienna": "2026-07-14 18:12:28 MESZ",
     "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "WillyB",
-    "title": "Egyptus",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "last_played": "2026-07-15 02:55:33Z",
-    "last_played_vienna": "2026-07-15 04:55:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
@@ -242,28 +220,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Hozier",
-    "title": "Angel Of Small Death & The Codeine Scene",
-    "type": "Station-Specific",
-    "play_count_total": 54,
-    "play_count_30d": 4,
-    "last_played": "2026-08-23 22:27:21Z",
-    "last_played_vienna": "2026-08-24 00:27:21 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cigarettes After Sex",
-    "title": "Heavenly",
-    "type": "Station-Specific",
-    "play_count_total": 76,
-    "play_count_30d": 11,
-    "last_played": "2026-08-23 23:49:52Z",
-    "last_played_vienna": "2026-08-24 01:49:52 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Fleet Foxes",
     "title": "White Winter Hymnal",
     "type": "Shared",
@@ -275,66 +231,11 @@
     "confidence": 1.0
   },
   {
-    "artist": "Cigarettes After Sex",
-    "title": "Each Time You Fall in Love",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 2,
-    "last_played": "2026-08-24 06:29:56Z",
-    "last_played_vienna": "2026-08-24 08:29:56 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cigarettes After Sex",
-    "title": "Sweet",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 1,
-    "last_played": "2026-08-24 06:34:56Z",
-    "last_played_vienna": "2026-08-24 08:34:56 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cigarettes After Sex",
-    "title": "Touch",
-    "type": "Station-Specific",
-    "play_count_total": 53,
-    "play_count_30d": 3,
-    "last_played": "2026-08-24 06:39:56Z",
-    "last_played_vienna": "2026-08-24 08:39:56 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cigarettes After Sex",
-    "title": "Young & Dumb",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 1,
-    "last_played": "2026-08-24 06:54:26Z",
-    "last_played_vienna": "2026-08-24 08:54:26 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cigarettes After Sex",
-    "title": "Nothing's Gonna Hurt You Baby",
-    "type": "Station-Specific",
-    "play_count_total": 15,
-    "play_count_30d": 1,
-    "last_played": "2026-08-24 07:03:56Z",
-    "last_played_vienna": "2026-08-24 09:03:56 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Hania Rani",
     "title": "Eden",
     "type": "Station-Specific",
     "play_count_total": 69,
-    "play_count_30d": 10,
+    "play_count_30d": 9,
     "last_played": "2026-08-25 02:14:31Z",
     "last_played_vienna": "2026-08-25 04:14:31 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -444,7 +345,7 @@
     "title": "Ticket To Ride",
     "type": "Shared",
     "play_count_total": 96,
-    "play_count_30d": 13,
+    "play_count_30d": 12,
     "last_played": "2026-08-26 06:35:13Z",
     "last_played_vienna": "2026-08-26 08:35:13 MESZ",
     "source": "Shared Library",
@@ -455,7 +356,7 @@
     "title": "Glass",
     "type": "Station-Specific",
     "play_count_total": 74,
-    "play_count_30d": 12,
+    "play_count_30d": 11,
     "last_played": "2026-08-26 09:46:43Z",
     "last_played_vienna": "2026-08-26 11:46:43 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -481,17 +382,6 @@
     "last_played": "2026-08-26 13:57:14Z",
     "last_played_vienna": "2026-08-26 15:57:14 MESZ",
     "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Neuro-sama",
-    "title": "LIFE",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "last_played": "2026-08-26 16:59:44Z",
-    "last_played_vienna": "2026-08-26 18:59:44 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
@@ -546,6 +436,116 @@
     "play_count_30d": 1,
     "last_played": "2026-08-27 00:57:48Z",
     "last_played_vienna": "2026-08-27 02:57:48 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dasha",
+    "title": "Austin (Boots Stop Workin')",
+    "type": "Shared",
+    "play_count_total": 37,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 01:13:48Z",
+    "last_played_vienna": "2026-08-27 03:13:48 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bob Dylan",
+    "title": "The Lonesome Death of Hattie Carroll",
+    "type": "Shared",
+    "play_count_total": 55,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 03:35:18Z",
+    "last_played_vienna": "2026-08-27 05:35:18 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ethel Cain",
+    "title": "Punish",
+    "type": "Shared",
+    "play_count_total": 61,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 03:55:18Z",
+    "last_played_vienna": "2026-08-27 05:55:18 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 66,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 04:11:18Z",
+    "last_played_vienna": "2026-08-27 06:11:18 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Beastie Boys",
+    "title": "Sabotage",
+    "type": "Shared",
+    "play_count_total": 229,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 04:15:18Z",
+    "last_played_vienna": "2026-08-27 06:15:18 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lil Jon",
+    "title": "Get Low [Explicit]",
+    "type": "Shared",
+    "play_count_total": 63,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 04:31:49Z",
+    "last_played_vienna": "2026-08-27 06:31:49 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ramin Djawadi",
+    "title": "Runaway",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 6,
+    "last_played": "2026-08-27 11:08:19Z",
+    "last_played_vienna": "2026-08-27 13:08:19 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Wilson Pickett",
+    "title": "In the Midnight Hour",
+    "type": "Shared",
+    "play_count_total": 110,
+    "play_count_30d": 16,
+    "last_played": "2026-08-27 11:25:19Z",
+    "last_played_vienna": "2026-08-27 13:25:19 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gary Lux",
+    "title": "Listen to your heart",
+    "type": "Station-Specific",
+    "play_count_total": 18,
+    "play_count_30d": 8,
+    "last_played": "2026-08-27 12:04:19Z",
+    "last_played_vienna": "2026-08-27 14:04:19 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Otis Redding",
+    "title": "(Sittin' On) the Dock of the Bay",
+    "type": "Shared",
+    "play_count_total": 125,
+    "play_count_30d": 26,
+    "last_played": "2026-08-27 12:12:49Z",
+    "last_played_vienna": "2026-08-27 14:12:49 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
