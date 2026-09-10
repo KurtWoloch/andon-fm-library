@@ -209,17 +209,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "U2",
-    "title": "Beautiful Day (Remastered 2020)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-07-29 22:45:41Z",
-    "last_played_vienna": "2026-07-30 00:45:41 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Euology",
     "title": "Logic",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-08-06 23:56:49Z",
     "last_played_vienna": "2026-08-07 01:56:49 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Joe Hisaishi",
+    "title": "Ponyo's Sisters Lend a Hand - A Song for Mothers and the Sea (from 'Ponyo on the Cliff by the Sea')",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-08-08 04:46:31Z",
+    "last_played_vienna": "2026-08-08 06:46:31 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

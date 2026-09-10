@@ -187,17 +187,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Khalid",
-    "title": "please don't call (333)",
-    "type": "Shared",
-    "play_count_total": 14,
-    "play_count_30d": 1,
-    "last_played": "2026-08-16 02:42:28Z",
-    "last_played_vienna": "2026-08-16 04:42:28 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Queen",
     "title": "Killer Queen (Remastered 2011)",
     "type": "Shared",
@@ -253,33 +242,11 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Camouflage (Acoustic Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 19,
-    "play_count_30d": 3,
-    "last_played": "2026-08-25 03:51:02Z",
-    "last_played_vienna": "2026-08-25 05:51:02 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Tom Konkle",
-    "title": "Undoing",
-    "type": "Station-Specific",
-    "play_count_total": 19,
-    "play_count_30d": 3,
-    "last_played": "2026-08-25 05:23:33Z",
-    "last_played_vienna": "2026-08-25 07:23:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Dave Brubeck Quartet",
     "title": "Take Five",
     "type": "Shared",
     "play_count_total": 238,
-    "play_count_30d": 20,
+    "play_count_30d": 19,
     "last_played": "2026-08-25 08:05:03Z",
     "last_played_vienna": "2026-08-25 10:05:03 MESZ",
     "source": "Shared Library",
@@ -319,39 +286,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Weeknd",
-    "title": "Gasoline",
-    "type": "Shared",
-    "play_count_total": 47,
-    "play_count_30d": 2,
-    "last_played": "2026-08-26 03:35:11Z",
-    "last_played_vienna": "2026-08-26 05:35:11 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "SZA",
-    "title": "Kill Bill",
-    "type": "Shared",
-    "play_count_total": 58,
-    "play_count_30d": 2,
-    "last_played": "2026-08-26 04:49:12Z",
-    "last_played_vienna": "2026-08-26 06:49:12 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Benjamin Francis Leftwich",
-    "title": "Ticket To Ride",
-    "type": "Shared",
-    "play_count_total": 96,
-    "play_count_30d": 12,
-    "last_played": "2026-08-26 06:35:13Z",
-    "last_played_vienna": "2026-08-26 08:35:13 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Hania Rani",
     "title": "Glass",
     "type": "Station-Specific",
@@ -360,17 +294,6 @@
     "last_played": "2026-08-26 09:46:43Z",
     "last_played_vienna": "2026-08-26 11:46:43 MESZ",
     "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Khalid",
-    "title": "momentary lovers",
-    "type": "Shared",
-    "play_count_total": 22,
-    "play_count_30d": 2,
-    "last_played": "2026-08-26 13:05:14Z",
-    "last_played_vienna": "2026-08-26 15:05:14 MESZ",
-    "source": "Shared Library",
     "confidence": 1.0
   },
   {
@@ -517,36 +440,113 @@
     "confidence": 1.0
   },
   {
-    "artist": "Wilson Pickett",
-    "title": "In the Midnight Hour",
+    "artist": "Harry Styles",
+    "title": "As It Was",
     "type": "Shared",
-    "play_count_total": 110,
-    "play_count_30d": 16,
-    "last_played": "2026-08-27 11:25:19Z",
-    "last_played_vienna": "2026-08-27 13:25:19 MESZ",
+    "play_count_total": 124,
+    "play_count_30d": 5,
+    "last_played": "2026-08-27 12:32:19Z",
+    "last_played_vienna": "2026-08-27 14:32:19 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
   {
-    "artist": "Gary Lux",
-    "title": "Listen to your heart",
+    "artist": "Shaboozey",
+    "title": "A Bar Song (Tipsy)",
+    "type": "Shared",
+    "play_count_total": 36,
+    "play_count_30d": 3,
+    "last_played": "2026-08-27 13:02:19Z",
+    "last_played_vienna": "2026-08-27 15:02:19 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Azizam",
+    "type": "Shared",
+    "play_count_total": 26,
+    "play_count_30d": 2,
+    "last_played": "2026-08-27 14:08:49Z",
+    "last_played_vienna": "2026-08-27 16:08:49 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ólafur Arnalds",
+    "title": "saman",
     "type": "Station-Specific",
-    "play_count_total": 18,
-    "play_count_30d": 8,
-    "last_played": "2026-08-27 12:04:19Z",
-    "last_played_vienna": "2026-08-27 14:04:19 MESZ",
+    "play_count_total": 100,
+    "play_count_30d": 7,
+    "last_played": "2026-08-27 17:14:52Z",
+    "last_played_vienna": "2026-08-27 19:14:52 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
-    "artist": "Otis Redding",
-    "title": "(Sittin' On) the Dock of the Bay",
+    "artist": "Tove Lo",
+    "title": "No One Dies From Love",
     "type": "Shared",
-    "play_count_total": 125,
-    "play_count_30d": 26,
-    "last_played": "2026-08-27 12:12:49Z",
-    "last_played_vienna": "2026-08-27 14:12:49 MESZ",
+    "play_count_total": 66,
+    "play_count_30d": 4,
+    "last_played": "2026-08-27 17:39:12Z",
+    "last_played_vienna": "2026-08-27 19:39:12 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Side-A",
+    "title": "Only You (There Will Never Be Another)",
+    "type": "Shared",
+    "play_count_total": 48,
+    "play_count_30d": 11,
+    "last_played": "2026-08-27 17:42:20Z",
+    "last_played_vienna": "2026-08-27 19:42:20 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Beach Boys",
+    "title": "Surfin' U.S.A. (Stereo)",
+    "type": "Station-Specific",
+    "play_count_total": 17,
+    "play_count_30d": 14,
+    "last_played": "2026-08-27 19:42:51Z",
+    "last_played_vienna": "2026-08-27 21:42:51 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dua Lipa",
+    "title": "Training Season",
+    "type": "Shared",
+    "play_count_total": 118,
+    "play_count_30d": 2,
+    "last_played": "2026-08-27 20:09:20Z",
+    "last_played_vienna": "2026-08-27 22:09:20 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Chappell Roan",
+    "title": "HOT TO GO!",
+    "type": "Shared",
+    "play_count_total": 30,
+    "play_count_30d": 1,
+    "last_played": "2026-08-27 23:32:21Z",
+    "last_played_vienna": "2026-08-28 01:32:21 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Erykah Badu",
+    "title": "Witch Doctor",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 12,
+    "last_played": "2026-08-28 02:26:24Z",
+    "last_played_vienna": "2026-08-28 04:26:24 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
 ]

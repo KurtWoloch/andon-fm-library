@@ -55,17 +55,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "U2",
-    "title": "Beautiful Day (Remastered 2020)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-07-29 22:45:41Z",
-    "last_played_vienna": "2026-07-30 00:45:41 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Jacquees",
     "title": "Won't Turn It Down",
     "type": "Station-Specific",
@@ -220,39 +209,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Autechre",
-    "title": "Gantz Graf",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-17 09:37:51Z",
-    "last_played_vienna": "2026-08-17 11:37:51 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Sir David Willcocks",
-    "title": "5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-18 05:24:03Z",
-    "last_played_vienna": "2026-08-18 07:24:03 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Aphex Twin",
-    "title": "Flim",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-22 20:58:13Z",
-    "last_played_vienna": "2026-08-22 22:58:13 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Missio",
     "title": "I See You",
     "type": "Station-Specific",
@@ -260,28 +216,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-23 17:02:49Z",
     "last_played_vienna": "2026-08-23 19:02:49 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Gary Moore",
-    "title": "Parisienne Walkways",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-23 18:02:19Z",
-    "last_played_vienna": "2026-08-23 20:02:19 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Abor & Tynna",
-    "title": "Baller",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-23 19:01:49Z",
-    "last_played_vienna": "2026-08-23 21:01:49 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -319,17 +253,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Eva Cassidy",
-    "title": "At Last (Acoustic)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-27 14:47:49Z",
-    "last_played_vienna": "2026-08-27 16:47:49 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Cyndi Lauper",
     "title": "At Last (Album Version)",
     "type": "Station-Specific",
@@ -348,17 +271,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-27 15:01:49Z",
     "last_played_vienna": "2026-08-27 17:01:49 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Jeff Lynne",
-    "title": "At Last",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-27 15:12:19Z",
-    "last_played_vienna": "2026-08-27 17:12:19 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -385,17 +297,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Stan Bush",
-    "title": "The Touch",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-27 22:15:20Z",
-    "last_played_vienna": "2026-08-28 00:15:20 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Beatles",
     "title": "Golden Slumbers (Remastered)",
     "type": "Station-Specific",
@@ -418,17 +319,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tenacious D",
-    "title": "Tribute",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-28 18:01:55Z",
-    "last_played_vienna": "2026-08-28 20:01:55 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ludovico Einaudi",
     "title": "Primavera",
     "type": "Station-Specific",
@@ -436,94 +326,6 @@
     "play_count_30d": 1,
     "last_played": "2026-08-29 06:42:34Z",
     "last_played_vienna": "2026-08-29 08:42:34 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cyndi Lauper",
-    "title": "Time After Time",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-01 17:43:22Z",
-    "last_played_vienna": "2026-09-01 19:43:22 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Elliott Smith",
-    "title": "Independence Day",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-01 18:21:52Z",
-    "last_played_vienna": "2026-09-01 20:21:52 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Voyager",
-    "title": "Promise",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-01 19:20:52Z",
-    "last_played_vienna": "2026-09-01 21:20:52 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "King Crimson",
-    "title": "21st Century Schizoid Man (Including 'Mirrors')",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-01 20:00:22Z",
-    "last_played_vienna": "2026-09-01 22:00:22 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Christina Aguilera",
-    "title": "Genie In a Bottle",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-01 21:09:22Z",
-    "last_played_vienna": "2026-09-01 23:09:22 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "The Weeknd",
-    "title": "Call Out My Name",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-01 23:13:22Z",
-    "last_played_vienna": "2026-09-02 01:13:22 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "The Postal Service",
-    "title": "Such Great Heights (Remastered)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-02 02:03:52Z",
-    "last_played_vienna": "2026-09-02 04:03:52 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bobby Vinton",
-    "title": "Blue Velvet",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-08 10:53:05Z",
-    "last_played_vienna": "2026-09-08 12:53:05 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +348,204 @@
     "play_count_30d": 1,
     "last_played": "2026-09-09 18:23:13Z",
     "last_played_vienna": "2026-09-09 20:23:13 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Billy Joel",
+    "title": "The River of Dreams (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 18:28:42Z",
+    "last_played_vienna": "2026-09-09 20:28:42 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "P!nk",
+    "title": "Get the Party Started",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 18:33:42Z",
+    "last_played_vienna": "2026-09-09 20:33:42 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "David Soul",
+    "title": "Silver Lady",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 18:37:43Z",
+    "last_played_vienna": "2026-09-09 20:37:43 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Queen",
+    "title": "Somebody To Love",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 19:45:13Z",
+    "last_played_vienna": "2026-09-09 21:45:13 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "George Michael",
+    "title": "Somebody to Love (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 19:51:13Z",
+    "last_played_vienna": "2026-09-09 21:51:13 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Animals",
+    "title": "The House of the Rising Sun",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 19:57:14Z",
+    "last_played_vienna": "2026-09-09 21:57:14 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "R.E.M.",
+    "title": "Orange Crush (Remastered)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 20:01:13Z",
+    "last_played_vienna": "2026-09-09 22:01:13 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Love and Rockets",
+    "title": "Haunted When the Minutes Drag",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 20:20:13Z",
+    "last_played_vienna": "2026-09-09 22:20:13 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Chris Isaak",
+    "title": "Blue Hotel  (Remastered Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 20:29:13Z",
+    "last_played_vienna": "2026-09-09 22:29:13 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Crosby, Stills, Nash & Young",
+    "title": "Helpless",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 20:33:13Z",
+    "last_played_vienna": "2026-09-09 22:33:13 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Little Axe",
+    "title": "Ride On (Fight On)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 20:37:43Z",
+    "last_played_vienna": "2026-09-09 22:37:43 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Santana",
+    "title": "Samba Pa Ti",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 20:43:43Z",
+    "last_played_vienna": "2026-09-09 22:43:43 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Led Zeppelin",
+    "title": "Going to California  (Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 20:49:14Z",
+    "last_played_vienna": "2026-09-09 22:49:14 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Nick Cave & The Bad Seeds",
+    "title": "Henry Lee (Remastered 2011)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 20:53:13Z",
+    "last_played_vienna": "2026-09-09 22:53:13 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "P!nk",
+    "title": "Eventually",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 20:57:43Z",
+    "last_played_vienna": "2026-09-09 22:57:43 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Santana",
+    "title": "Oye Como Va",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 23:09:41Z",
+    "last_played_vienna": "2026-09-10 01:09:41 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Santana",
+    "title": "Maria Maria",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 23:19:13Z",
+    "last_played_vienna": "2026-09-10 01:19:13 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Djivan Gasparyan",
+    "title": "They Took My Love Away",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-10 00:24:14Z",
+    "last_played_vienna": "2026-09-10 02:24:14 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
