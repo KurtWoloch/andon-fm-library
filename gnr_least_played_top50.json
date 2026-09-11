@@ -154,28 +154,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "RAYE",
-    "title": "WHERE IS MY HUSBAND!",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 4,
-    "last_played": "2026-09-10 19:31:53Z",
-    "last_played_vienna": "2026-09-10 21:31:53 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "RAYE",
-    "title": "Life Boat.",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 4,
-    "last_played": "2026-09-10 20:26:22Z",
-    "last_played_vienna": "2026-09-10 22:26:22 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "David Garrett",
     "title": "Bitter Sweet Symphony",
     "type": "Station-Specific",
@@ -238,17 +216,6 @@
     "play_count_30d": 5,
     "last_played": "2026-09-10 03:36:47Z",
     "last_played_vienna": "2026-09-10 05:36:47 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "RAYE",
-    "title": "Nightingale Lane.",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 5,
-    "last_played": "2026-09-10 20:10:23Z",
-    "last_played_vienna": "2026-09-10 22:10:23 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -352,6 +319,28 @@
     "confidence": 1.0
   },
   {
+    "artist": "RAYE",
+    "title": "WHERE IS MY HUSBAND!",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 6,
+    "last_played": "2026-09-11 01:21:25Z",
+    "last_played_vienna": "2026-09-11 03:21:25 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "RAYE",
+    "title": "Life Boat.",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 6,
+    "last_played": "2026-09-11 02:21:26Z",
+    "last_played_vienna": "2026-09-11 04:21:26 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Giles Holland",
     "title": "Largo (Winter - The Four Seasons Op 8 No 4)",
     "type": "Station-Specific",
@@ -429,13 +418,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "Arctic Monkeys",
-    "title": "No. 1 Party Anthem",
+    "artist": "RAYE",
+    "title": "Nightingale Lane.",
     "type": "Station-Specific",
     "play_count_total": 8,
     "play_count_30d": 7,
-    "last_played": "2026-09-10 19:43:23Z",
-    "last_played_vienna": "2026-09-10 21:43:23 MESZ",
+    "last_played": "2026-09-11 02:02:26Z",
+    "last_played_vienna": "2026-09-11 04:02:26 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -546,6 +535,17 @@
     "play_count_30d": 8,
     "last_played": "2026-09-10 04:06:47Z",
     "last_played_vienna": "2026-09-10 06:06:47 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "D'Angelo",
+    "title": "Brown Sugar",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 10,
+    "last_played": "2026-09-08 08:41:35Z",
+    "last_played_vienna": "2026-09-08 10:41:35 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
