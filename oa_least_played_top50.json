@@ -451,17 +451,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tenacious D",
-    "title": "Tribute",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 14,
-    "last_played": "2026-09-10 09:09:21Z",
-    "last_played_vienna": "2026-09-10 11:09:21 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Die Toten Hosen",
     "title": "Walkampf",
     "type": "Station-Specific",
@@ -506,6 +495,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Tenacious D",
+    "title": "Tribute",
+    "type": "Station-Specific",
+    "play_count_total": 15,
+    "play_count_30d": 15,
+    "last_played": "2026-09-11 09:07:00Z",
+    "last_played_vienna": "2026-09-11 11:07:00 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "TV Girl",
     "title": "It Almost Worked",
     "type": "Station-Specific",
@@ -539,13 +539,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pornophonique",
-    "title": "Sad Robot",
+    "artist": "Dio",
+    "title": "Rainbow in the Dark",
     "type": "Station-Specific",
     "play_count_total": 17,
-    "play_count_30d": 14,
-    "last_played": "2026-09-09 13:29:12Z",
-    "last_played_vienna": "2026-09-09 15:29:12 MESZ",
+    "play_count_30d": 10,
+    "last_played": "2026-09-11 04:06:27Z",
+    "last_played_vienna": "2026-09-11 06:06:27 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }

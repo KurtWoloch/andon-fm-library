@@ -528,17 +528,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "RAYE",
-    "title": "Nightingale Lane.",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 8,
-    "last_played": "2026-09-11 06:15:31Z",
-    "last_played_vienna": "2026-09-11 08:15:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "D'Angelo",
     "title": "Brown Sugar",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 10,
     "last_played": "2026-09-08 08:41:35Z",
     "last_played_vienna": "2026-09-08 10:41:35 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Paris Paloma",
+    "title": "Pre-Raphaelite",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 9,
+    "last_played": "2026-09-08 10:29:06Z",
+    "last_played_vienna": "2026-09-08 12:29:06 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }

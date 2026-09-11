@@ -88,17 +88,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "KAYA!",
-    "title": "Turn It Up",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-08-05 04:11:04Z",
-    "last_played_vienna": "2026-08-05 06:11:04 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Studio Group",
     "title": "As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige",
     "type": "Station-Specific",
@@ -363,17 +352,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Queen",
-    "title": "Somebody To Love",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 19:45:13Z",
-    "last_played_vienna": "2026-09-09 21:45:13 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "George Michael",
     "title": "Somebody to Love (Album Version)",
     "type": "Station-Specific",
@@ -425,17 +403,6 @@
     "play_count_30d": 1,
     "last_played": "2026-09-09 20:29:13Z",
     "last_played_vienna": "2026-09-09 22:29:13 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Crosby, Stills, Nash & Young",
-    "title": "Helpless",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 20:33:13Z",
-    "last_played_vienna": "2026-09-09 22:33:13 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +513,39 @@
     "play_count_30d": 1,
     "last_played": "2026-09-10 01:38:14Z",
     "last_played_vienna": "2026-09-10 03:38:14 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Police",
+    "title": "Walking On The Moon (Remastered 2003)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-10 08:32:21Z",
+    "last_played_vienna": "2026-09-10 10:32:21 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The La's",
+    "title": "There She Goes",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-10 11:02:21Z",
+    "last_played_vienna": "2026-09-10 13:02:21 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "THE TEARDROP EXPLODES",
+    "title": "Reward",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-10 11:05:21Z",
+    "last_played_vienna": "2026-09-10 13:05:21 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
