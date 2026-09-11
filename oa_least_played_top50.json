@@ -242,17 +242,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Joe Cocker",
-    "title": "With A Little Help From My Friends",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-09-10 22:28:22Z",
-    "last_played_vienna": "2026-09-11 00:28:22 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Foster The People",
     "title": "Pumped Up Kicks",
     "type": "Station-Specific",
@@ -260,6 +249,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-01 09:36:21Z",
     "last_played_vienna": "2026-09-01 11:36:21 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "With A Little Help From My Friends",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "last_played": "2026-09-11 19:59:02Z",
+    "last_played_vienna": "2026-09-11 21:59:02 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -363,17 +363,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bobby Vinton",
-    "title": "Blue Velvet",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 11,
-    "last_played": "2026-09-10 22:37:52Z",
-    "last_played_vienna": "2026-09-11 00:37:52 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "DrachenLord",
     "title": "Skrrr Skrrr",
     "type": "Station-Specific",
@@ -381,6 +370,17 @@
     "play_count_30d": 9,
     "last_played": "2026-09-11 00:05:23Z",
     "last_played_vienna": "2026-09-11 02:05:23 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bobby Vinton",
+    "title": "Blue Velvet",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 12,
+    "last_played": "2026-09-11 20:04:31Z",
+    "last_played_vienna": "2026-09-11 22:04:31 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
