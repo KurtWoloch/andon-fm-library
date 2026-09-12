@@ -429,17 +429,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Kent DuChaine",
-    "title": "Trouble in Mind (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-08-04 01:07:53Z",
-    "last_played_vienna": "2026-08-04 03:07:53 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "USA for Africa",
     "title": "We Are The World",
     "type": "Shared",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-08-09 16:34:03Z",
     "last_played_vienna": "2026-08-09 18:34:03 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "KOHTO",
+    "title": "princess mononoke theme",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 0,
+    "last_played": "2026-08-09 23:21:35Z",
+    "last_played_vienna": "2026-08-10 01:21:35 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

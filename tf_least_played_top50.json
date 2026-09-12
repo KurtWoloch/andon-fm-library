@@ -385,17 +385,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Santana",
-    "title": "Maria Maria",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 23:19:13Z",
-    "last_played_vienna": "2026-09-10 01:19:13 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Djivan Gasparyan",
     "title": "They Took My Love Away",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-10 21:47:51Z",
     "last_played_vienna": "2026-09-10 23:47:51 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jerry Cantrell",
+    "title": "Would? (2022 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-10 21:52:51Z",
+    "last_played_vienna": "2026-09-10 23:52:51 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
