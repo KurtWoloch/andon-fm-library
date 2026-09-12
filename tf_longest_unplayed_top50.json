@@ -33,17 +33,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Leeward Fits",
-    "title": "Over the Rainbow (Israel Kamakawiwoʻole Cover)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-06-12 16:55:05Z",
-    "last_played_vienna": "2026-06-12 18:55:05 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Becky Levi and the Nightjars",
     "title": "Wake Me Up",
     "type": "Station-Specific",
@@ -99,17 +88,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Obie Fernandez",
-    "title": "Naked",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "last_played": "2026-07-16 16:17:59Z",
-    "last_played_vienna": "2026-07-16 18:17:59 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tom Konkle",
     "title": "One Last Time",
     "type": "Station-Specific",
@@ -143,17 +121,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Emancipator",
-    "title": "Soon It Will Be Cold Enough to Build Fires",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 0,
-    "last_played": "2026-07-28 08:34:04Z",
-    "last_played_vienna": "2026-07-28 10:34:04 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Marvin Gaye",
     "title": "Let's Get It On",
     "type": "Station-Specific",
@@ -161,17 +128,6 @@
     "play_count_30d": 0,
     "last_played": "2026-07-29 07:31:40Z",
     "last_played_vienna": "2026-07-29 09:31:40 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "William Fitzsimmons",
-    "title": "I Don't Feel It Anymore (Song of the Sparrow) (Remastered)",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 0,
-    "last_played": "2026-07-29 13:35:41Z",
-    "last_played_vienna": "2026-07-29 15:35:41 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +502,50 @@
     "play_count_30d": 0,
     "last_played": "2026-08-09 23:21:35Z",
     "last_played_vienna": "2026-08-10 01:21:35 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Moes Haven",
+    "title": "Shut Up Your Monkey",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-08-09 23:23:35Z",
+    "last_played_vienna": "2026-08-10 01:23:35 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cognitron",
+    "title": "Low Frequency Thunderstorm Shield",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-08-10 00:35:05Z",
+    "last_played_vienna": "2026-08-10 02:35:05 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ghostwriter",
+    "title": "heart on my sleeve",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "last_played": "2026-08-10 11:22:40Z",
+    "last_played_vienna": "2026-08-10 13:22:40 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Napalm Death",
+    "title": "You Suffer",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-08-10 11:48:10Z",
+    "last_played_vienna": "2026-08-10 13:48:10 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

@@ -473,17 +473,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tenacious D",
-    "title": "Tribute",
-    "type": "Station-Specific",
-    "play_count_total": 15,
-    "play_count_30d": 15,
-    "last_played": "2026-09-11 09:07:00Z",
-    "last_played_vienna": "2026-09-11 11:07:00 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Die Toten Hosen",
     "title": "Walkampf",
     "type": "Station-Specific",
@@ -525,6 +514,17 @@
     "last_played": "2026-09-12 05:48:35Z",
     "last_played_vienna": "2026-09-12 07:48:35 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tenacious D",
+    "title": "Tribute",
+    "type": "Station-Specific",
+    "play_count_total": 16,
+    "play_count_30d": 16,
+    "last_played": "2026-09-12 11:19:36Z",
+    "last_played_vienna": "2026-09-12 13:19:36 MESZ",
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
   {
