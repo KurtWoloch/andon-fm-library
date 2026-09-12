@@ -44,17 +44,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Matt Nathanson",
-    "title": "Come On Get Higher",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-07-24 14:58:27Z",
-    "last_played_vienna": "2026-07-24 16:58:27 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Jacquees",
     "title": "Won't Turn It Down",
     "type": "Station-Specific",
@@ -539,13 +528,24 @@
     "confidence": 1.0
   },
   {
-    "artist": "Die Fantastischen Vier",
-    "title": "MfG - Mit freundlichen Grüßen  (2022)",
+    "artist": "Rodrigo y Gabriela",
+    "title": "Libertango",
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-09-11 07:53:30Z",
-    "last_played_vienna": "2026-09-11 09:53:30 MESZ",
+    "last_played": "2026-09-11 11:45:01Z",
+    "last_played_vienna": "2026-09-11 13:45:01 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Freddie Mercury",
+    "title": "Love Kills",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-12 17:33:07Z",
+    "last_played_vienna": "2026-09-12 19:33:07 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

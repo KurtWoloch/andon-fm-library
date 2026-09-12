@@ -253,17 +253,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Joe Cocker",
-    "title": "With A Little Help From My Friends",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-09-11 19:59:02Z",
-    "last_played_vienna": "2026-09-11 21:59:02 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Constellation",
     "title": "The Reaching",
     "type": "Station-Specific",
@@ -283,6 +272,17 @@
     "last_played": "2026-09-08 10:05:05Z",
     "last_played_vienna": "2026-09-08 12:05:05 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "With A Little Help From My Friends",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "last_played": "2026-09-12 17:36:06Z",
+    "last_played_vienna": "2026-09-12 19:36:06 MESZ",
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
   {
@@ -352,28 +352,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bob Seger",
-    "title": "Night Moves",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 11,
-    "last_played": "2026-09-11 21:39:01Z",
-    "last_played_vienna": "2026-09-11 23:39:01 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bobby Vinton",
-    "title": "Blue Velvet",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 12,
-    "last_played": "2026-09-11 20:04:31Z",
-    "last_played_vienna": "2026-09-11 22:04:31 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "DrachenLord",
     "title": "Skrrr Skrrr",
     "type": "Station-Specific",
@@ -381,6 +359,17 @@
     "play_count_30d": 10,
     "last_played": "2026-09-11 21:37:01Z",
     "last_played_vienna": "2026-09-11 23:37:01 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bob Seger",
+    "title": "Night Moves",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 12,
+    "last_played": "2026-09-12 18:43:37Z",
+    "last_played_vienna": "2026-09-12 20:43:37 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -429,6 +418,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Bobby Vinton",
+    "title": "Blue Velvet",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 13,
+    "last_played": "2026-09-12 18:02:36Z",
+    "last_played_vienna": "2026-09-12 20:02:36 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Creedence Clearwater Revival",
     "title": "Lookin' Out My Back Door",
     "type": "Station-Specific",
@@ -458,28 +458,6 @@
     "play_count_30d": 13,
     "last_played": "2026-09-06 17:16:54Z",
     "last_played_vienna": "2026-09-06 19:16:54 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Mötley Crüe",
-    "title": "Dr. Feelgood",
-    "type": "Station-Specific",
-    "play_count_total": 15,
-    "play_count_30d": 7,
-    "last_played": "2026-09-10 23:25:23Z",
-    "last_played_vienna": "2026-09-11 01:25:23 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Die Toten Hosen",
-    "title": "Walkampf",
-    "type": "Station-Specific",
-    "play_count_total": 15,
-    "play_count_30d": 14,
-    "last_played": "2026-09-11 21:33:01Z",
-    "last_played_vienna": "2026-09-11 23:33:01 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -524,6 +502,28 @@
     "play_count_30d": 16,
     "last_played": "2026-09-12 11:19:36Z",
     "last_played_vienna": "2026-09-12 13:19:36 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mötley Crüe",
+    "title": "Dr. Feelgood",
+    "type": "Station-Specific",
+    "play_count_total": 16,
+    "play_count_30d": 8,
+    "last_played": "2026-09-12 20:05:36Z",
+    "last_played_vienna": "2026-09-12 22:05:36 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Die Toten Hosen",
+    "title": "Walkampf",
+    "type": "Station-Specific",
+    "play_count_total": 16,
+    "play_count_30d": 15,
+    "last_played": "2026-09-12 20:15:06Z",
+    "last_played_vienna": "2026-09-12 22:15:06 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
