@@ -125,7 +125,7 @@
     "title": "More Than A Friend",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-08-14 02:43:48Z",
     "last_played_vienna": "2026-08-14 04:43:48 MESZ",
     "source": "Scraper Logs (TF Play History)",
@@ -385,17 +385,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Police",
-    "title": "Walking On The Moon (Remastered 2003)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-10 08:32:21Z",
-    "last_played_vienna": "2026-09-10 10:32:21 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Gotan Project",
     "title": "Santa María (del Buen Ayre)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-12 18:38:36Z",
     "last_played_vienna": "2026-09-12 20:38:36 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "P!nk",
+    "title": "Raise Your Glass",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-12 18:44:07Z",
+    "last_played_vienna": "2026-09-12 20:44:07 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
