@@ -121,17 +121,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pussy Riot",
-    "title": "Straight Outta Vagina (feat. Desi Mo & Leikeli47)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-08-14 01:49:48Z",
-    "last_played_vienna": "2026-08-14 03:49:48 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "TilaR",
     "title": "More Than A Friend",
     "type": "Station-Specific",
@@ -326,17 +315,6 @@
     "play_count_30d": 1,
     "last_played": "2026-09-09 19:57:14Z",
     "last_played_vienna": "2026-09-09 21:57:14 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Love and Rockets",
-    "title": "Haunted When the Minutes Drag",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 20:20:13Z",
-    "last_played_vienna": "2026-09-09 22:20:13 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-09-12 17:33:07Z",
     "last_played_vienna": "2026-09-12 19:33:07 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "P!nk",
+    "title": "Family Portrait",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-12 18:32:36Z",
+    "last_played_vienna": "2026-09-12 20:32:36 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bush",
+    "title": "Everything Zen (Remastered)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-12 18:38:36Z",
+    "last_played_vienna": "2026-09-12 20:38:36 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
