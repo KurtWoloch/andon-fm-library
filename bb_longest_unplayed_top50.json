@@ -132,18 +132,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tove Lo",
-    "title": "No One Dies From Love",
-    "type": "Shared",
-    "play_count_total": 8,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 14:41:49Z",
-    "last_played_vienna": "2026-05-16 16:41:49 MESZ",
-    "file_id": "",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Joerg Reiter",
     "title": "Air Surfing  (Remastered)",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-24 17:59:27Z",
     "last_played_vienna": "2026-05-24 19:59:27 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Weeknd",
+    "title": "Open Hearts",
+    "type": "Station-Specific",
+    "play_count_total": 16,
+    "play_count_30d": 0,
+    "last_played": "2026-05-24 20:33:57Z",
+    "last_played_vienna": "2026-05-24 22:33:57 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
