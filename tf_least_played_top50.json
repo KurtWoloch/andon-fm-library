@@ -66,17 +66,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Lofi Fruits Music",
-    "title": "Plastic Love",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-08-02 05:11:09Z",
-    "last_played_vienna": "2026-08-02 07:11:09 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Studio Group",
     "title": "As - Sound-A-Like As Made Famous By: George Michael / Mary J. Blige",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-12 18:57:37Z",
     "last_played_vienna": "2026-09-12 20:57:37 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "P!nk",
+    "title": "TRUSTFALL",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-12 19:13:36Z",
+    "last_played_vienna": "2026-09-12 21:13:36 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
