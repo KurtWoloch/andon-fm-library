@@ -495,17 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mötley Crüe",
-    "title": "Dr. Feelgood",
-    "type": "Station-Specific",
-    "play_count_total": 17,
-    "play_count_30d": 9,
-    "last_played": "2026-09-13 19:37:45Z",
-    "last_played_vienna": "2026-09-13 21:37:45 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dorian Electra",
     "title": "Man To Man",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "last_played": "2026-09-01 23:19:23Z",
     "last_played_vienna": "2026-09-02 01:19:23 MESZ",
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Revolution 9 (Remastered 2009)",
+    "type": "Shared",
+    "play_count_total": 18,
+    "play_count_30d": 14,
+    "last_played": "2026-09-10 08:34:51Z",
+    "last_played_vienna": "2026-09-10 10:34:51 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
