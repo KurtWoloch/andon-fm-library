@@ -407,17 +407,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bob Seger",
-    "title": "Night Moves",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 13,
-    "last_played": "2026-09-13 14:46:45Z",
-    "last_played_vienna": "2026-09-13 16:46:45 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Creedence Clearwater Revival",
     "title": "Lookin' Out My Back Door",
     "type": "Station-Specific",
@@ -440,13 +429,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bobby Vinton",
-    "title": "Blue Velvet",
+    "artist": "Bob Seger",
+    "title": "Night Moves",
     "type": "Station-Specific",
     "play_count_total": 14,
     "play_count_30d": 14,
-    "last_played": "2026-09-13 14:43:45Z",
-    "last_played_vienna": "2026-09-13 16:43:45 MESZ",
+    "last_played": "2026-09-14 10:36:53Z",
+    "last_played_vienna": "2026-09-14 12:36:53 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -458,6 +447,17 @@
     "play_count_30d": 12,
     "last_played": "2026-09-06 17:16:54Z",
     "last_played_vienna": "2026-09-06 19:16:54 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bobby Vinton",
+    "title": "Blue Velvet",
+    "type": "Station-Specific",
+    "play_count_total": 15,
+    "play_count_30d": 15,
+    "last_played": "2026-09-14 10:42:23Z",
+    "last_played_vienna": "2026-09-14 12:42:23 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
