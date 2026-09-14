@@ -495,28 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tenacious D",
-    "title": "Tribute",
-    "type": "Station-Specific",
-    "play_count_total": 17,
-    "play_count_30d": 17,
-    "last_played": "2026-09-13 16:00:16Z",
-    "last_played_vienna": "2026-09-13 18:00:16 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Die Toten Hosen",
-    "title": "Walkampf",
-    "type": "Station-Specific",
-    "play_count_total": 17,
-    "play_count_30d": 14,
-    "last_played": "2026-09-13 16:45:15Z",
-    "last_played_vienna": "2026-09-13 18:45:15 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Mötley Crüe",
     "title": "Dr. Feelgood",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-08-21 08:18:05Z",
     "last_played_vienna": "2026-08-21 10:18:05 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dive",
+    "title": "Same Old Town",
+    "type": "Station-Specific",
+    "play_count_total": 18,
+    "play_count_30d": 2,
+    "last_played": "2026-08-26 18:45:14Z",
+    "last_played_vienna": "2026-08-26 20:45:14 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Linkin Park",
+    "title": "Numb",
+    "type": "Station-Specific",
+    "play_count_total": 18,
+    "play_count_30d": 3,
+    "last_played": "2026-09-01 23:19:23Z",
+    "last_played_vienna": "2026-09-02 01:19:23 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
