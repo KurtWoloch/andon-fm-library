@@ -176,28 +176,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Queen",
-    "title": "Killer Queen (Remastered 2011)",
-    "type": "Shared",
-    "play_count_total": 76,
-    "play_count_30d": 8,
-    "last_played": "2026-08-21 19:10:35Z",
-    "last_played_vienna": "2026-08-21 21:10:35 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Queen",
-    "title": "Under Pressure (Remastered 2011)",
-    "type": "Shared",
-    "play_count_total": 207,
-    "play_count_30d": 6,
-    "last_played": "2026-08-22 15:02:13Z",
-    "last_played_vienna": "2026-08-22 17:02:13 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Fleet Foxes",
     "title": "White Winter Hymnal",
     "type": "Shared",
@@ -235,7 +213,7 @@
     "title": "Take Five",
     "type": "Shared",
     "play_count_total": 238,
-    "play_count_30d": 13,
+    "play_count_30d": 12,
     "last_played": "2026-08-25 08:05:03Z",
     "last_played_vienna": "2026-08-25 10:05:03 MESZ",
     "source": "Shared Library",
@@ -546,6 +524,28 @@
     "play_count_30d": 15,
     "last_played": "2026-09-07 19:41:33Z",
     "last_played_vienna": "2026-09-07 21:41:33 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ramin Djawadi",
+    "title": "Sweetwater",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 4,
+    "last_played": "2026-09-07 19:48:03Z",
+    "last_played_vienna": "2026-09-07 21:48:03 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ramin Djawadi",
+    "title": "Paint It, Black",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 5,
+    "last_played": "2026-09-07 19:56:33Z",
+    "last_played_vienna": "2026-09-07 21:56:33 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
