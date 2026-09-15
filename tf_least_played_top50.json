@@ -330,17 +330,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Al Di Meola",
-    "title": "Libertango",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-10 16:53:21Z",
-    "last_played_vienna": "2026-09-10 18:53:21 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Iron Mountain",
     "title": "Enthralldom",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-15 04:01:25Z",
     "last_played_vienna": "2026-09-15 06:01:25 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Chris Isaak",
+    "title": "Wicked Game  (Remastered Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-15 04:24:25Z",
+    "last_played_vienna": "2026-09-15 06:24:25 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

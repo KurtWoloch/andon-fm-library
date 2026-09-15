@@ -440,17 +440,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bob Seger",
-    "title": "Night Moves",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 14,
-    "last_played": "2026-09-14 10:36:53Z",
-    "last_played_vienna": "2026-09-14 12:36:53 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pornophonique",
     "title": "Son Of A Preacher Man",
     "type": "Station-Specific",
@@ -458,6 +447,17 @@
     "play_count_30d": 12,
     "last_played": "2026-09-06 17:16:54Z",
     "last_played_vienna": "2026-09-06 19:16:54 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bob Seger",
+    "title": "Night Moves",
+    "type": "Station-Specific",
+    "play_count_total": 15,
+    "play_count_30d": 15,
+    "last_played": "2026-09-15 12:03:56Z",
+    "last_played_vienna": "2026-09-15 14:03:56 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
