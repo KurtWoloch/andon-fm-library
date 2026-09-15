@@ -88,17 +88,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Glenn Frey",
-    "title": "Part Of Me, Part Of You (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-15 08:26:56Z",
-    "last_played_vienna": "2026-09-15 10:26:56 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Benetti House Bar",
     "title": "The Constellation",
     "type": "Station-Specific",
@@ -128,6 +117,17 @@
     "play_count_30d": 2,
     "last_played": "2026-09-06 17:06:24Z",
     "last_played_vienna": "2026-09-06 19:06:24 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Glenn Frey",
+    "title": "Part Of Me, Part Of You (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-09-15 18:29:57Z",
+    "last_played_vienna": "2026-09-15 20:29:57 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
