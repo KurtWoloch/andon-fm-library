@@ -110,17 +110,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pet Shop Boys",
-    "title": "Se a vida é (that’s the way life is)  (2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-09-06 17:06:24Z",
-    "last_played_vienna": "2026-09-06 19:06:24 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Glenn Frey",
     "title": "Part Of Me, Part Of You (Album Version)",
     "type": "Station-Specific",
@@ -150,6 +139,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-21 06:15:05Z",
     "last_played_vienna": "2026-08-21 08:15:05 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "title": "Se a vida é (that’s the way life is)  (2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-09-16 07:29:34Z",
+    "last_played_vienna": "2026-09-16 09:29:34 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -286,17 +286,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Joe Cocker",
-    "title": "With A Little Help From My Friends",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 8,
-    "last_played": "2026-09-12 17:36:06Z",
-    "last_played_vienna": "2026-09-12 19:36:06 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bon Jovi",
     "title": "You Give Love A Bad Name",
     "type": "Shared",
@@ -326,6 +315,17 @@
     "play_count_30d": 9,
     "last_played": "2026-09-03 05:42:30Z",
     "last_played_vienna": "2026-09-03 07:42:30 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "With A Little Help From My Friends",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 9,
+    "last_played": "2026-09-16 10:29:04Z",
+    "last_played_vienna": "2026-09-16 12:29:04 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -451,17 +451,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bob Seger",
-    "title": "Night Moves",
-    "type": "Station-Specific",
-    "play_count_total": 15,
-    "play_count_30d": 15,
-    "last_played": "2026-09-15 12:03:56Z",
-    "last_played_vienna": "2026-09-15 14:03:56 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "TV Girl",
     "title": "It Almost Worked",
     "type": "Station-Specific",
@@ -484,6 +473,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Bob Seger",
+    "title": "Night Moves",
+    "type": "Station-Specific",
+    "play_count_total": 16,
+    "play_count_30d": 16,
+    "last_played": "2026-09-16 08:51:04Z",
+    "last_played_vienna": "2026-09-16 10:51:04 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "TV Girl",
     "title": "Not Allowed",
     "type": "Station-Specific",
@@ -491,17 +491,6 @@
     "play_count_30d": 2,
     "last_played": "2026-09-05 00:06:42Z",
     "last_played_vienna": "2026-09-05 02:06:42 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bobby Vinton",
-    "title": "Blue Velvet",
-    "type": "Station-Specific",
-    "play_count_total": 17,
-    "play_count_30d": 17,
-    "last_played": "2026-09-15 09:05:26Z",
-    "last_played_vienna": "2026-09-15 11:05:26 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -547,6 +536,17 @@
     "last_played": "2026-09-01 23:19:23Z",
     "last_played_vienna": "2026-09-02 01:19:23 MESZ",
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Revolution 9 (Remastered 2009)",
+    "type": "Shared",
+    "play_count_total": 18,
+    "play_count_30d": 14,
+    "last_played": "2026-09-10 08:34:51Z",
+    "last_played_vienna": "2026-09-10 10:34:51 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
