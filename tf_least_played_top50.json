@@ -341,17 +341,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Rodrigo y Gabriela",
-    "title": "Libertango",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-11 11:45:01Z",
-    "last_played_vienna": "2026-09-11 13:45:01 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "P!nk",
     "title": "Family Portrait",
     "type": "Station-Specific",
@@ -473,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Chris Isaak",
-    "title": "Wicked Game  (Remastered Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-15 04:24:25Z",
-    "last_played_vienna": "2026-09-15 06:24:25 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Rick Springfield",
     "title": "Jessie's Girl",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-09-15 08:10:26Z",
     "last_played_vienna": "2026-09-15 10:10:26 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Skindred",
+    "title": "You Got This",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-15 08:59:56Z",
+    "last_played_vienna": "2026-09-15 10:59:56 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gorillaz",
+    "title": "Rock the House",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-15 10:08:26Z",
+    "last_played_vienna": "2026-09-15 12:08:26 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
