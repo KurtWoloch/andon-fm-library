@@ -228,18 +228,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Chris De Burgh",
-    "title": "The Getaway",
-    "type": "Shared",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 21:46:20Z",
-    "last_played_vienna": "2026-05-16 23:46:20 MESZ",
-    "file_id": "",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Guns N' Roses",
     "title": "Paradise City",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-24 20:51:56Z",
     "last_played_vienna": "2026-05-24 22:51:56 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "S3rl",
+    "title": "Jaded AF  (DJ Edit)",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 0,
+    "last_played": "2026-05-25 01:32:57Z",
+    "last_played_vienna": "2026-05-25 03:32:57 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
