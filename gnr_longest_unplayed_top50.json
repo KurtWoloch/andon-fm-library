@@ -132,17 +132,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dua Lipa",
-    "title": "Future Nostalgia",
-    "type": "Shared",
-    "play_count_total": 24,
-    "play_count_30d": 0,
-    "last_played": "2026-07-18 07:59:04Z",
-    "last_played_vienna": "2026-07-18 09:59:04 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ghostwriter",
     "title": "heart on my sleeve",
     "type": "Shared",
@@ -231,17 +220,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Sabrina Carpenter",
-    "title": "Taste",
-    "type": "Shared",
-    "play_count_total": 26,
-    "play_count_30d": 1,
-    "last_played": "2026-08-26 03:29:41Z",
-    "last_played_vienna": "2026-08-26 05:29:41 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Hania Rani",
     "title": "Glass",
     "type": "Station-Specific",
@@ -260,17 +238,6 @@
     "play_count_30d": 9,
     "last_played": "2026-08-26 13:57:14Z",
     "last_played_vienna": "2026-08-26 15:57:14 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Tate McRae",
-    "title": "greedy",
-    "type": "Shared",
-    "play_count_total": 16,
-    "play_count_30d": 1,
-    "last_played": "2026-08-26 23:34:46Z",
-    "last_played_vienna": "2026-08-27 01:34:46 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
@@ -330,17 +297,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Shaboozey",
-    "title": "A Bar Song (Tipsy)",
-    "type": "Shared",
-    "play_count_total": 36,
-    "play_count_30d": 2,
-    "last_played": "2026-08-27 13:02:19Z",
-    "last_played_vienna": "2026-08-27 15:02:19 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ed Sheeran",
     "title": "Azizam",
     "type": "Shared",
@@ -385,46 +341,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dua Lipa",
-    "title": "Training Season",
-    "type": "Shared",
-    "play_count_total": 118,
-    "play_count_30d": 2,
-    "last_played": "2026-08-27 20:09:20Z",
-    "last_played_vienna": "2026-08-27 22:09:20 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Stevie Wonder",
     "title": "Signed, Sealed, Delivered (I'm Yours)",
     "type": "Station-Specific",
     "play_count_total": 24,
-    "play_count_30d": 14,
+    "play_count_30d": 13,
     "last_played": "2026-08-29 02:22:30Z",
     "last_played_vienna": "2026-08-29 04:22:30 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "John Legend",
-    "title": "Love Me Now",
-    "type": "Station-Specific",
-    "play_count_total": 17,
-    "play_count_30d": 13,
-    "last_played": "2026-08-29 03:07:01Z",
-    "last_played_vienna": "2026-08-29 05:07:01 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "John Legend",
-    "title": "Nervous",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 8,
-    "last_played": "2026-08-29 03:47:32Z",
-    "last_played_vienna": "2026-08-29 05:47:32 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -546,6 +469,83 @@
     "play_count_30d": 9,
     "last_played": "2026-09-07 23:58:04Z",
     "last_played_vienna": "2026-09-08 01:58:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lang Lang",
+    "title": "Debussy: Clair de lune, CD 82 No. 3",
+    "type": "Station-Specific",
+    "play_count_total": 98,
+    "play_count_30d": 18,
+    "last_played": "2026-09-07 23:59:34Z",
+    "last_played_vienna": "2026-09-08 01:59:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Giles Holland",
+    "title": "Largo (Winter - The Four Seasons Op 8 No 4)",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 4,
+    "last_played": "2026-09-08 02:25:34Z",
+    "last_played_vienna": "2026-09-08 04:25:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Vanessa-mae",
+    "title": "Storm",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 4,
+    "last_played": "2026-09-08 02:29:04Z",
+    "last_played_vienna": "2026-09-08 04:29:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Vanessa-mae",
+    "title": "Aurora",
+    "type": "Station-Specific",
+    "play_count_total": 173,
+    "play_count_30d": 169,
+    "last_played": "2026-09-08 02:37:34Z",
+    "last_played_vienna": "2026-09-08 04:37:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Vanessa-mae",
+    "title": "Bach Street Prelude",
+    "type": "Station-Specific",
+    "play_count_total": 16,
+    "play_count_30d": 10,
+    "last_played": "2026-09-08 02:48:34Z",
+    "last_played_vienna": "2026-09-08 04:48:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Vanessa-mae",
+    "title": "Toccata and Fugue in D Minor",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 2,
+    "last_played": "2026-09-08 02:58:04Z",
+    "last_played_vienna": "2026-09-08 04:58:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Boris Sass",
+    "title": "The Devil's Trill Sonata",
+    "type": "Station-Specific",
+    "play_count_total": 16,
+    "play_count_30d": 10,
+    "last_played": "2026-09-08 03:21:35Z",
+    "last_played_vienna": "2026-09-08 05:21:35 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
