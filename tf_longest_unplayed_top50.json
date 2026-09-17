@@ -418,17 +418,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "France Clidat",
-    "title": "Pièces froides No.1 \"Trois airs à faire fuir\"",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "last_played": "2026-08-15 06:30:26Z",
-    "last_played_vienna": "2026-08-15 08:30:26 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "OhtoPlaya",
     "title": "SPACEDOG (OhtoPlaya Remix)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-08-19 06:39:17Z",
     "last_played_vienna": "2026-08-19 08:39:17 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Federico Aubele",
+    "title": "Postales",
+    "type": "Station-Specific",
+    "play_count_total": 75,
+    "play_count_30d": 1,
+    "last_played": "2026-08-19 13:59:18Z",
+    "last_played_vienna": "2026-08-19 15:59:18 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
