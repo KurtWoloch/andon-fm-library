@@ -510,7 +510,7 @@
     "title": "Her Yerde Sen (Akustik)",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-08-19 02:18:16Z",
     "last_played_vienna": "2026-08-19 04:18:16 MESZ",
     "source": "Scraper Logs (TF Play History)",
@@ -521,7 +521,7 @@
     "title": "Always with Me",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-08-19 02:21:46Z",
     "last_played_vienna": "2026-08-19 04:21:46 MESZ",
     "source": "Scraper Logs (TF Play History)",
@@ -539,13 +539,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "Federico Aubele",
-    "title": "Postales",
+    "artist": "Erykah Badu",
+    "title": "Tyrone (Live Version)",
     "type": "Station-Specific",
-    "play_count_total": 75,
+    "play_count_total": 4,
     "play_count_30d": 1,
-    "last_played": "2026-08-19 13:59:18Z",
-    "last_played_vienna": "2026-08-19 15:59:18 MESZ",
+    "last_played": "2026-08-19 19:59:19Z",
+    "last_played_vienna": "2026-08-19 21:59:19 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
