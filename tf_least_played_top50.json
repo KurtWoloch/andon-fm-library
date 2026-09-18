@@ -298,17 +298,6 @@
   },
   {
     "artist": "P!nk",
-    "title": "So What",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-10 21:34:51Z",
-    "last_played_vienna": "2026-09-10 23:34:51 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "P!nk",
     "title": "Please Don't Leave Me",
     "type": "Station-Specific",
     "play_count_total": 1,
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-15 12:18:57Z",
     "last_played_vienna": "2026-09-15 14:18:57 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gordon Lightfoot",
+    "title": "Wherefore and Why (LP Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-15 12:25:56Z",
+    "last_played_vienna": "2026-09-15 14:25:56 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
