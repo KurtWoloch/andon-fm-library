@@ -480,18 +480,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "James Last",
-    "title": "Nimm uns mit, Kapitän / Einmal noch nach Bombay / Der Junge an der Reling (Medley)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 18:15:11Z",
-    "last_played_vienna": "2026-06-05 20:15:11 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "System Of A Down",
     "title": "Johnny",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 22:47:11Z",
     "last_played_vienna": "2026-06-06 00:47:11 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kollegah",
+    "title": "Sommer",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 00:22:11Z",
+    "last_played_vienna": "2026-06-06 02:22:11 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
