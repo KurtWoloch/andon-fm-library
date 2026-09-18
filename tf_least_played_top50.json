@@ -418,17 +418,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Scorpions",
-    "title": "Holiday (Remastered 2015)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-15 02:22:55Z",
-    "last_played_vienna": "2026-09-15 04:22:55 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Deftones",
     "title": "Change (In the House of Flies)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-15 10:08:26Z",
     "last_played_vienna": "2026-09-15 12:08:26 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Meat Beat Manifesto",
+    "title": "Prime Audio Soup",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-15 12:18:57Z",
+    "last_played_vienna": "2026-09-15 14:18:57 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
