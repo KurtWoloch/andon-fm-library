@@ -308,17 +308,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Wham!",
-    "title": "Last Christmas (Single Version)",
-    "type": "Shared",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-08-13 13:14:13Z",
-    "last_played_vienna": "2026-08-13 15:14:13 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tate McRae",
     "title": "Miss possessive",
     "type": "Shared",
@@ -484,17 +473,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Creedence Clearwater Revival",
-    "title": "Bad Moon Rising (Remastered 1985)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "last_played": "2026-08-18 05:20:32Z",
-    "last_played_vienna": "2026-08-18 07:20:32 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Martin Ditcham",
     "title": "Maureen",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 0,
     "last_played": "2026-08-20 00:38:20Z",
     "last_played_vienna": "2026-08-20 02:38:20 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Joe Hisaishi",
+    "title": "Symphonic Suite “Princess Mononoke”2021 : V. Mononoke Hime (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 15,
+    "play_count_30d": 0,
+    "last_played": "2026-08-20 00:46:51Z",
+    "last_played_vienna": "2026-08-20 02:46:51 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dorian Electra",
+    "title": "Bizarre Love Triangle",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-08-20 13:35:56Z",
+    "last_played_vienna": "2026-08-20 15:35:56 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
