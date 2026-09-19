@@ -432,18 +432,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Drake",
-    "title": "Whisper My Name",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-04 23:00:08Z",
-    "last_played_vienna": "2026-06-05 01:00:08 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Gebirgsmusikkorps Garmisch-Partenkirchen",
     "title": "Badner Lied",
     "type": "Station-Specific",
@@ -451,42 +439,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 17:34:41Z",
     "last_played_vienna": "2026-06-05 19:34:41 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Halestorm",
-    "title": "I Miss the Misery",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 17:41:41Z",
-    "last_played_vienna": "2026-06-05 19:41:41 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Bibi und Tina",
-    "title": "No Risk, no Fun (feat. Lina Larissa Strahl, Emilio Moutaoukkil)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 17:59:41Z",
-    "last_played_vienna": "2026-06-05 19:59:41 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "System Of A Down",
-    "title": "Johnny",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 18:28:11Z",
-    "last_played_vienna": "2026-06-05 20:28:11 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
@@ -523,18 +475,6 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 18:49:12Z",
     "last_played_vienna": "2026-06-05 20:49:12 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Kraftklub",
-    "title": "Unsterblich sein (*)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-05 19:03:41Z",
-    "last_played_vienna": "2026-06-05 21:03:41 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
@@ -595,6 +535,66 @@
     "play_count_30d": 0,
     "last_played": "2026-06-06 00:22:11Z",
     "last_played_vienna": "2026-06-06 02:22:11 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "K.I.Z",
+    "title": "Ich bin Adolf Hitler",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 01:38:42Z",
+    "last_played_vienna": "2026-06-06 03:38:42 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Grillmaster Flash",
+    "title": "Der Hund von Baskerville (feat. Bela B)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 07:24:13Z",
+    "last_played_vienna": "2026-06-06 09:24:13 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Kelly Family",
+    "title": "An Angel",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 11:00:13Z",
+    "last_played_vienna": "2026-06-06 13:00:13 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Souly",
+    "title": "Chrysanthemen",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 12:25:13Z",
+    "last_played_vienna": "2026-06-06 14:25:13 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gianni Suave",
+    "title": "Dilemma/Estrel",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 13:01:43Z",
+    "last_played_vienna": "2026-06-06 15:01:43 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0

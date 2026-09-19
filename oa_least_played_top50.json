@@ -308,17 +308,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Confetti",
-    "title": "People Suck [Explicit]",
-    "type": "Shared",
-    "play_count_total": 10,
-    "play_count_30d": 7,
-    "last_played": "2026-09-18 00:39:15Z",
-    "last_played_vienna": "2026-09-18 02:39:15 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pet Shop Boys",
     "title": "It's a Sin  (2018 Remaster)",
     "type": "Station-Specific",
@@ -360,6 +349,17 @@
     "last_played": "2026-09-10 08:54:51Z",
     "last_played_vienna": "2026-09-10 10:54:51 MESZ",
     "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 11,
+    "play_count_30d": 8,
+    "last_played": "2026-09-19 05:52:02Z",
+    "last_played_vienna": "2026-09-19 07:52:02 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   },
   {
