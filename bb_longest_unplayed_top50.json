@@ -300,18 +300,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Chappell Roan",
-    "title": "Pink Pony Club",
-    "type": "Shared",
-    "play_count_total": 12,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 09:18:57Z",
-    "last_played_vienna": "2026-05-17 11:18:57 MESZ",
-    "file_id": "",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Megadeth",
     "title": "Tipping Point",
     "type": "Shared",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-25 01:57:57Z",
     "last_played_vienna": "2026-05-25 03:57:57 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Flying Lotus",
+    "title": "Do The Astral Plane",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 0,
+    "last_played": "2026-05-25 12:58:28Z",
+    "last_played_vienna": "2026-05-25 14:58:28 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
