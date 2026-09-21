@@ -484,17 +484,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Zeynep Bastık",
-    "title": "Her Yerde Sen (Akustik)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "last_played": "2026-08-19 02:18:16Z",
-    "last_played_vienna": "2026-08-19 04:18:16 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Erykah Badu",
     "title": "Tyrone (Live Version)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-08-20 13:58:56Z",
     "last_played_vienna": "2026-08-20 15:58:56 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Luca Di Sabatino",
+    "title": "Switched-on Wendy",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-08-20 15:31:26Z",
+    "last_played_vienna": "2026-08-20 17:31:26 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
