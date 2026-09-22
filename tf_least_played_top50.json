@@ -506,17 +506,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Rock appetizers",
-    "title": "Child in Time (Special Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-15 15:21:27Z",
-    "last_played_vienna": "2026-09-15 17:21:27 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dream Theater",
     "title": "Panic Attack (Album Version)",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-15 19:48:57Z",
     "last_played_vienna": "2026-09-15 21:48:57 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Buckcherry",
+    "title": "Crazy Bitch",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-15 19:59:27Z",
+    "last_played_vienna": "2026-09-15 21:59:27 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
