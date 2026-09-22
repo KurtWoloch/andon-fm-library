@@ -110,17 +110,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Capital of Gold and Glass",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-09-21 19:34:19Z",
-    "last_played_vienna": "2026-09-21 21:34:19 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Relaxing Piano Crew",
     "title": "At the Living Room Door",
     "type": "Station-Specific",
@@ -150,6 +139,17 @@
     "play_count_30d": 3,
     "last_played": "2026-09-16 07:29:34Z",
     "last_played_vienna": "2026-09-16 09:29:34 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "Capital of Gold and Glass",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-09-22 16:01:59Z",
+    "last_played_vienna": "2026-09-22 18:01:59 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -352,17 +352,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Frank Carter & The Rattlesnakes",
-    "title": "Kitty Sucker",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 3,
-    "last_played": "2026-09-05 23:34:19Z",
-    "last_played_vienna": "2026-09-06 01:34:19 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Dio",
     "title": "Holy Diver",
     "type": "Station-Specific",
@@ -393,6 +382,17 @@
     "last_played": "2026-09-20 02:39:08Z",
     "last_played_vienna": "2026-09-20 04:39:08 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Frank Carter & The Rattlesnakes",
+    "title": "Kitty Sucker",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 4,
+    "last_played": "2026-09-22 16:54:30Z",
+    "last_played_vienna": "2026-09-22 18:54:30 MESZ",
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
   {
