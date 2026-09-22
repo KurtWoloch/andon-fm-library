@@ -440,17 +440,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Joe Cocker",
-    "title": "With A Little Help From My Friends",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 13,
-    "last_played": "2026-09-21 10:19:47Z",
-    "last_played_vienna": "2026-09-21 12:19:47 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Creedence Clearwater Revival",
     "title": "Lookin' Out My Back Door",
     "type": "Station-Specific",
@@ -469,6 +458,17 @@
     "play_count_30d": 0,
     "last_played": "2026-08-21 07:02:35Z",
     "last_played_vienna": "2026-08-21 09:02:35 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Joe Cocker",
+    "title": "With A Little Help From My Friends",
+    "type": "Station-Specific",
+    "play_count_total": 14,
+    "play_count_30d": 14,
+    "last_played": "2026-09-22 07:29:29Z",
+    "last_played_vienna": "2026-09-22 09:29:29 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
