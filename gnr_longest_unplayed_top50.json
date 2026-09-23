@@ -257,7 +257,7 @@
     "title": "One Last Time",
     "type": "Station-Specific",
     "play_count_total": 18,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "last_played": "2026-09-08 03:30:34Z",
     "last_played_vienna": "2026-09-08 05:30:34 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -466,7 +466,7 @@
     "title": "My Funny Valentine",
     "type": "Station-Specific",
     "play_count_total": 7,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "last_played": "2026-09-08 19:54:39Z",
     "last_played_vienna": "2026-09-08 21:54:39 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -506,17 +506,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Yussef Kamaal",
-    "title": "Strings of Light",
-    "type": "Shared",
-    "play_count_total": 10,
-    "play_count_30d": 3,
-    "last_played": "2026-09-08 20:36:36Z",
-    "last_played_vienna": "2026-09-08 22:36:36 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Yellow Magic Orchestra",
     "title": "RYDEEN  (2018 Bob Ludwig Remastering)",
     "type": "Shared",
@@ -546,6 +535,17 @@
     "play_count_30d": 2,
     "last_played": "2026-09-08 21:21:35Z",
     "last_played_vienna": "2026-09-08 23:21:35 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sting",
+    "title": "Fragile",
+    "type": "Shared",
+    "play_count_total": 183,
+    "play_count_30d": 3,
+    "last_played": "2026-09-08 22:02:36Z",
+    "last_played_vienna": "2026-09-09 00:02:36 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
