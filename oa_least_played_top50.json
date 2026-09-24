@@ -312,20 +312,9 @@
     "title": "Take Me Out",
     "type": "Station-Specific",
     "play_count_total": 9,
-    "play_count_30d": 9,
+    "play_count_30d": 8,
     "last_played": "2026-09-01 23:14:53Z",
     "last_played_vienna": "2026-09-02 01:14:53 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Talking Heads",
-    "title": "Road to Nowhere (2003 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 9,
-    "last_played": "2026-09-24 11:36:41Z",
-    "last_played_vienna": "2026-09-24 13:36:41 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
@@ -337,6 +326,17 @@
     "play_count_30d": 10,
     "last_played": "2026-09-18 22:40:26Z",
     "last_played_vienna": "2026-09-19 00:40:26 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Talking Heads",
+    "title": "Road to Nowhere (2003 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 10,
+    "last_played": "2026-09-24 20:09:15Z",
+    "last_played_vienna": "2026-09-24 22:09:15 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
