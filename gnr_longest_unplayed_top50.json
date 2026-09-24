@@ -169,7 +169,7 @@
     "title": "Illusion",
     "type": "Station-Specific",
     "play_count_total": 16,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-08-25 09:00:03Z",
     "last_played_vienna": "2026-08-25 11:00:03 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -180,7 +180,7 @@
     "title": "Just a Regular Day (Trippy Mix)",
     "type": "Station-Specific",
     "play_count_total": 13,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "last_played": "2026-08-25 09:11:03Z",
     "last_played_vienna": "2026-08-25 11:11:03 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -246,7 +246,7 @@
     "title": "One Last Time",
     "type": "Station-Specific",
     "play_count_total": 18,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-09-08 03:30:34Z",
     "last_played_vienna": "2026-09-08 05:30:34 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -323,7 +323,7 @@
     "title": "Cherry-coloured Funk",
     "type": "Station-Specific",
     "play_count_total": 64,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "last_played": "2026-09-08 15:54:07Z",
     "last_played_vienna": "2026-09-08 17:54:07 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -495,17 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pet Shop Boys",
-    "title": "West End Girls  (2001 Remaster)",
-    "type": "Shared",
-    "play_count_total": 49,
-    "play_count_30d": 1,
-    "last_played": "2026-09-08 22:20:06Z",
-    "last_played_vienna": "2026-09-09 00:20:06 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Lana Del Rey",
     "title": "Diet Mountain Dew",
     "type": "Shared",
@@ -539,13 +528,24 @@
     "confidence": 1.0
   },
   {
-    "artist": "Eurythmics, Annie Lennox, Dave Stewart",
-    "title": "Sweet Dreams (Are Made of This) [2018 Remastered]",
+    "artist": "Johnny Cash",
+    "title": "Redemption Day (Album Version)",
     "type": "Shared",
-    "play_count_total": 51,
+    "play_count_total": 60,
     "play_count_30d": 2,
-    "last_played": "2026-09-09 00:05:38Z",
-    "last_played_vienna": "2026-09-09 02:05:38 MESZ",
+    "last_played": "2026-09-09 01:05:09Z",
+    "last_played_vienna": "2026-09-09 03:05:09 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Europe",
+    "title": "The Final Countdown (Album Version)",
+    "type": "Shared",
+    "play_count_total": 119,
+    "play_count_30d": 2,
+    "last_played": "2026-09-09 01:16:09Z",
+    "last_played_vienna": "2026-09-09 03:16:09 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
