@@ -11,6 +11,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Bebel Gilberto",
+    "title": "So Nice (Summer Samba)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-23 20:20:34Z",
+    "last_played_vienna": "2026-09-23 22:20:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -535,17 +546,6 @@
     "play_count_30d": 6,
     "last_played": "2026-09-15 20:57:57Z",
     "last_played_vienna": "2026-09-15 22:57:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cyndi Lauper",
-    "title": "Time After Time",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 7,
-    "last_played": "2026-09-15 21:41:27Z",
-    "last_played_vienna": "2026-09-15 23:41:27 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
