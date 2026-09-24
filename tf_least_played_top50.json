@@ -440,17 +440,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Rick Springfield",
-    "title": "Jessie's Girl",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-15 04:35:25Z",
-    "last_played_vienna": "2026-09-15 06:35:25 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Fountains Of Wayne",
     "title": "Stacy's Mom",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-15 20:08:59Z",
     "last_played_vienna": "2026-09-15 22:08:59 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Stardust",
+    "title": "Music Sounds Better With You",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-15 20:13:57Z",
+    "last_played_vienna": "2026-09-15 22:13:57 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

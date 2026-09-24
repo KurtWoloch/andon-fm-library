@@ -154,17 +154,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Dave Brubeck Quartet",
-    "title": "Take Five",
-    "type": "Shared",
-    "play_count_total": 238,
-    "play_count_30d": 0,
-    "last_played": "2026-08-25 08:05:03Z",
-    "last_played_vienna": "2026-08-25 10:05:03 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Illusion",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 2,
     "last_played": "2026-09-09 01:16:09Z",
     "last_played_vienna": "2026-09-09 03:16:09 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "title": "Alright",
+    "type": "Shared",
+    "play_count_total": 142,
+    "play_count_30d": 2,
+    "last_played": "2026-09-09 01:39:09Z",
+    "last_played_vienna": "2026-09-09 03:39:09 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
