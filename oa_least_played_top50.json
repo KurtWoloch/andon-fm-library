@@ -462,17 +462,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Joe Cocker",
-    "title": "With A Little Help From My Friends",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 14,
-    "last_played": "2026-09-22 07:29:29Z",
-    "last_played_vienna": "2026-09-22 09:29:29 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pornophonique",
     "title": "Son Of A Preacher Man",
     "type": "Station-Specific",
@@ -484,11 +473,22 @@
     "confidence": 1.0
   },
   {
+    "artist": "Joe Cocker",
+    "title": "With A Little Help From My Friends",
+    "type": "Station-Specific",
+    "play_count_total": 15,
+    "play_count_30d": 15,
+    "last_played": "2026-09-24 07:25:41Z",
+    "last_played_vienna": "2026-09-24 09:25:41 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "TV Girl",
     "title": "It Almost Worked",
     "type": "Station-Specific",
     "play_count_total": 16,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "last_played": "2026-08-30 10:49:13Z",
     "last_played_vienna": "2026-08-30 12:49:13 MESZ",
     "source": "Scraper Logs (OA Play History)",
