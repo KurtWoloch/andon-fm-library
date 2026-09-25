@@ -88,17 +88,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dave Brubeck",
-    "title": "Take Five",
-    "type": "Station-Specific",
-    "play_count_total": 29,
-    "play_count_30d": 0,
-    "last_played": "2026-06-04 14:38:37Z",
-    "last_played_vienna": "2026-06-04 16:38:37 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pete Seeger",
     "title": "Solidarity Forever",
     "type": "Shared",
@@ -246,7 +235,7 @@
     "title": "Two Thousand and Seventeen",
     "type": "Station-Specific",
     "play_count_total": 88,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-09-08 05:12:34Z",
     "last_played_vienna": "2026-09-08 07:12:34 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -312,7 +301,7 @@
     "title": "Cherry-coloured Funk",
     "type": "Station-Specific",
     "play_count_total": 64,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "last_played": "2026-09-08 15:54:07Z",
     "last_played_vienna": "2026-09-08 17:54:07 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -455,7 +444,7 @@
     "title": "Fast Car  (2015 Remaster)",
     "type": "Shared",
     "play_count_total": 117,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "last_played": "2026-09-08 21:10:36Z",
     "last_played_vienna": "2026-09-08 23:10:36 MESZ",
     "source": "Shared Library",
@@ -546,6 +535,17 @@
     "play_count_30d": 2,
     "last_played": "2026-09-09 01:39:09Z",
     "last_played_vienna": "2026-09-09 03:39:09 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jimmy Cliff",
+    "title": "I Can See Clearly Now (Album Version)",
+    "type": "Shared",
+    "play_count_total": 50,
+    "play_count_30d": 2,
+    "last_played": "2026-09-09 01:50:40Z",
+    "last_played_vienna": "2026-09-09 03:50:40 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
