@@ -430,17 +430,6 @@
   },
   {
     "artist": "Tom Konkle",
-    "title": "Life Without The Living",
-    "type": "Station-Specific",
-    "play_count_total": 39,
-    "play_count_30d": 1,
-    "last_played": "2026-08-28 11:01:24Z",
-    "last_played_vienna": "2026-08-28 13:01:24 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Tom Konkle",
     "title": "The Sun Ain't Gonna Shine Anymore (Synthpop Cover)",
     "type": "Station-Specific",
     "play_count_total": 38,
@@ -546,6 +535,17 @@
     "play_count_30d": 2,
     "last_played": "2026-09-02 07:44:52Z",
     "last_played_vienna": "2026-09-02 09:44:52 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "Colorful Array",
+    "type": "Station-Specific",
+    "play_count_total": 50,
+    "play_count_30d": 4,
+    "last_played": "2026-09-03 18:22:32Z",
+    "last_played_vienna": "2026-09-03 20:22:32 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
