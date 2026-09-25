@@ -429,17 +429,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tom Konkle",
-    "title": "The Sun Ain't Gonna Shine Anymore (Synthpop Cover)",
-    "type": "Station-Specific",
-    "play_count_total": 38,
-    "play_count_30d": 1,
-    "last_played": "2026-08-28 20:59:56Z",
-    "last_played_vienna": "2026-08-28 22:59:56 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "TV Girl",
     "title": "It Almost Worked",
     "type": "Station-Specific",
@@ -528,17 +517,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Talk Talk",
-    "title": "Such a Shame  (1997 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 121,
-    "play_count_30d": 2,
-    "last_played": "2026-09-02 07:44:52Z",
-    "last_played_vienna": "2026-09-02 09:44:52 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Neuro-sama",
     "title": "Colorful Array",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 4,
     "last_played": "2026-09-03 18:22:32Z",
     "last_played_vienna": "2026-09-03 20:22:32 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Deftones",
+    "title": "Be Quiet and Drive (Far Away)",
+    "type": "Station-Specific",
+    "play_count_total": 82,
+    "play_count_30d": 3,
+    "last_played": "2026-09-03 18:33:32Z",
+    "last_played_vienna": "2026-09-03 20:33:32 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "TV Girl",
+    "title": "Not Allowed",
+    "type": "Station-Specific",
+    "play_count_total": 17,
+    "play_count_30d": 2,
+    "last_played": "2026-09-05 00:06:42Z",
+    "last_played_vienna": "2026-09-05 02:06:42 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }

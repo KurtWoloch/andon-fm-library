@@ -33,17 +33,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Stan Getz",
-    "title": "Desafinado",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-25 02:46:17Z",
-    "last_played_vienna": "2026-09-25 04:46:17 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -99,13 +88,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Doors",
-    "title": "Roadhouse Blues (2020 Remaster)",
+    "artist": "Stan Getz",
+    "title": "Desafinado",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "last_played": "2026-09-25 02:27:16Z",
-    "last_played_vienna": "2026-09-25 04:27:16 MESZ",
+    "last_played": "2026-09-25 09:09:49Z",
+    "last_played_vienna": "2026-09-25 11:09:49 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -117,6 +106,17 @@
     "play_count_30d": 3,
     "last_played": "2026-09-15 23:38:30Z",
     "last_played_vienna": "2026-09-16 01:38:30 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Doors",
+    "title": "Roadhouse Blues (2020 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-09-25 10:07:49Z",
+    "last_played_vienna": "2026-09-25 12:07:49 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
