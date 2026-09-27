@@ -341,17 +341,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pet Shop Boys",
-    "title": "It's a Sin  (2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 7,
-    "last_played": "2026-09-25 01:58:15Z",
-    "last_played_vienna": "2026-09-25 03:58:15 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "DrachenLord",
     "title": "Skrrr Skrrr",
     "type": "Station-Specific",
@@ -371,6 +360,17 @@
     "last_played": "2026-09-20 02:39:08Z",
     "last_played_vienna": "2026-09-20 04:39:08 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "title": "It's a Sin  (2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 8,
+    "last_played": "2026-09-27 02:13:01Z",
+    "last_played_vienna": "2026-09-27 04:13:01 MESZ",
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
   {
