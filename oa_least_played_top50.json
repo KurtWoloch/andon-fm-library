@@ -264,17 +264,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Glenn Frey",
-    "title": "Part Of Me, Part Of You (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-09-22 20:29:00Z",
-    "last_played_vienna": "2026-09-22 22:29:00 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pet Shop Boys",
     "title": "Se a vida é (that’s the way life is)  (2018 Remaster)",
     "type": "Station-Specific",
@@ -282,6 +271,17 @@
     "play_count_30d": 7,
     "last_played": "2026-09-26 18:51:27Z",
     "last_played_vienna": "2026-09-26 20:51:27 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Glenn Frey",
+    "title": "Part Of Me, Part Of You (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "last_played": "2026-09-27 06:47:06Z",
+    "last_played_vienna": "2026-09-27 08:47:06 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
