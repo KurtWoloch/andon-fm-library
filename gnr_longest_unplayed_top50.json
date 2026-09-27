@@ -231,17 +231,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Four Tet",
-    "title": "Two Thousand and Seventeen",
-    "type": "Station-Specific",
-    "play_count_total": 88,
-    "play_count_30d": 1,
-    "last_played": "2026-09-08 05:12:34Z",
-    "last_played_vienna": "2026-09-08 07:12:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -264,22 +253,11 @@
     "confidence": 1.0
   },
   {
-    "artist": "José González",
-    "title": "Heartbeats",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 1,
-    "last_played": "2026-09-08 07:57:35Z",
-    "last_played_vienna": "2026-09-08 09:57:35 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Margaret Glaspy",
     "title": "Michigan",
     "type": "Station-Specific",
     "play_count_total": 49,
-    "play_count_30d": 36,
+    "play_count_30d": 25,
     "last_played": "2026-09-08 09:36:05Z",
     "last_played_vienna": "2026-09-08 11:36:05 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -290,7 +268,7 @@
     "title": "In Stride",
     "type": "Station-Specific",
     "play_count_total": 49,
-    "play_count_30d": 36,
+    "play_count_30d": 24,
     "last_played": "2026-09-08 14:27:36Z",
     "last_played_vienna": "2026-09-08 16:27:36 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -546,6 +524,28 @@
     "play_count_30d": 2,
     "last_played": "2026-09-09 01:54:09Z",
     "last_played_vienna": "2026-09-09 03:54:09 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Simon & Garfunkel",
+    "title": "The Sound of Silence  (Acoustic Version)",
+    "type": "Shared",
+    "play_count_total": 73,
+    "play_count_30d": 2,
+    "last_played": "2026-09-09 01:58:09Z",
+    "last_played_vienna": "2026-09-09 03:58:09 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Gigi Perez",
+    "title": "Sailor Song",
+    "type": "Shared",
+    "play_count_total": 77,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 02:05:10Z",
+    "last_played_vienna": "2026-09-09 04:05:10 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }

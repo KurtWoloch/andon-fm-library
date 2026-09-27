@@ -429,17 +429,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Whispers",
-    "title": "And The Beat Goes On",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 13,
-    "last_played": "2026-09-26 22:34:58Z",
-    "last_played_vienna": "2026-09-27 00:34:58 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Creedence Clearwater Revival",
     "title": "Lookin' Out My Back Door",
     "type": "Station-Specific",
@@ -458,6 +447,17 @@
     "play_count_30d": 0,
     "last_played": "2026-08-21 07:02:35Z",
     "last_played_vienna": "2026-08-21 09:02:35 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Whispers",
+    "title": "And The Beat Goes On",
+    "type": "Station-Specific",
+    "play_count_total": 14,
+    "play_count_30d": 14,
+    "last_played": "2026-09-27 13:24:43Z",
+    "last_played_vienna": "2026-09-27 15:24:43 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },
