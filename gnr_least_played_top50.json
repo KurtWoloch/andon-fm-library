@@ -176,17 +176,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Bebel Gilberto",
-    "title": "So Nice (Summer Samba)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-09-26 04:25:56Z",
-    "last_played_vienna": "2026-09-26 06:25:56 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Fleetwood Mac",
     "title": "Tusk",
     "type": "Station-Specific",
@@ -242,6 +231,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Bebel Gilberto",
+    "title": "So Nice (Summer Samba)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-09-26 20:42:58Z",
+    "last_played_vienna": "2026-09-26 22:42:58 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "TOOL",
     "title": "Lateralus",
     "type": "Station-Specific",
@@ -290,7 +290,7 @@
     "title": "Goodbye Henry. (feat. Al Green)",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "last_played": "2026-09-16 03:08:04Z",
     "last_played_vienna": "2026-09-16 05:08:04 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -301,7 +301,7 @@
     "title": "Smells Like Teen Spirit",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "last_played": "2026-09-16 05:39:04Z",
     "last_played_vienna": "2026-09-16 07:39:04 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -312,7 +312,7 @@
     "title": "Enter Sandman",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "last_played": "2026-09-16 05:47:05Z",
     "last_played_vienna": "2026-09-16 07:47:05 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -444,7 +444,7 @@
     "title": "Life Boat.",
     "type": "Station-Specific",
     "play_count_total": 8,
-    "play_count_30d": 7,
+    "play_count_30d": 6,
     "last_played": "2026-09-16 03:03:32Z",
     "last_played_vienna": "2026-09-16 05:03:32 MESZ",
     "source": "Scraper Logs (GNR Play History)",
