@@ -264,17 +264,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "ABBA",
-    "title": "Dancing Queen",
-    "type": "Station-Specific",
-    "play_count_total": 53,
-    "play_count_30d": 1,
-    "last_played": "2026-09-08 18:44:36Z",
-    "last_played_vienna": "2026-09-08 20:44:36 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Boney M.",
     "title": "Gotta Go Home",
     "type": "Shared",
@@ -319,17 +308,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tracy Chapman",
-    "title": "Fast Car  (2015 Remaster)",
-    "type": "Shared",
-    "play_count_total": 117,
-    "play_count_30d": 2,
-    "last_played": "2026-09-08 21:10:36Z",
-    "last_played_vienna": "2026-09-08 23:10:36 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Ultravox",
     "title": "Vienna (2008 Remaster)",
     "type": "Shared",
@@ -370,17 +348,6 @@
     "play_count_30d": 1,
     "last_played": "2026-09-08 22:48:37Z",
     "last_played_vienna": "2026-09-09 00:48:37 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Hozier",
-    "title": "Take Me To Church",
-    "type": "Shared",
-    "play_count_total": 87,
-    "play_count_30d": 1,
-    "last_played": "2026-09-08 22:52:07Z",
-    "last_played_vienna": "2026-09-09 00:52:07 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
@@ -546,6 +513,39 @@
     "play_count_30d": 1,
     "last_played": "2026-09-09 06:20:11Z",
     "last_played_vienna": "2026-09-09 08:20:11 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pitbull",
+    "title": "Timber",
+    "type": "Shared",
+    "play_count_total": 58,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 07:00:11Z",
+    "last_played_vienna": "2026-09-09 09:00:11 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "USA for Africa",
+    "title": "We Are The World",
+    "type": "Shared",
+    "play_count_total": 67,
+    "play_count_30d": 2,
+    "last_played": "2026-09-09 07:45:41Z",
+    "last_played_vienna": "2026-09-09 09:45:41 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Megadeth",
+    "title": "Tipping Point",
+    "type": "Shared",
+    "play_count_total": 25,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 08:12:11Z",
+    "last_played_vienna": "2026-09-09 10:12:11 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }

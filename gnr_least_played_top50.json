@@ -22,6 +22,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Dire Straits",
+    "title": "Private Investigations (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-28 20:52:19Z",
+    "last_played_vienna": "2026-09-28 22:52:19 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -535,17 +546,6 @@
     "play_count_30d": 2,
     "last_played": "2026-09-27 20:35:15Z",
     "last_played_vienna": "2026-09-27 22:35:15 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Vanessa-mae",
-    "title": "Storm",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 3,
-    "last_played": "2026-09-27 20:49:44Z",
-    "last_played_vienna": "2026-09-27 22:49:44 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
