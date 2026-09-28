@@ -253,17 +253,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Taylor Swift",
-    "title": "Shake It Off",
-    "type": "Station-Specific",
-    "play_count_total": 33,
-    "play_count_30d": 1,
-    "last_played": "2026-09-08 18:08:06Z",
-    "last_played_vienna": "2026-09-08 20:08:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Justin Timberlake",
     "title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
     "type": "Station-Specific",
@@ -286,17 +275,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Billie Eilish",
-    "title": "bad guy",
-    "type": "Station-Specific",
-    "play_count_total": 104,
-    "play_count_30d": 1,
-    "last_played": "2026-09-08 18:56:06Z",
-    "last_played_vienna": "2026-09-08 20:56:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Boney M.",
     "title": "Gotta Go Home",
     "type": "Shared",
@@ -315,17 +293,6 @@
     "play_count_30d": 1,
     "last_played": "2026-09-08 19:35:06Z",
     "last_played_vienna": "2026-09-08 21:35:06 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Beyoncé",
-    "title": "Crazy In Love",
-    "type": "Shared",
-    "play_count_total": 7,
-    "play_count_30d": 1,
-    "last_played": "2026-09-08 20:19:36Z",
-    "last_played_vienna": "2026-09-08 22:19:36 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
@@ -440,17 +407,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Kendrick Lamar",
-    "title": "Alright",
-    "type": "Shared",
-    "play_count_total": 142,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 01:39:09Z",
-    "last_played_vienna": "2026-09-09 03:39:09 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Jimmy Cliff",
     "title": "I Can See Clearly Now (Album Version)",
     "type": "Shared",
@@ -546,6 +502,50 @@
     "play_count_30d": 1,
     "last_played": "2026-09-09 03:10:10Z",
     "last_played_vienna": "2026-09-09 05:10:10 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Darude",
+    "title": "Sandstorm",
+    "type": "Shared",
+    "play_count_total": 109,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 03:15:10Z",
+    "last_played_vienna": "2026-09-09 05:15:10 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Thelonious Monk",
+    "title": "Blue Monk",
+    "type": "Station-Specific",
+    "play_count_total": 50,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 03:58:41Z",
+    "last_played_vienna": "2026-09-09 05:58:41 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kendrick Lamar",
+    "title": "Not Like Us",
+    "type": "Shared",
+    "play_count_total": 82,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 06:08:11Z",
+    "last_played_vienna": "2026-09-09 08:08:11 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mireille Mathieu",
+    "title": "Together We're Strong",
+    "type": "Shared",
+    "play_count_total": 49,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 06:20:11Z",
+    "last_played_vienna": "2026-09-09 08:20:11 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }
