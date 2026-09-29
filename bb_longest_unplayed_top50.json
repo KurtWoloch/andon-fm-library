@@ -108,18 +108,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "1petrikov",
-    "title": "Good Ole' Days  (Remastered)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 17:37:19Z",
-    "last_played_vienna": "2026-05-16 19:37:19 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Wishful Thinking",
     "title": "Hiroshima",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-31 04:25:30Z",
     "last_played_vienna": "2026-05-31 06:25:30 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Valet",
+    "title": "Nature",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "last_played": "2026-05-31 09:28:30Z",
+    "last_played_vienna": "2026-05-31 11:28:30 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
