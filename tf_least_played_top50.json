@@ -264,17 +264,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Erik Grönwall",
-    "title": "House of the Rising Sun",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-10 01:38:14Z",
-    "last_played_vienna": "2026-09-10 03:38:14 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "P!nk",
     "title": "Please Don't Leave Me",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-16 10:24:34Z",
     "last_played_vienna": "2026-09-16 12:24:34 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Richard Wagner",
+    "title": "Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestra (Act One)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-16 10:46:04Z",
+    "last_played_vienna": "2026-09-16 12:46:04 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
