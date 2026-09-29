@@ -330,17 +330,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Franz Ferdinand",
-    "title": "Take Me Out",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 3,
-    "last_played": "2026-09-01 23:14:53Z",
-    "last_played_vienna": "2026-09-02 01:14:53 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Linkin Park",
     "title": "Numb",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "last_played": "2026-09-17 04:18:10Z",
     "last_played_vienna": "2026-09-17 06:18:10 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "Light Bulb In My Head",
+    "type": "Station-Specific",
+    "play_count_total": 57,
+    "play_count_30d": 3,
+    "last_played": "2026-09-17 18:05:44Z",
+    "last_played_vienna": "2026-09-17 20:05:44 MESZ",
+    "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
 ]
