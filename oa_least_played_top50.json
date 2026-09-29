@@ -264,17 +264,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Capital of Gold and Glass",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-09-26 16:01:27Z",
-    "last_played_vienna": "2026-09-26 18:01:27 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Motörhead",
     "title": "Ace of Spades (40th Anniversary Master)",
     "type": "Station-Specific",
@@ -304,6 +293,17 @@
     "play_count_30d": 0,
     "last_played": "2026-08-21 20:50:35Z",
     "last_played_vienna": "2026-08-21 22:50:35 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "Capital of Gold and Glass",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-09-29 08:36:56Z",
+    "last_played_vienna": "2026-09-29 10:36:56 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },

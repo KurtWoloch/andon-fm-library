@@ -396,17 +396,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "twenty one pilots",
-    "title": "Stressed Out",
-    "type": "Shared",
-    "play_count_total": 86,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 02:16:39Z",
-    "last_played_vienna": "2026-09-09 04:16:39 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Bleachers",
     "title": "I Wanna Get Better",
     "type": "Shared",
@@ -547,6 +536,17 @@
     "last_played": "2026-09-09 12:47:12Z",
     "last_played_vienna": "2026-09-09 14:47:12 MESZ",
     "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pitbull",
+    "title": "International Love",
+    "type": "Shared",
+    "play_count_total": 75,
+    "play_count_30d": 1,
+    "last_played": "2026-09-09 14:09:42Z",
+    "last_played_vienna": "2026-09-09 16:09:42 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
