@@ -352,17 +352,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pet Shop Boys",
-    "title": "Se a vida é (that’s the way life is)  (2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 9,
-    "last_played": "2026-09-29 00:38:20Z",
-    "last_played_vienna": "2026-09-29 02:38:20 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Franz Ferdinand",
     "title": "Take Me Out",
     "type": "Station-Specific",
@@ -381,6 +370,17 @@
     "play_count_30d": 10,
     "last_played": "2026-09-29 05:54:25Z",
     "last_played_vienna": "2026-09-29 07:54:25 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "title": "Se a vida é (that’s the way life is)  (2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 10,
+    "last_played": "2026-09-30 13:56:34Z",
+    "last_played_vienna": "2026-09-30 15:56:34 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   },

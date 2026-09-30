@@ -506,17 +506,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Script feat. will.i.am",
-    "title": "Hall of Fame",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-08-20 13:58:56Z",
-    "last_played_vienna": "2026-08-20 15:58:56 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Luca Di Sabatino",
     "title": "Switched-on Wendy",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-08-22 14:46:43Z",
     "last_played_vienna": "2026-08-22 16:46:43 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Greg Shilling",
+    "title": "Shampoo",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-08-22 18:07:43Z",
+    "last_played_vienna": "2026-08-22 20:07:43 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
