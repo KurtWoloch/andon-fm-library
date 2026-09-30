@@ -220,17 +220,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Parcels",
-    "title": "Tieduprightnow",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-09-29 12:24:28Z",
-    "last_played_vienna": "2026-09-29 14:24:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Big Band Jazz de México",
     "title": "All of Me",
     "type": "Station-Specific",
@@ -260,6 +249,17 @@
     "play_count_30d": 2,
     "last_played": "2026-09-27 21:03:15Z",
     "last_played_vienna": "2026-09-27 23:03:15 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Parcels",
+    "title": "Tieduprightnow",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "last_played": "2026-09-30 01:38:01Z",
+    "last_played_vienna": "2026-09-30 03:38:01 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
