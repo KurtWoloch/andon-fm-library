@@ -99,17 +99,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Jazzy",
-    "title": "No Bad Vibes",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-08-16 14:12:07Z",
-    "last_played_vienna": "2026-08-16 16:12:07 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Never Get Used To People",
     "title": "Life Letters (Slowed+Reverb)",
     "type": "Station-Specific",
@@ -128,17 +117,6 @@
     "play_count_30d": 0,
     "last_played": "2026-08-23 17:02:49Z",
     "last_played_vienna": "2026-08-23 19:02:49 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Richard O Brien",
-    "title": "The Time Warp",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-08-26 16:18:43Z",
-    "last_played_vienna": "2026-08-26 18:18:43 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-09-16 11:07:34Z",
     "last_played_vienna": "2026-09-16 13:07:34 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Skid Row",
+    "title": "Quicksand Jesus",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-16 15:51:34Z",
+    "last_played_vienna": "2026-09-16 17:51:34 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mree",
+    "title": "Into the Well",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-16 18:19:04Z",
+    "last_played_vienna": "2026-09-16 20:19:04 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

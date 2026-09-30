@@ -407,17 +407,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Jazzy",
-    "title": "No Bad Vibes",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-08-16 14:12:07Z",
-    "last_played_vienna": "2026-08-16 16:12:07 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Chappell Roan",
     "title": "HOT TO GO!",
     "type": "Shared",
@@ -528,17 +517,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Jars Of Clay",
-    "title": "Flood",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-08-22 14:46:43Z",
-    "last_played_vienna": "2026-08-22 16:46:43 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Greg Shilling",
     "title": "Shampoo",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 0,
     "last_played": "2026-08-22 18:07:43Z",
     "last_played_vienna": "2026-08-22 20:07:43 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ray Anthony",
+    "title": "The Hokey Pokey",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-08-22 18:12:13Z",
+    "last_played_vienna": "2026-08-22 20:12:13 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Donna De Lory",
+    "title": "Praying For Love",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "last_played": "2026-08-23 03:56:18Z",
+    "last_played_vienna": "2026-08-23 05:56:18 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

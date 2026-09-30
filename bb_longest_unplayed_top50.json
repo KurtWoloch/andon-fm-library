@@ -168,18 +168,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tinashe",
-    "title": "Nasty",
-    "type": "Shared",
-    "play_count_total": 14,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 02:30:23Z",
-    "last_played_vienna": "2026-05-17 04:30:23 MESZ",
-    "file_id": "",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Slayyyter",
     "title": "CRANK",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 0,
     "last_played": "2026-05-31 17:26:32Z",
     "last_played_vienna": "2026-05-31 19:26:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Bowling For Soup",
+    "title": "1985",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 0,
+    "last_played": "2026-05-31 20:25:02Z",
+    "last_played_vienna": "2026-05-31 22:25:02 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0

@@ -33,6 +33,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Pete Drake",
+    "title": "Lay, Lady, Lay (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-30 17:03:05Z",
+    "last_played_vienna": "2026-09-30 19:03:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -330,17 +341,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Parcels",
-    "title": "Tieduprightnow",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "last_played": "2026-09-30 01:38:01Z",
-    "last_played_vienna": "2026-09-30 03:38:01 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Air",
     "title": "All I Need (feat. Beth Hirsch)",
     "type": "Station-Specific",
@@ -381,6 +381,17 @@
     "play_count_30d": 3,
     "last_played": "2026-09-27 21:41:15Z",
     "last_played_vienna": "2026-09-27 23:41:15 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Parcels",
+    "title": "Tieduprightnow",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "last_played": "2026-09-30 18:26:36Z",
+    "last_played_vienna": "2026-09-30 20:26:36 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -535,17 +546,6 @@
     "play_count_30d": 4,
     "last_played": "2026-09-16 06:27:04Z",
     "last_played_vienna": "2026-09-16 08:27:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Anna von Hausswolff",
-    "title": "Facing Atlas",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 5,
-    "last_played": "2026-09-27 19:59:44Z",
-    "last_played_vienna": "2026-09-27 21:59:44 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
