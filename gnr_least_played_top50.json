@@ -11,17 +11,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
-    "title": "Highway to Hell",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-29 15:28:27Z",
-    "last_played_vienna": "2026-09-29 17:28:27 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "ROSALÍA",
     "title": "Berghain",
     "type": "Station-Specific",
@@ -29,17 +18,6 @@
     "play_count_30d": 1,
     "last_played": "2026-09-30 05:32:04Z",
     "last_played_vienna": "2026-09-30 07:32:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pete Drake",
-    "title": "Lay, Lady, Lay (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-30 17:03:05Z",
-    "last_played_vienna": "2026-09-30 19:03:05 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -128,6 +106,28 @@
     "play_count_30d": 2,
     "last_played": "2026-09-30 13:02:05Z",
     "last_played_vienna": "2026-09-30 15:02:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
+    "title": "Highway to Hell",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-09-30 21:05:37Z",
+    "last_played_vienna": "2026-09-30 23:05:37 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pete Drake",
+    "title": "Lay, Lady, Lay (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-09-30 23:07:36Z",
+    "last_played_vienna": "2026-10-01 01:07:36 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -385,17 +385,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Parcels",
-    "title": "Tieduprightnow",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "last_played": "2026-09-30 18:26:36Z",
-    "last_played_vienna": "2026-09-30 20:26:36 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "RAYE",
     "title": "Life Boat.",
     "type": "Station-Specific",
@@ -502,6 +491,17 @@
     "play_count_30d": 8,
     "last_played": "2026-09-30 14:52:35Z",
     "last_played_vienna": "2026-09-30 16:52:35 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Parcels",
+    "title": "Tieduprightnow",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "last_played": "2026-09-30 23:25:36Z",
+    "last_played_vienna": "2026-10-01 01:25:36 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
