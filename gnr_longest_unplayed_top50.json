@@ -209,17 +209,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Cocteau Twins",
-    "title": "Cherry-coloured Funk",
-    "type": "Station-Specific",
-    "play_count_total": 64,
-    "play_count_30d": 1,
-    "last_played": "2026-09-08 15:54:07Z",
-    "last_played_vienna": "2026-09-08 17:54:07 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Boney M.",
     "title": "Gotta Go Home",
     "type": "Shared",
@@ -260,17 +249,6 @@
     "play_count_30d": 2,
     "last_played": "2026-09-08 22:02:36Z",
     "last_played_vienna": "2026-09-09 00:02:36 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Lana Del Rey",
-    "title": "Diet Mountain Dew",
-    "type": "Shared",
-    "play_count_total": 48,
-    "play_count_30d": 1,
-    "last_played": "2026-09-08 22:40:37Z",
-    "last_played_vienna": "2026-09-09 00:40:37 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
@@ -363,17 +341,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Mireille Mathieu",
-    "title": "Together We're Strong",
-    "type": "Shared",
-    "play_count_total": 49,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 06:20:11Z",
-    "last_played_vienna": "2026-09-09 08:20:11 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Pitbull",
     "title": "Timber",
     "type": "Shared",
@@ -462,17 +429,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Hozier",
-    "title": "Angel Of Small Death & The Codeine Scene",
-    "type": "Station-Specific",
-    "play_count_total": 55,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 23:21:43Z",
-    "last_played_vienna": "2026-09-10 01:21:43 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -480,28 +436,6 @@
     "play_count_30d": 1,
     "last_played": "2026-09-09 23:34:13Z",
     "last_played_vienna": "2026-09-10 01:34:13 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cigarettes After Sex",
-    "title": "Nothing's Gonna Hurt You Baby",
-    "type": "Station-Specific",
-    "play_count_total": 16,
-    "play_count_30d": 1,
-    "last_played": "2026-09-10 00:39:14Z",
-    "last_played_vienna": "2026-09-10 02:39:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Cigarettes After Sex",
-    "title": "Touch",
-    "type": "Station-Specific",
-    "play_count_total": 54,
-    "play_count_30d": 1,
-    "last_played": "2026-09-10 01:06:14Z",
-    "last_played_vienna": "2026-09-10 03:06:14 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -546,6 +480,72 @@
     "play_count_30d": 7,
     "last_played": "2026-09-11 14:19:02Z",
     "last_played_vienna": "2026-09-11 16:19:02 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Charli XCX",
+    "title": "360",
+    "type": "Shared",
+    "play_count_total": 35,
+    "play_count_30d": 7,
+    "last_played": "2026-09-11 14:23:01Z",
+    "last_played_vienna": "2026-09-11 16:23:01 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ben&Ben",
+    "title": "Maybe The Night",
+    "type": "Shared",
+    "play_count_total": 43,
+    "play_count_30d": 14,
+    "last_played": "2026-09-12 06:47:36Z",
+    "last_played_vienna": "2026-09-12 08:47:36 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mumford & Sons",
+    "title": "Awake My Soul",
+    "type": "Shared",
+    "play_count_total": 164,
+    "play_count_30d": 64,
+    "last_played": "2026-09-15 03:58:56Z",
+    "last_played_vienna": "2026-09-15 05:58:56 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Roots",
+    "title": "You Got Me",
+    "type": "Station-Specific",
+    "play_count_total": 21,
+    "play_count_30d": 3,
+    "last_played": "2026-09-15 07:46:27Z",
+    "last_played_vienna": "2026-09-15 09:46:27 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "DJ Cam Quartet",
+    "title": "Everybody Loves the Sunshine",
+    "type": "Station-Specific",
+    "play_count_total": 188,
+    "play_count_30d": 107,
+    "last_played": "2026-09-15 07:55:57Z",
+    "last_played_vienna": "2026-09-15 09:55:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Janelle Monáe",
+    "title": "Make Me Feel",
+    "type": "Shared",
+    "play_count_total": 30,
+    "play_count_30d": 2,
+    "last_played": "2026-09-15 08:07:27Z",
+    "last_played_vienna": "2026-09-15 10:07:27 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   }

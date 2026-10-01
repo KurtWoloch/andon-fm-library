@@ -24,18 +24,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Brasstracks",
-    "title": "My Boo",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 00:43:15Z",
-    "last_played_vienna": "2026-05-16 02:43:15 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "USS",
     "title": "Hydrogenuine",
     "type": "Station-Specific",
@@ -597,6 +585,18 @@
     "last_played_vienna": "2026-06-22 02:01:04 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jimmy Cliff",
+    "title": "I Can See Clearly Now (Album Version)",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-07-05 19:07:59Z",
+    "last_played_vienna": "2026-07-05 21:07:59 MESZ",
+    "file_id": "",
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]
