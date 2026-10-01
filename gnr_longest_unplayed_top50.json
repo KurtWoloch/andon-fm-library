@@ -209,17 +209,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Boney M.",
-    "title": "Gotta Go Home",
-    "type": "Shared",
-    "play_count_total": 169,
-    "play_count_30d": 1,
-    "last_played": "2026-09-08 19:25:06Z",
-    "last_played_vienna": "2026-09-08 21:25:06 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Wizkid",
     "title": "Essence",
     "type": "Shared",
@@ -297,28 +286,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Tyla",
-    "title": "Water",
-    "type": "Shared",
-    "play_count_total": 24,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 02:35:10Z",
-    "last_played_vienna": "2026-09-09 04:35:10 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Darude",
-    "title": "Sandstorm",
-    "type": "Shared",
-    "play_count_total": 109,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 03:15:10Z",
-    "last_played_vienna": "2026-09-09 05:15:10 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Thelonious Monk",
     "title": "Blue Monk",
     "type": "Station-Specific",
@@ -337,17 +304,6 @@
     "play_count_30d": 1,
     "last_played": "2026-09-09 06:08:11Z",
     "last_played_vienna": "2026-09-09 08:08:11 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pitbull",
-    "title": "Timber",
-    "type": "Shared",
-    "play_count_total": 58,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 07:00:11Z",
-    "last_played_vienna": "2026-09-09 09:00:11 MESZ",
     "source": "Shared Library",
     "confidence": 1.0
   },
@@ -382,17 +338,6 @@
     "last_played": "2026-09-09 12:47:12Z",
     "last_played_vienna": "2026-09-09 14:47:12 MESZ",
     "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pitbull",
-    "title": "International Love",
-    "type": "Shared",
-    "play_count_total": 75,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 14:09:42Z",
-    "last_played_vienna": "2026-09-09 16:09:42 MESZ",
-    "source": "Shared Library",
     "confidence": 1.0
   },
   {
@@ -532,7 +477,7 @@
     "title": "Everybody Loves the Sunshine",
     "type": "Station-Specific",
     "play_count_total": 188,
-    "play_count_30d": 103,
+    "play_count_30d": 100,
     "last_played": "2026-09-15 07:55:57Z",
     "last_played_vienna": "2026-09-15 09:55:57 MESZ",
     "source": "Scraper Logs (GNR Play History)",
@@ -547,6 +492,61 @@
     "last_played": "2026-09-15 08:07:27Z",
     "last_played_vienna": "2026-09-15 10:07:27 MESZ",
     "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "DJ Cam Quartet",
+    "title": "Boss Guitar",
+    "type": "Station-Specific",
+    "play_count_total": 19,
+    "play_count_30d": 2,
+    "last_played": "2026-09-15 08:55:57Z",
+    "last_played_vienna": "2026-09-15 10:55:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Jazz Liberatorz",
+    "title": "Always something",
+    "type": "Station-Specific",
+    "play_count_total": 192,
+    "play_count_30d": 99,
+    "last_played": "2026-09-15 08:59:57Z",
+    "last_played_vienna": "2026-09-15 10:59:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Alfa Mist",
+    "title": "You're Not Blind",
+    "type": "Station-Specific",
+    "play_count_total": 32,
+    "play_count_30d": 2,
+    "last_played": "2026-09-15 09:42:57Z",
+    "last_played_vienna": "2026-09-15 11:42:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Lucy Dacus",
+    "title": "Night Shift",
+    "type": "Shared",
+    "play_count_total": 131,
+    "play_count_30d": 2,
+    "last_played": "2026-09-15 10:25:27Z",
+    "last_played_vienna": "2026-09-15 12:25:27 MESZ",
+    "source": "Shared Library",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "title": "K.",
+    "type": "Station-Specific",
+    "play_count_total": 64,
+    "play_count_30d": 3,
+    "last_played": "2026-09-15 10:32:27Z",
+    "last_played_vienna": "2026-09-15 12:32:27 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
 ]
