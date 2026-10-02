@@ -72,18 +72,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Slayyyter",
-    "title": "CRANK",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 04:59:24Z",
-    "last_played_vienna": "2026-05-17 06:59:24 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Megadeth",
     "title": "Tipping Point",
     "type": "Shared",
@@ -456,18 +444,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "The Black Eyed Peas",
-    "title": "Pump It (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 0,
-    "last_played": "2026-06-02 13:12:06Z",
-    "last_played_vienna": "2026-06-02 15:12:06 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Aerosmith",
     "title": "Adam's Apple",
     "type": "Station-Specific",
@@ -595,6 +571,30 @@
     "play_count_30d": 0,
     "last_played": "2026-06-04 11:43:37Z",
     "last_played_vienna": "2026-06-04 13:43:37 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Erlon Chaves",
+    "title": "Velvet Mornings  / Shabala",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-04 12:51:37Z",
+    "last_played_vienna": "2026-06-04 14:51:37 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Katrina And The Waves",
+    "title": "Walking On Sunshine",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-04 12:55:08Z",
+    "last_played_vienna": "2026-06-04 14:55:08 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0

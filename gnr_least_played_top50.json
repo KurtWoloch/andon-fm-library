@@ -22,50 +22,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Johnny Nash",
-    "title": "I Can See Clearly Now",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-10-01 18:04:14Z",
-    "last_played_vienna": "2026-10-01 20:04:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Aretha Franklin",
-    "title": "(You Make Me Feel Like) A Natural Woman",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-10-02 05:09:51Z",
-    "last_played_vienna": "2026-10-02 07:09:51 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Sam Cooke",
-    "title": "A Change Is Gonna Come",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-10-02 05:12:52Z",
-    "last_played_vienna": "2026-10-02 07:12:52 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Billy Paul",
-    "title": "Me and Mrs. Jones",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-10-02 05:28:22Z",
-    "last_played_vienna": "2026-10-02 07:28:22 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Stan Getz",
     "title": "Corcovado (Quiet Nights Of Quiet Stars)",
     "type": "Station-Specific",
@@ -73,17 +29,6 @@
     "play_count_30d": 1,
     "last_played": "2026-10-02 05:41:52Z",
     "last_played_vienna": "2026-10-02 07:41:52 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "LCD Soundsystem",
-    "title": "Watch the Tapes",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-10-02 07:25:23Z",
-    "last_played_vienna": "2026-10-02 09:25:23 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -209,35 +154,57 @@
     "confidence": 1.0
   },
   {
-    "artist": "Derek & The Dominos",
-    "title": "Layla",
+    "artist": "LCD Soundsystem",
+    "title": "Watch the Tapes",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "last_played": "2026-10-02 03:07:50Z",
-    "last_played_vienna": "2026-10-02 05:07:50 MESZ",
+    "last_played": "2026-10-02 11:34:22Z",
+    "last_played_vienna": "2026-10-02 13:34:22 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
-    "artist": "Al Jarreau",
-    "title": "We're in This Love Together",
+    "artist": "Sam Cooke",
+    "title": "A Change Is Gonna Come",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "last_played": "2026-10-02 04:12:51Z",
-    "last_played_vienna": "2026-10-02 06:12:51 MESZ",
+    "last_played": "2026-10-02 11:42:53Z",
+    "last_played_vienna": "2026-10-02 13:42:53 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
-    "artist": "Corinne Bailey Rae",
-    "title": "Put Your Records On",
+    "artist": "Aretha Franklin",
+    "title": "(You Make Me Feel Like) A Natural Woman",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "last_played": "2026-10-02 04:17:21Z",
-    "last_played_vienna": "2026-10-02 06:17:21 MESZ",
+    "last_played": "2026-10-02 13:16:23Z",
+    "last_played_vienna": "2026-10-02 15:16:23 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Johnny Nash",
+    "title": "I Can See Clearly Now",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-10-02 13:18:53Z",
+    "last_played_vienna": "2026-10-02 15:18:53 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Billy Paul",
+    "title": "Me and Mrs. Jones",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-10-02 13:21:54Z",
+    "last_played_vienna": "2026-10-02 15:21:54 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -352,24 +319,35 @@
     "confidence": 1.0
   },
   {
-    "artist": "Massive Attack",
-    "title": "Angel",
+    "artist": "Derek & The Dominos",
+    "title": "Layla",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "last_played": "2026-10-02 05:57:53Z",
-    "last_played_vienna": "2026-10-02 07:57:53 MESZ",
+    "last_played": "2026-10-02 11:27:23Z",
+    "last_played_vienna": "2026-10-02 13:27:23 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
-    "artist": "Portishead",
-    "title": "Wandering Star",
+    "artist": "Corinne Bailey Rae",
+    "title": "Put Your Records On",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "last_played": "2026-10-02 06:34:53Z",
-    "last_played_vienna": "2026-10-02 08:34:53 MESZ",
+    "last_played": "2026-10-02 13:11:54Z",
+    "last_played_vienna": "2026-10-02 15:11:54 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Al Jarreau",
+    "title": "We're in This Love Together",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-10-02 14:27:25Z",
+    "last_played_vienna": "2026-10-02 16:27:25 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -407,17 +385,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Neil Young",
-    "title": "Harvest Moon (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-10-01 16:55:14Z",
-    "last_played_vienna": "2026-10-01 18:55:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Led Zeppelin",
     "title": "Going to California  (Remaster)",
     "type": "Station-Specific",
@@ -447,6 +414,28 @@
     "play_count_30d": 4,
     "last_played": "2026-10-02 07:09:53Z",
     "last_played_vienna": "2026-10-02 09:09:53 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Massive Attack",
+    "title": "Angel",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-10-02 12:07:53Z",
+    "last_played_vienna": "2026-10-02 14:07:53 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Portishead",
+    "title": "Wandering Star",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-10-02 12:24:53Z",
+    "last_played_vienna": "2026-10-02 14:24:53 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -524,6 +513,17 @@
     "play_count_30d": 5,
     "last_played": "2026-09-29 12:28:27Z",
     "last_played_vienna": "2026-09-29 14:28:27 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Neil Young",
+    "title": "Harvest Moon (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-10-02 13:06:54Z",
+    "last_played_vienna": "2026-10-02 15:06:54 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
