@@ -372,18 +372,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Souly",
-    "title": "Chrysanthemen",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-06-06 12:25:13Z",
-    "last_played_vienna": "2026-06-06 14:25:13 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Gianni Suave",
     "title": "Dilemma/Estrel",
     "type": "Station-Specific",
@@ -595,6 +583,18 @@
     "play_count_30d": 1,
     "last_played": "2026-09-15 23:46:29Z",
     "last_played_vienna": "2026-09-16 01:46:29 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Ultrabeat",
+    "title": "Pretty Green Eyes (Radio Edit)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-18 11:19:54Z",
+    "last_played_vienna": "2026-09-18 13:19:54 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
