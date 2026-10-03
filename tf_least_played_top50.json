@@ -110,17 +110,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Missio",
-    "title": "I See You",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-08-23 17:02:49Z",
-    "last_played_vienna": "2026-08-23 19:02:49 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tim Curry",
     "title": "Sweet Transvestite",
     "type": "Station-Specific",
@@ -440,17 +429,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Faith No More",
-    "title": "Stripsearch",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-16 11:07:34Z",
-    "last_played_vienna": "2026-09-16 13:07:34 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Skid Row",
     "title": "Quicksand Jesus",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 1,
     "last_played": "2026-09-21 03:04:14Z",
     "last_played_vienna": "2026-09-21 05:04:14 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Mercury Rev",
+    "title": "Little Rhymes",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-21 09:24:17Z",
+    "last_played_vienna": "2026-09-21 11:24:17 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Blue Murder",
+    "title": "Still Of The Night (Live In Tokyo, Japan / 1993)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-22 16:01:29Z",
+    "last_played_vienna": "2026-09-22 18:01:29 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

@@ -121,6 +121,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Hurts",
+    "title": "Wonderful Life '25  (Extended)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-10-03 18:04:24Z",
+    "last_played_vienna": "2026-10-03 20:04:24 MESZ",
+    "source": "Scraper Logs (OA Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Benetti House Bar",
     "title": "The Constellation",
     "type": "Station-Specific",
@@ -422,7 +433,7 @@
     "title": "Skrrr Skrrr",
     "type": "Station-Specific",
     "play_count_total": 12,
-    "play_count_30d": 6,
+    "play_count_30d": 5,
     "last_played": "2026-09-11 21:37:01Z",
     "last_played_vienna": "2026-09-11 23:37:01 MESZ",
     "source": "Scraper Logs (OA Play History)",
@@ -535,17 +546,6 @@
     "play_count_30d": 0,
     "last_played": "2026-08-30 10:49:13Z",
     "last_played_vienna": "2026-08-30 12:49:13 MESZ",
-    "source": "Scraper Logs (OA Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Die Gebrüder Brett",
-    "title": "Panzerband und billiges Crack (Dr Donk Remix)",
-    "type": "Station-Specific",
-    "play_count_total": 16,
-    "play_count_30d": 5,
-    "last_played": "2026-09-10 08:47:21Z",
-    "last_played_vienna": "2026-09-10 10:47:21 MESZ",
     "source": "Scraper Logs (OA Play History)",
     "confidence": 1.0
   }
