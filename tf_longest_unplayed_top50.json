@@ -374,17 +374,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Ed Sheeran",
-    "title": "Beautiful People (feat. Khalid)",
-    "type": "Shared",
-    "play_count_total": 68,
-    "play_count_30d": 0,
-    "last_played": "2026-08-14 13:31:22Z",
-    "last_played_vienna": "2026-08-14 15:31:22 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "OhtoPlaya",
     "title": "SPACEDOG (OhtoPlaya Remix)",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "last_played": "2026-08-24 16:43:27Z",
     "last_played_vienna": "2026-08-24 18:43:27 MESZ",
     "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Harry Styles",
+    "title": "As It Was",
+    "type": "Shared",
+    "play_count_total": 64,
+    "play_count_30d": 0,
+    "last_played": "2026-08-24 22:45:28Z",
+    "last_played_vienna": "2026-08-25 00:45:28 MESZ",
+    "source": "Shared Library",
     "confidence": 1.0
   }
 ]

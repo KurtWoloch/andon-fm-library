@@ -77,17 +77,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Eric Clapton",
-    "title": "Don't Know Which Way to Go (2000 Remaster) (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-10-03 12:29:54Z",
-    "last_played_vienna": "2026-10-03 14:29:54 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -209,17 +198,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Modeselektor",
-    "title": "Evil Twin",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-10-03 10:26:54Z",
-    "last_played_vienna": "2026-10-03 12:26:54 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Arctic Monkeys",
     "title": "I Wanna Be Yours",
     "type": "Station-Specific",
@@ -238,6 +216,28 @@
     "play_count_30d": 2,
     "last_played": "2026-10-03 11:15:25Z",
     "last_played_vienna": "2026-10-03 13:15:25 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Eric Clapton",
+    "title": "Don't Know Which Way to Go (2000 Remaster) (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-10-03 15:51:24Z",
+    "last_played_vienna": "2026-10-03 17:51:24 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Videoclub",
+    "title": "Mai",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-10-03 16:47:25Z",
+    "last_played_vienna": "2026-10-03 18:47:25 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -352,6 +352,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Modeselektor",
+    "title": "Evil Twin",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "last_played": "2026-10-03 15:45:25Z",
+    "last_played_vienna": "2026-10-03 17:45:25 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -392,50 +403,6 @@
     "play_count_30d": 4,
     "last_played": "2026-10-01 17:05:44Z",
     "last_played_vienna": "2026-10-01 19:05:44 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Corinne Bailey Rae",
-    "title": "Put Your Records On",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-10-02 19:09:54Z",
-    "last_played_vienna": "2026-10-02 21:09:54 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Sam Cooke",
-    "title": "A Change Is Gonna Come",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-10-03 05:32:24Z",
-    "last_played_vienna": "2026-10-03 07:32:24 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Aretha Franklin",
-    "title": "(You Make Me Feel Like) A Natural Woman",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-10-03 06:26:24Z",
-    "last_played_vienna": "2026-10-03 08:26:24 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Johnny Nash",
-    "title": "I Can See Clearly Now",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-10-03 06:45:54Z",
-    "last_played_vienna": "2026-10-03 08:45:54 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -539,13 +506,46 @@
     "confidence": 1.0
   },
   {
-    "artist": "Billy Paul",
-    "title": "Me and Mrs. Jones",
+    "artist": "Al Jarreau",
+    "title": "We're in This Love Together",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "last_played": "2026-10-03 05:27:24Z",
-    "last_played_vienna": "2026-10-03 07:27:24 MESZ",
+    "last_played": "2026-10-03 06:48:54Z",
+    "last_played_vienna": "2026-10-03 08:48:54 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Brain Damage (2023 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-10-03 11:41:54Z",
+    "last_played_vienna": "2026-10-03 13:41:54 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Aretha Franklin",
+    "title": "(You Make Me Feel Like) A Natural Woman",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-10-03 13:19:55Z",
+    "last_played_vienna": "2026-10-03 15:19:55 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Sam Cooke",
+    "title": "A Change Is Gonna Come",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-10-03 13:22:55Z",
+    "last_played_vienna": "2026-10-03 15:22:55 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
