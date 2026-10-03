@@ -209,17 +209,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "P!nk",
-    "title": "Eventually",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 20:57:43Z",
-    "last_played_vienna": "2026-09-09 22:57:43 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Djivan Gasparyan",
     "title": "They Took My Love Away",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 1,
     "last_played": "2026-09-16 18:24:34Z",
     "last_played_vienna": "2026-09-16 20:24:34 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Melody Gardot",
+    "title": "If You Love Me",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-16 19:57:34Z",
+    "last_played_vienna": "2026-09-16 21:57:34 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
