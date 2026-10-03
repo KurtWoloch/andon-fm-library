@@ -495,17 +495,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Haddaway",
-    "title": "What Is Love (Lynx & Pico Remix)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-08-21 15:27:05Z",
-    "last_played_vienna": "2026-08-21 17:27:05 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Greg Shilling",
     "title": "Shampoo",
     "type": "Station-Specific",
@@ -528,17 +517,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "8-Bit Arcade",
-    "title": "The Moon Cave (8-Bit Gorillaz, Asha Puthli, Bobby Womack, Dave Jolicoeur, Jalen Ngonda & Black Thought Emulation)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "last_played": "2026-08-23 08:27:49Z",
-    "last_played_vienna": "2026-08-23 10:27:49 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Deathbrain",
     "title": "the empty space is stuck in my head",
     "type": "Station-Specific",
@@ -546,6 +524,28 @@
     "play_count_30d": 0,
     "last_played": "2026-08-23 11:39:19Z",
     "last_played_vienna": "2026-08-23 13:39:19 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "S Club",
+    "title": "I Really Miss You",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "last_played": "2026-08-23 12:37:49Z",
+    "last_played_vienna": "2026-08-23 14:37:49 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "Light Bulb In My Head",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 0,
+    "last_played": "2026-08-23 13:50:19Z",
+    "last_played_vienna": "2026-08-23 15:50:19 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

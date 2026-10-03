@@ -198,17 +198,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "George Michael",
-    "title": "Somebody to Love (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-09 19:51:13Z",
-    "last_played_vienna": "2026-09-09 21:51:13 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Djivan Gasparyan",
     "title": "They Took My Love Away",
     "type": "Station-Specific",
@@ -341,28 +330,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Fredo Bang",
-    "title": "Oouuh",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-15 03:45:25Z",
-    "last_played_vienna": "2026-09-15 05:45:25 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "JAY1",
-    "title": "Your Mrs",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-15 04:01:25Z",
-    "last_played_vienna": "2026-09-15 06:01:25 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Fountains Of Wayne",
     "title": "Stacy's Mom",
     "type": "Station-Specific",
@@ -436,17 +403,6 @@
     "play_count_30d": 1,
     "last_played": "2026-09-15 20:08:59Z",
     "last_played_vienna": "2026-09-15 22:08:59 MESZ",
-    "source": "Scraper Logs (TF Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Stardust",
-    "title": "Music Sounds Better With You",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-15 20:13:57Z",
-    "last_played_vienna": "2026-09-15 22:13:57 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   },
@@ -546,6 +502,50 @@
     "play_count_30d": 1,
     "last_played": "2026-09-16 19:57:34Z",
     "last_played_vienna": "2026-09-16 21:57:34 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Suede",
+    "title": "Animal Nitrate",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-18 16:48:25Z",
+    "last_played_vienna": "2026-09-18 18:48:25 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Verve",
+    "title": "The Drugs Don't Work (Remastered 2016)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-18 16:52:25Z",
+    "last_played_vienna": "2026-09-18 18:52:25 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Weird Al Yankovic",
+    "title": "Perform This Way (Parody of \"Born This Way\" by Lady Gaga)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-18 18:57:25Z",
+    "last_played_vienna": "2026-09-18 20:57:25 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "U2",
+    "title": "All Along The Watchtower (Live - Rattle & Hum Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-18 20:17:55Z",
+    "last_played_vienna": "2026-09-18 22:17:55 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }
