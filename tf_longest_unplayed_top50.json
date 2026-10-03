@@ -319,17 +319,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Ed Sheeran",
-    "title": "Azizam",
-    "type": "Shared",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-08-13 17:13:43Z",
-    "last_played_vienna": "2026-08-13 19:13:43 MESZ",
-    "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
     "artist": "Tom Konkle",
     "title": "When Did Love Become A Test",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 0,
     "last_played": "2026-08-23 17:02:49Z",
     "last_played_vienna": "2026-08-23 19:02:49 MESZ",
+    "source": "Scraper Logs (TF Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Michael Bublé",
+    "title": "Crazy (with Jon Batiste & Stay Human)  (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 0,
+    "last_played": "2026-08-24 16:43:27Z",
+    "last_played_vienna": "2026-08-24 18:43:27 MESZ",
     "source": "Scraper Logs (TF Play History)",
     "confidence": 1.0
   }

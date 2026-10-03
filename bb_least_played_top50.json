@@ -24,18 +24,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Wishful Thinking",
-    "title": "Hiroshima",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 18:02:49Z",
-    "last_played_vienna": "2026-05-16 20:02:49 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Megadeth",
     "title": "Tipping Point",
     "type": "Shared",
@@ -45,18 +33,6 @@
     "last_played_vienna": "2026-05-17 12:03:57 MESZ",
     "file_id": "",
     "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Dj Rashad",
-    "title": "Drank, Kush, Barz (feat. DJ Spinn)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 14:08:58Z",
-    "last_played_vienna": "2026-05-17 16:08:58 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
   },
   {
@@ -589,12 +565,36 @@
   },
   {
     "artist": "The Magnetic Fields",
-    "title": "The Book of Love",
+    "title": "Papa Was a Rodeo",
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "last_played": "2026-09-19 21:58:05Z",
-    "last_played_vienna": "2026-09-19 23:58:05 MESZ",
+    "last_played": "2026-09-19 22:00:34Z",
+    "last_played_vienna": "2026-09-20 00:00:34 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Magnetic Fields",
+    "title": "All My Little Words",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-19 22:07:04Z",
+    "last_played_vienna": "2026-09-20 00:07:04 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Magnetic Fields",
+    "title": "The Luckiest Guy on the Lower East Side",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-19 22:10:34Z",
+    "last_played_vienna": "2026-09-20 00:10:34 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0

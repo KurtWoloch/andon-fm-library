@@ -48,18 +48,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Wishful Thinking",
-    "title": "Hiroshima",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 18:02:49Z",
-    "last_played_vienna": "2026-05-16 20:02:49 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Megadeth",
     "title": "Tipping Point",
     "type": "Shared",
@@ -81,30 +69,6 @@
     "last_played_vienna": "2026-05-17 12:43:27 MESZ",
     "file_id": "",
     "source": "Shared Library",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Corey Taylor",
-    "title": "Snuff (Cover / Live in London, '16)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 10:53:27Z",
-    "last_played_vienna": "2026-05-17 12:53:27 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Dj Rashad",
-    "title": "Drank, Kush, Barz (feat. DJ Spinn)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-17 14:08:58Z",
-    "last_played_vienna": "2026-05-17 16:08:58 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
   },
   {
@@ -247,18 +211,6 @@
     "play_count_30d": 0,
     "last_played": "2026-05-29 16:36:26Z",
     "last_played_vienna": "2026-05-29 18:36:26 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Deftones",
-    "title": "Be Quiet and Drive (Far Away)",
-    "type": "Station-Specific",
-    "play_count_total": 20,
-    "play_count_30d": 0,
-    "last_played": "2026-05-29 21:43:56Z",
-    "last_played_vienna": "2026-05-29 23:43:56 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
@@ -595,6 +547,54 @@
     "play_count_30d": 0,
     "last_played": "2026-06-05 23:06:41Z",
     "last_played_vienna": "2026-06-06 01:06:41 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Kollegah",
+    "title": "Sommer",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 00:22:11Z",
+    "last_played_vienna": "2026-06-06 02:22:11 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "K.I.Z",
+    "title": "Ich bin Adolf Hitler",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 01:38:42Z",
+    "last_played_vienna": "2026-06-06 03:38:42 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Arbok 48",
+    "title": "Der letzte große Sommer",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 01:43:42Z",
+    "last_played_vienna": "2026-06-06 03:43:42 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Grillmaster Flash",
+    "title": "Der Hund von Baskerville (feat. Bela B)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 07:24:13Z",
+    "last_played_vienna": "2026-06-06 09:24:13 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
