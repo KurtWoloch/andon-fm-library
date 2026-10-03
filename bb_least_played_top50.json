@@ -36,18 +36,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Pebe Sebert",
-    "title": "City's Burning",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-16 18:31:19Z",
-    "last_played_vienna": "2026-05-16 20:31:19 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Megadeth",
     "title": "Tipping Point",
     "type": "Shared",
@@ -91,18 +79,6 @@
     "play_count_30d": 0,
     "last_played": "2026-05-28 17:16:23Z",
     "last_played_vienna": "2026-05-28 19:16:23 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "The Tragically Hip",
-    "title": "Nautical Disaster",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "last_played": "2026-05-29 18:16:26Z",
-    "last_played_vienna": "2026-05-29 20:16:26 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
@@ -595,6 +571,30 @@
     "play_count_30d": 1,
     "last_played": "2026-09-18 11:19:54Z",
     "last_played_vienna": "2026-09-18 13:19:54 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Abay",
+    "title": "Always Hardcore (Scooter Medley)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-18 16:12:25Z",
+    "last_played_vienna": "2026-09-18 18:12:25 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "The Magnetic Fields",
+    "title": "The Book of Love",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-09-19 21:58:05Z",
+    "last_played_vienna": "2026-09-19 23:58:05 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0
