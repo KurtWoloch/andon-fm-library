@@ -480,30 +480,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Ultrabeat",
-    "title": "Pretty Green Eyes (Radio Edit)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-18 11:19:54Z",
-    "last_played_vienna": "2026-09-18 13:19:54 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Abay",
-    "title": "Always Hardcore (Scooter Medley)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-09-18 16:12:25Z",
-    "last_played_vienna": "2026-09-18 18:12:25 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "The Magnetic Fields",
     "title": "All My Little Words",
     "type": "Station-Specific",
@@ -595,6 +571,30 @@
     "play_count_30d": 0,
     "last_played": "2026-06-04 10:12:38Z",
     "last_played_vienna": "2026-06-04 12:12:38 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Journey",
+    "title": "Separate Ways (Worlds Apart) (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-06-05 23:06:41Z",
+    "last_played_vienna": "2026-06-06 01:06:41 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Arbok 48",
+    "title": "Der letzte große Sommer",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "last_played": "2026-06-06 01:43:42Z",
+    "last_played_vienna": "2026-06-06 03:43:42 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)",
     "confidence": 1.0

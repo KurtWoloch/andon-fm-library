@@ -66,17 +66,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Van Morrison",
-    "title": "Brown Eyed Girl",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-10-03 12:26:25Z",
-    "last_played_vienna": "2026-10-03 14:26:25 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Daryl Hall & John Oates",
     "title": "You Make My Dreams (Come True)",
     "type": "Station-Specific",
@@ -84,6 +73,39 @@
     "play_count_30d": 1,
     "last_played": "2026-10-03 23:40:57Z",
     "last_played_vienna": "2026-10-04 01:40:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Branford Marsalis",
+    "title": "The Ruby and The Pearl",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-10-04 03:30:31Z",
+    "last_played_vienna": "2026-10-04 05:30:31 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "TV Girl",
+    "title": "Stay Away (It's Like That)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-10-04 04:51:03Z",
+    "last_played_vienna": "2026-10-04 06:51:03 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Alt-J",
+    "title": "Breezeblocks",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-10-04 05:19:04Z",
+    "last_played_vienna": "2026-10-04 07:19:04 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -198,6 +220,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Van Morrison",
+    "title": "Brown Eyed Girl",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-10-04 02:04:30Z",
+    "last_played_vienna": "2026-10-04 04:04:30 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Nattalia Sarria",
     "title": "Last Summer Whisper (From \"Anri\")",
     "type": "Station-Specific",
@@ -297,17 +330,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Eric Clapton",
-    "title": "Don't Know Which Way to Go (2000 Remaster) (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-10-03 18:52:55Z",
-    "last_played_vienna": "2026-10-03 20:52:55 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Joep Beving",
     "title": "Sleeping Lotus",
     "type": "Station-Specific",
@@ -315,17 +337,6 @@
     "play_count_30d": 3,
     "last_played": "2026-10-03 19:20:26Z",
     "last_played_vienna": "2026-10-03 21:20:26 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Dire Straits",
-    "title": "Private Investigations (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-10-03 23:01:27Z",
-    "last_played_vienna": "2026-10-04 01:01:27 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -374,17 +385,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Modeselektor",
-    "title": "Evil Twin",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-10-03 22:26:26Z",
-    "last_played_vienna": "2026-10-04 00:26:26 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Videoclub",
     "title": "Mai",
     "type": "Station-Specific",
@@ -403,6 +403,17 @@
     "play_count_30d": 4,
     "last_played": "2026-10-04 00:35:28Z",
     "last_played_vienna": "2026-10-04 02:35:28 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Dire Straits",
+    "title": "Private Investigations (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-10-04 03:48:32Z",
+    "last_played_vienna": "2026-10-04 05:48:32 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -535,17 +546,6 @@
     "play_count_30d": 5,
     "last_played": "2026-10-03 23:35:28Z",
     "last_played_vienna": "2026-10-04 01:35:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "RAYE",
-    "title": "Goodbye Henry. (feat. Al Green)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 3,
-    "last_played": "2026-09-16 03:08:04Z",
-    "last_played_vienna": "2026-09-16 05:08:04 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
