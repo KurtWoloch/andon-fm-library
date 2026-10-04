@@ -77,6 +77,17 @@
     "confidence": 1.0
   },
   {
+    "artist": "Daryl Hall & John Oates",
+    "title": "You Make My Dreams (Come True)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "last_played": "2026-10-03 23:40:57Z",
+    "last_played_vienna": "2026-10-04 01:40:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -117,17 +128,6 @@
     "play_count_30d": 1,
     "last_played": "2026-09-09 22:29:11Z",
     "last_played_vienna": "2026-09-10 00:29:11 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Dire Straits",
-    "title": "Private Investigations (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-09-29 10:46:58Z",
-    "last_played_vienna": "2026-09-29 12:46:58 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -297,28 +297,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Modeselektor",
-    "title": "Evil Twin",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-10-03 15:45:25Z",
-    "last_played_vienna": "2026-10-03 17:45:25 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Arctic Monkeys",
-    "title": "I Wanna Be Yours",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-10-03 17:40:55Z",
-    "last_played_vienna": "2026-10-03 19:40:55 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "Eric Clapton",
     "title": "Don't Know Which Way to Go (2000 Remaster) (Album Version)",
     "type": "Station-Specific",
@@ -341,13 +319,13 @@
     "confidence": 1.0
   },
   {
-    "artist": "Videoclub",
-    "title": "Mai",
+    "artist": "Dire Straits",
+    "title": "Private Investigations (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "last_played": "2026-10-03 20:14:55Z",
-    "last_played_vienna": "2026-10-03 22:14:55 MESZ",
+    "last_played": "2026-10-03 23:01:27Z",
+    "last_played_vienna": "2026-10-04 01:01:27 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -396,13 +374,35 @@
     "confidence": 1.0
   },
   {
-    "artist": "George Benson",
-    "title": "Give Me the Night",
+    "artist": "Modeselektor",
+    "title": "Evil Twin",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "last_played": "2026-10-03 17:13:25Z",
-    "last_played_vienna": "2026-10-03 19:13:25 MESZ",
+    "last_played": "2026-10-03 22:26:26Z",
+    "last_played_vienna": "2026-10-04 00:26:26 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Videoclub",
+    "title": "Mai",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-10-03 23:46:27Z",
+    "last_played_vienna": "2026-10-04 01:46:27 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Arctic Monkeys",
+    "title": "I Wanna Be Yours",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "last_played": "2026-10-04 00:35:28Z",
+    "last_played_vienna": "2026-10-04 02:35:28 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -528,24 +528,24 @@
     "confidence": 1.0
   },
   {
-    "artist": "Johnny Nash",
-    "title": "I Can See Clearly Now",
+    "artist": "George Benson",
+    "title": "Give Me the Night",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "last_played": "2026-10-03 16:51:25Z",
-    "last_played_vienna": "2026-10-03 18:51:25 MESZ",
+    "last_played": "2026-10-03 23:35:28Z",
+    "last_played_vienna": "2026-10-04 01:35:28 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
   {
-    "artist": "Led Zeppelin",
-    "title": "Going to California  (Remaster)",
+    "artist": "RAYE",
+    "title": "Goodbye Henry. (feat. Al Green)",
     "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-10-03 17:24:25Z",
-    "last_played_vienna": "2026-10-03 19:24:25 MESZ",
+    "play_count_total": 6,
+    "play_count_30d": 3,
+    "last_played": "2026-09-16 03:08:04Z",
+    "last_played_vienna": "2026-09-16 05:08:04 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
