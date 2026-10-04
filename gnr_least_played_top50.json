@@ -220,17 +220,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Neuro-sama",
-    "title": "Pattern Recognition (feat. ODDEEO)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-09-29 11:16:57Z",
-    "last_played_vienna": "2026-09-29 13:16:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Radiohead",
     "title": "Burn the Witch",
     "type": "Station-Specific",
@@ -269,7 +258,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-03 19:20:26Z",
     "last_played_vienna": "2026-10-03 21:20:26 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -451,14 +440,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "RAYE",
-    "title": "Winter Woman.",
+    "artist": "Neuro-sama",
+    "title": "Pattern Recognition (feat. ODDEEO)",
     "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 03:13:32Z",
-    "last_played_vienna": "2026-09-16 05:13:32 MESZ",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-04 19:33:34Z",
+    "last_played_vienna": "2026-10-04 21:33:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -522,7 +511,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 02:36:00Z",
     "last_played_vienna": "2026-10-04 04:36:00 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -533,7 +522,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-10-04 15:37:05Z",
     "last_played_vienna": "2026-10-04 17:37:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-16 03:08:04Z",
     "last_played_vienna": "2026-09-16 05:08:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "TOOL",
+    "title": "Lateralus",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 21:03:15Z",
+    "last_played_vienna": "2026-09-27 23:03:15 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
