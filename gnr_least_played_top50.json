@@ -5,32 +5,10 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
+    "play_count_24h": 0,
     "last_played": "2026-09-30 05:32:04Z",
     "last_played_vienna": "2026-09-30 07:32:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Childish Gambino",
-    "title": "Les",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-10-01 04:07:41Z",
-    "last_played_vienna": "2026-10-01 06:07:41 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Stan Getz",
-    "title": "Corcovado (Quiet Nights Of Quiet Stars)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-10-02 05:41:52Z",
-    "last_played_vienna": "2026-10-02 07:41:52 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Scooter",
@@ -38,10 +16,10 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-02 20:15:23Z",
     "last_played_vienna": "2026-10-02 22:15:23 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Eric Clapton",
@@ -49,10 +27,10 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-03 11:38:54Z",
     "last_played_vienna": "2026-10-03 13:38:54 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Elton John",
@@ -60,10 +38,10 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 12:49:34Z",
     "last_played_vienna": "2026-10-04 14:49:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Bonnie Raitt",
@@ -71,10 +49,43 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 13:25:06Z",
     "last_played_vienna": "2026-10-04 15:25:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Astrud Gilberto",
+    "title": "Água de Beber",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-04 15:06:36Z",
+    "last_played_vienna": "2026-10-04 17:06:36 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Tom Petty",
+    "title": "Wildflowers (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-04 17:31:04Z",
+    "last_played_vienna": "2026-10-04 19:31:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Seals & Crofts",
+    "title": "Summer Breeze (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-04 17:34:35Z",
+    "last_played_vienna": "2026-10-04 19:34:35 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Obie Fernandez",
@@ -82,10 +93,10 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 1,
+    "play_count_24h": 0,
     "last_played": "2026-09-08 06:00:05Z",
     "last_played_vienna": "2026-09-08 08:00:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Justice Der",
@@ -93,10 +104,10 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
+    "play_count_24h": 0,
     "last_played": "2026-09-09 12:47:12Z",
     "last_played_vienna": "2026-09-09 14:47:12 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Neuro-sama",
@@ -104,10 +115,10 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 1,
+    "play_count_24h": 0,
     "last_played": "2026-09-09 19:10:13Z",
     "last_played_vienna": "2026-09-09 21:10:13 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Neuro-sama",
@@ -115,32 +126,10 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 1,
+    "play_count_24h": 0,
     "last_played": "2026-09-09 22:29:11Z",
     "last_played_vienna": "2026-09-10 00:29:11 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Grand Corps Malade",
-    "title": "Mais je t'aime",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-10-01 13:26:14Z",
-    "last_played_vienna": "2026-10-01 15:26:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Handsome Boy Modeling School",
-    "title": "The Truth",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-10-01 14:30:14Z",
-    "last_played_vienna": "2026-10-01 16:30:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Nils Frahm",
@@ -148,32 +137,10 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
+    "play_count_24h": 0,
     "last_played": "2026-10-03 11:15:25Z",
     "last_played_vienna": "2026-10-03 13:15:25 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Van Morrison",
-    "title": "Brown Eyed Girl",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-10-04 02:04:30Z",
-    "last_played_vienna": "2026-10-04 04:04:30 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Branford Marsalis",
-    "title": "The Ruby and The Pearl",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "last_played": "2026-10-04 08:01:33Z",
-    "last_played_vienna": "2026-10-04 10:01:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Alt-J",
@@ -181,10 +148,10 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
+    "play_count_24h": 2,
     "last_played": "2026-10-04 11:10:05Z",
     "last_played_vienna": "2026-10-04 13:10:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "TV Girl",
@@ -192,10 +159,10 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
+    "play_count_24h": 2,
     "last_played": "2026-10-04 11:23:06Z",
     "last_played_vienna": "2026-10-04 13:23:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Daryl Hall & John Oates",
@@ -203,10 +170,10 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
+    "play_count_24h": 2,
     "last_played": "2026-10-04 12:26:05Z",
     "last_played_vienna": "2026-10-04 14:26:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Kealii Reichel",
@@ -214,10 +181,32 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 13:14:05Z",
     "last_played_vienna": "2026-10-04 15:14:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Stan Getz",
+    "title": "Corcovado (Quiet Nights Of Quiet Stars)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-04 15:02:04Z",
+    "last_played_vienna": "2026-10-04 17:02:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Childish Gambino",
+    "title": "Les",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-04 15:16:34Z",
+    "last_played_vienna": "2026-10-04 17:16:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Nattalia Sarria",
@@ -225,21 +214,10 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 2,
+    "play_count_24h": 0,
     "last_played": "2026-09-15 23:38:30Z",
     "last_played_vienna": "2026-09-16 01:38:30 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Manhattan Jazz Band",
-    "title": "You Are the Sunshine of My Life",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-09-28 03:06:15Z",
-    "last_played_vienna": "2026-09-28 05:06:15 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Neuro-sama",
@@ -247,10 +225,10 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
+    "play_count_24h": 0,
     "last_played": "2026-09-29 11:16:57Z",
     "last_played_vienna": "2026-09-29 13:16:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Radiohead",
@@ -258,32 +236,10 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
+    "play_count_24h": 0,
     "last_played": "2026-09-30 12:29:35Z",
     "last_played_vienna": "2026-09-30 14:29:35 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Radiohead",
-    "title": "Jigsaw Falling Into Place",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-09-30 13:14:35Z",
-    "last_played_vienna": "2026-09-30 15:14:35 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Radiohead",
-    "title": "No Surprises",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "last_played": "2026-09-30 13:37:35Z",
-    "last_played_vienna": "2026-09-30 15:37:35 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
@@ -291,10 +247,10 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
+    "play_count_24h": 0,
     "last_played": "2026-10-01 03:45:41Z",
     "last_played_vienna": "2026-10-01 05:45:41 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Pink Floyd",
@@ -302,10 +258,10 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
+    "play_count_24h": 0,
     "last_played": "2026-10-01 17:29:44Z",
     "last_played_vienna": "2026-10-01 19:29:44 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Joep Beving",
@@ -313,10 +269,10 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
+    "play_count_24h": 1,
     "last_played": "2026-10-03 19:20:26Z",
     "last_played_vienna": "2026-10-03 21:20:26 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Vladimir Ashkenazy",
@@ -324,10 +280,10 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 13:19:04Z",
     "last_played_vienna": "2026-10-04 15:19:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Grimes",
@@ -335,10 +291,10 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 14:01:34Z",
     "last_played_vienna": "2026-10-04 16:01:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Red Snapper",
@@ -346,10 +302,54 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 14:17:05Z",
     "last_played_vienna": "2026-10-04 16:17:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Handsome Boy Modeling School",
+    "title": "The Truth",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-04 14:46:34Z",
+    "last_played_vienna": "2026-10-04 16:46:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Van Morrison",
+    "title": "Brown Eyed Girl",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-10-04 15:13:05Z",
+    "last_played_vienna": "2026-10-04 17:13:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Branford Marsalis",
+    "title": "The Ruby and The Pearl",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 3,
+    "last_played": "2026-10-04 15:49:05Z",
+    "last_played_vienna": "2026-10-04 17:49:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Grand Corps Malade",
+    "title": "Mais je t'aime",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-04 17:22:05Z",
+    "last_played_vienna": "2026-10-04 19:22:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Neuro-sama",
@@ -357,10 +357,10 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 1,
+    "play_count_24h": 0,
     "last_played": "2026-09-09 23:34:13Z",
     "last_played_vienna": "2026-09-10 01:34:13 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Papooz",
@@ -368,10 +368,10 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
+    "play_count_24h": 0,
     "last_played": "2026-09-28 22:40:18Z",
     "last_played_vienna": "2026-09-29 00:40:18 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Red Hot Chili Peppers",
@@ -379,10 +379,10 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
+    "play_count_24h": 0,
     "last_played": "2026-09-28 23:04:49Z",
     "last_played_vienna": "2026-09-29 01:04:49 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "LCD Soundsystem",
@@ -390,21 +390,10 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
+    "play_count_24h": 0,
     "last_played": "2026-10-03 07:13:54Z",
     "last_played_vienna": "2026-10-03 09:13:54 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Videoclub",
-    "title": "Mai",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-10-03 23:46:27Z",
-    "last_played_vienna": "2026-10-04 01:46:27 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Arctic Monkeys",
@@ -412,10 +401,10 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 00:35:28Z",
     "last_played_vienna": "2026-10-04 02:35:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Pete Drake",
@@ -423,10 +412,43 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 14:26:34Z",
     "last_played_vienna": "2026-10-04 16:26:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "No Surprises",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-04 15:09:06Z",
+    "last_played_vienna": "2026-10-04 17:09:06 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Jigsaw Falling Into Place",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-04 16:13:05Z",
+    "last_played_vienna": "2026-10-04 18:13:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Manhattan Jazz Band",
+    "title": "You Are the Sunshine of My Life",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-04 16:26:06Z",
+    "last_played_vienna": "2026-10-04 18:26:06 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "RAYE",
@@ -434,10 +456,10 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 2,
+    "play_count_24h": 0,
     "last_played": "2026-09-16 03:13:32Z",
     "last_played_vienna": "2026-09-16 05:13:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Måneskin",
@@ -445,10 +467,10 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 2,
+    "play_count_24h": 0,
     "last_played": "2026-09-16 06:23:04Z",
     "last_played_vienna": "2026-09-16 08:23:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "RAYE",
@@ -456,10 +478,10 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 3,
+    "play_count_24h": 0,
     "last_played": "2026-09-27 21:17:14Z",
     "last_played_vienna": "2026-09-27 23:17:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Solar Void",
@@ -467,10 +489,10 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 3,
+    "play_count_24h": 0,
     "last_played": "2026-09-27 21:36:44Z",
     "last_played_vienna": "2026-09-27 23:36:44 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Red Hot Chili Peppers",
@@ -478,21 +500,10 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
+    "play_count_24h": 0,
     "last_played": "2026-09-28 23:13:49Z",
     "last_played_vienna": "2026-09-29 01:13:49 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Hapa",
-    "title": "Ka Uluwehi O Ke Kai (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-09-29 12:20:57Z",
-    "last_played_vienna": "2026-09-29 14:20:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Big Band Jazz de México",
@@ -500,43 +511,10 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
+    "play_count_24h": 0,
     "last_played": "2026-09-29 12:28:27Z",
     "last_played_vienna": "2026-09-29 14:28:27 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "The Police",
-    "title": "Roxanne",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-10-02 19:34:24Z",
-    "last_played_vienna": "2026-10-02 21:34:24 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Pink Floyd",
-    "title": "Brain Damage (2023 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-10-03 11:41:54Z",
-    "last_played_vienna": "2026-10-03 13:41:54 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
-    "artist": "Aretha Franklin",
-    "title": "(You Make Me Feel Like) A Natural Woman",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "last_played": "2026-10-03 13:19:55Z",
-    "last_played_vienna": "2026-10-03 15:19:55 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Modeselektor",
@@ -544,9 +522,31 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
+    "play_count_24h": 2,
     "last_played": "2026-10-04 02:36:00Z",
     "last_played_vienna": "2026-10-04 04:36:00 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Videoclub",
+    "title": "Mai",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 3,
+    "last_played": "2026-10-04 15:37:05Z",
+    "last_played_vienna": "2026-10-04 17:37:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "RAYE",
+    "title": "Goodbye Henry. (feat. Al Green)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-16 03:08:04Z",
+    "last_played_vienna": "2026-09-16 05:08:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   }
 ]
