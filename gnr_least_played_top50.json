@@ -77,17 +77,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Branford Marsalis",
-    "title": "The Ruby and The Pearl",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "last_played": "2026-10-04 03:30:31Z",
-    "last_played_vienna": "2026-10-04 05:30:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "TV Girl",
     "title": "Stay Away (It's Like That)",
     "type": "Station-Specific",
@@ -227,6 +216,17 @@
     "play_count_30d": 2,
     "last_played": "2026-10-04 02:04:30Z",
     "last_played_vienna": "2026-10-04 04:04:30 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Branford Marsalis",
+    "title": "The Ruby and The Pearl",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "last_played": "2026-10-04 08:01:33Z",
+    "last_played_vienna": "2026-10-04 10:01:33 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   },
@@ -407,17 +407,6 @@
     "confidence": 1.0
   },
   {
-    "artist": "Dire Straits",
-    "title": "Private Investigations (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "last_played": "2026-10-04 03:48:32Z",
-    "last_played_vienna": "2026-10-04 05:48:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)",
-    "confidence": 1.0
-  },
-  {
     "artist": "RAYE",
     "title": "Winter Woman.",
     "type": "Station-Specific",
@@ -546,6 +535,17 @@
     "play_count_30d": 5,
     "last_played": "2026-10-03 23:35:28Z",
     "last_played_vienna": "2026-10-04 01:35:28 MESZ",
+    "source": "Scraper Logs (GNR Play History)",
+    "confidence": 1.0
+  },
+  {
+    "artist": "Modeselektor",
+    "title": "Evil Twin",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "last_played": "2026-10-04 02:36:00Z",
+    "last_played_vienna": "2026-10-04 04:36:00 MESZ",
     "source": "Scraper Logs (GNR Play History)",
     "confidence": 1.0
   }
