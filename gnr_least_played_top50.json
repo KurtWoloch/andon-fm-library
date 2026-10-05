@@ -33,28 +33,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Elton John",
-    "title": "The One",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-04 12:49:34Z",
-    "last_played_vienna": "2026-10-04 14:49:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Bonnie Raitt",
-    "title": "Something To Talk About",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-04 13:25:06Z",
-    "last_played_vienna": "2026-10-04 15:25:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Astrud Gilberto",
     "title": "Água de Beber",
     "type": "Station-Specific",
@@ -63,28 +41,6 @@
     "play_count_24h": 1,
     "last_played": "2026-10-04 15:06:36Z",
     "last_played_vienna": "2026-10-04 17:06:36 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Tom Petty",
-    "title": "Wildflowers (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-04 17:31:04Z",
-    "last_played_vienna": "2026-10-04 19:31:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Seals & Crofts",
-    "title": "Summer Breeze (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-04 17:34:35Z",
-    "last_played_vienna": "2026-10-04 19:34:35 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -107,6 +63,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-05 06:07:04Z",
     "last_played_vienna": "2026-10-05 08:07:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Eric Clapton",
+    "title": "Double Trouble (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 10:32:38Z",
+    "last_played_vienna": "2026-10-05 12:32:38 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -170,7 +137,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 11:10:05Z",
     "last_played_vienna": "2026-10-04 13:10:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -181,7 +148,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 11:23:06Z",
     "last_played_vienna": "2026-10-04 13:23:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -228,6 +195,50 @@
     "play_count_24h": 1,
     "last_played": "2026-10-04 15:16:34Z",
     "last_played_vienna": "2026-10-04 17:16:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bonnie Raitt",
+    "title": "Something To Talk About",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-10-05 10:09:38Z",
+    "last_played_vienna": "2026-10-05 12:09:38 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Tom Petty",
+    "title": "Wildflowers (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-10-05 10:14:08Z",
+    "last_played_vienna": "2026-10-05 12:14:08 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Seals & Crofts",
+    "title": "Summer Breeze (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-10-05 10:17:08Z",
+    "last_played_vienna": "2026-10-05 12:17:08 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Elton John",
+    "title": "The One",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-10-05 10:26:38Z",
+    "last_played_vienna": "2026-10-05 12:26:38 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-16 03:08:04Z",
     "last_played_vienna": "2026-09-16 05:08:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "TOOL",
-    "title": "Lateralus",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-27 21:03:15Z",
-    "last_played_vienna": "2026-09-27 23:03:15 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

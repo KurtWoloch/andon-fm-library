@@ -341,17 +341,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Michael Jackson",
-    "title": "Stranger in Moscow",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-09 18:07:43Z",
-    "last_played_vienna": "2026-09-09 20:07:43 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Neuro-sama",
     "title": "Colorful Array",
     "type": "Station-Specific",
@@ -466,7 +455,7 @@
     "title": "Everybody Loves the Sunshine",
     "type": "Station-Specific",
     "play_count_total": 188,
-    "play_count_30d": 38,
+    "play_count_30d": 35,
     "play_count_24h": 0,
     "last_played": "2026-09-15 07:55:57Z",
     "last_played_vienna": "2026-09-15 09:55:57 MESZ",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-15 14:39:57Z",
     "last_played_vienna": "2026-09-15 16:39:57 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "title": "All Through the Night",
+    "type": "Shared",
+    "play_count_total": 226,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-15 17:11:57Z",
+    "last_played_vienna": "2026-09-15 19:11:57 MESZ",
     "source": "Shared Library"
   }
 ]
