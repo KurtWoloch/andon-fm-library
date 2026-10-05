@@ -73,18 +73,6 @@
   },
   {
     "artist": "Aerosmith",
-    "title": "Round And Round",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-02 20:37:35Z",
-    "last_played_vienna": "2026-06-02 22:37:35 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Aerosmith",
     "title": "You See Me Crying",
     "type": "Station-Specific",
     "play_count_total": 1,
@@ -104,30 +92,6 @@
     "play_count_24h": 0,
     "last_played": "2026-06-04 11:43:37Z",
     "last_played_vienna": "2026-06-04 13:43:37 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Erlon Chaves",
-    "title": "Velvet Mornings  / Shabala",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-04 12:51:37Z",
-    "last_played_vienna": "2026-06-04 14:51:37 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Katrina And The Waves",
-    "title": "Walking On Sunshine",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-04 12:55:08Z",
-    "last_played_vienna": "2026-06-04 14:55:08 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -425,7 +389,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 17:45:34Z",
     "last_played_vienna": "2026-10-04 19:45:34 MESZ",
     "file_id": "",
@@ -540,18 +504,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "SUV WHATEVER",
-    "title": "Dein Pimmel Geht Mir Nicht Mehr Aus Dem Kopf",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-14 06:54:48Z",
-    "last_played_vienna": "2026-06-14 08:54:48 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "The Backseat Lovers",
     "title": "Kilby Girl",
     "type": "Station-Specific",
@@ -596,6 +548,54 @@
     "play_count_24h": 0,
     "last_played": "2026-06-20 22:40:18Z",
     "last_played_vienna": "2026-06-21 00:40:18 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Bing Crosby",
+    "title": "White Christmas",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-07-22 19:00:17Z",
+    "last_played_vienna": "2026-07-22 21:00:17 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "All I Want for Christmas Is You",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-07-22 19:04:17Z",
+    "last_played_vienna": "2026-07-22 21:04:17 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Brenda Lee",
+    "title": "Rockin' Around The Christmas Tree",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-07-22 19:13:18Z",
+    "last_played_vienna": "2026-07-22 21:13:18 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Kelly Clarkson",
+    "title": "Underneath the Tree",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-07-22 19:15:17Z",
+    "last_played_vienna": "2026-07-22 21:15:17 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

@@ -88,6 +88,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Michael Holm",
+    "title": "Barfuß im Regen",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 19:41:49Z",
+    "last_played_vienna": "2026-10-05 21:41:49 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -192,7 +203,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-05 10:14:08Z",
     "last_played_vienna": "2026-10-05 12:14:08 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -203,7 +214,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-05 10:17:08Z",
     "last_played_vienna": "2026-10-05 12:17:08 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -313,7 +324,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 17:22:05Z",
     "last_played_vienna": "2026-10-04 19:22:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -382,17 +393,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-28 22:40:18Z",
     "last_played_vienna": "2026-09-29 00:40:18 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Red Hot Chili Peppers",
-    "title": "Californication",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-09-28 23:04:49Z",
-    "last_played_vienna": "2026-09-29 01:04:49 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -467,7 +467,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 19:33:34Z",
     "last_played_vienna": "2026-10-04 21:33:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -506,17 +506,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Red Hot Chili Peppers",
-    "title": "Road Trippin' (2014 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-09-28 23:13:49Z",
-    "last_played_vienna": "2026-09-29 01:13:49 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Big Band Jazz de México",
     "title": "All of Me",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 15:37:05Z",
     "last_played_vienna": "2026-10-04 17:37:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "title": "Californication",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 19:02:18Z",
+    "last_played_vienna": "2026-10-05 21:02:18 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
