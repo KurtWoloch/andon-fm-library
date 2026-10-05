@@ -504,6 +504,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Khruangbin",
+    "title": "Texas Sun",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 00:07:04Z",
+    "last_played_vienna": "2026-10-05 02:07:04 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Tom Konkle",
     "title": "Manipulation (Dance Mix)",
     "type": "Station-Specific",
@@ -584,18 +596,6 @@
     "play_count_24h": 0,
     "last_played": "2026-06-08 14:13:59Z",
     "last_played_vienna": "2026-06-08 16:13:59 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Zartmann",
-    "title": "tau mich auf",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-13 16:53:11Z",
-    "last_played_vienna": "2026-06-13 18:53:11 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

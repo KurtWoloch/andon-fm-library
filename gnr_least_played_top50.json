@@ -170,7 +170,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 12:26:05Z",
     "last_played_vienna": "2026-10-04 14:26:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -313,7 +313,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 15:13:05Z",
     "last_played_vienna": "2026-10-04 17:13:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -324,7 +324,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-10-04 15:49:05Z",
     "last_played_vienna": "2026-10-04 17:49:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -390,7 +390,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 00:35:28Z",
     "last_played_vienna": "2026-10-04 02:35:28 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -451,17 +451,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Måneskin",
-    "title": "Torna a casa",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 06:23:04Z",
-    "last_played_vienna": "2026-09-16 08:23:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "RAYE",
     "title": "Click Clack Symphony. (feat. Hans Zimmer)",
     "type": "Station-Specific",
@@ -511,7 +500,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 02:36:00Z",
     "last_played_vienna": "2026-10-04 04:36:00 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -522,7 +511,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 15:37:05Z",
     "last_played_vienna": "2026-10-04 17:37:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-27 21:03:15Z",
     "last_played_vienna": "2026-09-27 23:03:15 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "George Benson",
+    "title": "Give Me the Night",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 1,
+    "last_played": "2026-10-04 13:29:04Z",
+    "last_played_vienna": "2026-10-04 15:29:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
