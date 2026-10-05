@@ -220,34 +220,12 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Alien Ant Farm",
-    "title": "Smooth Criminal",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 01:05:17Z",
-    "last_played_vienna": "2026-10-02 03:05:17 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Pet Shop Boys",
-    "title": "Always on My Mind   (Extended Dance Version; 2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 01:12:47Z",
-    "last_played_vienna": "2026-10-02 03:12:47 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Glenn Frey",
     "title": "River Of Dreams (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-10-05 00:32:03Z",
     "last_played_vienna": "2026-10-05 02:32:03 MESZ",
     "source": "Scraper Logs (OA Play History)"
@@ -291,9 +269,31 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 3,
+    "play_count_24h": 1,
     "last_played": "2026-10-05 01:10:33Z",
     "last_played_vienna": "2026-10-05 03:10:33 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "title": "Always on My Mind   (Extended Dance Version; 2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 14:01:41Z",
+    "last_played_vienna": "2026-10-05 16:01:41 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Alien Ant Farm",
+    "title": "Smooth Criminal",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 14:10:11Z",
+    "last_played_vienna": "2026-10-05 16:10:11 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -357,7 +357,7 @@
     "type": "Station-Specific",
     "play_count_total": 8,
     "play_count_30d": 8,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 19:08:34Z",
     "last_played_vienna": "2026-10-04 21:08:34 MESZ",
     "source": "Scraper Logs (OA Play History)"
@@ -444,7 +444,7 @@
     "title": "People Suck [Explicit]",
     "type": "Shared",
     "play_count_total": 12,
-    "play_count_30d": 6,
+    "play_count_30d": 5,
     "play_count_24h": 0,
     "last_played": "2026-09-20 02:39:08Z",
     "last_played_vienna": "2026-09-20 04:39:08 MESZ",
@@ -495,17 +495,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Pet Shop Boys",
-    "title": "Se a vida é (that’s the way life is)  (2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 12,
-    "play_count_24h": 0,
-    "last_played": "2026-10-03 16:54:54Z",
-    "last_played_vienna": "2026-10-03 18:54:54 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Creedence Clearwater Revival",
     "title": "Lookin' Out My Back Door",
     "type": "Station-Specific",
@@ -525,6 +514,17 @@
     "play_count_24h": 0,
     "last_played": "2026-08-21 07:02:35Z",
     "last_played_vienna": "2026-08-21 09:02:35 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Pet Shop Boys",
+    "title": "Se a vida é (that’s the way life is)  (2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 14,
+    "play_count_30d": 13,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 12:35:39Z",
+    "last_played_vienna": "2026-10-05 14:35:39 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {

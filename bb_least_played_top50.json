@@ -1,17 +1,5 @@
 [
   {
-    "artist": "Megadeth",
-    "title": "Tipping Point",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-05-17 10:03:57Z",
-    "last_played_vienna": "2026-05-17 12:03:57 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Dean Martin",
     "title": "Let It Snow! Let It Snow! Let It Snow!",
     "type": "Station-Specific",
@@ -420,36 +408,12 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Chris Stapleton",
-    "title": "White Horse",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-03 08:26:24Z",
-    "last_played_vienna": "2026-10-03 10:26:24 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Lady Gaga",
-    "title": "Mary Jane Holland",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-03 08:30:54Z",
-    "last_played_vienna": "2026-10-03 10:30:54 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Saint Motel",
     "title": "My Type",
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 15:17:34Z",
     "last_played_vienna": "2026-10-04 17:17:34 MESZ",
     "file_id": "",
@@ -596,6 +560,42 @@
     "play_count_24h": 0,
     "last_played": "2026-06-14 07:02:18Z",
     "last_played_vienna": "2026-06-14 09:02:18 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "SUV WHATEVER",
+    "title": "Heut Bums Ich Ne Fette",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-06-14 21:16:19Z",
+    "last_played_vienna": "2026-06-14 23:16:19 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Foghat",
+    "title": "Burnin' the Midnight Oil",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-06-15 20:44:31Z",
+    "last_played_vienna": "2026-06-15 22:44:31 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Van Halen",
+    "title": "Why Can't This Be Love",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-06-20 22:40:18Z",
+    "last_played_vienna": "2026-06-21 00:40:18 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

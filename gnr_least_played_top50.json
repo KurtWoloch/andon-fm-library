@@ -38,7 +38,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 15:06:36Z",
     "last_played_vienna": "2026-10-04 17:06:36 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -74,6 +74,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-05 10:32:38Z",
     "last_played_vienna": "2026-10-05 12:32:38 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Unkle",
+    "title": "Rabbit in Your Headlights",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 16:05:14Z",
+    "last_played_vienna": "2026-10-05 18:05:14 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -143,34 +154,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "TV Girl",
-    "title": "Stay Away (It's Like That)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 11:23:06Z",
-    "last_played_vienna": "2026-10-04 13:23:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Daryl Hall & John Oates",
-    "title": "You Make My Dreams (Come True)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-10-04 12:26:05Z",
-    "last_played_vienna": "2026-10-04 14:26:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Kealii Reichel",
     "title": "Maunaleo (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 13:14:05Z",
     "last_played_vienna": "2026-10-04 15:14:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -181,7 +170,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 15:02:04Z",
     "last_played_vienna": "2026-10-04 17:02:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -192,20 +181,9 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 15:16:34Z",
     "last_played_vienna": "2026-10-04 17:16:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Bonnie Raitt",
-    "title": "Something To Talk About",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 2,
-    "last_played": "2026-10-05 10:09:38Z",
-    "last_played_vienna": "2026-10-05 12:09:38 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -228,17 +206,6 @@
     "play_count_24h": 2,
     "last_played": "2026-10-05 10:17:08Z",
     "last_played_vienna": "2026-10-05 12:17:08 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Elton John",
-    "title": "The One",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 2,
-    "last_played": "2026-10-05 10:26:38Z",
-    "last_played_vienna": "2026-10-05 12:26:38 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -291,7 +258,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 13:19:04Z",
     "last_played_vienna": "2026-10-04 15:19:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -302,7 +269,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 14:01:34Z",
     "last_played_vienna": "2026-10-04 16:01:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -313,7 +280,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 14:17:05Z",
     "last_played_vienna": "2026-10-04 16:17:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -324,7 +291,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 14:46:34Z",
     "last_played_vienna": "2026-10-04 16:46:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -335,20 +302,9 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 15:13:05Z",
     "last_played_vienna": "2026-10-04 17:13:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Branford Marsalis",
-    "title": "The Ruby and The Pearl",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-10-04 15:49:05Z",
-    "last_played_vienna": "2026-10-04 17:49:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -360,6 +316,50 @@
     "play_count_24h": 1,
     "last_played": "2026-10-04 17:22:05Z",
     "last_played_vienna": "2026-10-04 19:22:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Daryl Hall & John Oates",
+    "title": "You Make My Dreams (Come True)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 12:36:40Z",
+    "last_played_vienna": "2026-10-05 14:36:40 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "TV Girl",
+    "title": "Stay Away (It's Like That)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 13:15:11Z",
+    "last_played_vienna": "2026-10-05 15:15:11 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Elton John",
+    "title": "The One",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-10-05 13:44:11Z",
+    "last_played_vienna": "2026-10-05 15:44:11 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bonnie Raitt",
+    "title": "Something To Talk About",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-10-05 15:32:43Z",
+    "last_played_vienna": "2026-10-05 17:32:43 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -423,7 +423,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 14:26:34Z",
     "last_played_vienna": "2026-10-04 16:26:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -434,7 +434,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 15:09:06Z",
     "last_played_vienna": "2026-10-04 17:09:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -445,7 +445,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 16:13:05Z",
     "last_played_vienna": "2026-10-04 18:13:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -456,7 +456,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 16:26:06Z",
     "last_played_vienna": "2026-10-04 18:26:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -481,6 +481,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-05 06:24:34Z",
     "last_played_vienna": "2026-10-05 08:24:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Branford Marsalis",
+    "title": "The Ruby and The Pearl",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 12:44:40Z",
+    "last_played_vienna": "2026-10-05 14:44:40 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -533,20 +544,9 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-04 15:37:05Z",
     "last_played_vienna": "2026-10-04 17:37:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "RAYE",
-    "title": "Goodbye Henry. (feat. Al Green)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 03:08:04Z",
-    "last_played_vienna": "2026-09-16 05:08:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

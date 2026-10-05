@@ -286,17 +286,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Thelonious Monk",
-    "title": "Blue Monk",
-    "type": "Station-Specific",
-    "play_count_total": 50,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-09 03:58:41Z",
-    "last_played_vienna": "2026-09-09 05:58:41 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Kendrick Lamar",
     "title": "Not Like Us",
     "type": "Shared",
@@ -455,7 +444,7 @@
     "title": "Everybody Loves the Sunshine",
     "type": "Station-Specific",
     "play_count_total": 188,
-    "play_count_30d": 35,
+    "play_count_30d": 31,
     "play_count_24h": 0,
     "last_played": "2026-09-15 07:55:57Z",
     "last_played_vienna": "2026-09-15 09:55:57 MESZ",
@@ -493,17 +482,6 @@
     "last_played": "2026-09-15 10:25:27Z",
     "last_played_vienna": "2026-09-15 12:25:27 MESZ",
     "source": "Shared Library"
-  },
-  {
-    "artist": "Cigarettes After Sex",
-    "title": "K.",
-    "type": "Station-Specific",
-    "play_count_total": 64,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 10:32:27Z",
-    "last_played_vienna": "2026-09-15 12:32:27 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Cigarettes After Sex",
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-09-15 17:11:57Z",
     "last_played_vienna": "2026-09-15 19:11:57 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Chris De Burgh",
+    "title": "The Getaway",
+    "type": "Shared",
+    "play_count_total": 41,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-15 17:19:58Z",
+    "last_played_vienna": "2026-09-15 19:19:58 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Ben Harper",
+    "title": "Yard Sale",
+    "type": "Shared",
+    "play_count_total": 32,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-15 17:23:57Z",
+    "last_played_vienna": "2026-09-15 19:23:57 MESZ",
     "source": "Shared Library"
   }
 ]

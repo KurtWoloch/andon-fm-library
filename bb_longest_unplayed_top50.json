@@ -1,41 +1,5 @@
 [
   {
-    "artist": "Kendrick Lamar",
-    "title": "Not Like Us",
-    "type": "Shared",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-05-15 14:39:13Z",
-    "last_played_vienna": "2026-05-15 16:39:13 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Perrie",
-    "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
-    "type": "Shared",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-05-16 16:57:19Z",
-    "last_played_vienna": "2026-05-16 18:57:19 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Megadeth",
-    "title": "Tipping Point",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-05-17 10:03:57Z",
-    "last_played_vienna": "2026-05-17 12:03:57 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Dean Martin",
     "title": "Let It Snow! Let It Snow! Let It Snow!",
     "type": "Station-Specific",
@@ -598,5 +562,41 @@
     "last_played_vienna": "2026-06-12 07:51:34 MESZ",
     "file_id": "",
     "source": "Shared Library"
+  },
+  {
+    "artist": "Bob Marley & The Wailers",
+    "title": "Get Up, Stand Up",
+    "type": "Shared",
+    "play_count_total": 231,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-06-12 14:54:06Z",
+    "last_played_vienna": "2026-06-12 16:54:06 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Pete Seeger",
+    "title": "Solidarity Forever",
+    "type": "Shared",
+    "play_count_total": 20,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-06-12 19:31:37Z",
+    "last_played_vienna": "2026-06-12 21:31:37 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Zartmann",
+    "title": "tau mich auf",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-06-13 16:53:11Z",
+    "last_played_vienna": "2026-06-13 18:53:11 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
   }
 ]
