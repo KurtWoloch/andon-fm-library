@@ -88,6 +88,28 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Vicente Amigo",
+    "title": "Tangos del Arco Bajo (Tangos)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 04:20:05Z",
+    "last_played_vienna": "2026-10-05 06:20:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Annie K.",
+    "title": "Sparkle (From \"Tatsuro Yamashita\") (Cover)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 06:07:04Z",
+    "last_played_vienna": "2026-10-05 08:07:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -148,7 +170,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 11:10:05Z",
     "last_played_vienna": "2026-10-04 13:10:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -159,7 +181,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 11:23:06Z",
     "last_played_vienna": "2026-10-04 13:23:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -206,17 +228,6 @@
     "play_count_24h": 1,
     "last_played": "2026-10-04 15:16:34Z",
     "last_played_vienna": "2026-10-04 17:16:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Nattalia Sarria",
-    "title": "Last Summer Whisper (From \"Anri\")",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 23:38:30Z",
-    "last_played_vienna": "2026-09-16 01:38:30 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -324,7 +335,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-04 15:49:05Z",
     "last_played_vienna": "2026-10-04 17:49:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -451,14 +462,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "RAYE",
-    "title": "Click Clack Symphony. (feat. Hans Zimmer)",
+    "artist": "Nattalia Sarria",
+    "title": "Last Summer Whisper (From \"Anri\")",
     "type": "Station-Specific",
-    "play_count_total": 5,
+    "play_count_total": 4,
     "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-09-27 21:17:14Z",
-    "last_played_vienna": "2026-09-27 23:17:14 MESZ",
+    "play_count_24h": 1,
+    "last_played": "2026-10-05 06:24:34Z",
+    "last_played_vienna": "2026-10-05 08:24:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-27 21:03:15Z",
     "last_played_vienna": "2026-09-27 23:03:15 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "George Benson",
-    "title": "Give Me the Night",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 1,
-    "last_played": "2026-10-04 13:29:04Z",
-    "last_played_vienna": "2026-10-04 15:29:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
