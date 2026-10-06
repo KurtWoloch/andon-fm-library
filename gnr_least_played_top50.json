@@ -154,23 +154,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Unkle",
-    "title": "Rabbit in Your Headlights",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 2,
-    "last_played": "2026-10-06 04:16:25Z",
-    "last_played_vienna": "2026-10-06 06:16:25 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Eric Clapton",
     "title": "Double Trouble (Live)",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-06 08:37:29Z",
     "last_played_vienna": "2026-10-06 10:37:29 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -286,23 +275,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Daryl Hall & John Oates",
-    "title": "You Make My Dreams (Come True)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-10-05 12:36:40Z",
-    "last_played_vienna": "2026-10-05 14:36:40 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "TV Girl",
     "title": "Stay Away (It's Like That)",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-05 13:15:11Z",
     "last_played_vienna": "2026-10-05 15:15:11 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -313,7 +291,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-05 23:58:50Z",
     "last_played_vienna": "2026-10-06 01:58:50 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -327,6 +305,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-06 06:33:27Z",
     "last_played_vienna": "2026-10-06 08:33:27 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Unkle",
+    "title": "Rabbit in Your Headlights",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 3,
+    "last_played": "2026-10-06 12:38:01Z",
+    "last_played_vienna": "2026-10-06 14:38:01 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -371,17 +360,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 00:35:28Z",
     "last_played_vienna": "2026-10-04 02:35:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Pete Drake",
-    "title": "Lay, Lady, Lay (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 14:26:34Z",
-    "last_played_vienna": "2026-10-04 16:26:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -440,25 +418,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Tom Petty",
-    "title": "Wildflowers (Album Version)",
+    "artist": "Daryl Hall & John Oates",
+    "title": "You Make My Dreams (Come True)",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 3,
-    "last_played": "2026-10-06 03:38:24Z",
-    "last_played_vienna": "2026-10-06 05:38:24 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Alt-J",
-    "title": "Breezeblocks",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 2,
-    "last_played": "2026-10-06 06:05:56Z",
-    "last_played_vienna": "2026-10-06 08:05:56 MESZ",
+    "play_count_24h": 1,
+    "last_played": "2026-10-06 12:04:31Z",
+    "last_played_vienna": "2026-10-06 14:04:31 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -511,20 +478,9 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 4,
+    "play_count_24h": 3,
     "last_played": "2026-10-06 02:02:23Z",
     "last_played_vienna": "2026-10-06 04:02:23 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Bonnie Raitt",
-    "title": "Something To Talk About",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 4,
-    "last_played": "2026-10-06 03:13:23Z",
-    "last_played_vienna": "2026-10-06 05:13:23 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -533,9 +489,42 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-06 06:42:57Z",
     "last_played_vienna": "2026-10-06 08:42:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Tom Petty",
+    "title": "Wildflowers (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 3,
+    "last_played": "2026-10-06 10:12:30Z",
+    "last_played_vienna": "2026-10-06 12:12:30 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Alt-J",
+    "title": "Breezeblocks",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 3,
+    "last_played": "2026-10-06 13:14:31Z",
+    "last_played_vienna": "2026-10-06 15:14:31 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Pete Drake",
+    "title": "Lay, Lady, Lay (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-06 13:38:02Z",
+    "last_played_vienna": "2026-10-06 15:38:02 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-16 03:08:04Z",
     "last_played_vienna": "2026-09-16 05:08:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "George Benson",
+    "title": "Give Me the Night",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 13:29:04Z",
+    "last_played_vienna": "2026-10-04 15:29:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

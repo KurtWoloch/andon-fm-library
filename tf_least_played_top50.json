@@ -297,17 +297,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Fountains Of Wayne",
-    "title": "Stacy's Mom",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 04:59:55Z",
-    "last_played_vienna": "2026-09-15 06:59:55 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Skindred",
     "title": "You Got This",
     "type": "Station-Specific",
@@ -371,17 +360,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-15 20:08:59Z",
     "last_played_vienna": "2026-09-15 22:08:59 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Soul Coughing",
-    "title": "Screenwriter's Blues",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 10:00:34Z",
-    "last_played_vienna": "2026-09-16 12:00:34 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-09-22 18:04:30Z",
     "last_played_vienna": "2026-09-22 20:04:30 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Bloodhound Gang",
+    "title": "Mope (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 14:02:19Z",
+    "last_played_vienna": "2026-09-25 16:02:19 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "Pattern Recognition (feat. ODDEEO)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 15:01:49Z",
+    "last_played_vienna": "2026-09-25 17:01:49 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

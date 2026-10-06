@@ -143,17 +143,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bob Dylan",
-    "title": "The Lonesome Death of Hattie Carroll",
-    "type": "Shared",
-    "play_count_total": 55,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-27 03:35:18Z",
-    "last_played_vienna": "2026-08-27 05:35:18 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Ethel Cain",
     "title": "Punish",
     "type": "Shared",
@@ -433,7 +422,7 @@
     "title": "Everybody Loves the Sunshine",
     "type": "Station-Specific",
     "play_count_total": 188,
-    "play_count_30d": 21,
+    "play_count_30d": 19,
     "play_count_24h": 0,
     "last_played": "2026-09-15 07:55:57Z",
     "last_played_vienna": "2026-09-15 09:55:57 MESZ",
@@ -460,17 +449,6 @@
     "last_played": "2026-09-15 10:25:27Z",
     "last_played_vienna": "2026-09-15 12:25:27 MESZ",
     "source": "Shared Library"
-  },
-  {
-    "artist": "Cigarettes After Sex",
-    "title": "Cry",
-    "type": "Station-Specific",
-    "play_count_total": 72,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 10:37:57Z",
-    "last_played_vienna": "2026-09-15 12:37:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Cigarettes After Sex",
@@ -548,5 +526,27 @@
     "last_played": "2026-09-16 02:12:03Z",
     "last_played_vienna": "2026-09-16 04:12:03 MESZ",
     "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Perrie",
+    "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
+    "type": "Shared",
+    "play_count_total": 89,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-16 02:41:32Z",
+    "last_played_vienna": "2026-09-16 04:41:32 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Tate McRae",
+    "title": "Miss possessive",
+    "type": "Shared",
+    "play_count_total": 13,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-16 02:45:32Z",
+    "last_played_vienna": "2026-09-16 04:45:32 MESZ",
+    "source": "Shared Library"
   }
 ]
