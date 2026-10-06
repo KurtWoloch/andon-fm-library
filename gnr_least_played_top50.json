@@ -297,23 +297,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Stan Getz",
-    "title": "Corcovado (Quiet Nights Of Quiet Stars)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-10-06 06:33:27Z",
-    "last_played_vienna": "2026-10-06 08:33:27 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Unkle",
     "title": "Rabbit in Your Headlights",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-10-06 12:38:01Z",
     "last_played_vienna": "2026-10-06 14:38:01 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -349,17 +338,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-03 07:13:54Z",
     "last_played_vienna": "2026-10-03 09:13:54 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Arctic Monkeys",
-    "title": "I Wanna Be Yours",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 00:35:28Z",
-    "last_played_vienna": "2026-10-04 02:35:28 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -429,6 +407,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Stan Getz",
+    "title": "Corcovado (Quiet Nights Of Quiet Stars)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 2,
+    "last_played": "2026-10-06 15:11:03Z",
+    "last_played_vienna": "2026-10-06 17:11:03 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Solar Void",
     "title": "Krieg Field Manual: Straight to Shovel",
     "type": "Station-Specific",
@@ -478,7 +467,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-10-06 02:02:23Z",
     "last_played_vienna": "2026-10-06 04:02:23 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -525,6 +514,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-06 13:38:02Z",
     "last_played_vienna": "2026-10-06 15:38:02 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Arctic Monkeys",
+    "title": "I Wanna Be Yours",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-06 17:30:34Z",
+    "last_played_vienna": "2026-10-06 19:30:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
