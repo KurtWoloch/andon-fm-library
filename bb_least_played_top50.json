@@ -61,18 +61,6 @@
   },
   {
     "artist": "Aerosmith",
-    "title": "No More No More",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-02 20:32:35Z",
-    "last_played_vienna": "2026-06-02 22:32:35 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Aerosmith",
     "title": "You See Me Crying",
     "type": "Station-Specific",
     "play_count_total": 1,
@@ -432,18 +420,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "SUV WHATEVER",
-    "title": "Heut Bums Ich Ne Fette",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-14 21:16:19Z",
-    "last_played_vienna": "2026-06-14 23:16:19 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Van Halen",
     "title": "Why Can't This Be Love",
     "type": "Station-Specific",
@@ -598,5 +574,29 @@
     "last_played_vienna": "2026-10-02 11:58:23 MESZ",
     "file_id": "",
     "source": "Shared Library"
+  },
+  {
+    "artist": "The Magnetic Fields",
+    "title": "Papa Was a Rodeo",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-03 15:38:55Z",
+    "last_played_vienna": "2026-10-03 17:38:55 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Abay",
+    "title": "Always Hardcore (Scooter Medley)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 03:39:01Z",
+    "last_played_vienna": "2026-10-04 05:39:01 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
   }
 ]

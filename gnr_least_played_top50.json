@@ -71,7 +71,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-05 19:41:49Z",
     "last_played_vienna": "2026-10-05 21:41:49 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -151,17 +151,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 15:16:34Z",
     "last_played_vienna": "2026-10-04 17:16:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Eric Clapton",
-    "title": "Double Trouble (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-10-06 08:37:29Z",
-    "last_played_vienna": "2026-10-06 10:37:29 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -297,14 +286,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Unkle",
-    "title": "Rabbit in Your Headlights",
+    "artist": "Eric Clapton",
+    "title": "Double Trouble (Live)",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
     "play_count_24h": 2,
-    "last_played": "2026-10-06 12:38:01Z",
-    "last_played_vienna": "2026-10-06 14:38:01 MESZ",
+    "last_played": "2026-10-06 19:23:04Z",
+    "last_played_vienna": "2026-10-06 21:23:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -418,6 +407,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Unkle",
+    "title": "Rabbit in Your Headlights",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 3,
+    "last_played": "2026-10-06 21:42:05Z",
+    "last_played_vienna": "2026-10-06 23:42:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Solar Void",
     "title": "Krieg Field Manual: Straight to Shovel",
     "type": "Station-Specific",
@@ -467,20 +467,9 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-06 02:02:23Z",
     "last_played_vienna": "2026-10-06 04:02:23 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Branford Marsalis",
-    "title": "The Ruby and The Pearl",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-10-06 06:42:57Z",
-    "last_played_vienna": "2026-10-06 08:42:57 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 13:29:04Z",
     "last_played_vienna": "2026-10-04 15:29:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Al Jarreau",
+    "title": "We're in This Love Together",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 14:06:05Z",
+    "last_played_vienna": "2026-10-04 16:06:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
