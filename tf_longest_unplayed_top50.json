@@ -341,17 +341,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Max Specter",
-    "title": "Just Asking (Day Theme I)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-14 04:50:20Z",
-    "last_played_vienna": "2026-08-14 06:50:20 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "OhtoPlaya",
     "title": "SPACEDOG (OhtoPlaya Remix)",
     "type": "Station-Specific",
@@ -360,17 +349,6 @@
     "play_count_24h": 0,
     "last_played": "2026-08-16 14:01:37Z",
     "last_played_vienna": "2026-08-16 16:01:37 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Never Get Used To People",
-    "title": "Life Letters (Slowed+Reverb)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-17 03:37:50Z",
-    "last_played_vienna": "2026-08-17 05:37:50 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-08-27 14:57:19Z",
     "last_played_vienna": "2026-08-27 16:57:19 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Kenny G",
+    "title": "At Last",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-08-27 15:01:49Z",
+    "last_played_vienna": "2026-08-27 17:01:49 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "The Vampire Lestat",
+    "title": "La Fontaine De Sang",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-08-27 19:49:19Z",
+    "last_played_vienna": "2026-08-27 21:49:19 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

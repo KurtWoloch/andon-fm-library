@@ -204,18 +204,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Gianni Suave",
-    "title": "Dilemma/Estrel",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-06 13:01:43Z",
-    "last_played_vienna": "2026-06-06 15:01:43 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Rahmschnitzel",
     "title": "Kohle Metal",
     "type": "Station-Specific",
@@ -348,30 +336,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Saint Motel",
-    "title": "My Type",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 15:17:34Z",
-    "last_played_vienna": "2026-10-04 17:17:34 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Khruangbin",
-    "title": "Texas Sun",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-05 00:07:04Z",
-    "last_played_vienna": "2026-10-05 02:07:04 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Manipulation (Dance Mix)",
     "type": "Station-Specific",
@@ -416,18 +380,6 @@
     "play_count_24h": 0,
     "last_played": "2026-06-05 23:06:41Z",
     "last_played_vienna": "2026-06-06 01:06:41 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Arbok 48",
-    "title": "Der letzte große Sommer",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-06 01:43:42Z",
-    "last_played_vienna": "2026-06-06 03:43:42 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -598,5 +550,53 @@
     "last_played_vienna": "2026-09-19 22:09:33 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Green Day",
+    "title": "American Idiot (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 22:28:45Z",
+    "last_played_vienna": "2026-09-28 00:28:45 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Atlas Genius",
+    "title": "If So",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 08:48:22Z",
+    "last_played_vienna": "2026-10-02 10:48:22 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 09:24:23Z",
+    "last_played_vienna": "2026-10-02 11:24:23 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "OneRepublic",
+    "title": "I Lived",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 09:58:23Z",
+    "last_played_vienna": "2026-10-02 11:58:23 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
   }
 ]
