@@ -348,30 +348,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Ayşegül Aldinç",
-    "title": "Haberi Yok",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 23:46:29Z",
-    "last_played_vienna": "2026-09-16 01:46:29 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "The Magnetic Fields",
-    "title": "All My Little Words",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-19 22:07:04Z",
-    "last_played_vienna": "2026-09-20 00:07:04 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Saint Motel",
     "title": "My Type",
     "type": "Station-Specific",
@@ -596,6 +572,30 @@
     "play_count_24h": 0,
     "last_played": "2026-08-17 12:16:52Z",
     "last_played_vienna": "2026-08-17 14:16:52 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "01099",
+    "title": "Tempo",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-08-17 20:45:23Z",
+    "last_played_vienna": "2026-08-17 22:45:23 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Across Boundaries",
+    "title": "Sakura",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-19 20:09:33Z",
+    "last_played_vienna": "2026-09-19 22:09:33 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
