@@ -209,17 +209,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Wizkid",
-    "title": "Essence",
-    "type": "Shared",
-    "play_count_total": 25,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-08 20:29:06Z",
-    "last_played_vienna": "2026-09-08 22:29:06 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Ultravox",
     "title": "Vienna (2008 Remaster)",
     "type": "Shared",
@@ -444,22 +433,11 @@
     "title": "Everybody Loves the Sunshine",
     "type": "Station-Specific",
     "play_count_total": 188,
-    "play_count_30d": 28,
+    "play_count_30d": 24,
     "play_count_24h": 0,
     "last_played": "2026-09-15 07:55:57Z",
     "last_played_vienna": "2026-09-15 09:55:57 MESZ",
     "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Janelle Monáe",
-    "title": "Make Me Feel",
-    "type": "Shared",
-    "play_count_total": 30,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 08:07:27Z",
-    "last_played_vienna": "2026-09-15 10:07:27 MESZ",
-    "source": "Shared Library"
   },
   {
     "artist": "Alfa Mist",
@@ -548,5 +526,27 @@
     "last_played": "2026-09-15 17:23:57Z",
     "last_played_vienna": "2026-09-15 19:23:57 MESZ",
     "source": "Shared Library"
+  },
+  {
+    "artist": "Sting",
+    "title": "Fields Of Gold (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 56,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-15 21:45:28Z",
+    "last_played_vienna": "2026-09-15 23:45:28 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Celtic Siren Noreen",
+    "title": "Snow on the Crown V.1",
+    "type": "Station-Specific",
+    "play_count_total": 36,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-16 02:12:03Z",
+    "last_played_vienna": "2026-09-16 04:12:03 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   }
 ]

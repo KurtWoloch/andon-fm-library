@@ -480,18 +480,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "SDP",
-    "title": "Mama hat gesagt",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-08 14:38:29Z",
-    "last_played_vienna": "2026-06-08 16:38:29 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "The Beatles",
     "title": "You Never Give Me Your Money (2019 Mix)",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-06-14 22:18:19Z",
     "last_played_vienna": "2026-06-15 00:18:19 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Timmy Thomas",
+    "title": "Why Can't We Live Together",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-06-15 02:35:27Z",
+    "last_played_vienna": "2026-06-15 04:35:27 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

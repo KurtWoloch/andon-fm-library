@@ -384,24 +384,12 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Earth, Wind & Fire",
-    "title": "Let's Groove (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 17:45:34Z",
-    "last_played_vienna": "2026-10-04 19:45:34 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Khruangbin",
     "title": "Texas Sun",
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-05 00:07:04Z",
     "last_played_vienna": "2026-10-05 02:07:04 MESZ",
     "file_id": "",
@@ -528,18 +516,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Foghat",
-    "title": "Burnin' the Midnight Oil",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-15 20:44:31Z",
-    "last_played_vienna": "2026-06-15 22:44:31 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Van Halen",
     "title": "Why Can't This Be Love",
     "type": "Station-Specific",
@@ -596,6 +572,30 @@
     "play_count_24h": 0,
     "last_played": "2026-07-22 19:15:17Z",
     "last_played_vienna": "2026-07-22 21:15:17 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Have Yourself A Merry Little Christmas (Remastered 1999)",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-07-22 19:19:17Z",
+    "last_played_vienna": "2026-07-22 21:19:17 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Christ.Tec",
+    "title": "RASENSCHACH",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-08-17 12:16:52Z",
+    "last_played_vienna": "2026-08-17 14:16:52 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
