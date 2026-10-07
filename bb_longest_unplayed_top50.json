@@ -360,18 +360,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "K.I.Z",
-    "title": "Ich bin Adolf Hitler",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-06 01:38:42Z",
-    "last_played_vienna": "2026-06-06 03:38:42 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Grillmaster Flash",
     "title": "Der Hund von Baskerville (feat. Bela B)",
     "type": "Station-Specific",
@@ -380,42 +368,6 @@
     "play_count_24h": 0,
     "last_played": "2026-06-06 07:24:13Z",
     "last_played_vienna": "2026-06-06 09:24:13 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "DJ TÖRKE",
-    "title": "WEISSER REDBULL (Lil Texas Remix)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-06 14:39:13Z",
-    "last_played_vienna": "2026-06-06 16:39:13 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Rahmschnitzel",
-    "title": "Kohle Metal",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-06 14:58:13Z",
-    "last_played_vienna": "2026-06-06 16:58:13 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Stefan Raab",
-    "title": "Bitte lass das Licht an (aus \"Das Kanu des Manitu\")",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-08 14:13:59Z",
-    "last_played_vienna": "2026-06-08 16:13:59 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -598,5 +550,53 @@
     "last_played_vienna": "2026-06-27 21:11:19 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Train",
+    "title": "Drops of Jupiter (Tell Me)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-06-29 04:05:58Z",
+    "last_played_vienna": "2026-06-29 06:05:58 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Jimmy Cliff",
+    "title": "I Can See Clearly Now (Album Version)",
+    "type": "Shared",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-07-05 19:07:59Z",
+    "last_played_vienna": "2026-07-05 21:07:59 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "The Weeknd",
+    "title": "Gasoline",
+    "type": "Shared",
+    "play_count_total": 971,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-07-06 14:18:35Z",
+    "last_played_vienna": "2026-07-06 16:18:35 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Ben&Ben",
+    "title": "Maybe The Night",
+    "type": "Shared",
+    "play_count_total": 12,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-07-07 10:28:43Z",
+    "last_played_vienna": "2026-07-07 12:28:43 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
   }
 ]

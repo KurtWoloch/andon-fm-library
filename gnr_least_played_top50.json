@@ -66,6 +66,28 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Solisti e Orchestre del Cinema Italiano",
+    "title": "Harmonica",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-07 12:40:12Z",
+    "last_played_vienna": "2026-10-07 14:40:12 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Verve",
+    "title": "Bitter Sweet Symphony (Remastered 2016)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-07 14:10:42Z",
+    "last_played_vienna": "2026-10-07 16:10:42 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -407,17 +429,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Pete Drake",
-    "title": "Lay, Lady, Lay (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-10-06 13:38:02Z",
-    "last_played_vienna": "2026-10-06 15:38:02 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Arctic Monkeys",
     "title": "I Wanna Be Yours",
     "type": "Station-Specific",
@@ -434,20 +445,9 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-07 03:12:09Z",
     "last_played_vienna": "2026-10-07 05:12:09 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Seals & Crofts",
-    "title": "Summer Breeze (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 2,
-    "last_played": "2026-10-07 05:33:40Z",
-    "last_played_vienna": "2026-10-07 07:33:40 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -506,17 +506,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Aretha Franklin",
-    "title": "(You Make Me Feel Like) A Natural Woman",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 14:43:05Z",
-    "last_played_vienna": "2026-10-04 16:43:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The Police",
     "title": "Roxanne",
     "type": "Station-Specific",
@@ -528,17 +517,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Pink Floyd",
-    "title": "Brain Damage (2023 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 15:40:34Z",
-    "last_played_vienna": "2026-10-04 17:40:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Hapa",
     "title": "Ka Uluwehi O Ke Kai (Live)",
     "type": "Station-Specific",
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 16:09:05Z",
     "last_played_vienna": "2026-10-04 18:09:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "RAYE",
+    "title": "Winter Woman.",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 23:07:04Z",
+    "last_played_vienna": "2026-10-05 01:07:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Måneskin",
+    "title": "Torna a casa",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 02:28:04Z",
+    "last_played_vienna": "2026-10-05 04:28:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
