@@ -504,42 +504,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Across Boundaries",
-    "title": "Sakura",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-19 20:09:33Z",
-    "last_played_vienna": "2026-09-19 22:09:33 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Atlas Genius",
-    "title": "If So",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 08:48:22Z",
-    "last_played_vienna": "2026-10-02 10:48:22 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Confetti",
-    "title": "People Suck [Explicit]",
-    "type": "Shared",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 09:24:23Z",
-    "last_played_vienna": "2026-10-02 11:24:23 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
     "artist": "The Magnetic Fields",
     "title": "Papa Was a Rodeo",
     "type": "Station-Specific",
@@ -596,6 +560,42 @@
     "play_count_24h": 0,
     "last_played": "2026-10-05 13:20:41Z",
     "last_played_vienna": "2026-10-05 15:20:41 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Mary Jane Holland",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 13:25:41Z",
+    "last_played_vienna": "2026-10-05 15:25:41 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Aerosmith",
+    "title": "Round And Round",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 17:05:15Z",
+    "last_played_vienna": "2026-10-05 19:05:15 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "Let's Groove (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 21:59:19Z",
+    "last_played_vienna": "2026-10-05 23:59:19 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
