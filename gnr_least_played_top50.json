@@ -176,17 +176,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
-    "title": "Highway to Hell",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-01 03:45:41Z",
-    "last_played_vienna": "2026-10-01 05:45:41 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Pink Floyd",
     "title": "Breathe (In the Air)",
     "type": "Station-Specific",
@@ -374,6 +363,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
+    "title": "Highway to Hell",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-07 19:03:43Z",
+    "last_played_vienna": "2026-10-07 21:03:43 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Solar Void",
     "title": "Krieg Field Manual: Straight to Shovel",
     "type": "Station-Specific",
@@ -418,23 +418,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Elton John",
-    "title": "The One",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-06 02:02:23Z",
-    "last_played_vienna": "2026-10-06 04:02:23 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Arctic Monkeys",
     "title": "I Wanna Be Yours",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-06 17:30:34Z",
     "last_played_vienna": "2026-10-06 19:30:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -448,17 +437,6 @@
     "play_count_24h": 1,
     "last_played": "2026-10-07 03:12:09Z",
     "last_played_vienna": "2026-10-07 05:12:09 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Eric Clapton",
-    "title": "Double Trouble (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 3,
-    "last_played": "2026-10-07 07:18:11Z",
-    "last_played_vienna": "2026-10-07 09:18:11 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-05 02:28:04Z",
     "last_played_vienna": "2026-10-05 04:28:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "RAYE",
+    "title": "Click Clack Symphony. (feat. Hans Zimmer)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 06:43:34Z",
+    "last_played_vienna": "2026-10-05 08:43:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Red Hot Chili Peppers",
+    "title": "Californication",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 0,
+    "last_played": "2026-10-06 01:16:52Z",
+    "last_played_vienna": "2026-10-06 03:16:52 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

@@ -143,17 +143,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Ethel Cain",
-    "title": "Punish",
-    "type": "Shared",
-    "play_count_total": 61,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-27 03:55:18Z",
-    "last_played_vienna": "2026-08-27 05:55:18 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Confetti",
     "title": "People Suck [Explicit]",
     "type": "Shared",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-16 02:45:32Z",
     "last_played_vienna": "2026-09-16 04:45:32 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Tate McRae",
+    "title": "TIT FOR TAT",
+    "type": "Shared",
+    "play_count_total": 20,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-16 02:48:32Z",
+    "last_played_vienna": "2026-09-16 04:48:32 MESZ",
     "source": "Shared Library"
   }
 ]
