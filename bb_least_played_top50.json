@@ -288,18 +288,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "die ärzte",
-    "title": "Junge (Economy Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-17 21:15:53Z",
-    "last_played_vienna": "2026-08-17 23:15:53 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Peter Wackel",
     "title": "Ich verkaufe meinen Körper",
     "type": "Station-Specific",
@@ -520,22 +508,10 @@
     "title": "Sakura",
     "type": "Station-Specific",
     "play_count_total": 2,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-09-19 20:09:33Z",
     "last_played_vienna": "2026-09-19 22:09:33 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Green Day",
-    "title": "American Idiot (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-27 22:28:45Z",
-    "last_played_vienna": "2026-09-28 00:28:45 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -564,18 +540,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "OneRepublic",
-    "title": "I Lived",
-    "type": "Shared",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 09:58:23Z",
-    "last_played_vienna": "2026-10-02 11:58:23 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
     "artist": "The Magnetic Fields",
     "title": "Papa Was a Rodeo",
     "type": "Station-Specific",
@@ -596,6 +560,42 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 03:39:01Z",
     "last_played_vienna": "2026-10-04 05:39:01 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "The Magnetic Fields",
+    "title": "The Luckiest Guy on the Lower East Side",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 04:13:03Z",
+    "last_played_vienna": "2026-10-05 06:13:03 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Dua Lipa",
+    "title": "Don't Start Now",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 04:49:04Z",
+    "last_played_vienna": "2026-10-05 06:49:04 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Chris Stapleton",
+    "title": "White Horse",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 13:20:41Z",
+    "last_played_vienna": "2026-10-05 15:20:41 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
