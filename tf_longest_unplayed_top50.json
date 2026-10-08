@@ -462,17 +462,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Bert Kaempfert",
-    "title": "A Swingin' Safari",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-25 05:08:32Z",
-    "last_played_vienna": "2026-08-25 07:08:32 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Life Without The Living",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-08-28 13:54:24Z",
     "last_played_vienna": "2026-08-28 15:54:24 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Weird Al Yankovic",
+    "title": "Ode to a Superhero (Parody of \"Piano Man\" by Billy Joel)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-08-28 18:10:25Z",
+    "last_played_vienna": "2026-08-28 20:10:25 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
