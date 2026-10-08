@@ -504,18 +504,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "K.I.Z",
-    "title": "Ich bin Adolf Hitler",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-07 12:04:12Z",
-    "last_played_vienna": "2026-10-07 14:04:12 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Rahmschnitzel",
     "title": "Kohle Metal",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-09-04 23:49:13Z",
     "last_played_vienna": "2026-09-05 01:49:13 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Paul Godwin Künstlerensemble",
+    "title": "Dr Toler-Hans-Tonl (Anton-Günther-Potpourri)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-18 06:40:22Z",
+    "last_played_vienna": "2026-09-18 08:40:22 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
