@@ -143,17 +143,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Michael Holm",
-    "title": "Barfuß im Regen",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-10-07 22:55:15Z",
-    "last_played_vienna": "2026-10-08 00:55:15 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Radiohead",
     "title": "Burn the Witch",
     "type": "Station-Specific",
@@ -264,14 +253,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Vicente Amigo",
-    "title": "Tangos del Arco Bajo (Tangos)",
+    "artist": "Michael Holm",
+    "title": "Barfuß im Regen",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
     "play_count_24h": 2,
-    "last_played": "2026-10-07 20:10:43Z",
-    "last_played_vienna": "2026-10-07 22:10:43 MESZ",
+    "last_played": "2026-10-08 03:22:49Z",
+    "last_played_vienna": "2026-10-08 05:22:49 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -352,17 +341,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
-    "title": "Highway to Hell",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-10-07 19:03:43Z",
-    "last_played_vienna": "2026-10-07 21:03:43 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Pink Floyd",
     "title": "Breathe (In the Air)",
     "type": "Station-Specific",
@@ -371,6 +349,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-08 00:05:17Z",
     "last_played_vienna": "2026-10-08 02:05:17 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Vicente Amigo",
+    "title": "Tangos del Arco Bajo (Tangos)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 3,
+    "last_played": "2026-10-08 03:25:19Z",
+    "last_played_vienna": "2026-10-08 05:25:19 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -434,7 +423,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-07 03:12:09Z",
     "last_played_vienna": "2026-10-07 05:12:09 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -451,47 +440,25 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
+    "title": "Highway to Hell",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 2,
+    "last_played": "2026-10-08 01:31:17Z",
+    "last_played_vienna": "2026-10-08 03:31:17 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "RAYE",
     "title": "Goodbye Henry. (feat. Al Green)",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-09-16 03:08:04Z",
     "last_played_vienna": "2026-09-16 05:08:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "George Benson",
-    "title": "Give Me the Night",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 13:29:04Z",
-    "last_played_vienna": "2026-10-04 15:29:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Al Jarreau",
-    "title": "We're in This Love Together",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 14:06:05Z",
-    "last_played_vienna": "2026-10-04 16:06:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The Police",
-    "title": "Roxanne",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 15:22:05Z",
-    "last_played_vienna": "2026-10-04 17:22:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -510,7 +477,7 @@
     "title": "Winter Woman.",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-10-04 23:07:04Z",
     "last_played_vienna": "2026-10-05 01:07:04 MESZ",
@@ -532,7 +499,7 @@
     "title": "Click Clack Symphony. (feat. Hans Zimmer)",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "play_count_24h": 0,
     "last_played": "2026-10-05 06:43:34Z",
     "last_played_vienna": "2026-10-05 08:43:34 MESZ",
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-10-06 01:16:52Z",
     "last_played_vienna": "2026-10-06 03:16:52 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Pete Drake",
+    "title": "Lay, Lady, Lay (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 1,
+    "last_played": "2026-10-07 11:36:41Z",
+    "last_played_vienna": "2026-10-07 13:36:41 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "David Garrett",
+    "title": "Enter Sandman",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 21:13:14Z",
+    "last_played_vienna": "2026-09-27 23:13:14 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "David Garrett",
+    "title": "Smells Like Teen Spirit",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 21:41:15Z",
+    "last_played_vienna": "2026-09-27 23:41:15 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
