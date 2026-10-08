@@ -36,18 +36,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Nine Inch Nails",
-    "title": "Physical (You're So) (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-05-24 17:59:27Z",
-    "last_played_vienna": "2026-05-24 19:59:27 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "The Weeknd",
     "title": "Open Hearts",
     "type": "Station-Specific",
@@ -504,18 +492,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Windows95Man",
-    "title": "No Rules!",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-21 01:00:22Z",
-    "last_played_vienna": "2026-06-21 03:00:22 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Hudson Brothers",
     "title": "- Rendezvous",
     "type": "Station-Specific",
@@ -588,14 +564,38 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Ben&Ben",
-    "title": "Maybe The Night",
+    "artist": "Bing Crosby",
+    "title": "White Christmas",
     "type": "Shared",
-    "play_count_total": 12,
+    "play_count_total": 2,
     "play_count_30d": 0,
     "play_count_24h": 0,
-    "last_played": "2026-07-07 10:28:43Z",
-    "last_played_vienna": "2026-07-07 12:28:43 MESZ",
+    "last_played": "2026-07-22 19:00:17Z",
+    "last_played_vienna": "2026-07-22 21:00:17 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "All I Want for Christmas Is You",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-07-22 19:04:17Z",
+    "last_played_vienna": "2026-07-22 21:04:17 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Brenda Lee",
+    "title": "Rockin' Around The Christmas Tree",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-07-22 19:13:18Z",
+    "last_played_vienna": "2026-07-22 21:13:18 MESZ",
     "file_id": "",
     "source": "Shared Library"
   }
