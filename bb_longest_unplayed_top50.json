@@ -216,18 +216,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "The Backseat Lovers",
-    "title": "Kilby Girl",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-14 07:02:18Z",
-    "last_played_vienna": "2026-06-14 09:02:18 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Emitt Rhodes",
     "title": "Somebody Made For Me",
     "type": "Station-Specific",
@@ -368,18 +356,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-03 16:32:02Z",
     "last_played_vienna": "2026-09-03 18:32:02 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Obie Fernandez",
-    "title": "Kimbara",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-04 23:49:13Z",
-    "last_played_vienna": "2026-09-05 01:49:13 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -596,6 +572,30 @@
     "play_count_24h": 0,
     "last_played": "2026-09-14 19:29:55Z",
     "last_played_vienna": "2026-09-14 21:29:55 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Obie Fernandez",
+    "title": "The Duel",
+    "type": "Station-Specific",
+    "play_count_total": 32,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-09-15 00:16:55Z",
+    "last_played_vienna": "2026-09-15 02:16:55 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Obie Fernandez",
+    "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 40,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-15 00:31:25Z",
+    "last_played_vienna": "2026-09-15 02:31:25 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

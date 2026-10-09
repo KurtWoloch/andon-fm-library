@@ -192,18 +192,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "The Backseat Lovers",
-    "title": "Kilby Girl",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-14 07:02:18Z",
-    "last_played_vienna": "2026-06-14 09:02:18 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -336,24 +324,12 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Rahmschnitzel",
-    "title": "Kohle Metal",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-07 12:42:42Z",
-    "last_played_vienna": "2026-10-07 14:42:42 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Miksu / Macloud",
     "title": "Nachts wach",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-08 00:28:46Z",
     "last_played_vienna": "2026-10-08 02:28:46 MESZ",
     "file_id": "",
@@ -528,18 +504,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Obie Fernandez",
-    "title": "Kimbara",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-04 23:49:13Z",
-    "last_played_vienna": "2026-09-05 01:49:13 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Paul Godwin Künstlerensemble",
     "title": "Dr Toler-Hans-Tonl (Anton-Günther-Potpourri)",
     "type": "Station-Specific",
@@ -596,6 +560,42 @@
     "play_count_24h": 0,
     "last_played": "2026-10-02 14:43:23Z",
     "last_played_vienna": "2026-10-02 16:43:23 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Jürgen Michaels",
+    "title": "Micha  (Was hast Du mir nur angetan?)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 17:46:54Z",
+    "last_played_vienna": "2026-10-02 19:46:54 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Bibi und Tina",
+    "title": "No Risk, no Fun (feat. Lina Larissa Strahl, Emilio Moutaoukkil)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-03 16:17:55Z",
+    "last_played_vienna": "2026-10-03 18:17:55 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "David Eisley",
+    "title": "Sweet Victory",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 02:38:00Z",
+    "last_played_vienna": "2026-10-04 04:38:00 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

@@ -154,17 +154,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Jack Johnson",
-    "title": "Upside Down",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-28 13:54:24Z",
-    "last_played_vienna": "2026-08-28 15:54:24 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "David Soul",
     "title": "Silver Lady",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-25 16:18:19Z",
     "last_played_vienna": "2026-09-25 18:18:19 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Sons Of Apollo",
+    "title": "Desolate July",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 16:24:49Z",
+    "last_played_vienna": "2026-09-25 18:24:49 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
