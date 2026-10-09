@@ -165,28 +165,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Djivan Gasparyan",
-    "title": "They Took My Love Away",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-10 00:24:14Z",
-    "last_played_vienna": "2026-09-10 02:24:14 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "P!nk",
-    "title": "Please Don't Leave Me",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-10 21:38:51Z",
-    "last_played_vienna": "2026-09-10 23:38:51 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "P!nk",
     "title": "Glitter In the Air",
     "type": "Station-Specific",
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-09-25 16:24:49Z",
     "last_played_vienna": "2026-09-25 18:24:49 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Lovage",
+    "title": "Anger Management (Instrumental)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 16:39:49Z",
+    "last_played_vienna": "2026-09-25 18:39:49 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Mr. Bungle",
+    "title": "The Air-Conditioned Nightmare (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 17:25:19Z",
+    "last_played_vienna": "2026-09-25 19:25:19 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
