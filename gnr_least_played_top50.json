@@ -81,7 +81,7 @@
     "title": "She",
     "type": "Station-Specific",
     "play_count_total": 2,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-09 12:47:12Z",
     "last_played_vienna": "2026-09-09 14:47:12 MESZ",
@@ -129,17 +129,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 15:16:34Z",
     "last_played_vienna": "2026-10-04 17:16:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The Rolling Stones",
-    "title": "Sympathy For The Devil",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 2,
-    "last_played": "2026-10-09 01:44:56Z",
-    "last_played_vienna": "2026-10-09 03:44:56 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -253,6 +242,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "The Rolling Stones",
+    "title": "Sympathy For The Devil",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 3,
+    "last_played": "2026-10-09 13:47:02Z",
+    "last_played_vienna": "2026-10-09 15:47:02 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -312,7 +312,7 @@
     "title": "Last Summer Whisper (From \"Anri\")",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-10-05 06:24:34Z",
     "last_played_vienna": "2026-10-05 08:24:34 MESZ",
@@ -324,20 +324,9 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-08 13:17:53Z",
     "last_played_vienna": "2026-10-08 15:17:53 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The Verve",
-    "title": "Bitter Sweet Symphony (Remastered 2016)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 2,
-    "last_played": "2026-10-09 00:29:25Z",
-    "last_played_vienna": "2026-10-09 02:29:25 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -434,9 +423,20 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-09 07:51:31Z",
     "last_played_vienna": "2026-10-09 09:51:31 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Verve",
+    "title": "Bitter Sweet Symphony (Remastered 2016)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 2,
+    "last_played": "2026-10-09 11:17:01Z",
+    "last_played_vienna": "2026-10-09 13:17:01 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -500,7 +500,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-08 11:36:23Z",
     "last_played_vienna": "2026-10-08 13:36:23 MESZ",
     "source": "Scraper Logs (GNR Play History)"

@@ -276,30 +276,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Chris Stapleton",
-    "title": "White Horse",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-05 13:20:41Z",
-    "last_played_vienna": "2026-10-05 15:20:41 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Lady Gaga",
-    "title": "Mary Jane Holland",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-05 13:25:41Z",
-    "last_played_vienna": "2026-10-05 15:25:41 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Ayşegül Aldinç",
     "title": "Haberi Yok",
     "type": "Station-Specific",
@@ -596,6 +572,30 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 04:03:02Z",
     "last_played_vienna": "2026-10-04 06:03:02 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "OneRepublic",
+    "title": "All The Right Moves",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 04:16:32Z",
+    "last_played_vienna": "2026-10-04 06:16:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Dj Rashad",
+    "title": "Drank, Kush, Barz (feat. DJ Spinn)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 10:00:34Z",
+    "last_played_vienna": "2026-10-04 12:00:34 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
