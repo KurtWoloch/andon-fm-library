@@ -114,7 +114,7 @@
     "title": "NEVER",
     "type": "Station-Specific",
     "play_count_total": 2,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-09 22:29:11Z",
     "last_played_vienna": "2026-09-10 00:29:11 MESZ",
@@ -225,7 +225,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-10-09 16:53:32Z",
     "last_played_vienna": "2026-10-09 18:53:32 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -246,7 +246,7 @@
     "title": "LIFE",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-09 23:34:13Z",
     "last_played_vienna": "2026-09-10 01:34:13 MESZ",
@@ -335,7 +335,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 4,
+    "play_count_24h": 3,
     "last_played": "2026-10-09 17:23:32Z",
     "last_played_vienna": "2026-10-09 19:23:32 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -429,23 +429,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The Verve",
-    "title": "Bitter Sweet Symphony (Remastered 2016)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 2,
-    "last_played": "2026-10-09 11:17:01Z",
-    "last_played_vienna": "2026-10-09 13:17:01 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "David Bowie",
     "title": "Let's Dance  (2018 Remaster)",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 5,
+    "play_count_24h": 4,
     "last_played": "2026-10-09 18:56:01Z",
     "last_played_vienna": "2026-10-09 20:56:01 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -514,6 +503,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-08 11:36:23Z",
     "last_played_vienna": "2026-10-08 13:36:23 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Verve",
+    "title": "Bitter Sweet Symphony (Remastered 2016)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 3,
+    "last_played": "2026-10-09 19:23:02Z",
+    "last_played_vienna": "2026-10-09 21:23:02 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {

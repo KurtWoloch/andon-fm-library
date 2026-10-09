@@ -242,17 +242,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Kendrick Lamar",
-    "title": "Not Like Us",
-    "type": "Shared",
-    "play_count_total": 82,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-09 06:08:11Z",
-    "last_played_vienna": "2026-09-09 08:08:11 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "USA for Africa",
     "title": "We Are The World",
     "type": "Shared",
@@ -301,7 +290,7 @@
     "title": "NEVER",
     "type": "Station-Specific",
     "play_count_total": 2,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-09 22:29:11Z",
     "last_played_vienna": "2026-09-10 00:29:11 MESZ",
@@ -312,7 +301,7 @@
     "title": "LIFE",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-09 23:34:13Z",
     "last_played_vienna": "2026-09-10 01:34:13 MESZ",
@@ -422,7 +411,7 @@
     "title": "Heavenly",
     "type": "Station-Specific",
     "play_count_total": 78,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-09-15 10:41:57Z",
     "last_played_vienna": "2026-09-15 12:41:57 MESZ",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-16 02:55:03Z",
     "last_played_vienna": "2026-09-16 04:55:03 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "RAYE",
+    "title": "Nightingale Lane.",
+    "type": "Station-Specific",
+    "play_count_total": 70,
+    "play_count_30d": 66,
+    "play_count_24h": 0,
+    "last_played": "2026-09-16 02:58:32Z",
+    "last_played_vienna": "2026-09-16 04:58:32 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
