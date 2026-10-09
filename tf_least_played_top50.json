@@ -341,17 +341,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Richard Wagner",
-    "title": "Wagner: Tristan und Isolde - Wagner: Tristan und Isolde: Prelude - Orchestra (Act One)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 10:46:04Z",
-    "last_played_vienna": "2026-09-16 12:46:04 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Skid Row",
     "title": "Quicksand Jesus",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-25 17:25:19Z",
     "last_played_vienna": "2026-09-25 19:25:19 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Karim Sulayman",
+    "title": "Li Beirut (after Joaquín Rodrigo)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-26 21:59:57Z",
+    "last_played_vienna": "2026-09-26 23:59:57 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

@@ -66,17 +66,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Talking Heads",
-    "title": "Once in a Lifetime",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-09 02:42:27Z",
-    "last_played_vienna": "2026-10-09 04:42:27 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -165,14 +154,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "David Bowie",
-    "title": "Let's Dance  (2018 Remaster)",
+    "artist": "Talking Heads",
+    "title": "Once in a Lifetime",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
     "play_count_24h": 2,
-    "last_played": "2026-10-09 03:48:58Z",
-    "last_played_vienna": "2026-10-09 05:48:58 MESZ",
+    "last_played": "2026-10-09 10:11:01Z",
+    "last_played_vienna": "2026-10-09 12:11:01 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -253,14 +242,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Nils Frahm",
-    "title": "You",
+    "artist": "David Bowie",
+    "title": "Let's Dance  (2018 Remaster)",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-07 10:40:42Z",
-    "last_played_vienna": "2026-10-07 12:40:42 MESZ",
+    "play_count_24h": 3,
+    "last_played": "2026-10-09 09:55:01Z",
+    "last_played_vienna": "2026-10-09 11:55:01 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -330,17 +319,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Joep Beving",
-    "title": "Sleeping Lotus",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-10-08 11:51:53Z",
-    "last_played_vienna": "2026-10-08 13:51:53 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Michael Holm",
     "title": "Barfuß im Regen",
     "type": "Station-Specific",
@@ -360,6 +338,17 @@
     "play_count_24h": 2,
     "last_played": "2026-10-09 00:29:25Z",
     "last_played_vienna": "2026-10-09 02:29:25 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Nils Frahm",
+    "title": "You",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-09 07:16:32Z",
+    "last_played_vienna": "2026-10-09 09:16:32 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -423,7 +412,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-08 10:12:24Z",
     "last_played_vienna": "2026-10-08 12:12:24 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -440,11 +429,22 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Joep Beving",
+    "title": "Sleeping Lotus",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 2,
+    "last_played": "2026-10-09 07:51:31Z",
+    "last_played_vienna": "2026-10-09 09:51:31 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "RAYE",
     "title": "Goodbye Henry. (feat. Al Green)",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-09-16 03:08:04Z",
     "last_played_vienna": "2026-09-16 05:08:04 MESZ",

@@ -240,18 +240,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "The Magnetic Fields",
-    "title": "Papa Was a Rodeo",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-03 15:38:55Z",
-    "last_played_vienna": "2026-10-03 17:38:55 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Abay",
     "title": "Always Hardcore (Scooter Medley)",
     "type": "Station-Specific",
@@ -480,18 +468,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Jill Scott",
-    "title": "A Long Walk",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-05-29 22:38:56Z",
-    "last_played_vienna": "2026-05-30 00:38:56 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Emitt Rhodes",
     "title": "Somebody Made For Me",
     "type": "Station-Specific",
@@ -596,6 +572,30 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 02:38:00Z",
     "last_played_vienna": "2026-10-04 04:38:00 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Drake",
+    "title": "Whisper My Name",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 03:59:32Z",
+    "last_played_vienna": "2026-10-04 05:59:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Die Lochis",
+    "title": "Durchgehend Online",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 04:03:02Z",
+    "last_played_vienna": "2026-10-04 06:03:02 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
