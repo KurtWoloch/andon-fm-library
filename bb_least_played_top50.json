@@ -144,18 +144,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Manipulation (Dance Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-05-29 03:49:55Z",
-    "last_played_vienna": "2026-05-29 05:49:55 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Aerosmith",
     "title": "Uncle Salty",
     "type": "Station-Specific",
@@ -468,54 +456,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Paul Godwin Künstlerensemble",
-    "title": "Dr Toler-Hans-Tonl (Anton-Günther-Potpourri)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-18 06:40:22Z",
-    "last_played_vienna": "2026-09-18 08:40:22 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Haftbefehl",
-    "title": "RADW",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-19 05:20:03Z",
-    "last_played_vienna": "2026-09-19 07:20:03 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Eisbrecher",
-    "title": "This is Deutsch",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-19 05:23:32Z",
-    "last_played_vienna": "2026-09-19 07:23:32 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "TV Girl",
-    "title": "It Almost Worked",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-28 23:54:20Z",
-    "last_played_vienna": "2026-09-29 01:54:20 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Halestorm",
     "title": "I Miss the Misery",
     "type": "Station-Specific",
@@ -596,6 +536,66 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 04:16:32Z",
     "last_played_vienna": "2026-10-04 06:16:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Dj Rashad",
+    "title": "Drank, Kush, Barz (feat. DJ Spinn)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 10:00:34Z",
+    "last_played_vienna": "2026-10-04 12:00:34 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Wishful Thinking",
+    "title": "Hiroshima",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 12:15:06Z",
+    "last_played_vienna": "2026-10-04 14:15:06 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Pebe Sebert",
+    "title": "City's Burning",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 12:24:34Z",
+    "last_played_vienna": "2026-10-04 14:24:34 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Ruffiction",
+    "title": "Wenn ich will (I’m DMA Remix)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 20:05:05Z",
+    "last_played_vienna": "2026-10-04 22:05:05 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "Pattern Recognition (feat. ODDEEO)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 20:54:35Z",
+    "last_played_vienna": "2026-10-04 22:54:35 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
