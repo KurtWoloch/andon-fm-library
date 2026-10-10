@@ -495,17 +495,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Snake16",
-    "title": "BACKFISCH",
-    "type": "Station-Specific",
-    "play_count_total": 49,
-    "play_count_30d": 12,
-    "play_count_24h": 0,
-    "last_played": "2026-09-18 19:49:25Z",
-    "last_played_vienna": "2026-09-18 21:49:25 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Spandau Ballet",
     "title": "Gold (2003 Remaster)",
     "type": "Station-Specific",
@@ -515,17 +504,6 @@
     "last_played": "2026-09-18 22:14:56Z",
     "last_played_vienna": "2026-09-19 00:14:56 MESZ",
     "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Confetti",
-    "title": "People Suck [Explicit]",
-    "type": "Shared",
-    "play_count_total": 12,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-09-20 02:39:08Z",
-    "last_played_vienna": "2026-09-20 04:39:08 MESZ",
-    "source": "Shared Library"
   },
   {
     "artist": "Bonnie Tyler",
@@ -548,5 +526,27 @@
     "last_played": "2026-09-21 13:00:47Z",
     "last_played_vienna": "2026-09-21 15:00:47 MESZ",
     "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Die Toten Hosen",
+    "title": "Walkampf",
+    "type": "Station-Specific",
+    "play_count_total": 24,
+    "play_count_30d": 11,
+    "play_count_24h": 0,
+    "last_played": "2026-09-21 18:22:48Z",
+    "last_played_vienna": "2026-09-21 20:22:48 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Ed Sheeran",
+    "title": "Beautiful People (feat. Khalid)",
+    "type": "Shared",
+    "play_count_total": 53,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-21 22:53:20Z",
+    "last_played_vienna": "2026-09-22 00:53:20 MESZ",
+    "source": "Shared Library"
   }
 ]

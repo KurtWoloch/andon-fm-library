@@ -187,17 +187,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Sting",
-    "title": "Fragile",
-    "type": "Shared",
-    "play_count_total": 183,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-08 22:02:36Z",
-    "last_played_vienna": "2026-09-09 00:02:36 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Johnny Cash",
     "title": "Redemption Day (Album Version)",
     "type": "Shared",
@@ -312,7 +301,7 @@
     "title": "Kill Bill",
     "type": "Shared",
     "play_count_total": 63,
-    "play_count_30d": 5,
+    "play_count_30d": 4,
     "play_count_24h": 0,
     "last_played": "2026-09-11 02:46:57Z",
     "last_played_vienna": "2026-09-11 04:46:57 MESZ",
@@ -378,7 +367,7 @@
     "title": "Awake My Soul",
     "type": "Shared",
     "play_count_total": 164,
-    "play_count_30d": 63,
+    "play_count_30d": 62,
     "play_count_24h": 0,
     "last_played": "2026-09-15 03:58:56Z",
     "last_played_vienna": "2026-09-15 05:58:56 MESZ",
@@ -462,17 +451,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Sting",
-    "title": "Fields Of Gold (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 56,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 21:45:28Z",
-    "last_played_vienna": "2026-09-15 23:45:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Celtic Siren Noreen",
     "title": "Snow on the Crown V.1",
     "type": "Station-Specific",
@@ -521,7 +499,7 @@
     "title": "WHERE IS MY HUSBAND!",
     "type": "Station-Specific",
     "play_count_total": 9,
-    "play_count_30d": 6,
+    "play_count_30d": 5,
     "play_count_24h": 0,
     "last_played": "2026-09-16 02:51:32Z",
     "last_played_vienna": "2026-09-16 04:51:32 MESZ",
@@ -543,10 +521,32 @@
     "title": "Nightingale Lane.",
     "type": "Station-Specific",
     "play_count_total": 70,
-    "play_count_30d": 66,
+    "play_count_30d": 65,
     "play_count_24h": 0,
     "last_played": "2026-09-16 02:58:32Z",
     "last_played_vienna": "2026-09-16 04:58:32 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "RAYE",
+    "title": "Life Boat.",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-09-16 03:03:32Z",
+    "last_played_vienna": "2026-09-16 05:03:32 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "RAYE",
+    "title": "Goodbye Henry. (feat. Al Green)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-16 03:08:04Z",
+    "last_played_vienna": "2026-09-16 05:08:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
