@@ -101,9 +101,21 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-09 21:24:02Z",
     "last_played_vienna": "2026-10-09 23:24:02 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Parcels",
+    "title": "Tieduprightnow",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-10 19:36:05Z",
+    "last_played_vienna": "2026-10-10 21:36:05 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -180,18 +192,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Mumford & Sons",
-    "title": "Little Lion Man",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 17:02:23Z",
-    "last_played_vienna": "2026-10-08 19:02:23 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Aerosmith",
     "title": "Adam's Apple",
     "type": "Station-Specific",
@@ -236,18 +236,6 @@
     "play_count_24h": 1,
     "last_played": "2026-10-10 12:03:03Z",
     "last_played_vienna": "2026-10-10 14:03:03 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Jürgen Michaels",
-    "title": "Micha  (Was hast Du mir nur angetan?)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 17:46:54Z",
-    "last_played_vienna": "2026-10-02 19:46:54 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -308,18 +296,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-07 00:26:36Z",
     "last_played_vienna": "2026-10-07 02:26:36 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Erlon Chaves",
-    "title": "Velvet Mornings  / Shabala",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-07 02:15:09Z",
-    "last_played_vienna": "2026-10-07 04:15:09 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -596,6 +572,30 @@
     "play_count_24h": 1,
     "last_played": "2026-10-10 12:30:32Z",
     "last_played_vienna": "2026-10-10 14:30:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Abor & Tynna",
+    "title": "Baller",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-10 13:57:33Z",
+    "last_played_vienna": "2026-10-10 15:57:33 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Abay",
+    "title": "Always Hardcore (Scooter Medley)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-10 14:05:03Z",
+    "last_played_vienna": "2026-10-10 16:05:03 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
