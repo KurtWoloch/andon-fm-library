@@ -330,17 +330,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Talking Heads",
-    "title": "Once in a Lifetime",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 3,
-    "last_played": "2026-10-10 05:32:04Z",
-    "last_played_vienna": "2026-10-10 07:32:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Solar Void",
     "title": "Krieg Field Manual: Straight to Shovel",
     "type": "Station-Specific",
@@ -434,7 +423,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-10-09 18:56:01Z",
     "last_played_vienna": "2026-10-09 20:56:01 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -459,6 +448,17 @@
     "play_count_24h": 3,
     "last_played": "2026-10-10 02:38:01Z",
     "last_played_vienna": "2026-10-10 04:38:01 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Talking Heads",
+    "title": "Once in a Lifetime",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 3,
+    "last_played": "2026-10-10 10:06:03Z",
+    "last_played_vienna": "2026-10-10 12:06:03 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -533,7 +533,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-09 19:23:02Z",
     "last_played_vienna": "2026-10-09 21:23:02 MESZ",
     "source": "Scraper Logs (GNR Play History)"

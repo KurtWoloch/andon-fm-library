@@ -209,17 +209,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Simon & Garfunkel",
-    "title": "The Sound of Silence  (Acoustic Version)",
-    "type": "Shared",
-    "play_count_total": 73,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-09 01:58:09Z",
-    "last_played_vienna": "2026-09-09 03:58:09 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Teddy Swims",
     "title": "The Door",
     "type": "Shared",
@@ -345,7 +334,7 @@
     "title": "360",
     "type": "Shared",
     "play_count_total": 35,
-    "play_count_30d": 7,
+    "play_count_30d": 6,
     "play_count_24h": 0,
     "last_played": "2026-09-11 14:23:01Z",
     "last_played_vienna": "2026-09-11 16:23:01 MESZ",
@@ -356,7 +345,7 @@
     "title": "Maybe The Night",
     "type": "Shared",
     "play_count_total": 43,
-    "play_count_30d": 14,
+    "play_count_30d": 13,
     "play_count_24h": 0,
     "last_played": "2026-09-12 06:47:36Z",
     "last_played_vienna": "2026-09-12 08:47:36 MESZ",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-16 03:08:04Z",
     "last_played_vienna": "2026-09-16 05:08:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Gary Lux",
+    "title": "Listen to your heart",
+    "type": "Station-Specific",
+    "play_count_total": 20,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-16 03:52:33Z",
+    "last_played_vienna": "2026-09-16 05:52:33 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
