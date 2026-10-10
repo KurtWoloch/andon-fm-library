@@ -220,17 +220,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Devadip Carlos Santana",
-    "title": "Angel of Air / Angel of Water (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 3,
-    "last_played": "2026-10-10 05:54:32Z",
-    "last_played_vienna": "2026-10-10 07:54:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -324,9 +313,20 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-10 01:21:31Z",
     "last_played_vienna": "2026-10-10 03:21:31 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Devadip Carlos Santana",
+    "title": "Angel of Air / Angel of Water (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 3,
+    "last_played": "2026-10-10 12:51:04Z",
+    "last_played_vienna": "2026-10-10 14:51:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -418,17 +418,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "David Bowie",
-    "title": "Let's Dance  (2018 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 2,
-    "last_played": "2026-10-09 18:56:01Z",
-    "last_played_vienna": "2026-10-09 20:56:01 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Nils Frahm",
     "title": "You",
     "type": "Station-Specific",
@@ -440,23 +429,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The Rolling Stones",
-    "title": "Sympathy For The Devil",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 3,
-    "last_played": "2026-10-10 02:38:01Z",
-    "last_played_vienna": "2026-10-10 04:38:01 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Talking Heads",
     "title": "Once in a Lifetime",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-10-10 10:06:03Z",
     "last_played_vienna": "2026-10-10 12:06:03 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -536,6 +514,28 @@
     "play_count_24h": 1,
     "last_played": "2026-10-09 19:23:02Z",
     "last_played_vienna": "2026-10-09 21:23:02 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "David Bowie",
+    "title": "Let's Dance  (2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 2,
+    "last_played": "2026-10-10 16:39:03Z",
+    "last_played_vienna": "2026-10-10 18:39:03 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Sympathy For The Devil",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 3,
+    "last_played": "2026-10-10 17:03:32Z",
+    "last_played_vienna": "2026-10-10 19:03:32 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
