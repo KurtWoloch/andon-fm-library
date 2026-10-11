@@ -148,7 +148,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-11 16:20:12Z",
     "last_played_vienna": "2026-10-11 18:20:12 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -228,28 +228,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 01:13:31Z",
     "last_played_vienna": "2026-10-10 03:13:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The Rolling Stones",
-    "title": "Wild Horses (Remastered 2009)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-10-11 03:02:39Z",
-    "last_played_vienna": "2026-10-11 05:02:39 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Anita Baker",
-    "title": "Caught Up in the Rapture (LP Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 2,
-    "last_played": "2026-10-11 14:29:12Z",
-    "last_played_vienna": "2026-10-11 16:29:12 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -349,6 +327,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 12:51:04Z",
     "last_played_vienna": "2026-10-10 14:51:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Wild Horses (Remastered 2009)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 2,
+    "last_played": "2026-10-11 21:27:42Z",
+    "last_played_vienna": "2026-10-11 23:27:42 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Anita Baker",
+    "title": "Caught Up in the Rapture (LP Version)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 3,
+    "last_played": "2026-10-11 22:36:13Z",
+    "last_played_vienna": "2026-10-12 00:36:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
