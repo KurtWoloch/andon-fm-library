@@ -60,18 +60,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "AYLIVA",
-    "title": "Renn!",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-04 13:36:37Z",
-    "last_played_vienna": "2026-06-04 15:36:37 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Timmy Thomas",
     "title": "Why Can't We Live Together",
     "type": "Station-Specific",
@@ -324,18 +312,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Lost in the Woods",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 02:26:55Z",
-    "last_played_vienna": "2026-09-15 04:26:55 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Sabrina Carpenter",
     "title": "Taste",
     "type": "Shared",
@@ -564,18 +540,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Steely Dan",
-    "title": "Home At Last",
-    "type": "Station-Specific",
-    "play_count_total": 43,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 13:49:04Z",
-    "last_played_vienna": "2026-09-16 15:49:04 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Rick Astley",
     "title": "Never Gonna Give You Up",
     "type": "Station-Specific",
@@ -598,5 +562,41 @@
     "last_played_vienna": "2026-09-16 19:41:35 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Adel Tawil",
+    "title": "Lieder (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 42,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-17 03:35:40Z",
+    "last_played_vienna": "2026-09-17 05:35:40 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "A Day In The Life (2017 Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 65,
+    "play_count_30d": 6,
+    "play_count_24h": 0,
+    "last_played": "2026-09-17 04:15:11Z",
+    "last_played_vienna": "2026-09-17 06:15:11 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Beck",
+    "title": "Loser",
+    "type": "Shared",
+    "play_count_total": 92,
+    "play_count_30d": 7,
+    "play_count_24h": 0,
+    "last_played": "2026-09-17 05:09:41Z",
+    "last_played_vienna": "2026-09-17 07:09:41 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
   }
 ]

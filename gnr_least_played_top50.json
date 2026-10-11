@@ -60,7 +60,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-10 03:25:31Z",
     "last_played_vienna": "2026-10-10 05:25:31 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -148,20 +148,9 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-10 03:01:31Z",
     "last_played_vienna": "2026-10-10 05:01:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The Rolling Stones",
-    "title": "Wild Horses (Remastered 2009)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 2,
-    "last_played": "2026-10-10 17:42:33Z",
-    "last_played_vienna": "2026-10-10 19:42:33 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -250,6 +239,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 01:13:31Z",
     "last_played_vienna": "2026-10-10 03:13:31 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Wild Horses (Remastered 2009)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-10-11 03:02:39Z",
+    "last_played_vienna": "2026-10-11 05:02:39 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -346,7 +346,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-10-10 12:51:04Z",
     "last_played_vienna": "2026-10-10 14:51:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -533,7 +533,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-10-10 23:26:05Z",
     "last_played_vienna": "2026-10-11 01:26:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
