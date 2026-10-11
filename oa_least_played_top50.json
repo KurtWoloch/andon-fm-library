@@ -429,17 +429,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Dio",
-    "title": "Holy Diver",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-10 16:09:02Z",
-    "last_played_vienna": "2026-10-10 18:09:02 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Ghostwriter",
     "title": "heart on my sleeve",
     "type": "Shared",
@@ -503,6 +492,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-11 07:32:11Z",
     "last_played_vienna": "2026-10-11 09:32:11 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Dio",
+    "title": "Holy Diver",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-11 18:07:41Z",
+    "last_played_vienna": "2026-10-11 20:07:41 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {

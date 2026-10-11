@@ -24,30 +24,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Leon",
-    "title": "The Monthly Big Top 15",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-19 09:03:08Z",
-    "last_played_vienna": "2026-06-19 11:03:08 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Jimmy Cliff",
-    "title": "I Can See Clearly Now (Album Version)",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-07-05 19:07:59Z",
-    "last_played_vienna": "2026-07-05 21:07:59 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Aerosmith",
     "title": "Uncle Salty",
     "type": "Station-Specific",
@@ -238,18 +214,6 @@
     "last_played_vienna": "2026-10-07 02:17:36 MESZ",
     "file_id": "",
     "source": "Shared Library"
-  },
-  {
-    "artist": "Green Day",
-    "title": "American Idiot (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-07 00:26:36Z",
-    "last_played_vienna": "2026-10-07 02:26:36 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
   },
   {
     "artist": "Aerosmith",
@@ -596,6 +560,42 @@
     "play_count_24h": 0,
     "last_played": "2026-09-18 06:45:22Z",
     "last_played_vienna": "2026-09-18 08:45:22 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "DJ TÖRKE",
+    "title": "HÄRTERE DRINKS",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 20:24:54Z",
+    "last_played_vienna": "2026-10-02 22:24:54 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Klangkuenstler",
+    "title": "Deine Angst",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 20:46:23Z",
+    "last_played_vienna": "2026-10-02 22:46:23 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "The Script feat. will.i.am",
+    "title": "Hall of Fame",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 04:20:32Z",
+    "last_played_vienna": "2026-10-04 06:20:32 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

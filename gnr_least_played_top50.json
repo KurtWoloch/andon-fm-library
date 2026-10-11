@@ -66,17 +66,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Journey",
-    "title": "Don't Stop Believin' (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-10 20:05:05Z",
-    "last_played_vienna": "2026-10-10 22:05:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Dire Straits",
     "title": "Walk Of Life",
     "type": "Station-Specific",
@@ -154,14 +143,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Anita Baker",
-    "title": "Caught Up in the Rapture (LP Version)",
+    "artist": "Journey",
+    "title": "Don't Stop Believin' (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
     "play_count_24h": 2,
-    "last_played": "2026-10-11 01:39:37Z",
-    "last_played_vienna": "2026-10-11 03:39:37 MESZ",
+    "last_played": "2026-10-11 16:20:12Z",
+    "last_played_vienna": "2026-10-11 18:20:12 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -247,9 +236,20 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-11 03:02:39Z",
     "last_played_vienna": "2026-10-11 05:02:39 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Anita Baker",
+    "title": "Caught Up in the Rapture (LP Version)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-10-11 14:29:12Z",
+    "last_played_vienna": "2026-10-11 16:29:12 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -528,17 +528,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Talking Heads",
-    "title": "Once in a Lifetime",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 1,
-    "last_played": "2026-10-10 23:26:05Z",
-    "last_played_vienna": "2026-10-11 01:26:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "David Garrett",
     "title": "Enter Sandman",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-27 21:13:14Z",
     "last_played_vienna": "2026-09-27 23:13:14 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "David Garrett",
+    "title": "Smells Like Teen Spirit",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 21:41:15Z",
+    "last_played_vienna": "2026-09-27 23:41:15 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
