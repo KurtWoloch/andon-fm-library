@@ -66,17 +66,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Anita Baker",
-    "title": "Caught Up in the Rapture (LP Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-10 17:31:33Z",
-    "last_played_vienna": "2026-10-10 19:31:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Journey",
     "title": "Don't Stop Believin' (Album Version)",
     "type": "Station-Specific",
@@ -85,6 +74,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-10 20:05:05Z",
     "last_played_vienna": "2026-10-10 22:05:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Dire Straits",
+    "title": "Walk Of Life",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-10 23:01:34Z",
+    "last_played_vienna": "2026-10-11 01:01:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -165,6 +165,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Anita Baker",
+    "title": "Caught Up in the Rapture (LP Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-10-11 01:39:37Z",
+    "last_played_vienna": "2026-10-11 03:39:37 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Radiohead",
     "title": "Burn the Witch",
     "type": "Station-Specific",
@@ -236,7 +247,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-10 01:13:31Z",
     "last_played_vienna": "2026-10-10 03:13:31 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -261,17 +272,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-28 22:40:18Z",
     "last_played_vienna": "2026-09-29 00:40:18 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Radiohead",
-    "title": "No Surprises",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 15:09:06Z",
-    "last_played_vienna": "2026-10-04 17:09:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -324,7 +324,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-10 00:12:31Z",
     "last_played_vienna": "2026-10-10 02:12:31 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -335,7 +335,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-10 01:21:31Z",
     "last_played_vienna": "2026-10-10 03:21:31 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -434,20 +434,20 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-10 01:18:32Z",
     "last_played_vienna": "2026-10-10 03:18:32 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Talking Heads",
-    "title": "Once in a Lifetime",
+    "artist": "Radiohead",
+    "title": "No Surprises",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
-    "last_played": "2026-10-10 10:06:03Z",
-    "last_played_vienna": "2026-10-10 12:06:03 MESZ",
+    "play_count_24h": 1,
+    "last_played": "2026-10-11 01:32:07Z",
+    "last_played_vienna": "2026-10-11 03:32:07 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -528,25 +528,25 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "David Bowie",
-    "title": "Let's Dance  (2018 Remaster)",
+    "artist": "Talking Heads",
+    "title": "Once in a Lifetime",
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 1,
-    "last_played": "2026-10-10 16:39:03Z",
-    "last_played_vienna": "2026-10-10 18:39:03 MESZ",
+    "play_count_24h": 3,
+    "last_played": "2026-10-10 23:26:05Z",
+    "last_played_vienna": "2026-10-11 01:26:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The Rolling Stones",
-    "title": "Sympathy For The Devil",
+    "artist": "David Garrett",
+    "title": "Enter Sandman",
     "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 2,
-    "last_played": "2026-10-10 17:03:32Z",
-    "last_played_vienna": "2026-10-10 19:03:32 MESZ",
+    "play_count_total": 7,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 21:13:14Z",
+    "last_played_vienna": "2026-09-27 23:13:14 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
