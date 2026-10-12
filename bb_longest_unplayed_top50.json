@@ -240,18 +240,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Taylor Swift",
-    "title": "Shake It Off",
-    "type": "Station-Specific",
-    "play_count_total": 52,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 07:26:57Z",
-    "last_played_vienna": "2026-09-15 09:26:57 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Sabrina Carpenter",
     "title": "Please Please Please",
     "type": "Shared",
@@ -334,30 +322,6 @@
     "last_played_vienna": "2026-09-16 01:40:29 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Teddy Swims",
-    "title": "The Door",
-    "type": "Shared",
-    "play_count_total": 104,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 02:12:31Z",
-    "last_played_vienna": "2026-09-16 04:12:31 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Beyoncé",
-    "title": "TEXAS HOLD 'EM",
-    "type": "Shared",
-    "play_count_total": 35,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 02:33:32Z",
-    "last_played_vienna": "2026-09-16 04:33:32 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
   },
   {
     "artist": "Die Fantastischen Vier",
@@ -484,24 +448,12 @@
     "title": "Er hat ein knallrotes Gummiboot",
     "type": "Station-Specific",
     "play_count_total": 11,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "play_count_24h": 0,
     "last_played": "2026-09-17 19:11:45Z",
     "last_played_vienna": "2026-09-17 21:11:45 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Pitbull",
-    "title": "Timber",
-    "type": "Shared",
-    "play_count_total": 64,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-09-17 23:05:14Z",
-    "last_played_vienna": "2026-09-18 01:05:14 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
   },
   {
     "artist": "Harry Styles",
@@ -512,30 +464,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-17 23:31:17Z",
     "last_played_vienna": "2026-09-18 01:31:17 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Shakira",
-    "title": "Hips Don't Lie",
-    "type": "Station-Specific",
-    "play_count_total": 95,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-09-17 23:37:46Z",
-    "last_played_vienna": "2026-09-18 01:37:46 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Backstreet Boys",
-    "title": "I Want It That Way",
-    "type": "Shared",
-    "play_count_total": 49,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-09-17 23:58:46Z",
-    "last_played_vienna": "2026-09-18 01:58:46 MESZ",
     "file_id": "",
     "source": "Shared Library"
   },
@@ -588,15 +516,87 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Bruno Mars",
-    "title": "Gorilla",
-    "type": "Shared",
-    "play_count_total": 6,
+    "artist": "Mitja Nikisch und sein Orchester",
+    "title": "Ich kann, ich will (From \"Lord Byron of Broadway\")",
+    "type": "Station-Specific",
+    "play_count_total": 23,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-19 18:05:33Z",
+    "last_played_vienna": "2026-09-19 20:05:33 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Mr. President",
+    "title": "Don't You Ever Stop",
+    "type": "Station-Specific",
+    "play_count_total": 28,
     "play_count_30d": 5,
     "play_count_24h": 0,
-    "last_played": "2026-09-19 12:43:03Z",
-    "last_played_vienna": "2026-09-19 14:43:03 MESZ",
+    "last_played": "2026-09-23 15:38:04Z",
+    "last_played_vienna": "2026-09-23 17:38:04 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Culture Beat",
+    "title": "I Like You",
+    "type": "Station-Specific",
+    "play_count_total": 46,
+    "play_count_30d": 6,
+    "play_count_24h": 0,
+    "last_played": "2026-09-23 15:46:33Z",
+    "last_played_vienna": "2026-09-23 17:46:33 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Lucilectric",
+    "title": "Mädchen (Mädchen-Radio-Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 42,
+    "play_count_30d": 6,
+    "play_count_24h": 0,
+    "last_played": "2026-09-23 15:51:33Z",
+    "last_played_vienna": "2026-09-23 17:51:33 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Passion Fruit",
+    "title": "The Rigga-Ding-Dong-Song (Radio Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 27,
+    "play_count_30d": 6,
+    "play_count_24h": 0,
+    "last_played": "2026-09-23 15:55:33Z",
+    "last_played_vienna": "2026-09-23 17:55:33 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Khalid",
+    "title": "momentary lovers",
+    "type": "Shared",
+    "play_count_total": 28,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 22:54:20Z",
+    "last_played_vienna": "2026-09-26 00:54:20 MESZ",
     "file_id": "",
     "source": "Shared Library"
+  },
+  {
+    "artist": "Hurra Kinderlieder",
+    "title": "Katzenklo",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 5,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 11:15:41Z",
+    "last_played_vienna": "2026-09-27 13:15:41 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
   }
 ]

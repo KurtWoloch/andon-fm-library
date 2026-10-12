@@ -97,18 +97,6 @@
   },
   {
     "artist": "Aerosmith",
-    "title": "Adam's Apple",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 17:11:23Z",
-    "last_played_vienna": "2026-10-08 19:11:23 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Aerosmith",
     "title": "Big Ten Inch Record",
     "type": "Station-Specific",
     "play_count_total": 2,
@@ -512,6 +500,18 @@
     "play_count_24h": 1,
     "last_played": "2026-10-12 11:19:20Z",
     "last_played_vienna": "2026-10-12 13:19:20 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Aerosmith",
+    "title": "Adam's Apple",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-12 17:19:51Z",
+    "last_played_vienna": "2026-10-12 19:19:51 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
