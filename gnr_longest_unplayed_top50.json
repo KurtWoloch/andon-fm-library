@@ -198,17 +198,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Teddy Swims",
-    "title": "The Door",
-    "type": "Shared",
-    "play_count_total": 31,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-09 02:28:10Z",
-    "last_played_vienna": "2026-09-09 04:28:10 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "USA for Africa",
     "title": "We Are The World",
     "type": "Shared",
@@ -330,17 +319,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Mumford & Sons",
-    "title": "Awake My Soul",
-    "type": "Shared",
-    "play_count_total": 164,
-    "play_count_30d": 44,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 03:58:56Z",
-    "last_played_vienna": "2026-09-15 05:58:56 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "DJ Cam Quartet",
     "title": "Everybody Loves the Sunshine",
     "type": "Station-Specific",
@@ -455,7 +433,7 @@
     "title": "Nightingale Lane.",
     "type": "Station-Specific",
     "play_count_total": 70,
-    "play_count_30d": 46,
+    "play_count_30d": 42,
     "play_count_24h": 0,
     "last_played": "2026-09-16 02:58:32Z",
     "last_played_vienna": "2026-09-16 04:58:32 MESZ",
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-09-16 08:48:34Z",
     "last_played_vienna": "2026-09-16 10:48:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "This Empty Nest",
+    "type": "Station-Specific",
+    "play_count_total": 78,
+    "play_count_30d": 42,
+    "play_count_24h": 0,
+    "last_played": "2026-09-16 08:54:34Z",
+    "last_played_vienna": "2026-09-16 10:54:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "Honeymoon Phase (Grudgy Pajamas Version)",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-16 08:58:35Z",
+    "last_played_vienna": "2026-09-16 10:58:35 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
