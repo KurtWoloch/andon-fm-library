@@ -324,20 +324,9 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-11 21:27:42Z",
     "last_played_vienna": "2026-10-11 23:27:42 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Anita Baker",
-    "title": "Caught Up in the Rapture (LP Version)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 2,
-    "last_played": "2026-10-11 22:36:13Z",
-    "last_played_vienna": "2026-10-12 00:36:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -429,14 +418,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Devadip Carlos Santana",
-    "title": "Angel of Air / Angel of Water (Album Version)",
+    "artist": "Anita Baker",
+    "title": "Caught Up in the Rapture (LP Version)",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-10-12 02:23:47Z",
-    "last_played_vienna": "2026-10-12 04:23:47 MESZ",
+    "play_count_24h": 3,
+    "last_played": "2026-10-12 06:31:49Z",
+    "last_played_vienna": "2026-10-12 08:31:49 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -525,6 +514,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-11 23:25:14Z",
     "last_played_vienna": "2026-10-12 01:25:14 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Devadip Carlos Santana",
+    "title": "Angel of Air / Angel of Water (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 2,
+    "last_played": "2026-10-12 06:46:19Z",
+    "last_played_vienna": "2026-10-12 08:46:19 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {

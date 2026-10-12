@@ -300,18 +300,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Manipulation (Dance Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-09 23:43:32Z",
-    "last_played_vienna": "2026-10-10 01:43:32 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "The Magnetic Fields",
     "title": "The Luckiest Guy on the Lower East Side",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 04:20:32Z",
     "last_played_vienna": "2026-10-04 06:20:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Corey Taylor",
+    "title": "Snuff (Cover / Live in London, '16)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 12:20:05Z",
+    "last_played_vienna": "2026-10-04 14:20:05 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
