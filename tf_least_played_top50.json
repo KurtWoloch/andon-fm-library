@@ -319,39 +319,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Murray Gold",
-    "title": "A Good Man? (Twelve's Theme)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-22 17:42:01Z",
-    "last_played_vienna": "2026-09-22 19:42:01 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "U2",
-    "title": "The Fly (Remastered 2011)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-22 17:50:30Z",
-    "last_played_vienna": "2026-09-22 19:50:30 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Skid Row",
-    "title": "I Remember You",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-22 18:04:30Z",
-    "last_played_vienna": "2026-09-22 20:04:30 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Bloodhound Gang",
     "title": "Mope (Album Version)",
     "type": "Station-Specific",
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-10-02 19:37:23Z",
     "last_played_vienna": "2026-10-02 21:37:23 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Julian Lage",
+    "title": "Emily",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-03 21:43:25Z",
+    "last_played_vienna": "2026-10-03 23:43:25 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Scott Carlin",
+    "title": "Fragile",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-06 02:06:22Z",
+    "last_played_vienna": "2026-10-06 04:06:22 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Extreme",
+    "title": "More Than Words",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-06 13:40:04Z",
+    "last_played_vienna": "2026-10-06 15:40:04 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
