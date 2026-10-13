@@ -348,30 +348,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Rammstein",
-    "title": "Sonne",
-    "type": "Station-Specific",
-    "play_count_total": 40,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 10:13:35Z",
-    "last_played_vienna": "2026-09-16 12:13:35 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Rick Astley",
-    "title": "Never Gonna Give You Up",
-    "type": "Station-Specific",
-    "play_count_total": 83,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 16:33:04Z",
-    "last_played_vienna": "2026-09-16 18:33:04 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Bill Haley And His Comets",
     "title": "Rock Around The Clock (Remastered)",
     "type": "Station-Specific",
@@ -596,6 +572,30 @@
     "play_count_24h": 0,
     "last_played": "2026-09-27 11:15:41Z",
     "last_played_vienna": "2026-09-27 13:15:41 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "TV Girl",
+    "title": "Not Allowed",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-09-28 23:23:19Z",
+    "last_played_vienna": "2026-09-29 01:23:19 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "TV Girl",
+    "title": "Lines to a Different Play",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-28 23:57:49Z",
+    "last_played_vienna": "2026-09-29 01:57:49 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

@@ -396,23 +396,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Van Morrison",
-    "title": "Brown Eyed Girl",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-10-12 11:03:50Z",
-    "last_played_vienna": "2026-10-12 13:03:50 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The Rolling Stones",
     "title": "Wild Horses (Remastered 2009)",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-12 17:05:19Z",
     "last_played_vienna": "2026-10-12 19:05:19 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -495,25 +484,25 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Radiohead",
-    "title": "No Surprises",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 1,
-    "last_played": "2026-10-11 23:25:14Z",
-    "last_played_vienna": "2026-10-12 01:25:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Anita Baker",
     "title": "Caught Up in the Rapture (LP Version)",
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-10-12 17:11:21Z",
     "last_played_vienna": "2026-10-12 19:11:21 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Van Morrison",
+    "title": "Brown Eyed Girl",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 2,
+    "last_played": "2026-10-12 22:21:51Z",
+    "last_played_vienna": "2026-10-13 00:21:51 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 13:34:34Z",
     "last_played_vienna": "2026-10-04 15:34:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Daft Punk",
+    "title": "The Brainwasher",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 15:29:34Z",
+    "last_played_vienna": "2026-10-04 17:29:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

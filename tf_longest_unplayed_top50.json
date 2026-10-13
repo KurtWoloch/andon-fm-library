@@ -341,50 +341,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Greg Shilling",
-    "title": "Shampoo",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-22 18:07:43Z",
-    "last_played_vienna": "2026-08-22 20:07:43 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Tom Konkle",
-    "title": "Light Bulb In My Head",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-23 13:50:19Z",
-    "last_played_vienna": "2026-08-23 15:50:19 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Sabrina Carpenter",
-    "title": "Taste",
-    "type": "Shared",
-    "play_count_total": 45,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-23 15:31:19Z",
-    "last_played_vienna": "2026-08-23 17:31:19 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Michael Bublé",
-    "title": "Crazy (with Jon Batiste & Stay Human)  (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-24 16:43:27Z",
-    "last_played_vienna": "2026-08-24 18:43:27 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Life Without The Living",
     "type": "Station-Specific",
@@ -484,17 +440,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Steely Dan",
-    "title": "Jack of Speed (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-02 16:46:23Z",
-    "last_played_vienna": "2026-09-02 18:46:23 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Jonathan Parecki",
     "title": "Senbonzakura (Hatsune Miku)",
     "type": "Station-Specific",
@@ -503,17 +448,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-02 17:36:53Z",
     "last_played_vienna": "2026-09-02 19:36:53 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Alabama 3",
-    "title": "Thank you",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-03 09:23:00Z",
-    "last_played_vienna": "2026-09-03 11:23:00 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -528,17 +462,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Hans Tanz",
-    "title": "Neues Land",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-04 02:56:37Z",
-    "last_played_vienna": "2026-09-04 04:56:37 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Wolfsheim",
     "title": "Künstliche Welten",
     "type": "Station-Specific",
@@ -547,6 +470,83 @@
     "play_count_24h": 0,
     "last_played": "2026-09-04 07:26:39Z",
     "last_played_vienna": "2026-09-04 09:26:39 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "MC WINDHUND",
+    "title": "Uschi (Trance Edit)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-04 09:18:39Z",
+    "last_played_vienna": "2026-09-04 11:18:39 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Maxwell",
+    "title": "Ascension (No One's Gonna Love You, So Don't Ever Wonder)[The Tribute][Cut]",
+    "type": "Station-Specific",
+    "play_count_total": 42,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 10:34:18Z",
+    "last_played_vienna": "2026-09-05 12:34:18 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "The Velvet Underground",
+    "title": "Sweet Jane   (Full Length Versio",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 10:40:18Z",
+    "last_played_vienna": "2026-09-05 12:40:18 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Alestorm",
+    "title": "Captain Morgan`s Revenge",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 12:18:18Z",
+    "last_played_vienna": "2026-09-05 14:18:18 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Sadie Jean",
+    "title": "WYD Now?",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 15:30:18Z",
+    "last_played_vienna": "2026-09-05 17:30:18 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Filippo Beck Peccoz",
+    "title": "The Thieves of Imai",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 17:05:18Z",
+    "last_played_vienna": "2026-09-05 19:05:18 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Filippo Beck Peccoz",
+    "title": "Desperados III Main Theme",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 17:08:48Z",
+    "last_played_vienna": "2026-09-05 19:08:48 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
