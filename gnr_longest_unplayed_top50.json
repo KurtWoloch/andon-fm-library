@@ -286,28 +286,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Charli XCX",
-    "title": "360",
-    "type": "Shared",
-    "play_count_total": 35,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-11 14:23:01Z",
-    "last_played_vienna": "2026-09-11 16:23:01 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "DJ Cam Quartet",
-    "title": "Everybody Loves the Sunshine",
-    "type": "Station-Specific",
-    "play_count_total": 188,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 07:55:57Z",
-    "last_played_vienna": "2026-09-15 09:55:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Cigarettes After Sex",
     "title": "Heavenly",
     "type": "Station-Specific",
@@ -411,7 +389,7 @@
     "title": "Nightingale Lane.",
     "type": "Station-Specific",
     "play_count_total": 70,
-    "play_count_30d": 30,
+    "play_count_30d": 29,
     "play_count_24h": 0,
     "last_played": "2026-09-16 02:58:32Z",
     "last_played_vienna": "2026-09-16 04:58:32 MESZ",
@@ -499,7 +477,7 @@
     "title": "This Empty Nest",
     "type": "Station-Specific",
     "play_count_total": 78,
-    "play_count_30d": 31,
+    "play_count_30d": 29,
     "play_count_24h": 0,
     "last_played": "2026-09-16 08:54:34Z",
     "last_played_vienna": "2026-09-16 10:54:34 MESZ",
@@ -548,5 +526,27 @@
     "last_played": "2026-09-24 15:15:42Z",
     "last_played_vienna": "2026-09-24 17:15:42 MESZ",
     "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "WillyB",
+    "title": "Egyptus",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 00:18:14Z",
+    "last_played_vienna": "2026-09-25 02:18:14 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Dave Brubeck Quartet",
+    "title": "Take Five",
+    "type": "Shared",
+    "play_count_total": 241,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 02:06:46Z",
+    "last_played_vienna": "2026-09-25 04:06:46 MESZ",
+    "source": "Shared Library"
   }
 ]
