@@ -286,17 +286,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "The xx",
-    "title": "Intro",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 10:07:04Z",
-    "last_played_vienna": "2026-09-16 12:07:04 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Skid Row",
     "title": "Quicksand Jesus",
     "type": "Station-Specific",
@@ -305,17 +294,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-16 15:51:34Z",
     "last_played_vienna": "2026-09-16 17:51:34 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Brian Eno",
-    "title": "Spinning Away",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 18:24:34Z",
-    "last_played_vienna": "2026-09-16 20:24:34 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-02 15:12:53Z",
     "last_played_vienna": "2026-10-02 17:12:53 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "David Byrne",
+    "title": "Everybody's Coming to My House (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 15:35:23Z",
+    "last_played_vienna": "2026-10-02 17:35:23 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Montaigne",
+    "title": "Technicolour",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 15:45:23Z",
+    "last_played_vienna": "2026-10-02 17:45:23 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
