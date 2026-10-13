@@ -155,28 +155,6 @@
   },
   {
     "artist": "P!nk",
-    "title": "Glitter In the Air",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-10 21:43:21Z",
-    "last_played_vienna": "2026-09-10 23:43:21 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "P!nk",
-    "title": "What About Us",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-10 21:47:51Z",
-    "last_played_vienna": "2026-09-10 23:47:51 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "P!nk",
     "title": "Family Portrait",
     "type": "Station-Specific",
     "play_count_total": 1,
@@ -349,17 +327,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-18 18:57:25Z",
     "last_played_vienna": "2026-09-18 20:57:25 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "U2",
-    "title": "All Along The Watchtower (Live - Rattle & Hum Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-18 20:17:55Z",
-    "last_played_vienna": "2026-09-18 22:17:55 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-09-30 20:02:35Z",
     "last_played_vienna": "2026-09-30 22:02:35 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Archivio Storico Fondazione Isabella Scelsi",
+    "title": "Anahit Concerto per due ondiole",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 03:03:49Z",
+    "last_played_vienna": "2026-10-02 05:03:49 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Hayley Williams",
+    "title": "Simmer  (Acoustic)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 12:29:52Z",
+    "last_played_vienna": "2026-10-02 14:29:52 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "La Fenice",
+    "title": "Le Chant des oiseaux",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 15:12:53Z",
+    "last_played_vienna": "2026-10-02 17:12:53 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

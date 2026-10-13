@@ -187,17 +187,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Johnny Cash",
-    "title": "Redemption Day (Album Version)",
-    "type": "Shared",
-    "play_count_total": 60,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-09 01:05:09Z",
-    "last_played_vienna": "2026-09-09 03:05:09 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "USA for Africa",
     "title": "We Are The World",
     "type": "Shared",
@@ -262,17 +251,6 @@
     "last_played": "2026-09-09 23:34:13Z",
     "last_played_vienna": "2026-09-10 01:34:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "SZA",
-    "title": "Kill Bill",
-    "type": "Shared",
-    "play_count_total": 63,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-11 02:46:57Z",
-    "last_played_vienna": "2026-09-11 04:46:57 MESZ",
-    "source": "Shared Library"
   },
   {
     "artist": "Beastie Boys",
@@ -433,7 +411,7 @@
     "title": "Nightingale Lane.",
     "type": "Station-Specific",
     "play_count_total": 70,
-    "play_count_30d": 35,
+    "play_count_30d": 33,
     "play_count_24h": 0,
     "last_played": "2026-09-16 02:58:32Z",
     "last_played_vienna": "2026-09-16 04:58:32 MESZ",
@@ -521,7 +499,7 @@
     "title": "This Empty Nest",
     "type": "Station-Specific",
     "play_count_total": 78,
-    "play_count_30d": 35,
+    "play_count_30d": 33,
     "play_count_24h": 0,
     "last_played": "2026-09-16 08:54:34Z",
     "last_played_vienna": "2026-09-16 10:54:34 MESZ",
@@ -548,5 +526,27 @@
     "last_played": "2026-09-22 23:11:00Z",
     "last_played_vienna": "2026-09-23 01:11:00 MESZ",
     "source": "Shared Library"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "You Are Not Alone",
+    "type": "Shared",
+    "play_count_total": 30,
+    "play_count_30d": 9,
+    "play_count_24h": 0,
+    "last_played": "2026-09-23 16:21:33Z",
+    "last_played_vienna": "2026-09-23 18:21:33 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "Fail Upward For A Change",
+    "type": "Station-Specific",
+    "play_count_total": 16,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-24 15:15:42Z",
+    "last_played_vienna": "2026-09-24 17:15:42 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   }
 ]

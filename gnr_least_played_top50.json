@@ -143,17 +143,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Radiohead",
-    "title": "Burn the Witch",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-09-30 12:29:35Z",
-    "last_played_vienna": "2026-09-30 14:29:35 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Vladimir Ashkenazy",
     "title": "Ravel: Pavane pour une infante défunte, M. 19",
     "type": "Station-Specific",
@@ -253,17 +242,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Radiohead",
-    "title": "Jigsaw Falling Into Place",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 16:13:05Z",
-    "last_played_vienna": "2026-10-04 18:13:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Neuro-sama",
     "title": "Pattern Recognition (feat. ODDEEO)",
     "type": "Station-Specific",
@@ -305,6 +283,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 01:21:31Z",
     "last_played_vienna": "2026-10-10 03:21:31 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Burn the Witch",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-13 02:39:23Z",
+    "last_played_vienna": "2026-10-13 04:39:23 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -407,6 +396,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Radiohead",
+    "title": "Jigsaw Falling Into Place",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-13 01:13:22Z",
+    "last_played_vienna": "2026-10-13 03:13:22 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "RAYE",
     "title": "Goodbye Henry. (feat. Al Green)",
     "type": "Station-Specific",
@@ -473,17 +473,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The Verve",
-    "title": "Bitter Sweet Symphony (Remastered 2016)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-09 19:23:02Z",
-    "last_played_vienna": "2026-10-09 21:23:02 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Anita Baker",
     "title": "Caught Up in the Rapture (LP Version)",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 15:29:34Z",
     "last_played_vienna": "2026-10-04 17:29:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "TOOL",
+    "title": "Lateralus",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 09:48:37Z",
+    "last_played_vienna": "2026-10-05 11:48:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
