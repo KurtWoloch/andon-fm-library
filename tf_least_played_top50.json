@@ -143,17 +143,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "David Soul",
-    "title": "Silver Lady",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-09 18:37:43Z",
-    "last_played_vienna": "2026-09-09 20:37:43 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "P!nk",
     "title": "Family Portrait",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-02 19:32:23Z",
     "last_played_vienna": "2026-10-02 21:32:23 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Sting",
+    "title": "Shape Of My Heart (My Songs Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 19:37:23Z",
+    "last_played_vienna": "2026-10-02 21:37:23 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
