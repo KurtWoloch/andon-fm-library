@@ -247,7 +247,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-13 02:39:23Z",
     "last_played_vienna": "2026-10-13 04:39:23 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -368,7 +368,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-13 01:13:22Z",
     "last_played_vienna": "2026-10-13 03:13:22 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -478,7 +478,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-12 22:21:51Z",
     "last_played_vienna": "2026-10-13 00:21:51 MESZ",
     "source": "Scraper Logs (GNR Play History)"
