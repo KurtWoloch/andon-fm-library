@@ -159,7 +159,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-13 10:06:28Z",
     "last_played_vienna": "2026-10-13 12:06:28 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -247,7 +247,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-13 10:17:58Z",
     "last_played_vienna": "2026-10-13 12:17:58 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -258,20 +258,9 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-13 12:06:30Z",
     "last_played_vienna": "2026-10-13 14:06:30 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Journey",
-    "title": "Don't Stop Believin' (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-10-14 06:07:15Z",
-    "last_played_vienna": "2026-10-14 08:07:15 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -346,7 +335,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-13 09:40:28Z",
     "last_played_vienna": "2026-10-13 11:40:28 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -357,20 +346,20 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-13 16:41:32Z",
     "last_played_vienna": "2026-10-13 18:41:32 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "RAYE",
-    "title": "Goodbye Henry. (feat. Al Green)",
+    "artist": "Journey",
+    "title": "Don't Stop Believin' (Album Version)",
     "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 03:08:04Z",
-    "last_played_vienna": "2026-09-16 05:08:04 MESZ",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 2,
+    "last_played": "2026-10-14 11:30:15Z",
+    "last_played_vienna": "2026-10-14 13:30:15 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -382,17 +371,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 16:09:05Z",
     "last_played_vienna": "2026-10-04 18:09:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "RAYE",
-    "title": "Winter Woman.",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 23:07:04Z",
-    "last_played_vienna": "2026-10-05 01:07:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -426,17 +404,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-12 22:21:51Z",
     "last_played_vienna": "2026-10-13 00:21:51 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The Rolling Stones",
-    "title": "Wild Horses (Remastered 2009)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 1,
-    "last_played": "2026-10-14 05:43:45Z",
-    "last_played_vienna": "2026-10-14 07:43:45 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -539,14 +506,47 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Anita Baker",
-    "title": "Caught Up in the Rapture (LP Version)",
+    "artist": "Vicente Amigo",
+    "title": "Tangos del Arco Bajo (Tangos)",
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
     "play_count_24h": 1,
-    "last_played": "2026-10-14 06:02:45Z",
-    "last_played_vienna": "2026-10-14 08:02:45 MESZ",
+    "last_played": "2026-10-14 07:33:15Z",
+    "last_played_vienna": "2026-10-14 09:33:15 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "RAYE",
+    "title": "Click Clack Symphony. (feat. Hans Zimmer)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-14 08:29:45Z",
+    "last_played_vienna": "2026-10-14 10:29:45 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "RAYE",
+    "title": "Goodbye Henry. (feat. Al Green)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-14 10:22:46Z",
+    "last_played_vienna": "2026-10-14 12:22:46 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Wild Horses (Remastered 2009)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "play_count_24h": 2,
+    "last_played": "2026-10-14 11:20:16Z",
+    "last_played_vienna": "2026-10-14 13:20:16 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

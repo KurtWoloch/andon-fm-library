@@ -375,17 +375,6 @@
   },
   {
     "artist": "RAYE",
-    "title": "Nightingale Lane.",
-    "type": "Station-Specific",
-    "play_count_total": 70,
-    "play_count_30d": 15,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 02:58:32Z",
-    "last_played_vienna": "2026-09-16 04:58:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "RAYE",
     "title": "Life Boat.",
     "type": "Station-Specific",
     "play_count_total": 8,
@@ -393,17 +382,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-16 03:03:32Z",
     "last_played_vienna": "2026-09-16 05:03:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "RAYE",
-    "title": "Goodbye Henry. (feat. Al Green)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 03:08:04Z",
-    "last_played_vienna": "2026-09-16 05:08:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -466,7 +444,7 @@
     "title": "This Empty Nest",
     "type": "Station-Specific",
     "play_count_total": 78,
-    "play_count_30d": 15,
+    "play_count_30d": 12,
     "play_count_24h": 0,
     "last_played": "2026-09-16 08:54:34Z",
     "last_played_vienna": "2026-09-16 10:54:34 MESZ",
@@ -548,5 +526,27 @@
     "last_played": "2026-09-25 15:02:50Z",
     "last_played_vienna": "2026-09-25 17:02:50 MESZ",
     "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Weeknd",
+    "title": "Gasoline",
+    "type": "Shared",
+    "play_count_total": 67,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 23:43:51Z",
+    "last_played_vienna": "2026-09-26 01:43:51 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Bruno Mars",
+    "title": "I Just Might",
+    "type": "Shared",
+    "play_count_total": 22,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-26 00:04:52Z",
+    "last_played_vienna": "2026-09-26 02:04:52 MESZ",
+    "source": "Shared Library"
   }
 ]

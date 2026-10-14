@@ -121,17 +121,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Gary Lux",
-    "title": "Listen to your heart",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-10-13 17:19:03Z",
-    "last_played_vienna": "2026-10-13 19:19:03 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Vanilla Ice",
     "title": "Ice Ice Baby",
     "type": "Station-Specific",
@@ -151,6 +140,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-11 19:48:12Z",
     "last_played_vienna": "2026-10-11 21:48:12 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Gary Lux",
+    "title": "Listen to your heart",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-10-14 12:35:15Z",
+    "last_played_vienna": "2026-10-14 14:35:15 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -432,11 +432,11 @@
     "artist": "Glenn Frey",
     "title": "Part Of Me, Part Of You (Album Version)",
     "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 11,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 04:44:01Z",
-    "last_played_vienna": "2026-10-10 06:44:01 MESZ",
+    "play_count_total": 12,
+    "play_count_30d": 12,
+    "play_count_24h": 1,
+    "last_played": "2026-10-14 09:11:45Z",
+    "last_played_vienna": "2026-10-14 11:11:45 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
