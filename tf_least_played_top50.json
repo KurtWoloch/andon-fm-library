@@ -144,17 +144,6 @@
   },
   {
     "artist": "P!nk",
-    "title": "Family Portrait",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-12 18:32:36Z",
-    "last_played_vienna": "2026-09-12 20:32:36 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "P!nk",
     "title": "Raise Your Glass",
     "type": "Station-Specific",
     "play_count_total": 1,
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-06 13:40:04Z",
     "last_played_vienna": "2026-10-06 15:40:04 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Charles Lloyd",
+    "title": "You Are So Beautiful",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-07 07:24:40Z",
+    "last_played_vienna": "2026-10-07 09:24:40 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

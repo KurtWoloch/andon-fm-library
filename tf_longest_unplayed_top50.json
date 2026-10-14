@@ -319,17 +319,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Dorian Electra",
-    "title": "Bizarre Love Triangle",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-20 13:35:56Z",
-    "last_played_vienna": "2026-08-20 15:35:56 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Life Without The Living",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-05 17:26:18Z",
     "last_played_vienna": "2026-09-05 19:26:18 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Liam Comerford",
+    "title": "Front Line (action)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 17:34:48Z",
+    "last_played_vienna": "2026-09-05 19:34:48 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

@@ -275,17 +275,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Cigarettes After Sex",
-    "title": "Heavenly",
-    "type": "Station-Specific",
-    "play_count_total": 78,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 10:41:57Z",
-    "last_played_vienna": "2026-09-15 12:41:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Cyndi Lauper",
     "title": "All Through the Night",
     "type": "Shared",
@@ -444,7 +433,7 @@
     "title": "This Empty Nest",
     "type": "Station-Specific",
     "play_count_total": 78,
-    "play_count_30d": 12,
+    "play_count_30d": 9,
     "play_count_24h": 0,
     "last_played": "2026-09-16 08:54:34Z",
     "last_played_vienna": "2026-09-16 10:54:34 MESZ",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-26 00:04:52Z",
     "last_played_vienna": "2026-09-26 02:04:52 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Taylor Swift",
+    "title": "Cruel Summer",
+    "type": "Shared",
+    "play_count_total": 87,
+    "play_count_30d": 23,
+    "play_count_24h": 0,
+    "last_played": "2026-09-26 01:28:53Z",
+    "last_played_vienna": "2026-09-26 03:28:53 MESZ",
     "source": "Shared Library"
   }
 ]
