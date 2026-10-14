@@ -187,17 +187,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "USA for Africa",
-    "title": "We Are The World",
-    "type": "Shared",
-    "play_count_total": 67,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-09 07:45:41Z",
-    "last_played_vienna": "2026-09-09 09:45:41 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Megadeth",
     "title": "Tipping Point",
     "type": "Shared",
@@ -389,7 +378,7 @@
     "title": "Nightingale Lane.",
     "type": "Station-Specific",
     "play_count_total": 70,
-    "play_count_30d": 19,
+    "play_count_30d": 15,
     "play_count_24h": 0,
     "last_played": "2026-09-16 02:58:32Z",
     "last_played_vienna": "2026-09-16 04:58:32 MESZ",
@@ -477,7 +466,7 @@
     "title": "This Empty Nest",
     "type": "Station-Specific",
     "play_count_total": 78,
-    "play_count_30d": 19,
+    "play_count_30d": 15,
     "play_count_24h": 0,
     "last_played": "2026-09-16 08:54:34Z",
     "last_played_vienna": "2026-09-16 10:54:34 MESZ",
@@ -548,5 +537,16 @@
     "last_played": "2026-09-25 02:06:46Z",
     "last_played_vienna": "2026-09-25 04:06:46 MESZ",
     "source": "Shared Library"
+  },
+  {
+    "artist": "DataGlide",
+    "title": "VR Higher",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 15:02:50Z",
+    "last_played_vienna": "2026-09-25 17:02:50 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   }
 ]

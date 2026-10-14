@@ -143,17 +143,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Pellek",
-    "title": "Bohemian Rhapsody",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-06 04:38:42Z",
-    "last_played_vienna": "2026-08-06 06:38:42 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "marshall4",
     "title": "i get gender envy from shadow the hedgehog",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-05 17:22:18Z",
     "last_played_vienna": "2026-09-05 19:22:18 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Fat Bard",
+    "title": "The Tendraam",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 17:26:18Z",
+    "last_played_vienna": "2026-09-05 19:26:18 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
