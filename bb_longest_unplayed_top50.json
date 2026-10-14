@@ -88,7 +88,7 @@
     "title": "Bier",
     "type": "Station-Specific",
     "play_count_total": 43,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-14 18:23:55Z",
     "last_played_vienna": "2026-09-14 20:23:55 MESZ",
@@ -100,7 +100,7 @@
     "title": "Mann gegen Mann",
     "type": "Station-Specific",
     "play_count_total": 23,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-14 19:29:55Z",
     "last_played_vienna": "2026-09-14 21:29:55 MESZ",
@@ -124,7 +124,7 @@
     "title": "MfG - Mit freundlichen Grüßen  (2022)",
     "type": "Station-Specific",
     "play_count_total": 161,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-09-16 03:34:33Z",
     "last_played_vienna": "2026-09-16 05:34:33 MESZ",
@@ -148,7 +148,7 @@
     "title": "Rock Around The Clock (Remastered)",
     "type": "Station-Specific",
     "play_count_total": 12,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "play_count_24h": 0,
     "last_played": "2026-09-16 17:41:35Z",
     "last_played_vienna": "2026-09-16 19:41:35 MESZ",
@@ -204,18 +204,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Wencke Myhre",
-    "title": "Er hat ein knallrotes Gummiboot",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-09-17 19:11:45Z",
-    "last_played_vienna": "2026-09-17 21:11:45 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Harry Styles",
     "title": "Watermelon Sugar",
     "type": "Shared",
@@ -244,7 +232,7 @@
     "title": "Hundi",
     "type": "Station-Specific",
     "play_count_total": 77,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-09-18 05:52:21Z",
     "last_played_vienna": "2026-09-18 07:52:21 MESZ",
@@ -598,5 +586,17 @@
     "last_played_vienna": "2026-10-03 22:12:55 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Cyndi Lauper",
+    "title": "All Through the Night",
+    "type": "Shared",
+    "play_count_total": 9,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-03 22:16:56Z",
+    "last_played_vienna": "2026-10-04 00:16:56 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
   }
 ]
