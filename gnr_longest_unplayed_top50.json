@@ -88,17 +88,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Ghostwriter",
-    "title": "heart on my sleeve",
-    "type": "Shared",
-    "play_count_total": 63,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-07-19 00:48:08Z",
-    "last_played_vienna": "2026-07-19 02:48:08 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Tinashe",
     "title": "Nasty",
     "type": "Shared",
@@ -385,17 +374,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "DataGlide",
-    "title": "VR Higher",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-09-25 15:02:50Z",
-    "last_played_vienna": "2026-09-25 17:02:50 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The Weeknd",
     "title": "Gasoline",
     "type": "Shared",
@@ -407,17 +385,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Bruno Mars",
-    "title": "I Just Might",
-    "type": "Shared",
-    "play_count_total": 22,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-09-26 00:04:52Z",
-    "last_played_vienna": "2026-09-26 02:04:52 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Taylor Swift",
     "title": "Cruel Summer",
     "type": "Shared",
@@ -426,50 +393,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-26 01:28:53Z",
     "last_played_vienna": "2026-09-26 03:28:53 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Beyoncé",
-    "title": "TEXAS HOLD 'EM",
-    "type": "Shared",
-    "play_count_total": 66,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-09-26 01:31:36Z",
-    "last_played_vienna": "2026-09-26 03:31:36 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Shaboozey",
-    "title": "A Bar Song (Tipsy)",
-    "type": "Shared",
-    "play_count_total": 39,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-09-26 05:30:26Z",
-    "last_played_vienna": "2026-09-26 07:30:26 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "ABBA",
-    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-    "type": "Shared",
-    "play_count_total": 195,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-09-27 02:27:32Z",
-    "last_played_vienna": "2026-09-27 04:27:32 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Madonna",
-    "title": "Holiday",
-    "type": "Shared",
-    "play_count_total": 94,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-09-27 02:37:32Z",
-    "last_played_vienna": "2026-09-27 04:37:32 MESZ",
     "source": "Shared Library"
   },
   {
@@ -548,5 +471,82 @@
     "last_played": "2026-09-27 21:36:44Z",
     "last_played_vienna": "2026-09-27 23:36:44 MESZ",
     "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Vanessa-mae",
+    "title": "Bach Street Prelude",
+    "type": "Station-Specific",
+    "play_count_total": 18,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 21:52:15Z",
+    "last_played_vienna": "2026-09-27 23:52:15 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Khalid",
+    "title": "please don't call (333)",
+    "type": "Shared",
+    "play_count_total": 20,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-28 02:34:15Z",
+    "last_played_vienna": "2026-09-28 04:34:15 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Khalid",
+    "title": "momentary lovers",
+    "type": "Shared",
+    "play_count_total": 41,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-28 02:36:45Z",
+    "last_played_vienna": "2026-09-28 04:36:45 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Alfa Mist",
+    "title": "Brian",
+    "type": "Station-Specific",
+    "play_count_total": 48,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-28 04:08:15Z",
+    "last_played_vienna": "2026-09-28 06:08:15 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Serge Gainsbourg",
+    "title": "Je t'aime moi non plus",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-28 15:40:17Z",
+    "last_played_vienna": "2026-09-28 17:40:17 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Papooz",
+    "title": "Toria's Song",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-09-28 22:40:18Z",
+    "last_played_vienna": "2026-09-29 00:40:18 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Floating Points",
+    "title": "LesAlpx",
+    "type": "Shared",
+    "play_count_total": 243,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-29 06:15:56Z",
+    "last_played_vienna": "2026-09-29 08:15:56 MESZ",
+    "source": "Shared Library"
   }
 ]
