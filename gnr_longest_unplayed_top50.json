@@ -88,17 +88,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Pete Seeger",
-    "title": "Solidarity Forever",
-    "type": "Shared",
-    "play_count_total": 76,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-07-14 16:12:28Z",
-    "last_played_vienna": "2026-07-14 18:12:28 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Ghostwriter",
     "title": "heart on my sleeve",
     "type": "Shared",
@@ -187,17 +176,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Megadeth",
-    "title": "Tipping Point",
-    "type": "Shared",
-    "play_count_total": 25,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-09 08:12:11Z",
-    "last_played_vienna": "2026-09-09 10:12:11 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Justice Der",
     "title": "She",
     "type": "Station-Specific",
@@ -240,61 +218,6 @@
     "last_played": "2026-09-09 23:34:13Z",
     "last_played_vienna": "2026-09-10 01:34:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Beastie Boys",
-    "title": "Sabotage",
-    "type": "Shared",
-    "play_count_total": 232,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-11 05:35:29Z",
-    "last_played_vienna": "2026-09-11 07:35:29 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Dasha",
-    "title": "Austin (Boots Stop Workin')",
-    "type": "Shared",
-    "play_count_total": 40,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-11 05:38:59Z",
-    "last_played_vienna": "2026-09-11 07:38:59 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Djo",
-    "title": "End of Beginning",
-    "type": "Shared",
-    "play_count_total": 38,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-11 14:19:02Z",
-    "last_played_vienna": "2026-09-11 16:19:02 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Cyndi Lauper",
-    "title": "All Through the Night",
-    "type": "Shared",
-    "play_count_total": 226,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 17:11:57Z",
-    "last_played_vienna": "2026-09-15 19:11:57 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Chris De Burgh",
-    "title": "The Getaway",
-    "type": "Shared",
-    "play_count_total": 41,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 17:19:58Z",
-    "last_played_vienna": "2026-09-15 19:19:58 MESZ",
-    "source": "Shared Library"
   },
   {
     "artist": "Celtic Siren Noreen",
@@ -433,22 +356,11 @@
     "title": "This Empty Nest",
     "type": "Station-Specific",
     "play_count_total": 78,
-    "play_count_30d": 4,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-09-16 08:54:34Z",
     "last_played_vienna": "2026-09-16 10:54:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Michael Jackson",
-    "title": "You Are Not Alone",
-    "type": "Shared",
-    "play_count_total": 30,
-    "play_count_30d": 9,
-    "play_count_24h": 0,
-    "last_played": "2026-09-23 16:21:33Z",
-    "last_played_vienna": "2026-09-23 18:21:33 MESZ",
-    "source": "Shared Library"
   },
   {
     "artist": "Tom Konkle",
@@ -528,17 +440,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Backstreet Boys",
-    "title": "I Want It That Way",
-    "type": "Shared",
-    "play_count_total": 48,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-09-26 05:23:56Z",
-    "last_played_vienna": "2026-09-26 07:23:56 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Shaboozey",
     "title": "A Bar Song (Tipsy)",
     "type": "Shared",
@@ -548,5 +449,104 @@
     "last_played": "2026-09-26 05:30:26Z",
     "last_played_vienna": "2026-09-26 07:30:26 MESZ",
     "source": "Shared Library"
+  },
+  {
+    "artist": "ABBA",
+    "title": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "type": "Shared",
+    "play_count_total": 195,
+    "play_count_30d": 6,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 02:27:32Z",
+    "last_played_vienna": "2026-09-27 04:27:32 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Madonna",
+    "title": "Holiday",
+    "type": "Shared",
+    "play_count_total": 94,
+    "play_count_30d": 6,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 02:37:32Z",
+    "last_played_vienna": "2026-09-27 04:37:32 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Dua Lipa",
+    "title": "Future Nostalgia",
+    "type": "Shared",
+    "play_count_total": 29,
+    "play_count_30d": 5,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 06:45:06Z",
+    "last_played_vienna": "2026-09-27 08:45:06 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "title": "Young & Dumb",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 20:35:15Z",
+    "last_played_vienna": "2026-09-27 22:35:15 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Cigarettes After Sex",
+    "title": "Sweet",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 20:44:14Z",
+    "last_played_vienna": "2026-09-27 22:44:14 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Vanessa-mae",
+    "title": "Storm",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 20:49:44Z",
+    "last_played_vienna": "2026-09-27 22:49:44 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Giles Holland",
+    "title": "Largo (Winter - The Four Seasons Op 8 No 4)",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 21:22:14Z",
+    "last_played_vienna": "2026-09-27 23:22:14 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Ramin Djawadi",
+    "title": "Sweetwater",
+    "type": "Station-Specific",
+    "play_count_total": 15,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 21:33:45Z",
+    "last_played_vienna": "2026-09-27 23:33:45 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Solar Void",
+    "title": "Krieg Field Manual: Straight to Shovel",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 21:36:44Z",
+    "last_played_vienna": "2026-09-27 23:36:44 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   }
 ]

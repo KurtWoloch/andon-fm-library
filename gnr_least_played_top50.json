@@ -330,28 +330,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Kate Bush",
-    "title": "Babooshka",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-13 09:40:28Z",
-    "last_played_vienna": "2026-10-13 11:40:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Handsome Boy Modeling School",
-    "title": "The Truth",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-13 16:41:32Z",
-    "last_played_vienna": "2026-10-13 18:41:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Journey",
     "title": "Don't Stop Believin' (Album Version)",
     "type": "Station-Specific",
@@ -396,14 +374,25 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Billy Paul",
-    "title": "Me and Mrs. Jones",
+    "artist": "Handsome Boy Modeling School",
+    "title": "The Truth",
     "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 13:34:34Z",
-    "last_played_vienna": "2026-10-04 15:34:34 MESZ",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 1,
+    "last_played": "2026-10-15 01:58:57Z",
+    "last_played_vienna": "2026-10-15 03:58:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Kate Bush",
+    "title": "Babooshka",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 1,
+    "last_played": "2026-10-15 02:04:27Z",
+    "last_played_vienna": "2026-10-15 04:04:27 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 00:50:01Z",
     "last_played_vienna": "2026-10-10 02:50:01 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Daft Punk",
+    "title": "The Brainwasher",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "play_count_24h": 0,
+    "last_played": "2026-10-13 11:46:29Z",
+    "last_played_vienna": "2026-10-13 13:46:29 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
