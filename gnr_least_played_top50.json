@@ -264,17 +264,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Dire Straits",
-    "title": "Walk Of Life",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-10-14 13:57:46Z",
-    "last_played_vienna": "2026-10-14 15:57:46 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Grand Corps Malade",
     "title": "Mais je t'aime",
     "type": "Station-Specific",
@@ -335,9 +324,20 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-14 11:30:15Z",
     "last_played_vienna": "2026-10-14 13:30:15 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Dire Straits",
+    "title": "Walk Of Life",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-15 11:04:30Z",
+    "last_played_vienna": "2026-10-15 13:04:30 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -445,7 +445,7 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-14 10:22:46Z",
     "last_played_vienna": "2026-10-14 12:22:46 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -456,7 +456,7 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-14 11:35:16Z",
     "last_played_vienna": "2026-10-14 13:35:16 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -467,7 +467,7 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-14 14:08:16Z",
     "last_played_vienna": "2026-10-14 16:08:16 MESZ",
     "source": "Scraper Logs (GNR Play History)"

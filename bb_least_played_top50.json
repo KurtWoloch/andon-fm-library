@@ -408,18 +408,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Micah P. Hinson",
-    "title": "Stand in My Way",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-13 04:08:24Z",
-    "last_played_vienna": "2026-10-13 06:08:24 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Aerosmith",
     "title": "Uncle Salty",
     "type": "Station-Specific",
@@ -437,7 +425,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-14 13:07:46Z",
     "last_played_vienna": "2026-10-14 15:07:46 MESZ",
     "file_id": "",
@@ -598,5 +586,17 @@
     "last_played_vienna": "2026-10-09 17:58:01 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 16:31:02Z",
+    "last_played_vienna": "2026-10-09 18:31:02 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
   }
 ]
