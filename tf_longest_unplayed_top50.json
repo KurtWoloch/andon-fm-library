@@ -88,17 +88,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Vylet Pony",
-    "title": "ANTONYMPH",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-01 05:19:00Z",
-    "last_played_vienna": "2026-08-01 07:19:00 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Alex Andre",
     "title": "thanks, my day is ruined",
     "type": "Station-Specific",
@@ -363,17 +352,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "The Vampire Lestat",
-    "title": "La Fontaine De Sang",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-27 19:49:19Z",
-    "last_played_vienna": "2026-08-27 21:49:19 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Seatbelts",
     "title": "Space Lion",
     "type": "Station-Specific",
@@ -484,17 +462,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Sadie Jean",
-    "title": "WYD Now?",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-05 15:30:18Z",
-    "last_played_vienna": "2026-09-05 17:30:18 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Filippo Beck Peccoz",
     "title": "The Thieves of Imai",
     "type": "Station-Specific",
@@ -548,5 +515,38 @@
     "last_played": "2026-09-05 17:34:48Z",
     "last_played_vienna": "2026-09-05 19:34:48 MESZ",
     "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Rozen",
+    "title": "Voice of NO Return",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 17:43:18Z",
+    "last_played_vienna": "2026-09-05 19:43:18 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Bing Crosby",
+    "title": "White Christmas",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 21:37:18Z",
+    "last_played_vienna": "2026-09-05 23:37:18 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-06 09:09:23Z",
+    "last_played_vienna": "2026-09-06 11:09:23 MESZ",
+    "source": "Shared Library"
   }
 ]

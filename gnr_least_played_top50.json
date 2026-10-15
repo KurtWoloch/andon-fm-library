@@ -77,6 +77,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Procol Harum",
+    "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-15 15:31:31Z",
+    "last_played_vienna": "2026-10-15 17:31:31 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -137,7 +148,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-14 15:25:17Z",
     "last_played_vienna": "2026-10-14 17:25:17 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -368,7 +379,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-14 14:42:16Z",
     "last_played_vienna": "2026-10-14 16:42:16 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -478,7 +489,7 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-14 14:31:46Z",
     "last_played_vienna": "2026-10-14 16:31:46 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -489,7 +500,7 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-14 18:37:16Z",
     "last_played_vienna": "2026-10-14 20:37:16 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-05 08:29:06Z",
     "last_played_vienna": "2026-10-05 10:29:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Arctic Monkeys",
-    "title": "I Wanna Be Yours",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 8,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 00:50:01Z",
-    "last_played_vienna": "2026-10-10 02:50:01 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

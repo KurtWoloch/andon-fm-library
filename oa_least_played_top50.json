@@ -429,17 +429,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Glenn Frey",
-    "title": "Part Of Me, Part Of You (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 11,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 09:11:45Z",
-    "last_played_vienna": "2026-10-14 11:11:45 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Ghostwriter",
     "title": "heart on my sleeve",
     "type": "Shared",
@@ -492,6 +481,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-11 07:32:11Z",
     "last_played_vienna": "2026-10-11 09:32:11 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Glenn Frey",
+    "title": "Part Of Me, Part Of You (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 11,
+    "play_count_24h": 1,
+    "last_played": "2026-10-15 16:22:30Z",
+    "last_played_vienna": "2026-10-15 18:22:30 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {

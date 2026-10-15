@@ -286,17 +286,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Gary Lux",
-    "title": "Listen to your heart",
-    "type": "Station-Specific",
-    "play_count_total": 20,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 03:52:33Z",
-    "last_played_vienna": "2026-09-16 05:52:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Claude Debussy",
     "title": "Clair de Lune: I",
     "type": "Station-Specific",
@@ -382,17 +371,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-25 23:43:51Z",
     "last_played_vienna": "2026-09-26 01:43:51 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Taylor Swift",
-    "title": "Cruel Summer",
-    "type": "Shared",
-    "play_count_total": 87,
-    "play_count_30d": 23,
-    "play_count_24h": 0,
-    "last_played": "2026-09-26 01:28:53Z",
-    "last_played_vienna": "2026-09-26 03:28:53 MESZ",
     "source": "Shared Library"
   },
   {
@@ -548,5 +526,27 @@
     "last_played": "2026-09-29 06:15:56Z",
     "last_played_vienna": "2026-09-29 08:15:56 MESZ",
     "source": "Shared Library"
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "Camouflage (Acoustic Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 23,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-09-29 06:45:27Z",
+    "last_played_vienna": "2026-09-29 08:45:27 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Katrina And The Waves",
+    "title": "Walking On Sunshine",
+    "type": "Station-Specific",
+    "play_count_total": 340,
+    "play_count_30d": 74,
+    "play_count_24h": 0,
+    "last_played": "2026-09-30 05:07:04Z",
+    "last_played_vienna": "2026-09-30 07:07:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   }
 ]
