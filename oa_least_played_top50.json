@@ -341,17 +341,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "U2",
-    "title": "Angel Of Harlem",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-10-11 11:55:11Z",
-    "last_played_vienna": "2026-10-11 13:55:11 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Foster The People",
     "title": "Pumped Up Kicks",
     "type": "Station-Specific",
@@ -360,6 +349,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-29 23:57:00Z",
     "last_played_vienna": "2026-09-30 01:57:00 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "U2",
+    "title": "Angel Of Harlem",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "play_count_24h": 1,
+    "last_played": "2026-10-14 21:09:57Z",
+    "last_played_vienna": "2026-10-14 23:09:57 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {

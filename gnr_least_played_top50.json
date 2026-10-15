@@ -55,6 +55,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Antonio Carlos Jobim",
+    "title": "Triste",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-14 21:53:28Z",
+    "last_played_vienna": "2026-10-14 23:53:28 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -129,17 +140,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 13:19:04Z",
     "last_played_vienna": "2026-10-04 15:19:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Grand Corps Malade",
-    "title": "Mais je t'aime",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 17:22:05Z",
-    "last_played_vienna": "2026-10-04 19:22:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -261,6 +261,17 @@
     "play_count_24h": 2,
     "last_played": "2026-10-14 13:57:46Z",
     "last_played_vienna": "2026-10-14 15:57:46 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Grand Corps Malade",
+    "title": "Mais je t'aime",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-14 22:02:58Z",
+    "last_played_vienna": "2026-10-15 00:02:58 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -393,17 +404,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 13:34:34Z",
     "last_played_vienna": "2026-10-04 15:34:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "TOOL",
-    "title": "Lateralus",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-05 09:48:37Z",
-    "last_played_vienna": "2026-10-05 11:48:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
