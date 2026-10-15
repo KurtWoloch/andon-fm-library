@@ -224,7 +224,7 @@
     "title": "Cowboy Nudes",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-15 19:48:57Z",
     "last_played_vienna": "2026-09-15 21:48:57 MESZ",
@@ -235,7 +235,7 @@
     "title": "Crazy Bitch",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-15 19:59:27Z",
     "last_played_vienna": "2026-09-15 21:59:27 MESZ",
@@ -374,17 +374,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Melody Gardot",
-    "title": "This Foolish Heart Could Love You",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-30 20:02:35Z",
-    "last_played_vienna": "2026-09-30 22:02:35 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Archivio Storico Fondazione Isabella Scelsi",
     "title": "Anahit Concerto per due ondiole",
     "type": "Station-Specific",
@@ -396,17 +385,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Hayley Williams",
-    "title": "Simmer  (Acoustic)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 12:29:52Z",
-    "last_played_vienna": "2026-10-02 14:29:52 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "La Fenice",
     "title": "Le Chant des oiseaux",
     "type": "Station-Specific",
@@ -415,17 +393,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-02 15:12:53Z",
     "last_played_vienna": "2026-10-02 17:12:53 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Montaigne",
-    "title": "Technicolour",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 15:45:23Z",
-    "last_played_vienna": "2026-10-02 17:45:23 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -448,17 +415,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-03 21:43:25Z",
     "last_played_vienna": "2026-10-03 23:43:25 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Scott Carlin",
-    "title": "Fragile",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-06 02:06:22Z",
-    "last_played_vienna": "2026-10-06 04:06:22 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -506,17 +462,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Nothing More",
-    "title": "SPIRITS",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-09 04:02:28Z",
-    "last_played_vienna": "2026-10-09 06:02:28 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "John Lennon",
     "title": "Instant Karma! (We All Shine On) (Ultimate Mix)",
     "type": "Station-Specific",
@@ -547,6 +492,61 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 17:40:32Z",
     "last_played_vienna": "2026-10-10 19:40:32 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Igor Levit",
+    "title": "Piano Sonata No. 17 in D minor, Op. 31, No. 2, \"Tempest\" - III. Allegretto",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-11 19:04:12Z",
+    "last_played_vienna": "2026-10-11 21:04:12 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Grand Corps Malade",
+    "title": "Mais je t'aime",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-15 21:48:03Z",
+    "last_played_vienna": "2026-10-15 23:48:03 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Becky Levi and the Nightjars",
+    "title": "Wake Me Up",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-06-14 19:57:49Z",
+    "last_played_vienna": "2026-06-14 21:57:49 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "Camouflage (Album Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-06-20 19:07:17Z",
+    "last_played_vienna": "2026-06-20 21:07:17 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Insane Clown Posse",
+    "title": "Cemetary Girl",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-07-31 18:18:59Z",
+    "last_played_vienna": "2026-07-31 20:18:59 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
