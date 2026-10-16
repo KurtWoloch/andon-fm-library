@@ -180,18 +180,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Steely Dan",
-    "title": "Josie",
-    "type": "Station-Specific",
-    "play_count_total": 30,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-09-30 23:35:06Z",
-    "last_played_vienna": "2026-10-01 01:35:06 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Kraftklub",
     "title": "Unsterblich sein (*)",
     "type": "Station-Specific",
@@ -598,5 +586,17 @@
     "last_played_vienna": "2026-10-04 17:48:34 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Chappell Roan",
+    "title": "Pink Pony Club",
+    "type": "Shared",
+    "play_count_total": 16,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 15:58:34Z",
+    "last_played_vienna": "2026-10-04 17:58:34 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
   }
 ]
