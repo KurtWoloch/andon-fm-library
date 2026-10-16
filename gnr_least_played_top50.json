@@ -165,23 +165,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Stealers Wheel",
-    "title": "Stuck In The Middle With You",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-10-16 00:58:04Z",
-    "last_played_vienna": "2026-10-16 02:58:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Procol Harum",
     "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-16 09:25:06Z",
     "last_played_vienna": "2026-10-16 11:25:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -195,6 +184,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-13 10:06:28Z",
     "last_played_vienna": "2026-10-13 12:06:28 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Stealers Wheel",
+    "title": "Stuck In The Middle With You",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-10-16 14:17:07Z",
+    "last_played_vienna": "2026-10-16 16:17:07 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -261,17 +261,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-13 02:39:23Z",
     "last_played_vienna": "2026-10-13 04:39:23 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Kealii Reichel",
-    "title": "Maunaleo (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-10-16 09:01:36Z",
-    "last_played_vienna": "2026-10-16 11:01:36 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -374,25 +363,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "LCD Soundsystem",
-    "title": "Watch the Tapes",
+    "artist": "Kealii Reichel",
+    "title": "Maunaleo (Album Version)",
     "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 11:36:23Z",
-    "last_played_vienna": "2026-10-08 13:36:23 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Stan Getz",
-    "title": "Corcovado (Quiet Nights Of Quiet Stars)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 08:08:15Z",
-    "last_played_vienna": "2026-10-14 10:08:15 MESZ",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 2,
+    "last_played": "2026-10-16 15:08:37Z",
+    "last_played_vienna": "2026-10-16 17:08:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -415,17 +393,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-15 01:58:57Z",
     "last_played_vienna": "2026-10-15 03:58:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Kate Bush",
-    "title": "Babooshka",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-15 02:04:27Z",
-    "last_played_vienna": "2026-10-15 04:04:27 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -506,17 +473,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Måneskin",
-    "title": "Torna a casa",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 14:31:46Z",
-    "last_played_vienna": "2026-10-14 16:31:46 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Van Morrison",
     "title": "Brown Eyed Girl",
     "type": "Station-Specific",
@@ -539,6 +495,39 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "LCD Soundsystem",
+    "title": "Watch the Tapes",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "play_count_24h": 1,
+    "last_played": "2026-10-16 12:36:37Z",
+    "last_played_vienna": "2026-10-16 14:36:37 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Stan Getz",
+    "title": "Corcovado (Quiet Nights Of Quiet Stars)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "play_count_24h": 1,
+    "last_played": "2026-10-16 12:40:37Z",
+    "last_played_vienna": "2026-10-16 14:40:37 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Kate Bush",
+    "title": "Babooshka",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "play_count_24h": 1,
+    "last_played": "2026-10-16 15:01:37Z",
+    "last_played_vienna": "2026-10-16 17:01:37 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "RAYE",
     "title": "Life Boat.",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-16 03:03:32Z",
     "last_played_vienna": "2026-09-16 05:03:32 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "WillyB",
+    "title": "Egyptus",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 00:18:14Z",
+    "last_played_vienna": "2026-09-25 02:18:14 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

@@ -407,17 +407,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Julian Lage",
-    "title": "Emily",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-03 21:43:25Z",
-    "last_played_vienna": "2026-10-03 23:43:25 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Charles Lloyd",
     "title": "You Are So Beautiful",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-08-01 05:28:30Z",
     "last_played_vienna": "2026-08-01 07:28:30 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Pent Up Pup",
+    "title": "ORDER:SCORE",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-08-01 19:01:02Z",
+    "last_played_vienna": "2026-08-01 21:01:02 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
