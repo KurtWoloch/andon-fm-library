@@ -66,17 +66,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Procol Harum",
-    "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-15 15:31:31Z",
-    "last_played_vienna": "2026-10-15 17:31:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Grover Washington Jr.",
     "title": "Mister Magic",
     "type": "Station-Specific",
@@ -96,6 +85,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-16 06:21:35Z",
     "last_played_vienna": "2026-10-16 08:21:35 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Fiona Apple",
+    "title": "Slow Like Honey",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-16 07:42:06Z",
+    "last_played_vienna": "2026-10-16 09:42:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -170,31 +170,20 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-16 00:58:04Z",
     "last_played_vienna": "2026-10-16 02:58:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Vladimir Ashkenazy",
-    "title": "Ravel: Pavane pour une infante défunte, M. 19",
+    "artist": "Procol Harum",
+    "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
     "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 13:19:04Z",
-    "last_played_vienna": "2026-10-04 15:19:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Kealii Reichel",
-    "title": "Maunaleo (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 01:13:31Z",
-    "last_played_vienna": "2026-10-10 03:13:31 MESZ",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-10-16 09:25:06Z",
+    "last_played_vienna": "2026-10-16 11:25:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -275,36 +264,25 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Red Snapper",
-    "title": "Space Sickness",
+    "artist": "Kealii Reichel",
+    "title": "Maunaleo (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-13 10:17:58Z",
-    "last_played_vienna": "2026-10-13 12:17:58 MESZ",
+    "play_count_24h": 1,
+    "last_played": "2026-10-16 09:01:36Z",
+    "last_played_vienna": "2026-10-16 11:01:36 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "TV Girl",
-    "title": "Stay Away (It's Like That)",
+    "artist": "Vladimir Ashkenazy",
+    "title": "Ravel: Pavane pour une infante défunte, M. 19",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-13 12:06:30Z",
-    "last_played_vienna": "2026-10-13 14:06:30 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Grand Corps Malade",
-    "title": "Mais je t'aime",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 22:02:58Z",
-    "last_played_vienna": "2026-10-15 00:02:58 MESZ",
+    "play_count_24h": 1,
+    "last_played": "2026-10-16 10:45:36Z",
+    "last_played_vienna": "2026-10-16 12:45:36 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -357,9 +335,42 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-15 11:04:30Z",
     "last_played_vienna": "2026-10-15 13:04:30 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "TV Girl",
+    "title": "Stay Away (It's Like That)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-16 08:34:05Z",
+    "last_played_vienna": "2026-10-16 10:34:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Red Snapper",
+    "title": "Space Sickness",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-16 09:39:06Z",
+    "last_played_vienna": "2026-10-16 11:39:06 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Grand Corps Malade",
+    "title": "Mais je t'aime",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-16 10:16:36Z",
+    "last_played_vienna": "2026-10-16 12:16:36 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -448,17 +459,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-08 16:56:23Z",
     "last_played_vienna": "2026-10-08 18:56:23 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Vicente Amigo",
-    "title": "Tangos del Arco Bajo (Tangos)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 07:33:15Z",
-    "last_played_vienna": "2026-10-14 09:33:15 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
