@@ -12,6 +12,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Ulrich Schnauss",
+    "title": "I Take Comfort in Your Ignorance (2019 Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-16 00:32:03Z",
+    "last_played_vienna": "2026-10-16 02:32:03 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -220,7 +232,7 @@
     "title": "Haberi Yok",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-10-10 07:03:02Z",
     "last_played_vienna": "2026-10-10 09:03:02 MESZ",
@@ -586,17 +598,5 @@
     "last_played_vienna": "2026-10-09 17:58:01 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Confetti",
-    "title": "People Suck [Explicit]",
-    "type": "Shared",
-    "play_count_total": 4,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-09 16:31:02Z",
-    "last_played_vienna": "2026-10-09 18:31:02 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
   }
 ]

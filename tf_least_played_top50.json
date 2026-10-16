@@ -484,17 +484,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Spandau Ballet",
-    "title": "Gold (2003 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 17:40:32Z",
-    "last_played_vienna": "2026-10-10 19:40:32 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Igor Levit",
     "title": "Piano Sonata No. 17 in D minor, Op. 31, No. 2, \"Tempest\" - III. Allegretto",
     "type": "Station-Specific",
@@ -514,6 +503,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-15 21:48:03Z",
     "last_played_vienna": "2026-10-15 23:48:03 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Leonard Bernstein",
+    "title": "Candide: Overture",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-16 02:35:33Z",
+    "last_played_vienna": "2026-10-16 04:35:33 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {

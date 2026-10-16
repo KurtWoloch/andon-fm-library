@@ -209,17 +209,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Celtic Siren Noreen",
-    "title": "Snow on the Crown V.1",
-    "type": "Station-Specific",
-    "play_count_total": 36,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 02:12:03Z",
-    "last_played_vienna": "2026-09-16 04:12:03 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Perrie",
     "title": "Die With A Smile  (Bruno Mars & Lady Gaga Cover - BBC Radio 1 Live Lounge)",
     "type": "Shared",
@@ -261,17 +250,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-16 02:51:32Z",
     "last_played_vienna": "2026-09-16 04:51:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Mrs. Green Apple",
-    "title": "Brand New",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 02:55:03Z",
-    "last_played_vienna": "2026-09-16 04:55:03 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -548,5 +526,27 @@
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "ROSALÍA",
+    "title": "Berghain",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-09-30 05:32:04Z",
+    "last_played_vienna": "2026-09-30 07:32:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Fleet Foxes",
+    "title": "White Winter Hymnal",
+    "type": "Shared",
+    "play_count_total": 24,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-09-30 08:43:04Z",
+    "last_played_vienna": "2026-09-30 10:43:04 MESZ",
+    "source": "Shared Library"
   }
 ]
