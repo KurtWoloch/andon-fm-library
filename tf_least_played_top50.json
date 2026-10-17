@@ -99,17 +99,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Gene Watson",
-    "title": "At Last",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-27 14:31:49Z",
-    "last_played_vienna": "2026-08-27 16:31:49 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Cyndi Lauper",
     "title": "At Last (Album Version)",
     "type": "Station-Specific",
@@ -396,17 +385,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Charles Lloyd",
-    "title": "You Are So Beautiful",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-07 07:24:40Z",
-    "last_played_vienna": "2026-10-07 09:24:40 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Charles Lloyd & The Marvels",
     "title": "You Are So Beautiful",
     "type": "Station-Specific",
@@ -548,5 +526,27 @@
     "last_played": "2026-08-13 13:36:43Z",
     "last_played_vienna": "2026-08-13 15:36:43 MESZ",
     "source": "Shared Library"
+  },
+  {
+    "artist": "Studio Group",
+    "title": "Love Me Tender / Can't Help Falling In Love / Always On My Mind / Just Can't Help Believing / Love Me Tender (karaoke-version) As Made Famous By: Elvis Presley",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-08-31 18:46:20Z",
+    "last_played_vienna": "2026-08-31 20:46:20 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Fat Bard",
+    "title": "Crashlands!",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 17:22:18Z",
+    "last_played_vienna": "2026-09-05 19:22:18 MESZ",
+    "source": "Scraper Logs (TF Play History)"
   }
 ]

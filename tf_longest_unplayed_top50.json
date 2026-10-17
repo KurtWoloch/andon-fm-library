@@ -275,17 +275,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Gene Watson",
-    "title": "At Last",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-27 14:31:49Z",
-    "last_played_vienna": "2026-08-27 16:31:49 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Cyndi Lauper",
     "title": "At Last (Album Version)",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-12 18:15:36Z",
     "last_played_vienna": "2026-09-12 20:15:36 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "P!nk",
+    "title": "Raise Your Glass",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-12 18:44:07Z",
+    "last_played_vienna": "2026-09-12 20:44:07 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

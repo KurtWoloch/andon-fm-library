@@ -99,6 +99,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Jon Hopkins",
+    "title": "Open Eye Signal (Remaster 2023)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-17 11:36:13Z",
+    "last_played_vienna": "2026-10-17 13:36:13 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -203,7 +214,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-17 04:15:10Z",
     "last_played_vienna": "2026-10-17 06:15:10 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -280,7 +291,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-16 10:45:36Z",
     "last_played_vienna": "2026-10-16 12:45:36 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -357,7 +368,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-16 09:39:06Z",
     "last_played_vienna": "2026-10-16 11:39:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -368,7 +379,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-16 10:16:36Z",
     "last_played_vienna": "2026-10-16 12:16:36 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -379,7 +390,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-16 15:08:37Z",
     "last_played_vienna": "2026-10-16 17:08:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -437,17 +448,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-08 16:56:23Z",
     "last_played_vienna": "2026-10-08 18:56:23 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "RAYE",
-    "title": "Click Clack Symphony. (feat. Hans Zimmer)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 08:29:45Z",
-    "last_played_vienna": "2026-10-14 10:29:45 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -511,7 +511,7 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-16 12:36:37Z",
     "last_played_vienna": "2026-10-16 14:36:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -522,7 +522,7 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-16 12:40:37Z",
     "last_played_vienna": "2026-10-16 14:40:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"

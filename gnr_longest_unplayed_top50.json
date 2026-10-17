@@ -451,17 +451,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Floating Points",
-    "title": "LesAlpx",
-    "type": "Shared",
-    "play_count_total": 243,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-29 06:15:56Z",
-    "last_played_vienna": "2026-09-29 08:15:56 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Camouflage (Acoustic Mix)",
     "type": "Station-Specific",
@@ -477,7 +466,7 @@
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
     "play_count_total": 340,
-    "play_count_30d": 61,
+    "play_count_30d": 59,
     "play_count_24h": 0,
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-03 11:38:54Z",
     "last_played_vienna": "2026-10-03 13:38:54 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Videoclub",
+    "title": "Mai",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 15:37:05Z",
+    "last_played_vienna": "2026-10-04 17:37:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
