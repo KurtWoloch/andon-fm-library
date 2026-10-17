@@ -143,17 +143,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Cognitron",
-    "title": "Low Frequency Thunderstorm Shield",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-10 00:35:05Z",
-    "last_played_vienna": "2026-08-10 02:35:05 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Ghostwriter",
     "title": "heart on my sleeve",
     "type": "Shared",
@@ -283,17 +272,6 @@
     "play_count_24h": 0,
     "last_played": "2026-08-19 19:59:19Z",
     "last_played_vienna": "2026-08-19 21:59:19 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Tom Konkle",
-    "title": "Life Without The Living",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-25 08:33:03Z",
-    "last_played_vienna": "2026-08-25 10:33:03 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -528,17 +506,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Ella Fitzgerald",
-    "title": "Bewitched, Bothered And Bewildered",
-    "type": "Station-Specific",
-    "play_count_total": 26,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-09 13:14:12Z",
-    "last_played_vienna": "2026-09-09 15:14:12 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Sir David Willcocks",
     "title": "5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin",
     "type": "Station-Specific",
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-09-10 04:26:47Z",
     "last_played_vienna": "2026-09-10 06:26:47 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya)",
+    "title": "Memories of Tomorrow (The Koln Concert - Part IIc)",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-10 10:19:51Z",
+    "last_played_vienna": "2026-09-10 12:19:51 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Tom Konkle",
+    "title": "Losing Faith",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-12 01:59:34Z",
+    "last_played_vienna": "2026-09-12 03:59:34 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Beats by Luca",
+    "title": "52 CHICKEN NUGGET (McRave)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-12 18:15:36Z",
+    "last_played_vienna": "2026-09-12 20:15:36 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

@@ -33,17 +33,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Solisti e Orchestre del Cinema Italiano",
-    "title": "Harmonica",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-07 12:40:12Z",
-    "last_played_vienna": "2026-10-07 14:40:12 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Yes",
     "title": "Total Mass Retain  (Steven Wilson Edit)",
     "type": "Station-Specific",
@@ -82,7 +71,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-16 06:21:35Z",
     "last_played_vienna": "2026-10-16 08:21:35 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -93,7 +82,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-16 07:42:06Z",
     "last_played_vienna": "2026-10-16 09:42:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -173,6 +162,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-14 15:25:17Z",
     "last_played_vienna": "2026-10-14 17:25:17 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Solisti e Orchestre del Cinema Italiano",
+    "title": "Harmonica",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-17 06:18:40Z",
+    "last_played_vienna": "2026-10-17 08:18:40 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -346,7 +346,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-16 08:34:05Z",
     "last_played_vienna": "2026-10-16 10:34:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
