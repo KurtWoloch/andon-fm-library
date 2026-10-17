@@ -143,17 +143,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Tom Konkle",
-    "title": "One Last Time",
-    "type": "Station-Specific",
-    "play_count_total": 18,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-08 03:30:34Z",
-    "last_played_vienna": "2026-09-08 05:30:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -253,17 +242,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "RAYE",
-    "title": "Life Boat.",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 03:03:32Z",
-    "last_played_vienna": "2026-09-16 05:03:32 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Claude Debussy",
     "title": "Clair de Lune: I",
     "type": "Station-Specific",
@@ -294,17 +272,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-16 08:48:34Z",
     "last_played_vienna": "2026-09-16 10:48:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Tom Konkle",
-    "title": "This Empty Nest",
-    "type": "Station-Specific",
-    "play_count_total": 78,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 08:54:34Z",
-    "last_played_vienna": "2026-09-16 10:54:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -466,7 +433,7 @@
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
     "play_count_total": 340,
-    "play_count_30d": 59,
+    "play_count_30d": 56,
     "play_count_24h": 0,
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 15:37:05Z",
     "last_played_vienna": "2026-10-04 17:37:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Erykah Badu",
+    "title": "Witch Doctor",
+    "type": "Station-Specific",
+    "play_count_total": 16,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 18:40:34Z",
+    "last_played_vienna": "2026-10-04 20:40:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "Pattern Recognition (feat. ODDEEO)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 19:33:34Z",
+    "last_played_vienna": "2026-10-04 21:33:34 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Shaé Universe",
+    "title": "D'ANGELO'S JOINT",
+    "type": "Station-Specific",
+    "play_count_total": 25,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 22:19:04Z",
+    "last_played_vienna": "2026-10-05 00:19:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

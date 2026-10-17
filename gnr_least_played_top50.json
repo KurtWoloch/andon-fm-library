@@ -198,17 +198,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Stealers Wheel",
-    "title": "Stuck In The Middle With You",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-10-16 14:17:07Z",
-    "last_played_vienna": "2026-10-16 16:17:07 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Procol Harum",
     "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
     "type": "Station-Specific",
@@ -297,6 +286,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Stealers Wheel",
+    "title": "Stuck In The Middle With You",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-17 13:26:45Z",
+    "last_played_vienna": "2026-10-17 15:26:45 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Videoclub",
     "title": "Mai",
     "type": "Station-Specific",
@@ -327,17 +327,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-09 07:51:31Z",
     "last_played_vienna": "2026-10-09 09:51:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Journey",
-    "title": "Don't Stop Believin' (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 11:30:15Z",
-    "last_played_vienna": "2026-10-14 13:30:15 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -390,7 +379,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-16 15:08:37Z",
     "last_played_vienna": "2026-10-16 17:08:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -440,6 +429,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Journey",
+    "title": "Don't Stop Believin' (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 1,
+    "last_played": "2026-10-17 16:08:18Z",
+    "last_played_vienna": "2026-10-17 18:08:18 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
     "title": "Highway to Hell",
     "type": "Station-Specific",
@@ -459,28 +459,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-14 10:22:46Z",
     "last_played_vienna": "2026-10-14 12:22:46 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "RAYE",
-    "title": "Winter Woman.",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 11:35:16Z",
-    "last_played_vienna": "2026-10-14 13:35:16 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Hapa",
-    "title": "Ka Uluwehi O Ke Kai (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 14:08:16Z",
-    "last_played_vienna": "2026-10-14 16:08:16 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -533,20 +511,42 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-16 15:01:37Z",
     "last_played_vienna": "2026-10-16 17:01:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "RAYE",
-    "title": "Life Boat.",
+    "artist": "WillyB",
+    "title": "Egyptus",
     "type": "Station-Specific",
     "play_count_total": 8,
-    "play_count_30d": 0,
+    "play_count_30d": 1,
     "play_count_24h": 0,
-    "last_played": "2026-09-16 03:03:32Z",
-    "last_played_vienna": "2026-09-16 05:03:32 MESZ",
+    "last_played": "2026-09-25 00:18:14Z",
+    "last_played_vienna": "2026-09-25 02:18:14 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Stranger in Moscow",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 08:29:06Z",
+    "last_played_vienna": "2026-10-05 10:29:06 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "David Garrett",
+    "title": "Smells Like Teen Spirit",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-14 14:27:16Z",
+    "last_played_vienna": "2026-10-14 16:27:16 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

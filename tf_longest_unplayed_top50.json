@@ -44,17 +44,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Fail Upward For A Change",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-20 12:03:16Z",
-    "last_played_vienna": "2026-06-20 14:03:16 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "The Vampire Lestat",
     "title": "Dancing With Myself",
     "type": "Station-Specific",
@@ -495,17 +484,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Sir David Willcocks",
-    "title": "5 Tudor Portraits: No. 5, Scherzo. Jolly Rutterkin",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-10 04:26:47Z",
-    "last_played_vienna": "2026-09-10 06:26:47 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "THREESOME (Marlene, Jiro Yoshida, Makoto Kuriya)",
     "title": "Memories of Tomorrow (The Koln Concert - Part IIc)",
     "type": "Station-Specific",
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-09-12 18:44:07Z",
     "last_played_vienna": "2026-09-12 20:44:07 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "P!nk",
+    "title": "Try",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-12 18:48:07Z",
+    "last_played_vienna": "2026-09-12 20:48:07 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "P!nk",
+    "title": "Who Knew (Main Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-12 18:53:38Z",
+    "last_played_vienna": "2026-09-12 20:53:38 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

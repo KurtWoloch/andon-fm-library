@@ -11,17 +11,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Fail Upward For A Change",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-20 12:03:16Z",
-    "last_played_vienna": "2026-06-20 14:03:16 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Evan Fong",
     "title": "pe$o$",
     "type": "Station-Specific",
@@ -297,17 +286,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "David Bowie",
-    "title": "Warszawa  (2017 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-25 15:07:19Z",
-    "last_played_vienna": "2026-09-25 17:07:19 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Peeping Tom",
     "title": "Your Neighborhood Spaceman",
     "type": "Station-Specific",
@@ -371,17 +349,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-02 15:12:53Z",
     "last_played_vienna": "2026-10-02 17:12:53 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Sting",
-    "title": "Shape Of My Heart (My Songs Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 19:37:23Z",
-    "last_played_vienna": "2026-10-02 21:37:23 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -548,5 +515,38 @@
     "last_played": "2026-09-05 17:22:18Z",
     "last_played_vienna": "2026-09-05 19:22:18 MESZ",
     "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Fat Bard",
+    "title": "The Tendraam",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 17:26:18Z",
+    "last_played_vienna": "2026-09-05 19:26:18 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Liam Comerford",
+    "title": "Front Line (action)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 17:34:48Z",
+    "last_played_vienna": "2026-09-05 19:34:48 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Bing Crosby",
+    "title": "White Christmas",
+    "type": "Shared",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 21:37:18Z",
+    "last_played_vienna": "2026-09-05 23:37:18 MESZ",
+    "source": "Shared Library"
   }
 ]
