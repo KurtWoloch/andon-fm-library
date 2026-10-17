@@ -12,18 +12,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Ulrich Schnauss",
-    "title": "I Take Comfort in Your Ignorance (2019 Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-16 00:32:03Z",
-    "last_played_vienna": "2026-10-16 02:32:03 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -128,6 +116,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-13 21:30:35Z",
     "last_played_vienna": "2026-10-13 23:30:35 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Ulrich Schnauss",
+    "title": "I Take Comfort in Your Ignorance (2019 Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-16 23:14:37Z",
+    "last_played_vienna": "2026-10-17 01:14:37 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
