@@ -71,7 +71,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-16 02:39:33Z",
     "last_played_vienna": "2026-10-16 04:39:33 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -176,17 +176,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Procol Harum",
-    "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-10-16 09:25:06Z",
-    "last_played_vienna": "2026-10-16 11:25:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Childish Gambino",
     "title": "Les",
     "type": "Station-Specific",
@@ -203,9 +192,20 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-16 14:17:07Z",
     "last_played_vienna": "2026-10-16 16:17:07 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Procol Harum",
+    "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-10-17 04:15:10Z",
+    "last_played_vienna": "2026-10-17 06:15:10 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -423,7 +423,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-16 03:25:04Z",
     "last_played_vienna": "2026-10-16 05:25:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"

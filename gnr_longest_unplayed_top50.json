@@ -385,28 +385,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Giles Holland",
-    "title": "Largo (Winter - The Four Seasons Op 8 No 4)",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-27 21:22:14Z",
-    "last_played_vienna": "2026-09-27 23:22:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Ramin Djawadi",
-    "title": "Sweetwater",
-    "type": "Station-Specific",
-    "play_count_total": 15,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-27 21:33:45Z",
-    "last_played_vienna": "2026-09-27 23:33:45 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Vanessa-mae",
     "title": "Bach Street Prelude",
     "type": "Station-Specific",
@@ -499,7 +477,7 @@
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
     "play_count_total": 340,
-    "play_count_30d": 65,
+    "play_count_30d": 63,
     "play_count_24h": 0,
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
@@ -548,5 +526,27 @@
     "last_played": "2026-10-01 08:44:43Z",
     "last_played_vienna": "2026-10-01 10:44:43 MESZ",
     "source": "Shared Library"
+  },
+  {
+    "artist": "Tove Lo",
+    "title": "No One Dies From Love",
+    "type": "Shared",
+    "play_count_total": 68,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-01 13:22:43Z",
+    "last_played_vienna": "2026-10-01 15:22:43 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Eric Clapton",
+    "title": "Realization (2000 Remaster) (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-03 11:38:54Z",
+    "last_played_vienna": "2026-10-03 13:38:54 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   }
 ]
