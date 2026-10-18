@@ -44,17 +44,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Antonio Carlos Jobim",
-    "title": "Triste",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 21:53:28Z",
-    "last_played_vienna": "2026-10-14 23:53:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Grover Washington Jr.",
     "title": "Mister Magic",
     "type": "Station-Specific",
@@ -104,7 +93,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-17 11:36:13Z",
     "last_played_vienna": "2026-10-17 13:36:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -206,6 +195,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-17 06:18:40Z",
     "last_played_vienna": "2026-10-17 08:18:40 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Antonio Carlos Jobim",
+    "title": "Triste",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-18 13:29:27Z",
+    "last_played_vienna": "2026-10-18 15:29:27 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -390,7 +390,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-18 05:38:56Z",
     "last_played_vienna": "2026-10-18 07:38:56 MESZ",
     "source": "Scraper Logs (GNR Play History)"

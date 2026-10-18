@@ -540,18 +540,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Atlas Genius",
-    "title": "If So",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 06:58:53Z",
-    "last_played_vienna": "2026-10-08 08:58:53 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Stefan Raab",
     "title": "Bitte lass das Licht an (aus \"Das Kanu des Manitu\")",
     "type": "Station-Specific",
@@ -576,18 +564,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Katrina And The Waves",
-    "title": "Walking On Sunshine",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-09 15:58:01Z",
-    "last_played_vienna": "2026-10-09 17:58:01 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Confetti",
     "title": "People Suck [Explicit]",
     "type": "Shared",
@@ -598,5 +574,29 @@
     "last_played_vienna": "2026-10-09 18:31:02 MESZ",
     "file_id": "",
     "source": "Shared Library"
+  },
+  {
+    "artist": "Kelly Clarkson",
+    "title": "Underneath the Tree",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 17:01:32Z",
+    "last_played_vienna": "2026-10-09 19:01:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Paul Godwin Künstlerensemble",
+    "title": "Dr Toler-Hans-Tonl (Anton-Günther-Potpourri)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 01:01:03Z",
+    "last_played_vienna": "2026-10-10 03:01:03 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
   }
 ]

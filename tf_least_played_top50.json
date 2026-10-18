@@ -341,28 +341,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "John Lennon",
-    "title": "Instant Karma! (We All Shine On) (Ultimate Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-09 16:57:32Z",
-    "last_played_vienna": "2026-10-09 18:57:32 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Van Halen",
-    "title": "Jump  (2015 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 17:36:32Z",
-    "last_played_vienna": "2026-10-10 19:36:32 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Igor Levit",
     "title": "Piano Sonata No. 17 in D minor, Op. 31, No. 2, \"Tempest\" - III. Allegretto",
     "type": "Station-Specific",
@@ -495,17 +473,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Tom Jones",
-    "title": "Cwm Rhondda",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-22 07:57:59Z",
-    "last_played_vienna": "2026-09-22 09:57:59 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Rock appetizers",
     "title": "Child in Time (Special Version)",
     "type": "Station-Specific",
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-10-03 17:11:54Z",
     "last_played_vienna": "2026-10-03 19:11:54 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Montaigne",
+    "title": "I Am Not an End",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-06 02:33:53Z",
+    "last_played_vienna": "2026-10-06 04:33:53 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Soundgarden",
+    "title": "Fell On Black Days (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-06 12:59:31Z",
+    "last_played_vienna": "2026-10-06 14:59:31 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Supernova",
+    "title": "Chewbaca",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-06 14:30:03Z",
+    "last_played_vienna": "2026-10-06 16:30:03 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

@@ -385,17 +385,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Alfa Mist",
-    "title": "Brian",
-    "type": "Station-Specific",
-    "play_count_total": 48,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-09-28 04:08:15Z",
-    "last_played_vienna": "2026-09-28 06:08:15 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Serge Gainsbourg",
     "title": "Je t'aime moi non plus",
     "type": "Station-Specific",
@@ -422,7 +411,7 @@
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
     "play_count_total": 340,
-    "play_count_30d": 50,
+    "play_count_30d": 48,
     "play_count_24h": 0,
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-05 02:49:33Z",
     "last_played_vienna": "2026-10-05 04:49:33 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Annie K.",
+    "title": "Sparkle (From \"Tatsuro Yamashita\") (Cover)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 06:07:04Z",
+    "last_played_vienna": "2026-10-05 08:07:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

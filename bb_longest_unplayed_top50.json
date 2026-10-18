@@ -504,54 +504,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Amy Winehouse",
-    "title": "Rehab",
-    "type": "Shared",
-    "play_count_total": 12,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 13:17:04Z",
-    "last_played_vienna": "2026-10-04 15:17:04 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "James Brown",
-    "title": "I Got You (I Feel Good)",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 13:20:34Z",
-    "last_played_vienna": "2026-10-04 15:20:34 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "M.I.A.",
-    "title": "Paper Planes",
-    "type": "Station-Specific",
-    "play_count_total": 18,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 13:51:05Z",
-    "last_played_vienna": "2026-10-04 15:51:05 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Mac Miller",
-    "title": "Good News",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 13:55:07Z",
-    "last_played_vienna": "2026-10-04 15:55:07 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Toquinho",
     "title": "Aquarela",
     "type": "Station-Specific",
@@ -564,30 +516,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Le Tigre",
-    "title": "Deceptacon",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 15:48:34Z",
-    "last_played_vienna": "2026-10-04 17:48:34 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Chappell Roan",
-    "title": "Pink Pony Club",
-    "type": "Shared",
-    "play_count_total": 16,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 15:58:34Z",
-    "last_played_vienna": "2026-10-04 17:58:34 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Ariana Grande",
     "title": "Into You",
     "type": "Station-Specific",
@@ -596,6 +524,78 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 17:00:34Z",
     "last_played_vienna": "2026-10-04 19:00:34 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Creedence Clearwater Revival",
+    "title": "The Midnight Special",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 18:41:05Z",
+    "last_played_vienna": "2026-10-04 20:41:05 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Herbert Grönemeyer",
+    "title": "Was soll das (Remastered 2016)",
+    "type": "Station-Specific",
+    "play_count_total": 11,
+    "play_count_30d": 5,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 19:05:05Z",
+    "last_played_vienna": "2026-10-04 21:05:05 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Oimara",
+    "title": "Wackelkontakt",
+    "type": "Station-Specific",
+    "play_count_total": 48,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 19:21:34Z",
+    "last_played_vienna": "2026-10-04 21:21:34 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Hia & Do Brass",
+    "title": "Auf, Auf! Hirtenweise",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 6,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 19:39:35Z",
+    "last_played_vienna": "2026-10-04 21:39:35 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "KrabbelStein",
+    "title": "Bass of Silence",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 19:54:34Z",
+    "last_played_vienna": "2026-10-04 21:54:34 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Slayyyter",
+    "title": "CRANK",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 19:57:04Z",
+    "last_played_vienna": "2026-10-04 21:57:04 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
