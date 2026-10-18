@@ -209,17 +209,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Procol Harum",
-    "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-10-17 04:15:10Z",
-    "last_played_vienna": "2026-10-17 06:15:10 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -286,14 +275,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Stealers Wheel",
-    "title": "Stuck In The Middle With You",
+    "artist": "Procol Harum",
+    "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
     "play_count_24h": 1,
-    "last_played": "2026-10-17 13:26:45Z",
-    "last_played_vienna": "2026-10-17 15:26:45 MESZ",
+    "last_played": "2026-10-18 05:05:56Z",
+    "last_played_vienna": "2026-10-18 07:05:56 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -327,17 +316,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-09 07:51:31Z",
     "last_played_vienna": "2026-10-09 09:51:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Dire Straits",
-    "title": "Walk Of Life",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-15 11:04:30Z",
-    "last_played_vienna": "2026-10-15 13:04:30 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -396,6 +374,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Stealers Wheel",
+    "title": "Stuck In The Middle With You",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 2,
+    "last_played": "2026-10-18 05:38:56Z",
+    "last_played_vienna": "2026-10-18 07:38:56 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Big Band Jazz de México",
     "title": "All of Me",
     "type": "Station-Specific",
@@ -440,14 +429,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Journey",
-    "title": "Don't Stop Believin' (Album Version)",
+    "artist": "Dire Straits",
+    "title": "Walk Of Life",
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
     "play_count_24h": 1,
-    "last_played": "2026-10-17 16:08:18Z",
-    "last_played_vienna": "2026-10-17 18:08:18 MESZ",
+    "last_played": "2026-10-18 06:10:26Z",
+    "last_played_vienna": "2026-10-18 08:10:26 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -525,6 +514,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-16 15:01:37Z",
     "last_played_vienna": "2026-10-16 17:01:37 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Journey",
+    "title": "Don't Stop Believin' (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "play_count_24h": 2,
+    "last_played": "2026-10-18 05:18:56Z",
+    "last_played_vienna": "2026-10-18 07:18:56 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
