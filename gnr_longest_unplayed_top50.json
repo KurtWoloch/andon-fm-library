@@ -407,17 +407,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Papooz",
-    "title": "Toria's Song",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-09-28 22:40:18Z",
-    "last_played_vienna": "2026-09-29 00:40:18 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Tom Konkle",
     "title": "Camouflage (Acoustic Mix)",
     "type": "Station-Specific",
@@ -433,7 +422,7 @@
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
     "play_count_total": 340,
-    "play_count_30d": 54,
+    "play_count_30d": 52,
     "play_count_24h": 0,
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 22:19:04Z",
     "last_played_vienna": "2026-10-05 00:19:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Daft Punk",
+    "title": "Face to Face",
+    "type": "Station-Specific",
+    "play_count_total": 21,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 02:49:33Z",
+    "last_played_vienna": "2026-10-05 04:49:33 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

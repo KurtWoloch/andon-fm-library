@@ -33,17 +33,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Becky Levi and the Nightjars",
-    "title": "Wake Me Up",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-06-14 19:57:49Z",
-    "last_played_vienna": "2026-06-14 21:57:49 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "The Vampire Lestat",
     "title": "Dancing With Myself",
     "type": "Station-Specific",
@@ -286,17 +275,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Seatbelts",
-    "title": "Space Lion",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-30 02:09:40Z",
-    "last_played_vienna": "2026-08-30 04:09:40 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -393,17 +371,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-05 12:18:18Z",
     "last_played_vienna": "2026-09-05 14:18:18 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Filippo Beck Peccoz",
-    "title": "The Thieves of Imai",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-05 17:05:18Z",
-    "last_played_vienna": "2026-09-05 19:05:18 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-09-12 18:53:38Z",
     "last_played_vienna": "2026-09-12 20:53:38 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "P!nk",
+    "title": "Just Give Me a Reason",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-12 18:57:37Z",
+    "last_played_vienna": "2026-09-12 20:57:37 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "P!nk",
+    "title": "TRUSTFALL",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-12 19:13:36Z",
+    "last_played_vienna": "2026-09-12 21:13:36 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Patrik Andrén",
+    "title": "ARC Raiders",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-13 03:09:42Z",
+    "last_played_vienna": "2026-09-13 05:09:42 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
