@@ -104,7 +104,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-17 17:48:48Z",
     "last_played_vienna": "2026-10-17 19:48:48 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -118,6 +118,28 @@
     "play_count_24h": 1,
     "last_played": "2026-10-18 09:02:56Z",
     "last_played_vienna": "2026-10-18 11:02:56 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Nina Simone",
+    "title": "Feeling Good",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-18 15:02:56Z",
+    "last_played_vienna": "2026-10-18 17:02:56 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Ella Fitzgerald",
+    "title": "Summertime",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-18 17:38:00Z",
+    "last_played_vienna": "2026-10-18 19:38:00 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -206,6 +228,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-18 13:29:27Z",
     "last_played_vienna": "2026-10-18 15:29:27 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bill Evans",
+    "title": "Peace Piece (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-10-18 17:56:28Z",
+    "last_played_vienna": "2026-10-18 19:56:28 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -514,39 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-16 12:40:37Z",
     "last_played_vienna": "2026-10-16 14:40:37 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Kate Bush",
-    "title": "Babooshka",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 15:01:37Z",
-    "last_played_vienna": "2026-10-16 17:01:37 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Journey",
-    "title": "Don't Stop Believin' (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 2,
-    "last_played": "2026-10-18 05:18:56Z",
-    "last_played_vienna": "2026-10-18 07:18:56 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "WillyB",
-    "title": "Egyptus",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-25 00:18:14Z",
-    "last_played_vienna": "2026-09-25 02:18:14 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

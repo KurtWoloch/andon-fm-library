@@ -275,17 +275,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Fail Upward For A Change",
-    "type": "Station-Specific",
-    "play_count_total": 16,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-24 15:15:42Z",
-    "last_played_vienna": "2026-09-24 17:15:42 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "WillyB",
     "title": "Egyptus",
     "type": "Station-Specific",
@@ -411,7 +400,7 @@
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
     "play_count_total": 340,
-    "play_count_30d": 48,
+    "play_count_30d": 46,
     "play_count_24h": 0,
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-05 06:07:04Z",
     "last_played_vienna": "2026-10-05 08:07:04 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Nattalia Sarria",
+    "title": "Last Summer Whisper (From \"Anri\")",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 06:24:34Z",
+    "last_played_vienna": "2026-10-05 08:24:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
