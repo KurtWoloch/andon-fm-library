@@ -374,17 +374,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Grand Corps Malade",
-    "title": "Mais je t'aime",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-15 21:48:03Z",
-    "last_played_vienna": "2026-10-15 23:48:03 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Leonard Bernstein",
     "title": "Candide: Overture",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-02 23:48:23Z",
     "last_played_vienna": "2026-10-03 01:48:23 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Faith No More",
+    "title": "Stripsearch",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-03 17:11:54Z",
+    "last_played_vienna": "2026-10-03 19:11:54 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
