@@ -396,30 +396,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Zartmann",
-    "title": "tau mich auf",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 12:10:32Z",
-    "last_played_vienna": "2026-10-10 14:10:32 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Miksu / Macloud",
-    "title": "Nachts wach",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 12:30:32Z",
-    "last_played_vienna": "2026-10-10 14:30:32 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Abay",
     "title": "Always Hardcore (Scooter Medley)",
     "type": "Station-Specific",
@@ -596,6 +572,30 @@
     "play_count_24h": 0,
     "last_played": "2026-10-09 17:01:32Z",
     "last_played_vienna": "2026-10-09 19:01:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Paul Godwin Künstlerensemble",
+    "title": "Dr Toler-Hans-Tonl (Anton-Günther-Potpourri)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 01:01:03Z",
+    "last_played_vienna": "2026-10-10 03:01:03 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Haftbefehl",
+    "title": "RADW",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 01:15:31Z",
+    "last_played_vienna": "2026-10-10 03:15:31 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

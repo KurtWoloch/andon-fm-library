@@ -322,11 +322,11 @@
     "artist": "Hurts",
     "title": "Wonderful Life '25  (Extended)",
     "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-15 07:52:28Z",
-    "last_played_vienna": "2026-10-15 09:52:28 MESZ",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 00:04:59Z",
+    "last_played_vienna": "2026-10-19 02:04:59 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -338,17 +338,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-29 23:57:00Z",
     "last_played_vienna": "2026-09-30 01:57:00 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Gary Lux",
-    "title": "Listen to your heart",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 8,
-    "play_count_24h": 1,
-    "last_played": "2026-10-18 09:18:26Z",
-    "last_played_vienna": "2026-10-18 11:18:26 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -382,6 +371,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-16 07:39:35Z",
     "last_played_vienna": "2026-10-16 09:39:35 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Gary Lux",
+    "title": "Listen to your heart",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 9,
+    "play_count_24h": 2,
+    "last_played": "2026-10-19 02:20:31Z",
+    "last_played_vienna": "2026-10-19 04:20:31 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
