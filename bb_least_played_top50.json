@@ -17,7 +17,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 19:50:28Z",
     "last_played_vienna": "2026-10-18 21:50:28 MESZ",
     "file_id": "",
@@ -29,7 +29,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 20:12:27Z",
     "last_played_vienna": "2026-10-18 22:12:27 MESZ",
     "file_id": "",
@@ -41,7 +41,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 20:22:27Z",
     "last_played_vienna": "2026-10-18 22:22:27 MESZ",
     "file_id": "",
@@ -53,7 +53,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 20:27:27Z",
     "last_played_vienna": "2026-10-18 22:27:27 MESZ",
     "file_id": "",
@@ -144,18 +144,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Grillmaster Flash",
-    "title": "Der Hund von Baskerville (feat. Bela B)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 12:03:03Z",
-    "last_played_vienna": "2026-10-10 14:03:03 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "AYLIVA",
     "title": "Renn!",
     "type": "Station-Specific",
@@ -188,30 +176,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-16 23:14:37Z",
     "last_played_vienna": "2026-10-17 01:14:37 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "David Eisley",
-    "title": "Sweet Victory",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 02:38:00Z",
-    "last_played_vienna": "2026-10-04 04:38:00 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Weird Al Yankovic",
-    "title": "White & Nerdy (Parody of \"Ridin'\" by Chamillionaire feat. Krayzie Bone)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 22:39:34Z",
-    "last_played_vienna": "2026-10-05 00:39:34 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -288,18 +252,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Kay One",
-    "title": "Senorita",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 07:27:32Z",
-    "last_played_vienna": "2026-10-10 09:27:32 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Romuvos",
     "title": "Romuvan Dainas",
     "type": "Station-Specific",
@@ -320,18 +272,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 09:04:02Z",
     "last_played_vienna": "2026-10-10 11:04:02 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "AYLIVA",
-    "title": "Deine Schuld",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 09:07:03Z",
-    "last_played_vienna": "2026-10-10 11:07:03 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -392,6 +332,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-14 09:53:46Z",
     "last_played_vienna": "2026-10-14 11:53:46 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Grillmaster Flash",
+    "title": "Der Hund von Baskerville (feat. Bela B)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 16:28:36Z",
+    "last_played_vienna": "2026-10-19 18:28:36 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -576,18 +528,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Bibi und Tina",
-    "title": "No Risk, no Fun (feat. Lina Larissa Strahl, Emilio Moutaoukkil)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 06:36:32Z",
-    "last_played_vienna": "2026-10-10 08:36:32 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Die Lochis",
     "title": "Durchgehend Online",
     "type": "Station-Specific",
@@ -596,6 +536,66 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 06:40:03Z",
     "last_played_vienna": "2026-10-10 08:40:03 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Ruffiction",
+    "title": "Wenn ich will (I’m DMA Remix)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 06:43:32Z",
+    "last_played_vienna": "2026-10-10 08:43:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Kollegah",
+    "title": "Sommer",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 06:48:03Z",
+    "last_played_vienna": "2026-10-10 08:48:03 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Schillah",
+    "title": "Megan",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 06:51:32Z",
+    "last_played_vienna": "2026-10-10 08:51:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Christ.Tec",
+    "title": "RASENSCHACH",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 08:48:32Z",
+    "last_played_vienna": "2026-10-10 10:48:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Van Halen",
+    "title": "Why Can't This Be Love",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 09:43:02Z",
+    "last_played_vienna": "2026-10-10 11:43:02 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

@@ -137,20 +137,9 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 17:38:00Z",
     "last_played_vienna": "2026-10-18 19:38:00 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Miles Davis",
-    "title": "Ahmad's Blues",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-18 19:53:58Z",
-    "last_played_vienna": "2026-10-18 21:53:58 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -159,7 +148,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 20:32:57Z",
     "last_played_vienna": "2026-10-18 22:32:57 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -170,7 +159,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 20:36:27Z",
     "last_played_vienna": "2026-10-18 22:36:27 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -280,9 +269,20 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 17:56:28Z",
     "last_played_vienna": "2026-10-18 19:56:28 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Ahmad's Blues",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 19:59:06Z",
+    "last_played_vienna": "2026-10-19 21:59:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {

@@ -357,7 +357,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 18:24:57Z",
     "last_played_vienna": "2026-10-18 20:24:57 MESZ",
     "source": "Scraper Logs (TF Play History)"
@@ -368,7 +368,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 18:29:57Z",
     "last_played_vienna": "2026-10-18 20:29:57 MESZ",
     "source": "Scraper Logs (TF Play History)"
@@ -379,7 +379,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 18:47:57Z",
     "last_played_vienna": "2026-10-18 20:47:57 MESZ",
     "source": "Scraper Logs (TF Play History)"
@@ -462,6 +462,50 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
+    "artist": "Loreena McKennitt",
+    "title": "The Holly and the Ivy  (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 19:02:36Z",
+    "last_played_vienna": "2026-10-19 21:02:36 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Ailbhe Mcdonagh",
+    "title": "Apres Un Reve",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 19:05:06Z",
+    "last_played_vienna": "2026-10-19 21:05:06 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Howard Shore",
+    "title": "Caras Galadhon / \"Lament for Gandalf\" (feat. Elizabeth Fraser)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 19:08:06Z",
+    "last_played_vienna": "2026-10-19 21:08:06 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Dead Can Dance",
+    "title": "Bird",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 19:17:36Z",
+    "last_played_vienna": "2026-10-19 21:17:36 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
     "artist": "Brenda Lee",
     "title": "Rockin' Around The Christmas Tree",
     "type": "Shared",
@@ -503,50 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-05 17:26:18Z",
     "last_played_vienna": "2026-09-05 19:26:18 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Liam Comerford",
-    "title": "Front Line (action)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-05 17:34:48Z",
-    "last_played_vienna": "2026-09-05 19:34:48 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Bing Crosby",
-    "title": "White Christmas",
-    "type": "Shared",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-05 21:37:18Z",
-    "last_played_vienna": "2026-09-05 23:37:18 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Airiel",
-    "title": "Bloom",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 08:41:56Z",
-    "last_played_vienna": "2026-09-15 10:41:56 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Jacquees",
-    "title": "Won't Turn It Down",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 10:37:04Z",
-    "last_played_vienna": "2026-09-16 12:37:04 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
