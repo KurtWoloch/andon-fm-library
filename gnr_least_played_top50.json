@@ -126,7 +126,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 15:02:56Z",
     "last_played_vienna": "2026-10-18 17:02:56 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -269,7 +269,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 13:29:27Z",
     "last_played_vienna": "2026-10-18 15:29:27 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -418,17 +418,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Stealers Wheel",
-    "title": "Stuck In The Middle With You",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 05:38:56Z",
-    "last_played_vienna": "2026-10-18 07:38:56 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Neuro-sama",
     "title": "Pattern Recognition (feat. ODDEEO)",
     "type": "Station-Specific",
@@ -503,6 +492,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-19 11:01:05Z",
     "last_played_vienna": "2026-10-19 13:01:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Stealers Wheel",
+    "title": "Stuck In The Middle With You",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 16:10:06Z",
+    "last_played_vienna": "2026-10-19 18:10:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {

@@ -276,18 +276,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Lady Gaga",
-    "title": "Mary Jane Holland",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-09 12:28:31Z",
-    "last_played_vienna": "2026-10-09 14:28:31 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Ayşegül Aldinç",
     "title": "Haberi Yok",
     "type": "Station-Specific",
@@ -436,7 +424,7 @@
     "title": "Deine Angst",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-10-02 20:46:23Z",
     "last_played_vienna": "2026-10-02 22:46:23 MESZ",
@@ -492,18 +480,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Confetti",
-    "title": "People Suck [Explicit]",
-    "type": "Shared",
-    "play_count_total": 4,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-09 16:31:02Z",
-    "last_played_vienna": "2026-10-09 18:31:02 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Kelly Clarkson",
     "title": "Underneath the Tree",
     "type": "Station-Specific",
@@ -536,18 +512,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 01:15:31Z",
     "last_played_vienna": "2026-10-10 03:15:31 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Eisbrecher",
-    "title": "This is Deutsch",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 01:19:01Z",
-    "last_played_vienna": "2026-10-10 03:19:01 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -596,6 +560,42 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 05:23:32Z",
     "last_played_vienna": "2026-10-10 07:23:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Chor des Kameradschaftsbundes Frankfurt/M und großes Blasorchester",
+    "title": "Auf Der Heide Blüht Ein Kleines Blümelein (Erika)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 05:26:32Z",
+    "last_played_vienna": "2026-10-10 07:26:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Bibi und Tina",
+    "title": "No Risk, no Fun (feat. Lina Larissa Strahl, Emilio Moutaoukkil)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 06:36:32Z",
+    "last_played_vienna": "2026-10-10 08:36:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Die Lochis",
+    "title": "Durchgehend Online",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 06:40:03Z",
+    "last_played_vienna": "2026-10-10 08:40:03 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
