@@ -312,18 +312,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Gruppa Viktor",
-    "title": "Pachka sigaret",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 07:32:02Z",
-    "last_played_vienna": "2026-10-10 09:32:02 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Romuvos",
     "title": "Romuvan Dainas",
     "type": "Station-Specific",
@@ -332,18 +320,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 07:37:02Z",
     "last_played_vienna": "2026-10-10 09:37:02 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "annapantsu",
-    "title": "Rainbow Connection",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 08:58:02Z",
-    "last_played_vienna": "2026-10-10 10:58:02 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -480,18 +456,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Corey Taylor",
-    "title": "Snuff (Cover / Live in London, '16)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 12:20:05Z",
-    "last_played_vienna": "2026-10-04 14:20:05 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Cypisolo",
     "title": "Gdzie jest biały węgorz ? (Zejście)",
     "type": "Station-Specific",
@@ -592,10 +556,46 @@
     "title": "RADW",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-10-10 01:15:31Z",
     "last_played_vienna": "2026-10-10 03:15:31 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Eisbrecher",
+    "title": "This is Deutsch",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 01:19:01Z",
+    "last_played_vienna": "2026-10-10 03:19:01 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "TV Girl",
+    "title": "It Almost Worked",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 03:58:32Z",
+    "last_played_vienna": "2026-10-10 05:58:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "Pattern Recognition (feat. ODDEEO)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 04:35:01Z",
+    "last_played_vienna": "2026-10-10 06:35:01 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

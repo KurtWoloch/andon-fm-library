@@ -385,6 +385,28 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
+    "artist": "ROSALÍA",
+    "title": "Berghain",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 07:36:34Z",
+    "last_played_vienna": "2026-10-19 09:36:34 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Halestorm",
+    "title": "Do Not Disturb",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 08:11:05Z",
+    "last_played_vienna": "2026-10-19 10:11:05 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
     "artist": "Brenda Lee",
     "title": "Rockin' Around The Christmas Tree",
     "type": "Shared",
@@ -525,28 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-03 17:11:54Z",
     "last_played_vienna": "2026-10-03 19:11:54 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Montaigne",
-    "title": "I Am Not an End",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-06 02:33:53Z",
-    "last_played_vienna": "2026-10-06 04:33:53 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Soundgarden",
-    "title": "Fell On Black Days (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-06 12:59:31Z",
-    "last_played_vienna": "2026-10-06 14:59:31 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

@@ -308,17 +308,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Neuro-sama",
-    "title": "Pattern Recognition (feat. ODDEEO)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 19:33:34Z",
-    "last_played_vienna": "2026-10-04 21:33:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Nattalia Sarria",
     "title": "Last Summer Whisper (From \"Anri\")",
     "type": "Station-Specific",
@@ -368,7 +357,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 05:05:56Z",
     "last_played_vienna": "2026-10-18 07:05:56 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -456,9 +445,20 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 05:38:56Z",
     "last_played_vienna": "2026-10-18 07:38:56 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "Pattern Recognition (feat. ODDEEO)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 07:52:05Z",
+    "last_played_vienna": "2026-10-19 09:52:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -489,7 +489,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 06:10:26Z",
     "last_played_vienna": "2026-10-18 08:10:26 MESZ",
     "source": "Scraper Logs (GNR Play History)"
