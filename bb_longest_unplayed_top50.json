@@ -96,18 +96,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Steely Dan",
-    "title": "Do It Again",
-    "type": "Station-Specific",
-    "play_count_total": 20,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-29 22:36:59Z",
-    "last_played_vienna": "2026-09-30 00:36:59 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Kraftklub",
     "title": "Schüsse in die Luft",
     "type": "Station-Specific",
@@ -424,7 +412,7 @@
     "title": "Auf, Auf! Hirtenweise",
     "type": "Station-Specific",
     "play_count_total": 7,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "play_count_24h": 0,
     "last_played": "2026-10-04 19:39:35Z",
     "last_played_vienna": "2026-10-04 21:39:35 MESZ",
@@ -472,7 +460,7 @@
     "title": "Sexo, Violencia y Llantas",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "play_count_24h": 0,
     "last_played": "2026-10-04 20:59:34Z",
     "last_played_vienna": "2026-10-04 22:59:34 MESZ",
@@ -568,7 +556,7 @@
     "title": "Auf der Vogelwiese",
     "type": "Station-Specific",
     "play_count_total": 8,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "play_count_24h": 0,
     "last_played": "2026-10-07 18:19:12Z",
     "last_played_vienna": "2026-10-07 20:19:12 MESZ",
@@ -598,5 +586,17 @@
     "last_played_vienna": "2026-10-07 20:33:43 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Guns N' Roses",
+    "title": "Paradise City",
+    "type": "Shared",
+    "play_count_total": 16,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 00:34:16Z",
+    "last_played_vienna": "2026-10-08 02:34:16 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
   }
 ]

@@ -115,7 +115,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-18 09:02:56Z",
     "last_played_vienna": "2026-10-18 11:02:56 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -352,17 +352,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Procol Harum",
-    "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 05:05:56Z",
-    "last_played_vienna": "2026-10-18 07:05:56 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Videoclub",
     "title": "Mai",
     "type": "Station-Specific",
@@ -429,17 +418,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Kealii Reichel",
-    "title": "Maunaleo (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 15:08:37Z",
-    "last_played_vienna": "2026-10-16 17:08:37 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Stealers Wheel",
     "title": "Stuck In The Middle With You",
     "type": "Station-Specific",
@@ -459,6 +437,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-19 07:52:05Z",
     "last_played_vienna": "2026-10-19 09:52:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Procol Harum",
+    "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 10:21:05Z",
+    "last_played_vienna": "2026-10-19 12:21:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -503,6 +492,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-18 23:20:28Z",
     "last_played_vienna": "2026-10-19 01:20:28 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Kealii Reichel",
+    "title": "Maunaleo (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 1,
+    "last_played": "2026-10-19 11:01:05Z",
+    "last_played_vienna": "2026-10-19 13:01:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
