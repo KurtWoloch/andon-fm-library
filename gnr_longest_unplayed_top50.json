@@ -66,17 +66,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "The Beatles",
-    "title": "Revolution 9 (Remastered 2009)",
-    "type": "Shared",
-    "play_count_total": 52,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-05-21 12:26:36Z",
-    "last_played_vienna": "2026-05-21 14:26:36 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Pent Up Pup",
     "title": "ORDER:SCORE",
     "type": "Station-Specific",
@@ -151,17 +140,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-08 06:00:05Z",
     "last_played_vienna": "2026-09-08 08:00:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Justice Der",
-    "title": "She",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-09 12:47:12Z",
-    "last_played_vienna": "2026-09-09 14:47:12 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -352,22 +330,11 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Camouflage (Acoustic Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 23,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-29 06:45:27Z",
-    "last_played_vienna": "2026-09-29 08:45:27 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Katrina And The Waves",
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
     "play_count_total": 340,
-    "play_count_30d": 24,
+    "play_count_30d": 22,
     "play_count_24h": 0,
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-10-05 13:34:11Z",
     "last_played_vienna": "2026-10-05 15:34:11 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Wizkid",
+    "title": "Essence",
+    "type": "Shared",
+    "play_count_total": 26,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 20:44:48Z",
+    "last_played_vienna": "2026-10-05 22:44:48 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Lianne La Havas",
+    "title": "Unstoppable",
+    "type": "Shared",
+    "play_count_total": 40,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 21:02:19Z",
+    "last_played_vienna": "2026-10-05 23:02:19 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Manhattan Jazz Band",
+    "title": "You Are the Sunshine of My Life",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 0,
+    "last_played": "2026-10-07 09:26:41Z",
+    "last_played_vienna": "2026-10-07 11:26:41 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
