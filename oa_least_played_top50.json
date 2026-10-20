@@ -385,17 +385,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Gary Lux",
-    "title": "Listen to your heart",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 10,
-    "play_count_24h": 1,
-    "last_played": "2026-10-19 19:10:36Z",
-    "last_played_vienna": "2026-10-19 21:10:36 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Olivia Newton-John",
     "title": "Xanadu (Live)",
     "type": "Station-Specific",
@@ -426,6 +415,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-15 21:24:31Z",
     "last_played_vienna": "2026-10-15 23:24:31 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Gary Lux",
+    "title": "Listen to your heart",
+    "type": "Station-Specific",
+    "play_count_total": 11,
+    "play_count_30d": 11,
+    "play_count_24h": 2,
+    "last_played": "2026-10-20 13:03:14Z",
+    "last_played_vienna": "2026-10-20 15:03:14 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -488,7 +488,7 @@
     "title": "Part Of Me, Part Of You (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 13,
-    "play_count_30d": 9,
+    "play_count_30d": 8,
     "play_count_24h": 0,
     "last_played": "2026-10-15 16:22:30Z",
     "last_played_vienna": "2026-10-15 18:22:30 MESZ",
