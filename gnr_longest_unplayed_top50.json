@@ -264,28 +264,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Tom Konkle",
-    "title": "Undoing",
-    "type": "Station-Specific",
-    "play_count_total": 21,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 08:48:34Z",
-    "last_played_vienna": "2026-09-16 10:48:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "WillyB",
-    "title": "Egyptus",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-25 00:18:14Z",
-    "last_played_vienna": "2026-09-25 02:18:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The Weeknd",
     "title": "Gasoline",
     "type": "Shared",
@@ -389,7 +367,7 @@
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
     "play_count_total": 340,
-    "play_count_30d": 27,
+    "play_count_30d": 24,
     "play_count_24h": 0,
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-05 08:29:06Z",
     "last_played_vienna": "2026-10-05 10:29:06 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Platters",
+    "title": "Smoke Gets In Your Eyes (Single Version)",
+    "type": "Station-Specific",
+    "play_count_total": 23,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 10:50:38Z",
+    "last_played_vienna": "2026-10-05 12:50:38 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Anna von Hausswolff",
+    "title": "Facing Atlas",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 13:34:11Z",
+    "last_played_vienna": "2026-10-05 15:34:11 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

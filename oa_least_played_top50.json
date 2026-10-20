@@ -319,17 +319,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Hurts",
-    "title": "Wonderful Life '25  (Extended)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-10-19 00:04:59Z",
-    "last_played_vienna": "2026-10-19 02:04:59 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Foster The People",
     "title": "Pumped Up Kicks",
     "type": "Station-Specific",
@@ -338,6 +327,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-29 23:57:00Z",
     "last_played_vienna": "2026-09-30 01:57:00 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Hurts",
+    "title": "Wonderful Life '25  (Extended)",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "play_count_24h": 1,
+    "last_played": "2026-10-20 04:05:41Z",
+    "last_played_vienna": "2026-10-20 06:05:41 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -390,7 +390,7 @@
     "type": "Station-Specific",
     "play_count_total": 10,
     "play_count_30d": 10,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-19 19:10:36Z",
     "last_played_vienna": "2026-10-19 21:10:36 MESZ",
     "source": "Scraper Logs (OA Play History)"
