@@ -24,42 +24,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "James Blake",
-    "title": "If The Car Beside You Moves Ahead",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 20:22:27Z",
-    "last_played_vienna": "2026-10-18 22:22:27 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Massive Attack",
-    "title": "The Spoils",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 20:27:27Z",
-    "last_played_vienna": "2026-10-18 22:27:27 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "DataGlide",
-    "title": "VR Higher",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 20:53:27Z",
-    "last_played_vienna": "2026-10-18 22:53:27 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -176,6 +140,42 @@
     "play_count_24h": 1,
     "last_played": "2026-10-20 14:57:44Z",
     "last_played_vienna": "2026-10-20 16:57:44 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "DataGlide",
+    "title": "VR Higher",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-20 20:05:44Z",
+    "last_played_vienna": "2026-10-20 22:05:44 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "James Blake",
+    "title": "If The Car Beside You Moves Ahead",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-20 20:33:14Z",
+    "last_played_vienna": "2026-10-20 22:33:14 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Massive Attack",
+    "title": "The Spoils",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-20 22:16:14Z",
+    "last_played_vienna": "2026-10-21 00:16:14 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },

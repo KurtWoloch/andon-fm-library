@@ -440,17 +440,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Megadeth",
-    "title": "Tipping Point",
-    "type": "Shared",
-    "play_count_total": 7,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 09:50:56Z",
-    "last_played_vienna": "2026-09-15 11:50:56 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Pussy Riot",
     "title": "Straight Outta Vagina (feat. Desi Mo & Leikeli47)",
     "type": "Station-Specific",
@@ -470,17 +459,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-15 15:04:56Z",
     "last_played_vienna": "2026-09-15 17:04:56 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Geese",
-    "title": "Cowboy Nudes",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 19:48:57Z",
-    "last_played_vienna": "2026-09-15 21:48:57 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -548,5 +526,27 @@
     "last_played": "2026-09-19 20:13:04Z",
     "last_played_vienna": "2026-09-19 22:13:04 MESZ",
     "source": "Shared Library"
+  },
+  {
+    "artist": "Duncan Sheik",
+    "title": "Barely Breathing",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-19 22:14:04Z",
+    "last_played_vienna": "2026-09-20 00:14:04 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "U2",
+    "title": "One (Remastered 2011)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-19 22:20:33Z",
+    "last_played_vienna": "2026-09-20 00:20:33 MESZ",
+    "source": "Scraper Logs (TF Play History)"
   }
 ]
