@@ -198,6 +198,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Eric Clapton",
+    "title": "Alberta (Acoustic Live)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-20 15:13:13Z",
+    "last_played_vienna": "2026-10-20 17:13:13 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -467,7 +478,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-19 16:10:06Z",
     "last_played_vienna": "2026-10-19 18:10:06 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-14 20:05:28Z",
     "last_played_vienna": "2026-10-14 22:05:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "LCD Soundsystem",
-    "title": "Watch the Tapes",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 12:36:37Z",
-    "last_played_vienna": "2026-10-16 14:36:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

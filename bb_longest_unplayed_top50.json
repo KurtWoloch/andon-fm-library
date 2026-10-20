@@ -84,18 +84,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Kraftklub",
-    "title": "Schüsse in die Luft",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 8,
-    "play_count_24h": 0,
-    "last_played": "2026-09-30 00:37:29Z",
-    "last_played_vienna": "2026-09-30 02:37:29 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Luca-Dante Spadafora",
     "title": "WIR SIND DIE DEUTSCHEN",
     "type": "Station-Specific",
@@ -164,18 +152,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-03 15:25:25Z",
     "last_played_vienna": "2026-10-03 17:25:25 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Helge Schneider",
-    "title": "Fitze, Fitze, Fatze",
-    "type": "Station-Specific",
-    "play_count_total": 30,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-03 16:38:25Z",
-    "last_played_vienna": "2026-10-03 18:38:25 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -320,18 +296,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 11:35:05Z",
     "last_played_vienna": "2026-10-04 13:35:05 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Herbert Grönemeyer",
-    "title": "Was soll das (Remastered 2016)",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 19:05:05Z",
-    "last_played_vienna": "2026-10-04 21:05:05 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -596,6 +560,42 @@
     "play_count_24h": 0,
     "last_played": "2026-10-08 02:12:48Z",
     "last_played_vienna": "2026-10-08 04:12:48 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Mark Forster",
+    "title": "Sowieso",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 03:44:19Z",
+    "last_played_vienna": "2026-10-08 05:44:19 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Hgich.T",
+    "title": "Tanke",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 03:49:49Z",
+    "last_played_vienna": "2026-10-08 05:49:49 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Jan Böhmermann",
+    "title": "Grab US by the Pussy",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 05:14:51Z",
+    "last_played_vienna": "2026-10-08 07:14:51 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
