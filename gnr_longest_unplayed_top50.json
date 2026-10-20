@@ -341,17 +341,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Vanessa-mae",
-    "title": "Bach Street Prelude",
-    "type": "Station-Specific",
-    "play_count_total": 18,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-27 21:52:15Z",
-    "last_played_vienna": "2026-09-27 23:52:15 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Khalid",
     "title": "please don't call (333)",
     "type": "Shared",
@@ -400,7 +389,7 @@
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
     "play_count_total": 340,
-    "play_count_30d": 29,
+    "play_count_30d": 27,
     "play_count_24h": 0,
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
@@ -416,17 +405,6 @@
     "last_played": "2026-09-30 05:32:04Z",
     "last_played_vienna": "2026-09-30 07:32:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Fleet Foxes",
-    "title": "White Winter Hymnal",
-    "type": "Shared",
-    "play_count_total": 24,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-09-30 08:43:04Z",
-    "last_played_vienna": "2026-09-30 10:43:04 MESZ",
-    "source": "Shared Library"
   },
   {
     "artist": "Myles Kennedy",
@@ -543,10 +521,32 @@
     "title": "Organic Rust",
     "type": "Shared",
     "play_count_total": 24,
-    "play_count_30d": 11,
+    "play_count_30d": 10,
     "play_count_24h": 0,
     "last_played": "2026-10-05 07:46:05Z",
     "last_played_vienna": "2026-10-05 09:46:05 MESZ",
     "source": "Shared Library"
+  },
+  {
+    "artist": "Joywave",
+    "title": "In Clover",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 08:10:36Z",
+    "last_played_vienna": "2026-10-05 10:10:36 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Michael Jackson",
+    "title": "Stranger in Moscow",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-05 08:29:06Z",
+    "last_played_vienna": "2026-10-05 10:29:06 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   }
 ]

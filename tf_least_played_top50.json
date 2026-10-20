@@ -132,17 +132,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Deftones",
-    "title": "Change (In the House of Flies)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 03:11:25Z",
-    "last_played_vienna": "2026-09-15 05:11:25 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Skindred",
     "title": "You Got This",
     "type": "Station-Specific",
@@ -191,7 +180,7 @@
     "title": "Barely Breathing",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-19 22:14:04Z",
     "last_played_vienna": "2026-09-20 00:14:04 MESZ",
@@ -202,7 +191,7 @@
     "title": "One (Remastered 2011)",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-19 22:20:33Z",
     "last_played_vienna": "2026-09-20 00:20:33 MESZ",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-05 17:26:18Z",
     "last_played_vienna": "2026-09-05 19:26:18 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Liam Comerford",
+    "title": "Front Line (action)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 17:34:48Z",
+    "last_played_vienna": "2026-09-05 19:34:48 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
