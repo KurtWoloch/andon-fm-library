@@ -552,18 +552,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Van Halen",
-    "title": "Why Can't This Be Love",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 09:43:02Z",
-    "last_played_vienna": "2026-10-10 11:43:02 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Dj Rashad",
     "title": "Drank, Kush, Barz (feat. DJ Spinn)",
     "type": "Station-Specific",
@@ -598,5 +586,17 @@
     "last_played_vienna": "2026-10-13 16:08:01 MESZ",
     "file_id": "",
     "source": "Shared Library"
+  },
+  {
+    "artist": "Peter Wackel",
+    "title": "Ich verkaufe meinen Körper",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-13 18:38:35Z",
+    "last_played_vienna": "2026-10-13 20:38:35 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
   }
 ]

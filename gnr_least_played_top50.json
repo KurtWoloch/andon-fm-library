@@ -99,17 +99,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Earth, Wind & Fire",
-    "title": "Shining Star",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-17 17:48:48Z",
-    "last_played_vienna": "2026-10-17 19:48:48 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Dire Straits",
     "title": "Your Latest Trick",
     "type": "Station-Specific",
@@ -308,6 +297,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Earth, Wind & Fire",
+    "title": "Shining Star",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-20 23:58:44Z",
+    "last_played_vienna": "2026-10-21 01:58:44 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Childish Gambino",
     "title": "Les",
     "type": "Station-Specific",
@@ -418,17 +418,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Red Snapper",
-    "title": "Space Sickness",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 09:39:06Z",
-    "last_played_vienna": "2026-10-16 11:39:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Grand Corps Malade",
     "title": "Mais je t'aime",
     "type": "Station-Specific",
@@ -484,17 +473,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Neuro-sama",
-    "title": "Pattern Recognition (feat. ODDEEO)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 1,
-    "last_played": "2026-10-20 03:53:12Z",
-    "last_played_vienna": "2026-10-20 05:53:12 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Procol Harum",
     "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
     "type": "Station-Specific",
@@ -503,6 +481,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-20 09:18:13Z",
     "last_played_vienna": "2026-10-20 11:18:13 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Red Snapper",
+    "title": "Space Sickness",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 1,
+    "last_played": "2026-10-21 00:49:14Z",
+    "last_played_vienna": "2026-10-21 02:49:14 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-16 12:36:37Z",
     "last_played_vienna": "2026-10-16 14:36:37 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Stan Getz",
+    "title": "Corcovado (Quiet Nights Of Quiet Stars)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "play_count_24h": 0,
+    "last_played": "2026-10-16 12:40:37Z",
+    "last_played_vienna": "2026-10-16 14:40:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
