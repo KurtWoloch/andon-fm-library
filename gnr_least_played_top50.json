@@ -181,7 +181,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-20 07:12:43Z",
     "last_played_vienna": "2026-10-20 09:12:43 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -206,6 +206,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-21 04:04:44Z",
     "last_played_vienna": "2026-10-21 06:04:44 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Frank Zander",
+    "title": "Das war'n Zeiten (den Kudamm rauf)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-21 07:17:18Z",
+    "last_played_vienna": "2026-10-21 09:17:18 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -489,7 +500,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-20 09:18:13Z",
     "last_played_vienna": "2026-10-20 11:18:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-14 20:05:28Z",
     "last_played_vienna": "2026-10-14 22:05:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "LCD Soundsystem",
-    "title": "Watch the Tapes",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 12:36:37Z",
-    "last_played_vienna": "2026-10-16 14:36:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
