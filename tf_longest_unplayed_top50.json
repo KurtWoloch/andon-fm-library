@@ -231,28 +231,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Filippo Beck Peccoz",
-    "title": "Desperados III Main Theme",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-05 17:08:48Z",
-    "last_played_vienna": "2026-09-05 19:08:48 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Fat Bard",
-    "title": "The Tendraam",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-05 17:26:18Z",
-    "last_played_vienna": "2026-09-05 19:26:18 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Liam Comerford",
     "title": "Front Line (action)",
     "type": "Station-Specific",
@@ -440,17 +418,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Tom Novy",
-    "title": "Superstar  (The Jason Nevins' Live Peep Show Mix)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-15 15:04:56Z",
-    "last_played_vienna": "2026-09-15 17:04:56 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Buckcherry",
     "title": "Crazy Bitch",
     "type": "Station-Specific",
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-09-21 02:10:43Z",
     "last_played_vienna": "2026-09-21 04:10:43 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Cover Vocals BPM 122 Acapellas",
+    "title": "This Is Your Life (Originally Performed by Banderas)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-21 02:20:13Z",
+    "last_played_vienna": "2026-09-21 04:20:13 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "江晴",
+    "title": "Má Vlast, JB 1:112-Vltava Smetana, Bedřich 伏塔瓦河 史麥塔納",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-21 02:37:44Z",
+    "last_played_vienna": "2026-09-21 04:37:44 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Halo",
+    "title": "Halo Theme Mjolnir Mix",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-21 03:04:14Z",
+    "last_played_vienna": "2026-09-21 05:04:14 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

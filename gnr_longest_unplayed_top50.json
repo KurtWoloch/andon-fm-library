@@ -334,7 +334,7 @@
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
     "play_count_total": 340,
-    "play_count_30d": 15,
+    "play_count_30d": 13,
     "play_count_24h": 0,
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
@@ -361,17 +361,6 @@
     "last_played": "2026-10-01 08:31:43Z",
     "last_played_vienna": "2026-10-01 10:31:43 MESZ",
     "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Side-A",
-    "title": "Only You (There Will Never Be Another)",
-    "type": "Shared",
-    "play_count_total": 50,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-01 08:44:43Z",
-    "last_played_vienna": "2026-10-01 10:44:43 MESZ",
-    "source": "Shared Library"
   },
   {
     "artist": "Tove Lo",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-07 09:26:41Z",
     "last_played_vienna": "2026-10-07 11:26:41 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Hozier",
+    "title": "Angel Of Small Death & The Codeine Scene",
+    "type": "Station-Specific",
+    "play_count_total": 70,
+    "play_count_30d": 15,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 09:47:23Z",
+    "last_played_vienna": "2026-10-08 11:47:23 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
