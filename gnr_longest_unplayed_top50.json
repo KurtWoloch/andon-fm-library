@@ -177,17 +177,6 @@
   },
   {
     "artist": "Tate McRae",
-    "title": "Miss possessive",
-    "type": "Shared",
-    "play_count_total": 13,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 02:45:32Z",
-    "last_played_vienna": "2026-09-16 04:45:32 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Tate McRae",
     "title": "TIT FOR TAT",
     "type": "Shared",
     "play_count_total": 20,
@@ -312,7 +301,7 @@
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
     "play_count_total": 340,
-    "play_count_30d": 9,
+    "play_count_30d": 7,
     "play_count_24h": 0,
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
@@ -404,17 +393,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-05 06:07:04Z",
     "last_played_vienna": "2026-10-05 08:07:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Nattalia Sarria",
-    "title": "Last Summer Whisper (From \"Anri\")",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-05 06:24:34Z",
-    "last_played_vienna": "2026-10-05 08:24:34 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-08 14:12:24Z",
     "last_played_vienna": "2026-10-08 16:12:24 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
+    "title": "Highway to Hell",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 16:56:23Z",
+    "last_played_vienna": "2026-10-08 18:56:23 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Tyler, The Creator",
+    "title": "NEW MAGIC WAND",
+    "type": "Station-Specific",
+    "play_count_total": 17,
+    "play_count_30d": 11,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 17:14:54Z",
+    "last_played_vienna": "2026-10-08 19:14:54 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

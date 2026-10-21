@@ -363,17 +363,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Nattalia Sarria",
-    "title": "Last Summer Whisper (From \"Anri\")",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-05 06:24:34Z",
-    "last_played_vienna": "2026-10-05 08:24:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Michael Holm",
     "title": "Barfuß im Regen",
     "type": "Station-Specific",
@@ -451,6 +440,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Nattalia Sarria",
+    "title": "Last Summer Whisper (From \"Anri\")",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-21 11:21:45Z",
+    "last_played_vienna": "2026-10-21 13:21:45 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Handsome Boy Modeling School",
     "title": "The Truth",
     "type": "Station-Specific",
@@ -470,17 +470,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-15 06:25:58Z",
     "last_played_vienna": "2026-10-15 08:25:58 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Kealii Reichel",
-    "title": "Maunaleo (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-19 11:01:05Z",
-    "last_played_vienna": "2026-10-19 13:01:05 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -528,17 +517,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Van Morrison",
-    "title": "Brown Eyed Girl",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 18:37:16Z",
-    "last_played_vienna": "2026-10-14 20:37:16 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Nils Frahm",
     "title": "You",
     "type": "Station-Specific",
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-14 20:05:28Z",
     "last_played_vienna": "2026-10-14 22:05:28 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "LCD Soundsystem",
+    "title": "Watch the Tapes",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "play_count_24h": 0,
+    "last_played": "2026-10-16 12:36:37Z",
+    "last_played_vienna": "2026-10-16 14:36:37 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Stan Getz",
+    "title": "Corcovado (Quiet Nights Of Quiet Stars)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 7,
+    "play_count_24h": 0,
+    "last_played": "2026-10-16 12:40:37Z",
+    "last_played_vienna": "2026-10-16 14:40:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
