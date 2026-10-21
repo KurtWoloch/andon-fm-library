@@ -209,17 +209,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Peeping Tom",
-    "title": "Your Neighborhood Spaceman",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-25 16:18:19Z",
-    "last_played_vienna": "2026-09-25 18:18:19 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Sons Of Apollo",
     "title": "Desolate July",
     "type": "Station-Specific",
@@ -261,17 +250,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-09 03:47:28Z",
     "last_played_vienna": "2026-10-09 05:47:28 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Igor Levit",
-    "title": "Piano Sonata No. 17 in D minor, Op. 31, No. 2, \"Tempest\" - III. Allegretto",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-11 19:04:12Z",
-    "last_played_vienna": "2026-10-11 21:04:12 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -445,7 +423,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-20 15:17:43Z",
     "last_played_vienna": "2026-10-20 17:17:43 MESZ",
     "source": "Scraper Logs (TF Play History)"
@@ -456,7 +434,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-20 17:20:13Z",
     "last_played_vienna": "2026-10-20 19:20:13 MESZ",
     "source": "Scraper Logs (TF Play History)"
@@ -467,7 +445,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-20 18:55:43Z",
     "last_played_vienna": "2026-10-20 20:55:43 MESZ",
     "source": "Scraper Logs (TF Play History)"
@@ -478,7 +456,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-20 18:59:44Z",
     "last_played_vienna": "2026-10-20 20:59:44 MESZ",
     "source": "Scraper Logs (TF Play History)"
@@ -489,7 +467,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-20 19:34:44Z",
     "last_played_vienna": "2026-10-20 21:34:44 MESZ",
     "source": "Scraper Logs (TF Play History)"
@@ -528,6 +506,17 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
+    "artist": "Olivia Rodrigo",
+    "title": "the cure",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-21 16:38:16Z",
+    "last_played_vienna": "2026-10-21 18:38:16 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
     "artist": "Brenda Lee",
     "title": "Rockin' Around The Christmas Tree",
     "type": "Shared",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-08-31 18:46:20Z",
     "last_played_vienna": "2026-08-31 20:46:20 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Liam Comerford",
+    "title": "Front Line (action)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-05 17:34:48Z",
+    "last_played_vienna": "2026-09-05 19:34:48 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

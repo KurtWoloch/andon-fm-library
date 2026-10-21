@@ -192,7 +192,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-20 15:13:13Z",
     "last_played_vienna": "2026-10-20 17:13:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -217,6 +217,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-21 07:17:18Z",
     "last_played_vienna": "2026-10-21 09:17:18 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Let's Spend The Night Together",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-21 18:32:23Z",
+    "last_played_vienna": "2026-10-21 20:32:23 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-16 12:36:37Z",
     "last_played_vienna": "2026-10-16 14:36:37 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Stan Getz",
-    "title": "Corcovado (Quiet Nights Of Quiet Stars)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 12:40:37Z",
-    "last_played_vienna": "2026-10-16 14:40:37 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
