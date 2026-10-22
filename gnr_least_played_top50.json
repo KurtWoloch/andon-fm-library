@@ -88,17 +88,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Jon Hopkins",
-    "title": "Open Eye Signal (Remaster 2023)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-17 11:36:13Z",
-    "last_played_vienna": "2026-10-17 13:36:13 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Dire Straits",
     "title": "Your Latest Trick",
     "type": "Station-Specific",
@@ -214,7 +203,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-21 07:17:18Z",
     "last_played_vienna": "2026-10-21 09:17:18 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -338,6 +327,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-20 23:58:44Z",
     "last_played_vienna": "2026-10-21 01:58:44 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Jon Hopkins",
+    "title": "Open Eye Signal (Remaster 2023)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-22 06:46:20Z",
+    "last_played_vienna": "2026-10-22 08:46:20 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {

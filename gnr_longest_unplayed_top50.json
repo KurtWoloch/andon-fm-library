@@ -176,17 +176,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Tate McRae",
-    "title": "TIT FOR TAT",
-    "type": "Shared",
-    "play_count_total": 20,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 02:48:32Z",
-    "last_played_vienna": "2026-09-16 04:48:32 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "RAYE",
     "title": "WHERE IS MY HUSBAND!",
     "type": "Station-Specific",
@@ -517,17 +506,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Stevie Wonder",
-    "title": "As",
-    "type": "Station-Specific",
-    "play_count_total": 53,
-    "play_count_30d": 22,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 14:12:24Z",
-    "last_played_vienna": "2026-10-08 16:12:24 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
     "title": "Highway to Hell",
     "type": "Station-Specific",
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-08 17:14:54Z",
     "last_played_vienna": "2026-10-08 19:14:54 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Weeknd",
+    "title": "Starboy",
+    "type": "Shared",
+    "play_count_total": 81,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 20:46:54Z",
+    "last_played_vienna": "2026-10-08 22:46:54 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Erykah Badu",
+    "title": "Didn't Cha Know (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 34,
+    "play_count_30d": 13,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 23:03:32Z",
+    "last_played_vienna": "2026-10-10 01:03:32 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

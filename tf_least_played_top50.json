@@ -517,6 +517,17 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
+    "artist": "Fireboy DML",
+    "title": "GODDESS",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-22 09:04:20Z",
+    "last_played_vienna": "2026-10-22 11:04:20 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
     "artist": "Brenda Lee",
     "title": "Rockin' Around The Christmas Tree",
     "type": "Shared",
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-08-31 18:46:20Z",
     "last_played_vienna": "2026-08-31 20:46:20 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Liam Comerford",
-    "title": "Front Line (action)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-05 17:34:48Z",
-    "last_played_vienna": "2026-09-05 19:34:48 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
