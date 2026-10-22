@@ -180,7 +180,7 @@
     "title": "Still Of The Night (Live In Tokyo, Japan / 1993)",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-22 16:01:29Z",
     "last_played_vienna": "2026-09-22 18:01:29 MESZ",
@@ -250,17 +250,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-16 02:35:33Z",
     "last_played_vienna": "2026-10-16 04:35:33 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Jeff Buckley",
-    "title": "So Real",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 18:24:57Z",
-    "last_played_vienna": "2026-10-18 20:24:57 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -500,7 +489,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-21 16:38:16Z",
     "last_played_vienna": "2026-10-21 18:38:16 MESZ",
     "source": "Scraper Logs (TF Play History)"
@@ -536,6 +525,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-22 13:36:20Z",
     "last_played_vienna": "2026-10-22 15:36:20 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Tabu",
+    "title": "Dobra Vila",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-22 16:58:51Z",
+    "last_played_vienna": "2026-10-22 18:58:51 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
