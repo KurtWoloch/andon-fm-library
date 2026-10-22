@@ -108,54 +108,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Meret Becker",
-    "title": "Ein Tag wie Gold",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-20 14:57:44Z",
-    "last_played_vienna": "2026-10-20 16:57:44 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "DataGlide",
-    "title": "VR Higher",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-20 20:05:44Z",
-    "last_played_vienna": "2026-10-20 22:05:44 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "James Blake",
-    "title": "If The Car Beside You Moves Ahead",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-20 20:33:14Z",
-    "last_played_vienna": "2026-10-20 22:33:14 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Massive Attack",
-    "title": "The Spoils",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-20 22:16:14Z",
-    "last_played_vienna": "2026-10-21 00:16:14 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Annenmaykantereit",
     "title": "Barfuß am Klavier",
     "type": "Station-Specific",
@@ -336,6 +288,54 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Meret Becker",
+    "title": "Ein Tag wie Gold",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-22 18:56:21Z",
+    "last_played_vienna": "2026-10-22 20:56:21 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "DataGlide",
+    "title": "VR Higher",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-22 20:00:21Z",
+    "last_played_vienna": "2026-10-22 22:00:21 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "James Blake",
+    "title": "If The Car Beside You Moves Ahead",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-22 20:26:21Z",
+    "last_played_vienna": "2026-10-22 22:26:21 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Massive Attack",
+    "title": "The Spoils",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-22 22:07:51Z",
+    "last_played_vienna": "2026-10-23 00:07:51 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Wham!",
     "title": "Last Christmas (Single Version)",
     "type": "Shared",
@@ -440,18 +440,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 01:01:03Z",
     "last_played_vienna": "2026-10-10 03:01:03 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "TV Girl",
-    "title": "It Almost Worked",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 03:58:32Z",
-    "last_played_vienna": "2026-10-10 05:58:32 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-18 21:51:57Z",
     "last_played_vienna": "2026-10-18 23:51:57 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Gruppa Viktor",
+    "title": "Pachka sigaret",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-19 04:32:04Z",
+    "last_played_vienna": "2026-10-19 06:32:04 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

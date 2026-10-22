@@ -378,7 +378,7 @@
     "title": "Organic Rust",
     "type": "Shared",
     "play_count_total": 24,
-    "play_count_30d": 10,
+    "play_count_30d": 9,
     "play_count_24h": 0,
     "last_played": "2026-10-05 07:46:05Z",
     "last_played_vienna": "2026-10-05 09:46:05 MESZ",
@@ -473,17 +473,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Arctic Monkeys",
-    "title": "505",
-    "type": "Station-Specific",
-    "play_count_total": 17,
-    "play_count_30d": 9,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 12:33:53Z",
-    "last_played_vienna": "2026-10-08 14:33:53 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Michael Holm",
     "title": "Barfuß im Regen",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 03:01:31Z",
     "last_played_vienna": "2026-10-10 05:01:31 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Yes",
+    "title": "Total Mass Retain  (Steven Wilson Edit)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 03:25:31Z",
+    "last_played_vienna": "2026-10-10 05:25:31 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

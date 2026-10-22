@@ -275,17 +275,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "ROSALÍA",
-    "title": "Berghain",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-19 07:36:34Z",
-    "last_played_vienna": "2026-10-19 09:36:34 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Halestorm",
     "title": "Do Not Disturb",
     "type": "Station-Specific",
@@ -500,7 +489,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-21 20:39:47Z",
     "last_played_vienna": "2026-10-21 22:39:47 MESZ",
     "source": "Scraper Logs (TF Play History)"
@@ -539,14 +528,25 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Brenda Lee",
-    "title": "Rockin' Around The Christmas Tree",
-    "type": "Shared",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-13 13:36:43Z",
-    "last_played_vienna": "2026-08-13 15:36:43 MESZ",
-    "source": "Shared Library"
+    "artist": "Patti Smith",
+    "title": "People Have the Power",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-22 18:19:21Z",
+    "last_played_vienna": "2026-10-22 20:19:21 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Patti Smith",
+    "title": "Gloria : In Excelsis Deo - Gloria",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-22 18:24:51Z",
+    "last_played_vienna": "2026-10-22 20:24:51 MESZ",
+    "source": "Scraper Logs (TF Play History)"
   }
 ]
