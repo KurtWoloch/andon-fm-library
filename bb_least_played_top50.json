@@ -12,6 +12,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Joan Jett & The Blackhearts",
+    "title": "I Love Rock 'N Roll",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-23 17:39:03Z",
+    "last_played_vienna": "2026-10-23 19:39:03 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -257,7 +269,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-22 18:56:21Z",
     "last_played_vienna": "2026-10-22 20:56:21 MESZ",
     "file_id": "",
@@ -269,7 +281,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-22 20:00:21Z",
     "last_played_vienna": "2026-10-22 22:00:21 MESZ",
     "file_id": "",
@@ -380,18 +392,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-08 02:12:48Z",
     "last_played_vienna": "2026-10-08 04:12:48 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Stefan Raab",
-    "title": "Bitte lass das Licht an (aus \"Das Kanu des Manitu\")",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 07:09:53Z",
-    "last_played_vienna": "2026-10-08 09:09:53 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -540,18 +540,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Peter Wackel",
-    "title": "Ich verkaufe meinen Körper",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-13 18:38:35Z",
-    "last_played_vienna": "2026-10-13 20:38:35 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Gruppa Viktor",
     "title": "Pachka sigaret",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-19 17:19:36Z",
     "last_played_vienna": "2026-10-19 19:19:36 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "AYLIVA",
+    "title": "Deine Schuld",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-19 17:23:36Z",
+    "last_played_vienna": "2026-10-19 19:23:36 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

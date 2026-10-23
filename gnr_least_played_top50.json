@@ -242,34 +242,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Earth, Wind & Fire",
-    "title": "Shining Star",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-20 23:58:44Z",
-    "last_played_vienna": "2026-10-21 01:58:44 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Jon Hopkins",
-    "title": "Open Eye Signal (Remaster 2023)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-22 06:46:20Z",
-    "last_played_vienna": "2026-10-22 08:46:20 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Prince",
     "title": "Purple Rain  (2015 Paisley Park Remaster)",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-22 18:47:51Z",
     "last_played_vienna": "2026-10-22 20:47:51 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -283,17 +261,6 @@
     "play_count_24h": 1,
     "last_played": "2026-10-22 21:48:21Z",
     "last_played_vienna": "2026-10-22 23:48:21 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Nina Simone",
-    "title": "Feeling Good",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-10-23 01:11:24Z",
-    "last_played_vienna": "2026-10-23 03:11:24 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -382,6 +349,39 @@
     "play_count_24h": 1,
     "last_played": "2026-10-23 13:53:02Z",
     "last_played_vienna": "2026-10-23 15:53:02 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Nina Simone",
+    "title": "Feeling Good",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-10-23 17:32:33Z",
+    "last_played_vienna": "2026-10-23 19:32:33 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "Shining Star",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-23 18:38:03Z",
+    "last_played_vienna": "2026-10-23 20:38:03 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Jon Hopkins",
+    "title": "Open Eye Signal (Remaster 2023)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-23 18:53:03Z",
+    "last_played_vienna": "2026-10-23 20:53:03 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
