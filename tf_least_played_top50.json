@@ -407,17 +407,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Lou Reed",
-    "title": "Perfect Day",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-20 20:54:14Z",
-    "last_played_vienna": "2026-10-20 22:54:14 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Béla Fleck",
     "title": "My Home's Across The Blue Ridge Mountains",
     "type": "Station-Specific",
@@ -478,7 +467,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-22 13:36:20Z",
     "last_played_vienna": "2026-10-22 15:36:20 MESZ",
     "source": "Scraper Logs (TF Play History)"
@@ -547,6 +536,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-23 05:38:28Z",
     "last_played_vienna": "2026-10-23 07:38:28 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Deichkind",
+    "title": "Keine Party (Single Edit)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-23 12:12:33Z",
+    "last_played_vienna": "2026-10-23 14:12:33 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
