@@ -108,18 +108,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Annenmaykantereit",
-    "title": "Barfuß am Klavier",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-21 07:00:15Z",
-    "last_played_vienna": "2026-10-21 09:00:15 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Aerosmith",
     "title": "Round And Round",
     "type": "Station-Specific",
@@ -216,18 +204,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Journey",
-    "title": "Separate Ways (Worlds Apart) (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 11:56:03Z",
-    "last_played_vienna": "2026-10-10 13:56:03 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Abay",
     "title": "Always Hardcore (Scooter Medley)",
     "type": "Station-Specific",
@@ -276,18 +252,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Ulrich Schnauss",
-    "title": "I Take Comfort in Your Ignorance (2019 Version)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-21 05:01:45Z",
-    "last_played_vienna": "2026-10-21 07:01:45 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Meret Becker",
     "title": "Ein Tag wie Gold",
     "type": "Station-Specific",
@@ -332,6 +296,18 @@
     "play_count_24h": 1,
     "last_played": "2026-10-22 22:07:51Z",
     "last_played_vienna": "2026-10-23 00:07:51 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Annenmaykantereit",
+    "title": "Barfuß am Klavier",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-23 07:28:00Z",
+    "last_played_vienna": "2026-10-23 09:28:00 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -576,18 +552,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Aerosmith",
-    "title": "Sweet Emotion",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 21:51:57Z",
-    "last_played_vienna": "2026-10-18 23:51:57 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Gruppa Viktor",
     "title": "Pachka sigaret",
     "type": "Station-Specific",
@@ -596,6 +560,42 @@
     "play_count_24h": 0,
     "last_played": "2026-10-19 04:32:04Z",
     "last_played_vienna": "2026-10-19 06:32:04 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Lady Gaga",
+    "title": "Mary Jane Holland",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-10-19 12:57:35Z",
+    "last_played_vienna": "2026-10-19 14:57:35 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "David Eisley",
+    "title": "Sweet Victory",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-19 16:11:35Z",
+    "last_played_vienna": "2026-10-19 18:11:35 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Kay One",
+    "title": "Senorita",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-19 17:19:36Z",
+    "last_played_vienna": "2026-10-19 19:19:36 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
