@@ -253,17 +253,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Khatia Buniatishvili",
-    "title": "Orchestral Suite No. 3 in D Major, BMV 1068 \"Air On The G String\" - Air on the G String",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 18:29:57Z",
-    "last_played_vienna": "2026-10-18 20:29:57 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Camille Thomas",
     "title": "Deux mélodies hébraïques, M. A22 - Ravel: Deux mélodies hébraïques, M. A22: I. Kaddisch (Transcr. by Richard Tognetti for Cello and Orchestra )",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-22 18:24:51Z",
     "last_played_vienna": "2026-10-22 20:24:51 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Patti Smith Group",
+    "title": "Dancing Barefoot",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-22 18:30:22Z",
+    "last_played_vienna": "2026-10-22 20:30:22 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
