@@ -379,7 +379,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-23 17:32:33Z",
     "last_played_vienna": "2026-10-23 19:32:33 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -390,20 +390,9 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-23 18:38:03Z",
     "last_played_vienna": "2026-10-23 20:38:03 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Jon Hopkins",
-    "title": "Open Eye Signal (Remaster 2023)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-10-23 18:53:03Z",
-    "last_played_vienna": "2026-10-23 20:53:03 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -481,6 +470,17 @@
     "play_count_24h": 2,
     "last_played": "2026-10-24 16:28:13Z",
     "last_played_vienna": "2026-10-24 18:28:13 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Jon Hopkins",
+    "title": "Open Eye Signal (Remaster 2023)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 17:26:46Z",
+    "last_played_vienna": "2026-10-24 19:26:46 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
