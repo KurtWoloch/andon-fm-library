@@ -88,17 +88,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Alice Phoebe Lou",
-    "title": "Witches",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-23 23:20:34Z",
-    "last_played_vienna": "2026-10-24 01:20:34 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Bon Entendeur",
     "title": "Le temps est bon",
     "type": "Station-Specific",
@@ -140,6 +129,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-11 00:45:06Z",
     "last_played_vienna": "2026-10-11 02:45:06 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Alice Phoebe Lou",
+    "title": "Witches",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-10-24 14:34:42Z",
+    "last_played_vienna": "2026-10-24 16:34:42 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -495,17 +495,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Hurts",
-    "title": "Wonderful Life '25  (Extended)",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 13,
-    "play_count_24h": 1,
-    "last_played": "2026-10-23 22:53:34Z",
-    "last_played_vienna": "2026-10-24 00:53:34 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Creedence Clearwater Revival",
     "title": "Lookin' Out My Back Door",
     "type": "Station-Specific",
@@ -536,6 +525,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-12 18:44:49Z",
     "last_played_vienna": "2026-10-12 20:44:49 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Hurts",
+    "title": "Wonderful Life '25  (Extended)",
+    "type": "Station-Specific",
+    "play_count_total": 14,
+    "play_count_30d": 14,
+    "play_count_24h": 2,
+    "last_played": "2026-10-24 14:25:42Z",
+    "last_played_vienna": "2026-10-24 16:25:42 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {

@@ -176,6 +176,39 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Cheap Trick",
+    "title": "I Want You to Want Me",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 14:05:13Z",
+    "last_played_vienna": "2026-10-24 16:05:13 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Walk The Moon",
+    "title": "Shut Up and Dance",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 15:33:43Z",
+    "last_played_vienna": "2026-10-24 17:33:43 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Toto",
+    "title": "Hold the Line",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 16:48:43Z",
+    "last_played_vienna": "2026-10-24 18:48:43 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -297,17 +330,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Grover Washington Jr.",
-    "title": "Mister Magic",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-10-24 00:53:36Z",
-    "last_played_vienna": "2026-10-24 02:53:36 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Childish Gambino",
     "title": "Les",
     "type": "Station-Specific",
@@ -346,7 +368,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-23 13:53:02Z",
     "last_played_vienna": "2026-10-23 15:53:02 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -385,28 +407,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Prince",
-    "title": "Purple Rain  (2015 Paisley Park Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-10-23 21:47:04Z",
-    "last_played_vienna": "2026-10-23 23:47:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Dire Straits",
-    "title": "Your Latest Trick",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-10-24 04:48:40Z",
-    "last_played_vienna": "2026-10-24 06:48:40 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Bill Evans",
     "title": "Peace Piece (Album Version)",
     "type": "Station-Specific",
@@ -415,6 +415,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-24 07:59:42Z",
     "last_played_vienna": "2026-10-24 09:59:42 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Grover Washington Jr.",
+    "title": "Mister Magic",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-10-24 14:52:43Z",
+    "last_played_vienna": "2026-10-24 16:52:43 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -448,6 +459,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-16 10:45:36Z",
     "last_played_vienna": "2026-10-16 12:45:36 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Dire Straits",
+    "title": "Your Latest Trick",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 2,
+    "last_played": "2026-10-24 14:41:42Z",
+    "last_played_vienna": "2026-10-24 16:41:42 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Prince",
+    "title": "Purple Rain  (2015 Paisley Park Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 2,
+    "last_played": "2026-10-24 16:28:13Z",
+    "last_played_vienna": "2026-10-24 18:28:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -514,39 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-15 01:58:57Z",
     "last_played_vienna": "2026-10-15 03:58:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Stealers Wheel",
-    "title": "Stuck In The Middle With You",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-19 16:10:06Z",
-    "last_played_vienna": "2026-10-19 18:10:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Red Snapper",
-    "title": "Space Sickness",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-21 00:49:14Z",
-    "last_played_vienna": "2026-10-21 02:49:14 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Radiohead",
-    "title": "Burn the Witch",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 1,
-    "last_played": "2026-10-24 12:18:12Z",
-    "last_played_vienna": "2026-10-24 14:18:12 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
