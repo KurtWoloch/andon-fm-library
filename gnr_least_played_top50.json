@@ -231,17 +231,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bill Evans",
-    "title": "Peace Piece (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 17:56:28Z",
-    "last_played_vienna": "2026-10-18 19:56:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "PJ Morton",
     "title": "How Deep Is Your Love",
     "type": "Station-Specific",
@@ -261,17 +250,6 @@
     "play_count_24h": 1,
     "last_played": "2026-10-23 09:04:01Z",
     "last_played_vienna": "2026-10-23 11:04:01 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Dire Straits",
-    "title": "Your Latest Trick",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-10-23 10:27:32Z",
-    "last_played_vienna": "2026-10-23 12:27:32 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -396,6 +374,28 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Dire Straits",
+    "title": "Your Latest Trick",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-10-24 04:48:40Z",
+    "last_played_vienna": "2026-10-24 06:48:40 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bill Evans",
+    "title": "Peace Piece (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 07:59:42Z",
+    "last_played_vienna": "2026-10-24 09:59:42 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -444,7 +444,7 @@
     "title": "You Are the Sunshine of My Life",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 5,
+    "play_count_30d": 4,
     "play_count_24h": 0,
     "last_played": "2026-10-07 09:26:41Z",
     "last_played_vienna": "2026-10-07 11:26:41 MESZ",
