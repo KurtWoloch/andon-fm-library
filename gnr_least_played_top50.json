@@ -44,17 +44,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Grover Washington Jr.",
-    "title": "Mister Magic",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 02:39:33Z",
-    "last_played_vienna": "2026-10-16 04:39:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Fiona Apple",
     "title": "Slow Like Honey",
     "type": "Station-Specific",
@@ -308,6 +297,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Grover Washington Jr.",
+    "title": "Mister Magic",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 00:53:36Z",
+    "last_played_vienna": "2026-10-24 02:53:36 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Childish Gambino",
     "title": "Les",
     "type": "Station-Specific",
@@ -357,7 +357,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-23 17:32:33Z",
     "last_played_vienna": "2026-10-23 19:32:33 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -489,7 +489,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-23 01:31:55Z",
     "last_played_vienna": "2026-10-23 03:31:55 MESZ",
     "source": "Scraper Logs (GNR Play History)"

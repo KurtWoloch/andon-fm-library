@@ -99,6 +99,17 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
+    "artist": "Bon Entendeur",
+    "title": "Le temps est bon",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 03:21:38Z",
+    "last_played_vienna": "2026-10-24 05:21:38 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
     "artist": "Benetti House Bar",
     "title": "The Constellation",
     "type": "Station-Specific",
@@ -412,7 +423,7 @@
     "type": "Station-Specific",
     "play_count_total": 11,
     "play_count_30d": 11,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-23 00:21:23Z",
     "last_played_vienna": "2026-10-23 02:21:23 MESZ",
     "source": "Scraper Logs (OA Play History)"
@@ -536,17 +547,6 @@
     "play_count_24h": 1,
     "last_played": "2026-10-23 10:33:02Z",
     "last_played_vienna": "2026-10-23 12:33:02 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "TV Girl",
-    "title": "It Almost Worked",
-    "type": "Station-Specific",
-    "play_count_total": 16,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-30 10:49:13Z",
-    "last_played_vienna": "2026-08-30 12:49:13 MESZ",
     "source": "Scraper Logs (OA Play History)"
   }
 ]
