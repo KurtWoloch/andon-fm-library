@@ -154,6 +154,28 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Bruce Kaphan",
+    "title": "Dorothy's Adobe (feat. T. Bruce Bowers, Jeffrey Potter & Kent Darnielle)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 09:47:12Z",
+    "last_played_vienna": "2026-10-24 11:47:12 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Electric Light Orchestra",
+    "title": "Livin' Thing",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 12:39:42Z",
+    "last_played_vienna": "2026-10-24 14:39:42 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -247,7 +269,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-23 09:04:01Z",
     "last_played_vienna": "2026-10-23 11:04:01 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -258,7 +280,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-23 11:08:32Z",
     "last_played_vienna": "2026-10-23 13:08:32 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -269,7 +291,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-23 11:12:01Z",
     "last_played_vienna": "2026-10-23 13:12:01 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -379,7 +401,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-24 04:48:40Z",
     "last_played_vienna": "2026-10-24 06:48:40 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -484,17 +506,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Radiohead",
-    "title": "Burn the Witch",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-23 01:31:55Z",
-    "last_played_vienna": "2026-10-23 03:31:55 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Handsome Boy Modeling School",
     "title": "The Truth",
     "type": "Station-Specific",
@@ -517,17 +528,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Procol Harum",
-    "title": "A Whiter Shade of Pale (Original Single Version (2007 Remaster))",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-20 09:18:13Z",
-    "last_played_vienna": "2026-10-20 11:18:13 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Red Snapper",
     "title": "Space Sickness",
     "type": "Station-Specific",
@@ -539,14 +539,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
-    "title": "Highway to Hell",
+    "artist": "Radiohead",
+    "title": "Burn the Witch",
     "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 16:56:23Z",
-    "last_played_vienna": "2026-10-08 18:56:23 MESZ",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 12:18:12Z",
+    "last_played_vienna": "2026-10-24 14:18:12 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

@@ -253,17 +253,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Vanessa-mae",
-    "title": "Storm",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-09-27 20:49:44Z",
-    "last_played_vienna": "2026-09-27 22:49:44 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Khalid",
     "title": "please don't call (333)",
     "type": "Shared",
@@ -451,17 +440,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Hozier",
-    "title": "Angel Of Small Death & The Codeine Scene",
-    "type": "Station-Specific",
-    "play_count_total": 70,
-    "play_count_30d": 15,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 09:47:23Z",
-    "last_played_vienna": "2026-10-08 11:47:23 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Michael Holm",
     "title": "Barfuß im Regen",
     "type": "Station-Specific",
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 10:31:03Z",
     "last_played_vienna": "2026-10-10 12:31:03 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Alfa Mist",
+    "title": "You're Not Blind",
+    "type": "Station-Specific",
+    "play_count_total": 33,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-11 13:27:11Z",
+    "last_played_vienna": "2026-10-11 15:27:11 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Blue in Green",
+    "type": "Station-Specific",
+    "play_count_total": 78,
+    "play_count_30d": 21,
+    "play_count_24h": 0,
+    "last_played": "2026-10-11 19:08:42Z",
+    "last_played_vienna": "2026-10-11 21:08:42 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
