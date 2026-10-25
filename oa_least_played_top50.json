@@ -137,7 +137,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-24 14:34:42Z",
     "last_played_vienna": "2026-10-24 16:34:42 MESZ",
     "source": "Scraper Logs (OA Play History)"
@@ -432,11 +432,11 @@
     "artist": "U2",
     "title": "Angel Of Harlem",
     "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 11,
-    "play_count_24h": 0,
-    "last_played": "2026-10-23 00:21:23Z",
-    "last_played_vienna": "2026-10-23 02:21:23 MESZ",
+    "play_count_total": 12,
+    "play_count_30d": 12,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 23:58:41Z",
+    "last_played_vienna": "2026-10-25 01:58:41 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -544,7 +544,7 @@
     "type": "Station-Specific",
     "play_count_total": 14,
     "play_count_30d": 14,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-24 14:25:42Z",
     "last_played_vienna": "2026-10-24 16:25:42 MESZ",
     "source": "Scraper Logs (OA Play History)"

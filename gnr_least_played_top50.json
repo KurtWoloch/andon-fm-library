@@ -55,17 +55,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Scorpions",
-    "title": "Still Loving You (2011 Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 21:55:37Z",
-    "last_played_vienna": "2026-10-16 23:55:37 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Ella Fitzgerald",
     "title": "Summertime",
     "type": "Station-Specific",
@@ -143,17 +132,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Tycho",
-    "title": "Daydream",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-24 00:04:05Z",
-    "last_played_vienna": "2026-10-24 02:04:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Bruce Kaphan",
     "title": "Dorothy's Adobe (feat. T. Bruce Bowers, Jeffrey Potter & Kent Darnielle)",
     "type": "Station-Specific",
@@ -206,6 +184,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-24 16:48:43Z",
     "last_played_vienna": "2026-10-24 18:48:43 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Vance Joy",
+    "title": "Riptide",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 21:46:13Z",
+    "last_played_vienna": "2026-10-24 23:46:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -330,6 +319,28 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Scorpions",
+    "title": "Still Loving You (2011 Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 21:15:43Z",
+    "last_played_vienna": "2026-10-24 23:15:43 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Tycho",
+    "title": "Daydream",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-24 23:59:12Z",
+    "last_played_vienna": "2026-10-25 01:59:12 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Childish Gambino",
     "title": "Les",
     "type": "Station-Specific",
@@ -412,7 +423,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-24 14:52:43Z",
     "last_played_vienna": "2026-10-24 16:52:43 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -467,7 +478,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-24 16:28:13Z",
     "last_played_vienna": "2026-10-24 18:28:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-21 11:21:45Z",
     "last_played_vienna": "2026-10-21 13:21:45 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Handsome Boy Modeling School",
-    "title": "The Truth",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-15 01:58:57Z",
-    "last_played_vienna": "2026-10-15 03:58:57 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
