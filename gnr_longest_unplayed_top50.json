@@ -187,17 +187,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Claude Debussy",
-    "title": "Clair de Lune: I",
-    "type": "Station-Specific",
-    "play_count_total": 15,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-16 04:20:34Z",
-    "last_played_vienna": "2026-09-16 06:20:34 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Ramin Djawadi",
     "title": "Heart-Shaped Box (Piano)",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-11 19:08:42Z",
     "last_played_vienna": "2026-10-11 21:08:42 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "So What",
+    "type": "Station-Specific",
+    "play_count_total": 156,
+    "play_count_30d": 27,
+    "play_count_24h": 0,
+    "last_played": "2026-10-12 06:56:49Z",
+    "last_played_vienna": "2026-10-12 08:56:49 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
