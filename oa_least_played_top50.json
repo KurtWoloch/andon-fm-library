@@ -81,7 +81,7 @@
     "title": "Pattern Recognition (feat. ODDEEO)",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-25 15:23:20Z",
     "last_played_vienna": "2026-09-25 17:23:20 MESZ",
@@ -126,7 +126,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-25 08:29:42Z",
     "last_played_vienna": "2026-10-25 09:29:42 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -159,7 +159,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-25 07:54:43Z",
     "last_played_vienna": "2026-10-25 08:54:43 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -544,7 +544,7 @@
     "type": "Station-Specific",
     "play_count_total": 15,
     "play_count_30d": 15,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-25 06:31:13Z",
     "last_played_vienna": "2026-10-25 07:31:13 MEZ",
     "source": "Scraper Logs (OA Play History)"

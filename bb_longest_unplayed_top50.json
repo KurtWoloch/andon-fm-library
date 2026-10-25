@@ -132,18 +132,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "DJ ROBIN",
-    "title": "Layla",
-    "type": "Station-Specific",
-    "play_count_total": 21,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-03 15:16:55Z",
-    "last_played_vienna": "2026-10-03 17:16:55 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Tobee",
     "title": "Wer Banknoten nachmacht  (Xtreme Sound Party Mix)",
     "type": "Station-Specific",
@@ -260,18 +248,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 03:49:02Z",
     "last_played_vienna": "2026-10-04 05:49:02 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Jan Böhmermann & Maik vom LKA",
-    "title": "Es gibt keine Nazis in Sachsen",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 04:07:03Z",
-    "last_played_vienna": "2026-10-04 06:07:03 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -480,18 +456,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Lil' Kleine",
-    "title": "Stoff und Schnaps",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 02:05:18Z",
-    "last_played_vienna": "2026-10-08 04:05:18 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Aerosmith",
     "title": "No More No More",
     "type": "Station-Specific",
@@ -564,18 +528,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Strauss Festival Orchester Wien",
-    "title": "Radetzky March, Op. 228",
-    "type": "Station-Specific",
-    "play_count_total": 22,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 07:23:53Z",
-    "last_played_vienna": "2026-10-08 09:23:53 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Finch",
     "title": "Abfahrt",
     "type": "Station-Specific",
@@ -588,14 +540,62 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "die ärzte",
-    "title": "Junge (Economy Version)",
+    "artist": "Little Nell",
+    "title": "Time Warp",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 19:26:54Z",
+    "last_played_vienna": "2026-10-08 21:26:54 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Jan Jester",
+    "title": "Sauberina",
+    "type": "Station-Specific",
+    "play_count_total": 17,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 19:53:24Z",
+    "last_played_vienna": "2026-10-08 21:53:24 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Rahmschnitzel",
+    "title": "Kohle Metal",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 2,
     "play_count_24h": 0,
-    "last_played": "2026-10-08 16:28:54Z",
-    "last_played_vienna": "2026-10-08 18:28:54 MESZ",
+    "last_played": "2026-10-09 01:49:56Z",
+    "last_played_vienna": "2026-10-09 03:49:56 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Levi Heron",
+    "title": "The Glen  (Levi Heron Edit - GBX & Paul Keenan Remix)",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 15:51:31Z",
+    "last_played_vienna": "2026-10-09 17:51:31 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Traxman",
+    "title": "Footworkin on Air",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 16:02:02Z",
+    "last_played_vienna": "2026-10-09 18:02:02 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

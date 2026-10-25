@@ -148,7 +148,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-24 14:05:13Z",
     "last_played_vienna": "2026-10-24 16:05:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -159,7 +159,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-24 15:33:43Z",
     "last_played_vienna": "2026-10-24 17:33:43 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -170,7 +170,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-24 16:48:43Z",
     "last_played_vienna": "2026-10-24 18:48:43 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -206,6 +206,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-25 14:26:14Z",
     "last_played_vienna": "2026-10-25 15:26:14 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Huey Lewis And The News",
+    "title": "The Power Of Love",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-25 15:50:13Z",
+    "last_played_vienna": "2026-10-25 16:50:13 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -434,7 +445,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-24 14:52:43Z",
     "last_played_vienna": "2026-10-24 16:52:43 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -478,7 +489,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-24 14:41:42Z",
     "last_played_vienna": "2026-10-24 16:41:42 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -489,7 +500,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-24 17:26:46Z",
     "last_played_vienna": "2026-10-24 19:26:46 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-16 08:34:05Z",
     "last_played_vienna": "2026-10-16 10:34:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Grand Corps Malade",
-    "title": "Mais je t'aime",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 10:16:36Z",
-    "last_played_vienna": "2026-10-16 12:16:36 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
