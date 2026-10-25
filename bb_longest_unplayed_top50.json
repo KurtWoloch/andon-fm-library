@@ -156,42 +156,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Klangkuenstler",
-    "title": "Mein Wille",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-03 20:12:55Z",
-    "last_played_vienna": "2026-10-03 22:12:55 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Scooter",
-    "title": "Hyper Hyper",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 00:20:28Z",
-    "last_played_vienna": "2026-10-04 02:20:28 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Tream",
-    "title": "APRES SKI",
-    "type": "Station-Specific",
-    "play_count_total": 30,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 00:45:28Z",
-    "last_played_vienna": "2026-10-04 02:45:28 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Die Sacknähte",
     "title": "Unten kommt die Gurke rein",
     "type": "Station-Specific",
@@ -200,18 +164,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 00:48:28Z",
     "last_played_vienna": "2026-10-04 02:48:28 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Dr. Peacock",
-    "title": "Trip to Valhalla",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 01:50:30Z",
-    "last_played_vienna": "2026-10-04 03:50:30 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -252,18 +204,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Butschi",
-    "title": "Atme Ein (Atme Rauch Aus)",
-    "type": "Station-Specific",
-    "play_count_total": 24,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 11:35:05Z",
-    "last_played_vienna": "2026-10-04 13:35:05 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Hia & Do Brass",
     "title": "Auf, Auf! Hirtenweise",
     "type": "Station-Specific",
@@ -296,18 +236,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 19:57:04Z",
     "last_played_vienna": "2026-10-04 21:57:04 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "D-Block & S-te-Fan",
-    "title": "Music Made Addict",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 21:02:36Z",
-    "last_played_vienna": "2026-10-04 23:02:36 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -596,6 +524,78 @@
     "play_count_24h": 0,
     "last_played": "2026-10-09 16:02:02Z",
     "last_played_vienna": "2026-10-09 18:02:02 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Kelly Clarkson",
+    "title": "Underneath the Tree",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 17:01:32Z",
+    "last_played_vienna": "2026-10-09 19:01:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "O Holy Night",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 17:05:31Z",
+    "last_played_vienna": "2026-10-09 19:05:31 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "JT Music",
+    "title": "Now Hiring at Freddy's",
+    "type": "Station-Specific",
+    "play_count_total": 34,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 17:21:32Z",
+    "last_played_vienna": "2026-10-09 19:21:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Island Vibes",
+    "title": "The Puerto Rico Song",
+    "type": "Station-Specific",
+    "play_count_total": 30,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 00:22:31Z",
+    "last_played_vienna": "2026-10-10 02:22:31 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Loco Erno",
+    "title": "Weißer Hai (TekkSchuster Remix)",
+    "type": "Station-Specific",
+    "play_count_total": 147,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 00:26:00Z",
+    "last_played_vienna": "2026-10-10 02:26:00 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Anime Allstars",
+    "title": "Das Geheimnis der Dragonballs (Dragonball)",
+    "type": "Station-Specific",
+    "play_count_total": 14,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 00:42:01Z",
+    "last_played_vienna": "2026-10-10 02:42:01 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

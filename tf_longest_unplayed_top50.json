@@ -341,17 +341,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Marilyn Manson",
-    "title": "The Love Song",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-14 11:35:23Z",
-    "last_played_vienna": "2026-09-14 13:35:23 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "The Beatles",
     "title": "Revolution 9 (Remastered 2009)",
     "type": "Shared",
@@ -528,17 +517,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Ken Thomson And Slow/Fast",
-    "title": "We Are Not All in This Together",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-21 21:29:49Z",
-    "last_played_vienna": "2026-09-21 23:29:49 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "The Czech Philharmonic and Theatre",
     "title": "Lazing On a Sunday Afternoon",
     "type": "Station-Specific",
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-09-22 07:06:59Z",
     "last_played_vienna": "2026-09-22 09:06:59 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Hardcore Superstar",
+    "title": "We Don't Celebrate Sundays",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-22 13:05:29Z",
+    "last_played_vienna": "2026-09-22 15:05:29 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Blue Murder",
+    "title": "Still Of The Night (Live In Tokyo, Japan / 1993)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-22 16:01:29Z",
+    "last_played_vienna": "2026-09-22 18:01:29 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

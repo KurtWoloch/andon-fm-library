@@ -181,7 +181,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-24 21:46:13Z",
     "last_played_vienna": "2026-10-24 23:46:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -217,6 +217,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-25 15:50:13Z",
     "last_played_vienna": "2026-10-25 16:50:13 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Elton John",
+    "title": "I'm Still Standing",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-25 20:23:14Z",
+    "last_played_vienna": "2026-10-25 21:23:14 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -346,7 +357,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-24 21:15:43Z",
     "last_played_vienna": "2026-10-24 23:15:43 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -418,17 +429,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Earth, Wind & Fire",
-    "title": "Shining Star",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-23 18:38:03Z",
-    "last_played_vienna": "2026-10-23 20:38:03 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Bill Evans",
     "title": "Peace Piece (Album Version)",
     "type": "Station-Specific",
@@ -484,17 +484,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Dire Straits",
-    "title": "Your Latest Trick",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-24 14:41:42Z",
-    "last_played_vienna": "2026-10-24 16:41:42 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Jon Hopkins",
     "title": "Open Eye Signal (Remaster 2023)",
     "type": "Station-Specific",
@@ -514,6 +503,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-25 08:39:43Z",
     "last_played_vienna": "2026-10-25 09:39:43 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Earth, Wind & Fire",
+    "title": "Shining Star",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-25 22:06:43Z",
+    "last_played_vienna": "2026-10-25 23:06:43 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -539,14 +539,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "TV Girl",
-    "title": "Stay Away (It's Like That)",
+    "artist": "Grand Corps Malade",
+    "title": "Mais je t'aime",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 5,
+    "play_count_30d": 4,
     "play_count_24h": 0,
-    "last_played": "2026-10-16 08:34:05Z",
-    "last_played_vienna": "2026-10-16 10:34:05 MESZ",
+    "last_played": "2026-10-16 10:16:36Z",
+    "last_played_vienna": "2026-10-16 12:16:36 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
