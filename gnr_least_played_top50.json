@@ -137,7 +137,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-24 09:47:12Z",
     "last_played_vienna": "2026-10-24 11:47:12 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -195,6 +195,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-25 06:09:43Z",
     "last_played_vienna": "2026-10-25 07:09:43 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Joan Jett & The Blackhearts",
+    "title": "I Love Rock 'N Roll",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-25 14:26:14Z",
+    "last_played_vienna": "2026-10-25 15:26:14 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -346,7 +357,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-25 08:36:13Z",
     "last_played_vienna": "2026-10-25 09:36:13 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -470,17 +481,6 @@
     "play_count_24h": 1,
     "last_played": "2026-10-24 14:41:42Z",
     "last_played_vienna": "2026-10-24 16:41:42 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Prince",
-    "title": "Purple Rain  (2015 Paisley Park Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-10-24 16:28:13Z",
-    "last_played_vienna": "2026-10-24 18:28:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
