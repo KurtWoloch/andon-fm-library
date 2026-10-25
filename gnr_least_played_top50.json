@@ -143,17 +143,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Electric Light Orchestra",
-    "title": "Livin' Thing",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-10-24 12:39:42Z",
-    "last_played_vienna": "2026-10-24 14:39:42 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Cheap Trick",
     "title": "I Want You to Want Me",
     "type": "Station-Specific",
@@ -352,6 +341,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Electric Light Orchestra",
+    "title": "Livin' Thing",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-10-25 08:36:13Z",
+    "last_played_vienna": "2026-10-25 09:36:13 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Childish Gambino",
     "title": "Les",
     "type": "Station-Specific",
@@ -396,17 +396,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Nina Simone",
-    "title": "Feeling Good",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-23 17:32:33Z",
-    "last_played_vienna": "2026-10-23 19:32:33 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Earth, Wind & Fire",
     "title": "Shining Star",
     "type": "Station-Specific",
@@ -423,7 +412,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-24 07:59:42Z",
     "last_played_vienna": "2026-10-24 09:59:42 MESZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -503,6 +492,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-24 17:26:46Z",
     "last_played_vienna": "2026-10-24 19:26:46 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Nina Simone",
+    "title": "Feeling Good",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-10-25 08:39:43Z",
+    "last_played_vienna": "2026-10-25 09:39:43 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
