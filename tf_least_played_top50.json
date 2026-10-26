@@ -297,17 +297,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Ailbhe Mcdonagh",
-    "title": "Apres Un Reve",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-19 19:05:06Z",
-    "last_played_vienna": "2026-10-19 21:05:06 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Howard Shore",
     "title": "Caras Galadhon / \"Lament for Gandalf\" (feat. Elizabeth Fraser)",
     "type": "Station-Specific",
@@ -539,14 +528,25 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Golden Earring",
-    "title": "Radar Love",
+    "artist": "From Fall to Spring",
+    "title": "DRAW THE LINE",
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
     "play_count_24h": 0,
-    "last_played": "2026-10-23 18:46:03Z",
-    "last_played_vienna": "2026-10-23 20:46:03 MESZ",
+    "last_played": "2026-10-23 18:52:32Z",
+    "last_played_vienna": "2026-10-23 20:52:32 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Tom Robinson",
+    "title": "The Saturday Disco",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-24 21:03:42Z",
+    "last_played_vienna": "2026-10-24 23:03:42 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

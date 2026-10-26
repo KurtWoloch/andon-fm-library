@@ -368,7 +368,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-25 08:36:13Z",
     "last_played_vienna": "2026-10-25 09:36:13 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -484,17 +484,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Nina Simone",
-    "title": "Feeling Good",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-10-25 08:39:43Z",
-    "last_played_vienna": "2026-10-25 09:39:43 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Earth, Wind & Fire",
     "title": "Shining Star",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-21 11:21:45Z",
     "last_played_vienna": "2026-10-21 13:21:45 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Prince",
+    "title": "Purple Rain  (2015 Paisley Park Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-25 14:17:13Z",
+    "last_played_vienna": "2026-10-25 15:17:13 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
