@@ -36,6 +36,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "ROSALÍA",
+    "title": "Dio$ No$ Libre Del Dinero",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-26 05:16:15Z",
+    "last_played_vienna": "2026-10-26 06:16:15 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -548,18 +560,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-23 04:48:58Z",
     "last_played_vienna": "2026-10-23 06:48:58 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "James Blake",
-    "title": "If The Car Beside You Moves Ahead",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-24 03:37:09Z",
-    "last_played_vienna": "2026-10-24 05:37:09 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },

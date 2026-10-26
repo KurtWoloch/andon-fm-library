@@ -55,17 +55,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Ella Fitzgerald",
-    "title": "Summertime",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 17:38:00Z",
-    "last_played_vienna": "2026-10-18 19:38:00 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Jack Johnson",
     "title": "Upside Down",
     "type": "Station-Specific",
@@ -192,7 +181,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-25 06:09:43Z",
     "last_played_vienna": "2026-10-25 07:09:43 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -382,6 +371,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-25 08:36:13Z",
     "last_played_vienna": "2026-10-25 09:36:13 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Ella Fitzgerald",
+    "title": "Summertime",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-26 07:31:45Z",
+    "last_played_vienna": "2026-10-26 08:31:45 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
