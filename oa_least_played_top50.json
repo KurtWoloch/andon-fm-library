@@ -88,6 +88,17 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
+    "artist": "John Cale",
+    "title": "Paris 1919 (Remastered 2024)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-26 16:42:15Z",
+    "last_played_vienna": "2026-10-26 17:42:15 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
     "artist": "Benetti House Bar",
     "title": "The Constellation",
     "type": "Station-Specific",
@@ -140,17 +151,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-11 19:48:12Z",
     "last_played_vienna": "2026-10-11 21:48:12 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "The Doors",
-    "title": "Light My Fire (2017 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-10-26 01:09:44Z",
-    "last_played_vienna": "2026-10-26 02:09:44 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -213,7 +213,7 @@
     "title": "Purple Spiral Rocket Love (9.88 percent and rising)",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-10-10 23:54:35Z",
     "last_played_vienna": "2026-10-11 01:54:35 MESZ",
@@ -231,14 +231,14 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Bon Entendeur",
-    "title": "Le temps est bon",
+    "artist": "The Doors",
+    "title": "Light My Fire (2017 Remaster)",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-10-26 04:43:44Z",
-    "last_played_vienna": "2026-10-26 05:43:44 MEZ",
+    "play_count_24h": 2,
+    "last_played": "2026-10-26 17:50:16Z",
+    "last_played_vienna": "2026-10-26 18:50:16 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -297,6 +297,17 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
+    "artist": "Bon Entendeur",
+    "title": "Le temps est bon",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 2,
+    "last_played": "2026-10-26 20:05:16Z",
+    "last_played_vienna": "2026-10-26 21:05:16 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
     "artist": "Motörhead",
     "title": "Ace of Spades (40th Anniversary Master)",
     "type": "Station-Specific",
@@ -334,7 +345,7 @@
     "title": "Capital of Gold and Glass",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-09-29 08:36:56Z",
     "last_played_vienna": "2026-09-29 10:36:56 MESZ",
@@ -536,17 +547,6 @@
     "play_count_24h": 2,
     "last_played": "2026-10-26 12:58:45Z",
     "last_played_vienna": "2026-10-26 13:58:45 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "TV Girl",
-    "title": "It Almost Worked",
-    "type": "Station-Specific",
-    "play_count_total": 16,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-30 10:49:13Z",
-    "last_played_vienna": "2026-08-30 12:49:13 MESZ",
     "source": "Scraper Logs (OA Play History)"
   }
 ]
