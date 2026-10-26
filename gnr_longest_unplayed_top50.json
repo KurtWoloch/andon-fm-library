@@ -202,7 +202,7 @@
     "title": "Gasoline",
     "type": "Shared",
     "play_count_total": 67,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-25 23:43:51Z",
     "last_played_vienna": "2026-09-26 01:43:51 MESZ",
@@ -407,17 +407,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Lianne La Havas",
-    "title": "Unstoppable",
-    "type": "Shared",
-    "play_count_total": 40,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-05 21:02:19Z",
-    "last_played_vienna": "2026-10-05 23:02:19 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Manhattan Jazz Band",
     "title": "You Are the Sunshine of My Life",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-12 06:56:49Z",
     "last_played_vienna": "2026-10-12 08:56:49 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Freddie Freeloader",
+    "type": "Station-Specific",
+    "play_count_total": 59,
+    "play_count_30d": 18,
+    "play_count_24h": 0,
+    "last_played": "2026-10-12 15:09:50Z",
+    "last_played_vienna": "2026-10-12 17:09:50 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
