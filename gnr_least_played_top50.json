@@ -192,7 +192,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-25 14:26:14Z",
     "last_played_vienna": "2026-10-25 15:26:14 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -203,7 +203,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-25 15:50:13Z",
     "last_played_vienna": "2026-10-25 16:50:13 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -539,14 +539,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Prince",
-    "title": "Purple Rain  (2015 Paisley Park Remaster)",
+    "artist": "Jon Hopkins",
+    "title": "Open Eye Signal (Remaster 2023)",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
     "play_count_24h": 1,
-    "last_played": "2026-10-25 14:17:13Z",
-    "last_played_vienna": "2026-10-25 15:17:13 MEZ",
+    "last_played": "2026-10-26 03:54:45Z",
+    "last_played_vienna": "2026-10-26 04:54:45 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

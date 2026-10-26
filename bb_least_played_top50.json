@@ -12,18 +12,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Joan Jett & The Blackhearts",
-    "title": "I Love Rock 'N Roll",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-23 17:39:03Z",
-    "last_played_vienna": "2026-10-23 19:39:03 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Snollebollekes",
     "title": "Links Rechts",
     "type": "Station-Specific",
@@ -140,6 +128,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-13 21:30:35Z",
     "last_played_vienna": "2026-10-13 23:30:35 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Joan Jett & The Blackhearts",
+    "title": "I Love Rock 'N Roll",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-26 12:11:45Z",
+    "last_played_vienna": "2026-10-26 13:11:45 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -593,7 +593,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-25 16:02:44Z",
     "last_played_vienna": "2026-10-25 17:02:44 MEZ",
     "file_id": "",
