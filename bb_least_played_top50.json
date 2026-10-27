@@ -552,30 +552,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Meret Becker",
-    "title": "Ein Tag wie Gold",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-24 14:24:43Z",
-    "last_played_vienna": "2026-10-24 16:24:43 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Annenmaykantereit",
-    "title": "Barfuß am Klavier",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-24 16:24:44Z",
-    "last_played_vienna": "2026-10-24 18:24:44 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "die ärzte",
     "title": "Junge (Economy Version)",
     "type": "Station-Specific",
@@ -596,6 +572,30 @@
     "play_count_24h": 1,
     "last_played": "2026-10-26 18:43:16Z",
     "last_played_vienna": "2026-10-26 19:43:16 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Luca-Dante Spadafora",
+    "title": "WIR SIND DIE DEUTSCHEN",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 15:52:23Z",
+    "last_played_vienna": "2026-10-02 17:52:23 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Amadeus Quartet",
+    "title": "Deutsche Nationalhymne",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-03 17:17:25Z",
+    "last_played_vienna": "2026-10-03 19:17:25 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
