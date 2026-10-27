@@ -154,17 +154,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Toto",
-    "title": "Hold the Line",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-24 16:48:43Z",
-    "last_played_vienna": "2026-10-24 18:48:43 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Vance Joy",
     "title": "Riptide",
     "type": "Station-Specific",
@@ -385,6 +374,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Toto",
+    "title": "Hold the Line",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-27 03:40:16Z",
+    "last_played_vienna": "2026-10-27 04:40:16 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Childish Gambino",
     "title": "Les",
     "type": "Station-Specific",
@@ -484,17 +484,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Earth, Wind & Fire",
-    "title": "Shining Star",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-25 22:06:43Z",
-    "last_played_vienna": "2026-10-25 23:06:43 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Videoclub",
     "title": "Mai",
     "type": "Station-Specific",
@@ -539,14 +528,25 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Nina Simone",
-    "title": "Feeling Good",
+    "artist": "Earth, Wind & Fire",
+    "title": "Shining Star",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
     "play_count_24h": 1,
-    "last_played": "2026-10-26 08:41:44Z",
-    "last_played_vienna": "2026-10-26 09:41:44 MEZ",
+    "last_played": "2026-10-27 05:11:16Z",
+    "last_played_vienna": "2026-10-27 06:11:16 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Handsome Boy Modeling School",
+    "title": "The Truth",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 0,
+    "last_played": "2026-10-15 01:58:57Z",
+    "last_played_vienna": "2026-10-15 03:58:57 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
