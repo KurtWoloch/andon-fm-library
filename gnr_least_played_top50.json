@@ -341,17 +341,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Tycho",
-    "title": "Daydream",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-24 23:59:12Z",
-    "last_played_vienna": "2026-10-25 01:59:12 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Electric Light Orchestra",
     "title": "Livin' Thing",
     "type": "Station-Specific",
@@ -426,6 +415,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-24 14:52:43Z",
     "last_played_vienna": "2026-10-24 16:52:43 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Tycho",
+    "title": "Daydream",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-27 22:23:47Z",
+    "last_played_vienna": "2026-10-27 23:23:47 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
