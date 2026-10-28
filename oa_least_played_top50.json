@@ -99,6 +99,17 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
+    "artist": "Midge Ure",
+    "title": "If I Was",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-28 07:59:49Z",
+    "last_played_vienna": "2026-10-28 08:59:49 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
     "artist": "Benetti House Bar",
     "title": "The Constellation",
     "type": "Station-Specific",
@@ -346,7 +357,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-28 01:51:18Z",
     "last_played_vienna": "2026-10-28 02:51:18 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -368,7 +379,7 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-28 02:45:18Z",
     "last_played_vienna": "2026-10-28 03:45:18 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -510,7 +521,7 @@
     "title": "Part Of Me, Part Of You (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 13,
-    "play_count_30d": 5,
+    "play_count_30d": 4,
     "play_count_24h": 0,
     "last_played": "2026-10-15 16:22:30Z",
     "last_played_vienna": "2026-10-15 18:22:30 MESZ",
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-08-21 07:02:35Z",
     "last_played_vienna": "2026-08-21 09:02:35 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Dio",
-    "title": "Holy Diver",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-12 18:44:49Z",
-    "last_played_vienna": "2026-10-12 20:44:49 MESZ",
     "source": "Scraper Logs (OA Play History)"
   }
 ]

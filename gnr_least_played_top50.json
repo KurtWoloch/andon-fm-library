@@ -198,6 +198,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Chris Rea",
+    "title": "The Road to Hell, Pt. 1 & 2",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-28 08:55:19Z",
+    "last_played_vienna": "2026-10-28 09:55:19 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -341,17 +352,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Ella Fitzgerald",
-    "title": "Summertime",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-26 07:31:45Z",
-    "last_played_vienna": "2026-10-26 08:31:45 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Toto",
     "title": "Hold the Line",
     "type": "Station-Specific",
@@ -407,17 +407,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Grover Washington Jr.",
-    "title": "Mister Magic",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-24 14:52:43Z",
-    "last_played_vienna": "2026-10-24 16:52:43 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Tycho",
     "title": "Daydream",
     "type": "Station-Specific",
@@ -426,6 +415,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-27 22:23:47Z",
     "last_played_vienna": "2026-10-27 23:23:47 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Ella Fitzgerald",
+    "title": "Summertime",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-28 11:29:19Z",
+    "last_played_vienna": "2026-10-28 12:29:19 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -462,14 +462,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bill Evans",
-    "title": "Peace Piece (Album Version)",
+    "artist": "Grover Washington Jr.",
+    "title": "Mister Magic",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
     "play_count_24h": 1,
-    "last_played": "2026-10-27 10:23:46Z",
-    "last_played_vienna": "2026-10-27 11:23:46 MEZ",
+    "last_played": "2026-10-28 10:53:49Z",
+    "last_played_vienna": "2026-10-28 11:53:49 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -517,17 +517,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Earth, Wind & Fire",
-    "title": "Shining Star",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-27 05:11:16Z",
-    "last_played_vienna": "2026-10-27 06:11:16 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Miles Davis",
     "title": "Ahmad's Blues",
     "type": "Station-Specific",
@@ -536,6 +525,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-27 17:53:18Z",
     "last_played_vienna": "2026-10-27 18:53:18 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bill Evans",
+    "title": "Peace Piece (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-28 11:22:19Z",
+    "last_played_vienna": "2026-10-28 12:22:19 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
