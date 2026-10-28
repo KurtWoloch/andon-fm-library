@@ -242,17 +242,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Ed Maverick",
-    "title": "lagunas",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-19 08:14:34Z",
-    "last_played_vienna": "2026-10-19 10:14:34 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Kid Cudi",
     "title": "ILLusions",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-25 21:59:43Z",
     "last_played_vienna": "2026-10-25 22:59:43 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Cat Power",
+    "title": "The Greatest",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-26 05:16:14Z",
+    "last_played_vienna": "2026-10-26 06:16:14 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

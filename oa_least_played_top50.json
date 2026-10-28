@@ -132,17 +132,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "John Cale",
-    "title": "Paris 1919 (Remastered 2024)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-10-27 12:17:16Z",
-    "last_played_vienna": "2026-10-27 13:17:16 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Vanilla Ice",
     "title": "Ice Ice Baby",
     "type": "Station-Specific",
@@ -162,6 +151,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-11 19:48:12Z",
     "last_played_vienna": "2026-10-11 21:48:12 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "John Cale",
+    "title": "Paris 1919 (Remastered 2024)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-10-28 03:26:18Z",
+    "last_played_vienna": "2026-10-28 04:26:18 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -334,7 +334,7 @@
     "title": "Always on My Mind   (Extended Dance Version; 2018 Remaster)",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 6,
+    "play_count_30d": 5,
     "play_count_24h": 0,
     "last_played": "2026-10-06 18:26:03Z",
     "last_played_vienna": "2026-10-06 20:26:03 MESZ",
@@ -357,7 +357,7 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-27 21:26:48Z",
     "last_played_vienna": "2026-10-27 22:26:48 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -444,7 +444,7 @@
     "title": "Smooth Criminal",
     "type": "Station-Specific",
     "play_count_total": 11,
-    "play_count_30d": 11,
+    "play_count_30d": 10,
     "play_count_24h": 0,
     "last_played": "2026-10-15 21:24:31Z",
     "last_played_vienna": "2026-10-15 23:24:31 MESZ",

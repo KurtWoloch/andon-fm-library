@@ -55,17 +55,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Jack Johnson",
-    "title": "Upside Down",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 20:32:57Z",
-    "last_played_vienna": "2026-10-18 22:32:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The Lumineers",
     "title": "Ho Hey",
     "type": "Station-Specific",
@@ -368,9 +357,20 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-27 03:40:16Z",
     "last_played_vienna": "2026-10-27 04:40:16 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Jack Johnson",
+    "title": "Upside Down",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-28 05:49:18Z",
+    "last_played_vienna": "2026-10-28 06:49:18 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -488,7 +488,7 @@
     "title": "You Are the Sunshine of My Life",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-10-07 09:26:41Z",
     "last_played_vienna": "2026-10-07 11:26:41 MESZ",
@@ -522,7 +522,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-27 05:11:16Z",
     "last_played_vienna": "2026-10-27 06:11:16 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -533,7 +533,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-27 17:53:18Z",
     "last_played_vienna": "2026-10-27 18:53:18 MEZ",
     "source": "Scraper Logs (GNR Play History)"
