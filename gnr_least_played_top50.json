@@ -209,6 +209,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "The J. Geils Band",
+    "title": "Freeze-Frame",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-10-28 16:25:20Z",
+    "last_played_vienna": "2026-10-28 17:25:20 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -522,7 +533,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-27 17:53:18Z",
     "last_played_vienna": "2026-10-27 18:53:18 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -536,17 +547,6 @@
     "play_count_24h": 1,
     "last_played": "2026-10-28 11:22:19Z",
     "last_played_vienna": "2026-10-28 12:22:19 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Handsome Boy Modeling School",
-    "title": "The Truth",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-15 01:58:57Z",
-    "last_played_vienna": "2026-10-15 03:58:57 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

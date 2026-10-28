@@ -165,17 +165,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "John Cale",
-    "title": "Paris 1919 (Remastered 2024)",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-10-28 03:26:18Z",
-    "last_played_vienna": "2026-10-28 04:26:18 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Relaxing Piano Crew",
     "title": "The Ballad of a Distant Sound",
     "type": "Station-Specific",
@@ -250,6 +239,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-12 02:20:16Z",
     "last_played_vienna": "2026-10-12 04:20:16 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "John Cale",
+    "title": "Paris 1919 (Remastered 2024)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 2,
+    "last_played": "2026-10-28 18:54:49Z",
+    "last_played_vienna": "2026-10-28 19:54:49 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -355,22 +355,11 @@
     "artist": "The Doors",
     "title": "Light My Fire (2017 Remaster)",
     "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 1,
-    "last_played": "2026-10-28 01:51:18Z",
-    "last_played_vienna": "2026-10-28 02:51:18 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Bon Entendeur",
-    "title": "Le temps est bon",
-    "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "play_count_24h": 1,
-    "last_played": "2026-10-28 02:45:18Z",
-    "last_played_vienna": "2026-10-28 03:45:18 MEZ",
+    "play_count_24h": 2,
+    "last_played": "2026-10-28 17:20:19Z",
+    "last_played_vienna": "2026-10-28 18:20:19 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -393,6 +382,17 @@
     "play_count_24h": 2,
     "last_played": "2026-10-28 13:33:19Z",
     "last_played_vienna": "2026-10-28 14:33:19 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Bon Entendeur",
+    "title": "Le temps est bon",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "play_count_24h": 2,
+    "last_played": "2026-10-28 18:33:20Z",
+    "last_played_vienna": "2026-10-28 19:33:20 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
