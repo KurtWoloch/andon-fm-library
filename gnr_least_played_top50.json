@@ -302,7 +302,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-28 05:49:18Z",
     "last_played_vienna": "2026-10-28 06:49:18 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -539,14 +539,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bill Evans",
-    "title": "Peace Piece (Album Version)",
+    "artist": "Grover Washington Jr.",
+    "title": "Mister Magic",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-10-28 11:22:19Z",
-    "last_played_vienna": "2026-10-28 12:22:19 MEZ",
+    "play_count_24h": 2,
+    "last_played": "2026-10-28 21:52:51Z",
+    "last_played_vienna": "2026-10-28 22:52:51 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

@@ -12,18 +12,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "ROSALÍA",
-    "title": "Dio$ No$ Libre Del Dinero",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-26 05:16:15Z",
-    "last_played_vienna": "2026-10-26 06:16:15 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -128,6 +116,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-26 18:45:16Z",
     "last_played_vienna": "2026-10-26 19:45:16 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "ROSALÍA",
+    "title": "Dio$ No$ Libre Del Dinero",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-29 08:18:22Z",
+    "last_played_vienna": "2026-10-29 09:18:22 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
