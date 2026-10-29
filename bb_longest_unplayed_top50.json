@@ -72,18 +72,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Rammstein",
-    "title": "Mann gegen Mann",
-    "type": "Station-Specific",
-    "play_count_total": 23,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-14 19:29:55Z",
-    "last_played_vienna": "2026-09-14 21:29:55 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Luca-Dante Spadafora",
     "title": "WIR SIND DIE DEUTSCHEN",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 04:58:02Z",
     "last_played_vienna": "2026-10-10 06:58:02 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "SHERELLE",
+    "title": "160 DOWN THE A406",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 05:02:01Z",
+    "last_played_vienna": "2026-10-10 07:02:01 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

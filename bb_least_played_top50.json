@@ -504,18 +504,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Weird Al Yankovic",
-    "title": "White & Nerdy (Parody of \"Ridin'\" by Chamillionaire feat. Krayzie Bone)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-19 17:56:36Z",
-    "last_played_vienna": "2026-10-19 19:56:36 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Ulrich Schnauss",
     "title": "I Take Comfort in Your Ignorance (2019 Version)",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-03 17:17:25Z",
     "last_played_vienna": "2026-10-03 19:17:25 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Lebo M",
+    "title": "He Lives In You (From \"Rhythm Of The Pride Lands\")",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 03:49:02Z",
+    "last_played_vienna": "2026-10-04 05:49:02 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
