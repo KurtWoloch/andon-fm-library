@@ -242,17 +242,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "John Cale",
-    "title": "Paris 1919 (Remastered 2024)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-10-28 18:54:49Z",
-    "last_played_vienna": "2026-10-28 19:54:49 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Metallica",
     "title": "Master of Puppets  (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
     "type": "Station-Specific",
@@ -297,6 +286,17 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
+    "artist": "John Cale",
+    "title": "Paris 1919 (Remastered 2024)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 2,
+    "last_played": "2026-10-29 10:00:22Z",
+    "last_played_vienna": "2026-10-29 11:00:22 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
     "artist": "Motörhead",
     "title": "Ace of Spades (40th Anniversary Master)",
     "type": "Station-Specific",
@@ -334,7 +334,7 @@
     "title": "Capital of Gold and Glass",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-09-29 08:36:56Z",
     "last_played_vienna": "2026-09-29 10:36:56 MESZ",
@@ -360,17 +360,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-29 23:57:00Z",
     "last_played_vienna": "2026-09-30 01:57:00 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Bon Entendeur",
-    "title": "Le temps est bon",
-    "type": "Station-Specific",
-    "play_count_total": 8,
-    "play_count_30d": 8,
-    "play_count_24h": 1,
-    "last_played": "2026-10-28 18:33:20Z",
-    "last_played_vienna": "2026-10-28 19:33:20 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -415,6 +404,17 @@
     "play_count_24h": 2,
     "last_played": "2026-10-29 05:03:51Z",
     "last_played_vienna": "2026-10-29 06:03:51 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Bon Entendeur",
+    "title": "Le temps est bon",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 9,
+    "play_count_24h": 2,
+    "last_played": "2026-10-29 09:47:52Z",
+    "last_played_vienna": "2026-10-29 10:47:52 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {

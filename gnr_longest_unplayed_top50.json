@@ -246,7 +246,7 @@
     "title": "Walking On Sunshine",
     "type": "Station-Specific",
     "play_count_total": 340,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-09-30 05:07:04Z",
     "last_played_vienna": "2026-09-30 07:07:04 MESZ",
@@ -317,17 +317,6 @@
     "last_played": "2026-10-05 06:07:04Z",
     "last_played_vienna": "2026-10-05 08:07:04 MESZ",
     "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Alfa Mist",
-    "title": "Organic Rust",
-    "type": "Shared",
-    "play_count_total": 24,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-05 07:46:05Z",
-    "last_played_vienna": "2026-10-05 09:46:05 MESZ",
-    "source": "Shared Library"
   },
   {
     "artist": "Joywave",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-12 20:51:20Z",
     "last_played_vienna": "2026-10-12 22:51:20 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Prince",
+    "title": "Sometimes It Snows in April (LP Version)",
+    "type": "Station-Specific",
+    "play_count_total": 20,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-12 22:44:21Z",
+    "last_played_vienna": "2026-10-13 00:44:21 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
