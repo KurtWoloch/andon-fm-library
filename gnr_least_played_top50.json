@@ -236,7 +236,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-29 18:19:22Z",
     "last_played_vienna": "2026-10-29 19:19:22 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -423,7 +423,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-29 18:03:53Z",
     "last_played_vienna": "2026-10-29 19:03:53 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -473,28 +473,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Grover Washington Jr.",
-    "title": "Mister Magic",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-28 21:52:51Z",
-    "last_played_vienna": "2026-10-28 22:52:51 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Free Bird",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-10-29 14:51:23Z",
-    "last_played_vienna": "2026-10-29 15:51:23 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Vladimir Ashkenazy",
     "title": "Ravel: Pavane pour une infante défunte, M. 19",
     "type": "Station-Specific",
@@ -503,17 +481,6 @@
     "play_count_24h": 1,
     "last_played": "2026-10-29 19:49:53Z",
     "last_played_vienna": "2026-10-29 20:49:53 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Tycho",
-    "title": "Daydream",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-10-30 00:26:22Z",
-    "last_played_vienna": "2026-10-30 01:26:22 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-10-28 09:02:19Z",
     "last_played_vienna": "2026-10-28 10:02:19 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Miles Davis",
+    "title": "Ahmad's Blues",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 1,
+    "last_played": "2026-10-29 19:59:54Z",
+    "last_played_vienna": "2026-10-29 20:59:54 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Manhattan Jazz Band",
+    "title": "You Are the Sunshine of My Life",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-29 22:07:22Z",
+    "last_played_vienna": "2026-10-29 23:07:22 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Lynyrd Skynyrd",
+    "title": "Free Bird",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 1,
+    "last_played": "2026-10-30 14:26:53Z",
+    "last_played_vienna": "2026-10-30 15:26:53 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
