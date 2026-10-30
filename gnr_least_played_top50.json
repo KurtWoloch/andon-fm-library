@@ -280,7 +280,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-29 03:25:21Z",
     "last_played_vienna": "2026-10-29 04:25:21 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -500,7 +500,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-29 14:51:23Z",
     "last_played_vienna": "2026-10-29 15:51:23 MEZ",
     "source": "Scraper Logs (GNR Play History)"
