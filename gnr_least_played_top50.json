@@ -77,17 +77,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Steppenwolf",
-    "title": "Born To Be Wild (Single Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-21 22:04:47Z",
-    "last_played_vienna": "2026-10-22 00:04:47 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Bruce Kaphan",
     "title": "Dorothy's Adobe (feat. T. Bruce Bowers, Jeffrey Potter & Kent Darnielle)",
     "type": "Station-Specific",
@@ -126,7 +115,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-29 01:12:21Z",
     "last_played_vienna": "2026-10-29 02:12:21 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -173,17 +162,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 03:01:31Z",
     "last_played_vienna": "2026-10-10 05:01:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Astrud Gilberto",
-    "title": "Água de Beber",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 15:25:17Z",
-    "last_played_vienna": "2026-10-14 17:25:17 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -242,23 +220,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Jack Johnson",
-    "title": "Upside Down",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-28 05:49:18Z",
-    "last_played_vienna": "2026-10-28 06:49:18 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Vance Joy",
     "title": "Riptide",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-29 00:10:51Z",
     "last_played_vienna": "2026-10-29 01:10:51 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -269,20 +236,9 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-29 00:14:21Z",
     "last_played_vienna": "2026-10-29 01:14:21 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Huey Lewis And The News",
-    "title": "The Power Of Love",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-10-29 00:17:50Z",
-    "last_played_vienna": "2026-10-29 01:17:50 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -291,7 +247,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-29 01:08:51Z",
     "last_played_vienna": "2026-10-29 02:08:51 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -302,7 +258,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-29 01:15:21Z",
     "last_played_vienna": "2026-10-29 02:15:21 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -313,7 +269,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-29 01:22:51Z",
     "last_played_vienna": "2026-10-29 02:22:51 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -352,6 +308,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Steppenwolf",
+    "title": "Born To Be Wild (Single Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-29 22:36:53Z",
+    "last_played_vienna": "2026-10-29 23:36:53 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Childish Gambino",
     "title": "Les",
     "type": "Station-Specific",
@@ -379,7 +346,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-29 00:07:21Z",
     "last_played_vienna": "2026-10-29 01:07:21 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -418,6 +385,39 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Huey Lewis And The News",
+    "title": "The Power Of Love",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-29 21:58:22Z",
+    "last_played_vienna": "2026-10-29 22:58:22 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Astrud Gilberto",
+    "title": "Água de Beber",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-29 23:12:52Z",
+    "last_played_vienna": "2026-10-30 00:12:52 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Jack Johnson",
+    "title": "Upside Down",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-29 23:46:51Z",
+    "last_played_vienna": "2026-10-30 00:46:51 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -440,17 +440,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Tycho",
-    "title": "Daydream",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-10-29 01:29:51Z",
-    "last_played_vienna": "2026-10-29 02:29:51 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Ella Fitzgerald",
     "title": "Summertime",
     "type": "Station-Specific",
@@ -470,17 +459,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 15:37:05Z",
     "last_played_vienna": "2026-10-04 17:37:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Manhattan Jazz Band",
-    "title": "You Are the Sunshine of My Life",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-07 09:26:41Z",
-    "last_played_vienna": "2026-10-07 11:26:41 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -511,7 +489,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-28 21:52:51Z",
     "last_played_vienna": "2026-10-28 22:52:51 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -539,6 +517,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Tycho",
+    "title": "Daydream",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-10-30 00:26:22Z",
+    "last_played_vienna": "2026-10-30 01:26:22 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Handsome Boy Modeling School",
     "title": "The Truth",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-15 01:58:57Z",
     "last_played_vienna": "2026-10-15 03:58:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Radiohead",
+    "title": "Burn the Witch",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 0,
+    "last_played": "2026-10-24 12:18:12Z",
+    "last_played_vienna": "2026-10-24 14:18:12 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
