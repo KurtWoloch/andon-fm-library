@@ -341,17 +341,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "John Cale",
-    "title": "Paris 1919 (Remastered 2024)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 1,
-    "last_played": "2026-10-30 17:17:23Z",
-    "last_played_vienna": "2026-10-30 18:17:23 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Foster The People",
     "title": "Pumped Up Kicks",
     "type": "Station-Specific",
@@ -360,6 +349,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-29 23:57:00Z",
     "last_played_vienna": "2026-09-30 01:57:00 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "John Cale",
+    "title": "Paris 1919 (Remastered 2024)",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "play_count_24h": 2,
+    "last_played": "2026-10-31 08:30:32Z",
+    "last_played_vienna": "2026-10-31 09:30:32 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -393,17 +393,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-28 23:01:18Z",
     "last_played_vienna": "2026-09-29 01:01:18 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "The Doors",
-    "title": "Light My Fire (2017 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 10,
-    "play_count_24h": 1,
-    "last_played": "2026-10-30 16:13:53Z",
-    "last_played_vienna": "2026-10-30 17:13:53 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -448,6 +437,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-30 17:50:23Z",
     "last_played_vienna": "2026-10-30 18:50:23 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "The Doors",
+    "title": "Light My Fire (2017 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 11,
+    "play_count_30d": 11,
+    "play_count_24h": 2,
+    "last_played": "2026-10-31 07:13:32Z",
+    "last_played_vienna": "2026-10-31 08:13:32 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
