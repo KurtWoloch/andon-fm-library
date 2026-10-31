@@ -165,17 +165,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Antonio Carlos Jobim",
-    "title": "Triste",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 13:29:27Z",
-    "last_played_vienna": "2026-10-18 15:29:27 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Pretty Boy Aaron",
     "title": "Nicotine",
     "type": "Station-Specific",
@@ -407,6 +396,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Antonio Carlos Jobim",
+    "title": "Triste",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-31 15:45:34Z",
+    "last_played_vienna": "2026-10-31 16:45:34 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -455,7 +455,7 @@
     "title": "Mais je t'aime",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "play_count_24h": 0,
     "last_played": "2026-10-16 10:16:36Z",
     "last_played_vienna": "2026-10-16 12:16:36 MESZ",
@@ -499,7 +499,7 @@
     "title": "The Truth",
     "type": "Station-Specific",
     "play_count_total": 6,
-    "play_count_30d": 5,
+    "play_count_30d": 4,
     "play_count_24h": 0,
     "last_played": "2026-10-15 01:58:57Z",
     "last_played_vienna": "2026-10-15 03:58:57 MESZ",
@@ -522,7 +522,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-30 14:26:53Z",
     "last_played_vienna": "2026-10-30 15:26:53 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -533,7 +533,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-30 14:45:23Z",
     "last_played_vienna": "2026-10-30 15:45:23 MEZ",
     "source": "Scraper Logs (GNR Play History)"
