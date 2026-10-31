@@ -44,17 +44,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The Lumineers",
-    "title": "Ho Hey",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 20:36:27Z",
-    "last_played_vienna": "2026-10-18 22:36:27 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Frank Zander",
     "title": "Das war'n Zeiten (den Kudamm rauf)",
     "type": "Station-Specific",
@@ -250,6 +239,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-30 07:41:53Z",
     "last_played_vienna": "2026-10-30 08:41:53 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Lumineers",
+    "title": "Ho Hey",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-10-31 18:32:35Z",
+    "last_played_vienna": "2026-10-31 19:32:35 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -517,17 +517,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Lynyrd Skynyrd",
-    "title": "Free Bird",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 0,
-    "last_played": "2026-10-30 14:26:53Z",
-    "last_played_vienna": "2026-10-30 15:26:53 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Grover Washington Jr.",
     "title": "Mister Magic",
     "type": "Station-Specific",
@@ -539,14 +528,25 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Tycho",
-    "title": "Daydream",
+    "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
+    "title": "Highway to Hell",
     "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 6,
-    "play_count_24h": 1,
-    "last_played": "2026-10-30 16:45:55Z",
-    "last_played_vienna": "2026-10-30 17:45:55 MEZ",
+    "play_count_total": 7,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 16:56:23Z",
+    "last_played_vienna": "2026-10-08 18:56:23 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Red Snapper",
+    "title": "Space Sickness",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 5,
+    "play_count_24h": 0,
+    "last_played": "2026-10-25 12:08:13Z",
+    "last_played_vienna": "2026-10-25 13:08:13 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
