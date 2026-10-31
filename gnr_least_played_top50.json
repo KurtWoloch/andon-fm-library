@@ -176,17 +176,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Yussef Dayes",
-    "title": "Gelato",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-23 09:04:01Z",
-    "last_played_vienna": "2026-10-23 11:04:01 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Pretty Boy Aaron",
     "title": "Nicotine",
     "type": "Station-Specific",
@@ -279,7 +268,7 @@
     "title": "Les",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-10-13 10:06:28Z",
     "last_played_vienna": "2026-10-13 12:06:28 MESZ",
@@ -404,6 +393,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-30 10:11:23Z",
     "last_played_vienna": "2026-10-30 11:11:23 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Yussef Dayes",
+    "title": "Gelato",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-10-31 05:10:54Z",
+    "last_played_vienna": "2026-10-31 06:10:54 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {

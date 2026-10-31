@@ -440,17 +440,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Alice Phoebe Lou",
-    "title": "Witches",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 11,
-    "play_count_24h": 1,
-    "last_played": "2026-10-30 12:13:53Z",
-    "last_played_vienna": "2026-10-30 13:13:53 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Bon Entendeur",
     "title": "Le temps est bon",
     "type": "Station-Specific",
@@ -459,6 +448,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-30 17:50:23Z",
     "last_played_vienna": "2026-10-30 18:50:23 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Alice Phoebe Lou",
+    "title": "Witches",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 12,
+    "play_count_24h": 2,
+    "last_played": "2026-10-31 03:18:24Z",
+    "last_played_vienna": "2026-10-31 04:18:24 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
