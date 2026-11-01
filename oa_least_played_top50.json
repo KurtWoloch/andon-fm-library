@@ -357,7 +357,7 @@
     "type": "Station-Specific",
     "play_count_total": 8,
     "play_count_30d": 8,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-31 08:30:32Z",
     "last_played_vienna": "2026-10-31 09:30:32 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -429,23 +429,12 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Bon Entendeur",
-    "title": "Le temps est bon",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 12,
-    "play_count_24h": 1,
-    "last_played": "2026-10-31 15:29:04Z",
-    "last_played_vienna": "2026-10-31 16:29:04 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "The Doors",
     "title": "Light My Fire (2017 Remaster)",
     "type": "Station-Specific",
     "play_count_total": 12,
     "play_count_30d": 12,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-31 22:19:34Z",
     "last_played_vienna": "2026-10-31 23:19:34 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -525,6 +514,17 @@
     "play_count_24h": 1,
     "last_played": "2026-10-31 18:18:05Z",
     "last_played_vienna": "2026-10-31 19:18:05 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Bon Entendeur",
+    "title": "Le temps est bon",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 13,
+    "play_count_24h": 2,
+    "last_played": "2026-11-01 06:27:04Z",
+    "last_played_vienna": "2026-11-01 07:27:04 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
