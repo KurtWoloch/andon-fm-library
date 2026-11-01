@@ -385,17 +385,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Yussef Dayes",
-    "title": "Gelato",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-10-31 05:10:54Z",
-    "last_played_vienna": "2026-10-31 06:10:54 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Antonio Carlos Jobim",
     "title": "Triste",
     "type": "Station-Specific",
@@ -437,6 +426,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-30 07:44:53Z",
     "last_played_vienna": "2026-10-30 08:44:53 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Yussef Dayes",
+    "title": "Gelato",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 2,
+    "last_played": "2026-10-31 22:27:34Z",
+    "last_played_vienna": "2026-10-31 23:27:34 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
