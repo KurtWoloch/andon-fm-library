@@ -165,17 +165,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Vance Joy",
-    "title": "Riptide",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-29 00:10:51Z",
-    "last_played_vienna": "2026-10-29 01:10:51 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Walk The Moon",
     "title": "Shut Up and Dance",
     "type": "Station-Specific",
@@ -396,6 +385,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Vance Joy",
+    "title": "Riptide",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-01 04:22:34Z",
+    "last_played_vienna": "2026-11-01 05:22:34 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -434,7 +434,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-10-31 22:27:34Z",
     "last_played_vienna": "2026-10-31 23:27:34 MEZ",
     "source": "Scraper Logs (GNR Play History)"
