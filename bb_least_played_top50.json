@@ -528,18 +528,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Joan Jett & The Blackhearts",
-    "title": "I Love Rock 'N Roll",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-31 01:45:24Z",
-    "last_played_vienna": "2026-10-31 02:45:24 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Luca-Dante Spadafora",
     "title": "WIR SIND DIE DEUTSCHEN",
     "type": "Station-Specific",
@@ -580,7 +568,7 @@
     "title": "CRANK",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-10-04 19:57:04Z",
     "last_played_vienna": "2026-10-04 21:57:04 MESZ",
@@ -598,5 +586,17 @@
     "last_played_vienna": "2026-10-08 03:35:19 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "O Holy Night",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 17:05:31Z",
+    "last_played_vienna": "2026-10-09 19:05:31 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
   }
 ]
