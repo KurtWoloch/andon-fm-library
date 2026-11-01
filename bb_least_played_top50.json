@@ -244,7 +244,7 @@
     "title": "HÄRTERE DRINKS",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-02 20:24:54Z",
     "last_played_vienna": "2026-10-02 22:24:54 MESZ",
@@ -480,18 +480,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Kay One",
-    "title": "Senorita",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-19 17:19:36Z",
-    "last_played_vienna": "2026-10-19 19:19:36 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Ulrich Schnauss",
     "title": "I Take Comfort in Your Ignorance (2019 Version)",
     "type": "Station-Specific",
@@ -598,5 +586,17 @@
     "last_played_vienna": "2026-10-09 19:05:31 MESZ",
     "file_id": "",
     "source": "Shared Library"
+  },
+  {
+    "artist": "SHERELLE",
+    "title": "160 DOWN THE A406",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 05:02:01Z",
+    "last_played_vienna": "2026-10-10 07:02:01 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
   }
 ]
