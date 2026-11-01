@@ -76,7 +76,7 @@
     "title": "WIR SIND DIE DEUTSCHEN",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-02 15:52:23Z",
     "last_played_vienna": "2026-10-02 17:52:23 MESZ",
@@ -564,18 +564,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "SDP",
-    "title": "ADAC",
-    "type": "Station-Specific",
-    "play_count_total": 17,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 04:58:02Z",
-    "last_played_vienna": "2026-10-10 06:58:02 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "SHERELLE",
     "title": "160 DOWN THE A406",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 05:22:03Z",
     "last_played_vienna": "2026-10-10 07:22:03 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Pepper Coyote",
+    "title": "No Cock Like Horse Cock",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 05:23:32Z",
+    "last_played_vienna": "2026-10-10 07:23:32 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

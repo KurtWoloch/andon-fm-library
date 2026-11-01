@@ -88,17 +88,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Pink Floyd",
-    "title": "Welcome to the Machine",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-01 08:37:34Z",
-    "last_played_vienna": "2026-11-01 09:37:34 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Måneskin",
     "title": "VENT'ANNI",
     "type": "Station-Specific",
@@ -140,6 +129,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-01 13:15:36Z",
     "last_played_vienna": "2026-11-01 14:15:36 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Derek Trucks Band",
+    "title": "Maybe This Time",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-01 13:50:04Z",
+    "last_played_vienna": "2026-11-01 14:50:04 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -297,6 +297,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Pink Floyd",
+    "title": "Welcome to the Machine",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-01 15:57:05Z",
+    "last_played_vienna": "2026-11-01 16:57:05 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Childish Gambino",
     "title": "Les",
     "type": "Station-Specific",
@@ -412,7 +423,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-31 15:45:34Z",
     "last_played_vienna": "2026-10-31 16:45:34 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-29 19:49:53Z",
     "last_played_vienna": "2026-10-29 20:49:53 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Michael Holm",
-    "title": "Barfuß im Regen",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-30 11:04:53Z",
-    "last_played_vienna": "2026-10-30 12:04:53 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
