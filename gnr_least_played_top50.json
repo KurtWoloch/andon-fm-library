@@ -15,7 +15,7 @@
     "title": "Realization (2000 Remaster) (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-03 11:38:54Z",
     "last_played_vienna": "2026-10-03 13:38:54 MESZ",
@@ -96,17 +96,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-08 06:00:05Z",
     "last_played_vienna": "2026-09-08 08:00:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Neuro-sama",
-    "title": "Colorful Array",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-09 19:10:13Z",
-    "last_played_vienna": "2026-09-09 21:10:13 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -225,20 +214,9 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-01 12:14:35Z",
     "last_played_vienna": "2026-11-01 13:14:35 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Pink Floyd",
-    "title": "Welcome to the Machine",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-01 15:57:05Z",
-    "last_played_vienna": "2026-11-01 16:57:05 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -247,7 +225,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-01 22:01:05Z",
     "last_played_vienna": "2026-11-01 23:01:05 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -258,7 +236,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-01 23:22:05Z",
     "last_played_vienna": "2026-11-02 00:22:05 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -269,7 +247,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-02 01:08:07Z",
     "last_played_vienna": "2026-11-02 02:08:07 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -291,7 +269,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-02 01:19:37Z",
     "last_played_vienna": "2026-11-02 02:19:37 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -419,6 +397,28 @@
   },
   {
     "artist": "Neuro-sama",
+    "title": "Colorful Array",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 13:14:12Z",
+    "last_played_vienna": "2026-11-02 14:14:12 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Welcome to the Machine",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-02 15:08:13Z",
+    "last_played_vienna": "2026-11-02 16:08:13 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
     "play_count_total": 4,
@@ -499,7 +499,7 @@
     "title": "Mai",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 5,
+    "play_count_30d": 4,
     "play_count_24h": 0,
     "last_played": "2026-10-04 15:37:05Z",
     "last_played_vienna": "2026-10-04 17:37:05 MESZ",
