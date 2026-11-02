@@ -88,61 +88,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Måneskin",
-    "title": "VENT'ANNI",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-01 09:12:04Z",
-    "last_played_vienna": "2026-11-01 10:12:04 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Garbage",
-    "title": "Push It",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-01 11:40:35Z",
-    "last_played_vienna": "2026-11-01 12:40:35 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Nirvana",
-    "title": "Come As You Are",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-01 12:33:05Z",
-    "last_played_vienna": "2026-11-01 13:33:05 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Kate Bush",
-    "title": "Wuthering Heights",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-01 13:15:36Z",
-    "last_played_vienna": "2026-11-01 14:15:36 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The Derek Trucks Band",
-    "title": "Maybe This Time",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-01 13:50:04Z",
-    "last_played_vienna": "2026-11-01 14:50:04 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -305,6 +250,61 @@
     "play_count_24h": 2,
     "last_played": "2026-11-01 15:57:05Z",
     "last_played_vienna": "2026-11-01 16:57:05 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Kate Bush",
+    "title": "Wuthering Heights",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-01 22:01:05Z",
+    "last_played_vienna": "2026-11-01 23:01:05 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Derek Trucks Band",
+    "title": "Maybe This Time",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-01 23:22:05Z",
+    "last_played_vienna": "2026-11-02 00:22:05 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Garbage",
+    "title": "Push It",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-02 01:08:07Z",
+    "last_played_vienna": "2026-11-02 02:08:07 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Måneskin",
+    "title": "VENT'ANNI",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-02 01:11:37Z",
+    "last_played_vienna": "2026-11-02 02:11:37 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Nirvana",
+    "title": "Come As You Are",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-02 01:19:37Z",
+    "last_played_vienna": "2026-11-02 02:19:37 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -478,7 +478,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-10-31 22:27:34Z",
     "last_played_vienna": "2026-10-31 23:27:34 MEZ",
     "source": "Scraper Logs (GNR Play History)"

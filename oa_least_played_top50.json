@@ -99,6 +99,94 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
+    "artist": "Mac DeMarco",
+    "title": "Chamber Of Reflection",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 00:06:35Z",
+    "last_played_vienna": "2026-11-02 01:06:35 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Courtney Barnett",
+    "title": "Avant Gardener",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 00:34:36Z",
+    "last_played_vienna": "2026-11-02 01:34:36 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Iron & Wine",
+    "title": "Naked as We Came",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 01:12:37Z",
+    "last_played_vienna": "2026-11-02 02:12:37 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Sufjan Stevens",
+    "title": "To Be Alone With You",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 01:19:37Z",
+    "last_played_vienna": "2026-11-02 02:19:37 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "José González",
+    "title": "Crosses",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 01:26:07Z",
+    "last_played_vienna": "2026-11-02 02:26:07 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Sibylle Baier",
+    "title": "I Lost Something in the Hills",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 01:38:37Z",
+    "last_played_vienna": "2026-11-02 02:38:37 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Marisa Anderson",
+    "title": "Deep Gap",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 01:50:37Z",
+    "last_played_vienna": "2026-11-02 02:50:37 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Kevin Morby",
+    "title": "Harlem River",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 01:55:07Z",
+    "last_played_vienna": "2026-11-02 02:55:07 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
     "artist": "Benetti House Bar",
     "title": "The Constellation",
     "type": "Station-Specific",
@@ -335,7 +423,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-01 19:28:05Z",
     "last_played_vienna": "2026-11-01 20:28:05 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -460,93 +548,5 @@
     "last_played": "2026-07-31 18:36:00Z",
     "last_played_vienna": "2026-07-31 20:36:00 MESZ",
     "source": "Shared Library"
-  },
-  {
-    "artist": "Frank Carter & The Rattlesnakes",
-    "title": "Kitty Sucker",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-23 20:27:33Z",
-    "last_played_vienna": "2026-09-23 22:27:33 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "DrachenLord",
-    "title": "Skrrr Skrrr",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-11 07:32:11Z",
-    "last_played_vienna": "2026-10-11 09:32:11 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Glenn Frey",
-    "title": "Part Of Me, Part Of You (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-15 16:22:30Z",
-    "last_played_vienna": "2026-10-15 18:22:30 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "The Doors",
-    "title": "Light My Fire (2017 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 13,
-    "play_count_24h": 2,
-    "last_played": "2026-11-01 13:24:34Z",
-    "last_played_vienna": "2026-11-01 14:24:34 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Creedence Clearwater Revival",
-    "title": "Lookin' Out My Back Door",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-14 18:19:52Z",
-    "last_played_vienna": "2026-08-14 20:19:52 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Tom Konkle",
-    "title": "Honeymoon Phase (Grudgy Pajamas Version)",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-21 07:02:35Z",
-    "last_played_vienna": "2026-08-21 09:02:35 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Dio",
-    "title": "Holy Diver",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-12 18:44:49Z",
-    "last_played_vienna": "2026-10-12 20:44:49 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Alice Phoebe Lou",
-    "title": "Witches",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 14,
-    "play_count_24h": 1,
-    "last_played": "2026-11-01 10:05:34Z",
-    "last_played_vienna": "2026-11-01 11:05:34 MEZ",
-    "source": "Scraper Logs (OA Play History)"
   }
 ]
