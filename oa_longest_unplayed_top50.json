@@ -44,17 +44,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Wham!",
-    "title": "Last Christmas (Single Version)",
-    "type": "Shared",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-05-15 16:09:43Z",
-    "last_played_vienna": "2026-05-15 18:09:43 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Mariah Carey",
     "title": "All I Want for Christmas Is You",
     "type": "Shared",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-26 08:02:56Z",
     "last_played_vienna": "2026-09-26 10:02:56 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Ellis",
+    "title": "The Taste",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-26 15:31:57Z",
+    "last_played_vienna": "2026-09-26 17:31:57 MESZ",
     "source": "Scraper Logs (OA Play History)"
   }
 ]
