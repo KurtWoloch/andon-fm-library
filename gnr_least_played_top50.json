@@ -187,17 +187,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The J. Geils Band",
-    "title": "Freeze-Frame",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-29 19:38:53Z",
-    "last_played_vienna": "2026-10-29 20:38:53 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Steppenwolf",
     "title": "Born To Be Wild (Single Version)",
     "type": "Station-Specific",
@@ -247,7 +236,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-01 15:57:05Z",
     "last_played_vienna": "2026-11-01 16:57:05 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -291,7 +280,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-02 01:11:37Z",
     "last_played_vienna": "2026-11-02 02:11:37 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -363,17 +352,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Huey Lewis And The News",
-    "title": "The Power Of Love",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-29 21:58:22Z",
-    "last_played_vienna": "2026-10-29 22:58:22 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Astrud Gilberto",
     "title": "Água de Beber",
     "type": "Station-Specific",
@@ -393,17 +371,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-29 23:46:51Z",
     "last_played_vienna": "2026-10-30 00:46:51 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Joan Jett & The Blackhearts",
-    "title": "I Love Rock 'N Roll",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-30 07:13:23Z",
-    "last_played_vienna": "2026-10-30 08:13:23 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -437,6 +404,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-01 04:22:34Z",
     "last_played_vienna": "2026-11-01 05:22:34 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The J. Geils Band",
+    "title": "Freeze-Frame",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 08:20:42Z",
+    "last_played_vienna": "2026-11-02 09:20:42 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -478,7 +456,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-01 08:27:04Z",
     "last_played_vienna": "2026-11-01 09:27:04 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -489,9 +467,31 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-01 08:35:05Z",
     "last_played_vienna": "2026-11-01 09:35:05 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Joan Jett & The Blackhearts",
+    "title": "I Love Rock 'N Roll",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 08:14:42Z",
+    "last_played_vienna": "2026-11-02 09:14:42 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Huey Lewis And The News",
+    "title": "The Power Of Love",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 08:16:42Z",
+    "last_played_vienna": "2026-11-02 09:16:42 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -503,17 +503,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 15:37:05Z",
     "last_played_vienna": "2026-10-04 17:37:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Grand Corps Malade",
-    "title": "Mais je t'aime",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 10:16:36Z",
-    "last_played_vienna": "2026-10-16 12:16:36 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -532,7 +521,7 @@
     "title": "Ravel: Pavane pour une infante défunte, M. 19",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "play_count_24h": 0,
     "last_played": "2026-10-29 19:49:53Z",
     "last_played_vienna": "2026-10-29 20:49:53 MEZ",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-30 11:04:53Z",
     "last_played_vienna": "2026-10-30 12:04:53 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Ella Fitzgerald",
+    "title": "Summertime",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-11-02 02:43:38Z",
+    "last_played_vienna": "2026-11-02 03:43:38 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
