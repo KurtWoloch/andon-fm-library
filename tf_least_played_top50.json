@@ -484,17 +484,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Bart&Baker",
-    "title": "The Swing Phenomenon (Radio Edit) [feat. Nicolle Rochelle]",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-27 16:27:17Z",
-    "last_played_vienna": "2026-10-27 17:27:17 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Glenn Miller & His Orchestra",
     "title": "In the Mood",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-27 16:48:47Z",
     "last_played_vienna": "2026-10-27 17:48:47 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Squirrel Nut Zippers",
+    "title": "Hell",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-27 16:51:17Z",
+    "last_played_vienna": "2026-10-27 17:51:17 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
