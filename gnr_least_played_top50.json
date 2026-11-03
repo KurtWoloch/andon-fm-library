@@ -247,7 +247,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-02 01:08:07Z",
     "last_played_vienna": "2026-11-02 02:08:07 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -258,7 +258,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-02 01:11:37Z",
     "last_played_vienna": "2026-11-02 02:11:37 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -363,17 +363,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Vance Joy",
-    "title": "Riptide",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-01 04:22:34Z",
-    "last_played_vienna": "2026-11-01 05:22:34 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The J. Geils Band",
     "title": "Freeze-Frame",
     "type": "Station-Specific",
@@ -412,7 +401,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-02 20:27:43Z",
     "last_played_vienna": "2026-11-02 21:27:43 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -495,11 +484,22 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Vance Joy",
+    "title": "Riptide",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-03 03:23:47Z",
+    "last_played_vienna": "2026-11-03 04:23:47 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Videoclub",
     "title": "Mai",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-10-04 15:37:05Z",
     "last_played_vienna": "2026-10-04 17:37:05 MESZ",
@@ -544,7 +544,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-02 02:43:38Z",
     "last_played_vienna": "2026-11-02 03:43:38 MEZ",
     "source": "Scraper Logs (GNR Play History)"
