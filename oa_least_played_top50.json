@@ -159,109 +159,10 @@
     "type": "Shared",
     "play_count_total": 2,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-02 05:59:11Z",
     "last_played_vienna": "2026-11-02 06:59:11 MEZ",
     "source": "Shared Library"
-  },
-  {
-    "artist": "Mac DeMarco",
-    "title": "Chamber Of Reflection",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-02 15:03:42Z",
-    "last_played_vienna": "2026-11-02 16:03:42 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Iron & Wine",
-    "title": "Naked as We Came",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-02 16:13:12Z",
-    "last_played_vienna": "2026-11-02 17:13:12 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Courtney Barnett",
-    "title": "Avant Gardener",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-02 16:18:12Z",
-    "last_played_vienna": "2026-11-02 17:18:12 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "José González",
-    "title": "Crosses",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-02 16:47:44Z",
-    "last_played_vienna": "2026-11-02 17:47:44 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Sibylle Baier",
-    "title": "I Lost Something in the Hills",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-02 16:51:42Z",
-    "last_played_vienna": "2026-11-02 17:51:42 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Kevin Morby",
-    "title": "Harlem River",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-02 16:56:42Z",
-    "last_played_vienna": "2026-11-02 17:56:42 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Sufjan Stevens",
-    "title": "To Be Alone With You",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-02 17:29:42Z",
-    "last_played_vienna": "2026-11-02 18:29:42 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Marisa Anderson",
-    "title": "Deep Gap",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-02 17:52:13Z",
-    "last_played_vienna": "2026-11-02 18:52:13 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Alexandra Stréliski",
-    "title": "Plus tôt",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-02 18:06:13Z",
-    "last_played_vienna": "2026-11-02 19:06:13 MEZ",
-    "source": "Scraper Logs (OA Play History)"
   },
   {
     "artist": "Blossom Dearie",
@@ -302,7 +203,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-02 20:35:43Z",
     "last_played_vienna": "2026-11-02 21:35:43 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -324,7 +225,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-03 04:18:48Z",
     "last_played_vienna": "2026-11-03 05:18:48 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -335,7 +236,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-03 04:22:19Z",
     "last_played_vienna": "2026-11-03 05:22:19 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -360,6 +261,105 @@
     "play_count_24h": 0,
     "last_played": "2026-10-11 19:48:12Z",
     "last_played_vienna": "2026-10-11 21:48:12 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Mac DeMarco",
+    "title": "Chamber Of Reflection",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-03 06:02:49Z",
+    "last_played_vienna": "2026-11-03 07:02:49 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Iron & Wine",
+    "title": "Naked as We Came",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-03 07:12:50Z",
+    "last_played_vienna": "2026-11-03 08:12:50 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Courtney Barnett",
+    "title": "Avant Gardener",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-03 07:17:50Z",
+    "last_played_vienna": "2026-11-03 08:17:50 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "José González",
+    "title": "Crosses",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-03 07:49:20Z",
+    "last_played_vienna": "2026-11-03 08:49:20 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Sibylle Baier",
+    "title": "I Lost Something in the Hills",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-03 07:52:20Z",
+    "last_played_vienna": "2026-11-03 08:52:20 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Kevin Morby",
+    "title": "Harlem River",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-03 07:56:20Z",
+    "last_played_vienna": "2026-11-03 08:56:20 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Sufjan Stevens",
+    "title": "To Be Alone With You",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-03 08:30:20Z",
+    "last_played_vienna": "2026-11-03 09:30:20 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Marisa Anderson",
+    "title": "Deep Gap",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-03 08:52:50Z",
+    "last_played_vienna": "2026-11-03 09:52:50 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Alexandra Stréliski",
+    "title": "Plus tôt",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-03 09:06:20Z",
+    "last_played_vienna": "2026-11-03 10:06:20 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
