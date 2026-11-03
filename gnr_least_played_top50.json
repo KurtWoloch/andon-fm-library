@@ -319,23 +319,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Pink Floyd",
-    "title": "Welcome to the Machine",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-02 15:08:13Z",
-    "last_played_vienna": "2026-11-02 16:08:13 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Nirvana",
     "title": "Come As You Are",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-02 20:27:43Z",
     "last_played_vienna": "2026-11-02 21:27:43 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -492,6 +481,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-03 13:40:21Z",
     "last_played_vienna": "2026-11-03 14:40:21 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Welcome to the Machine",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-03 22:04:23Z",
+    "last_played_vienna": "2026-11-03 23:04:23 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {

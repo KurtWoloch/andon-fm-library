@@ -216,18 +216,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Snollebollekes",
-    "title": "Links Rechts",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-30 18:29:24Z",
-    "last_played_vienna": "2026-10-30 19:29:24 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Wham!",
     "title": "Last Christmas (Single Version)",
     "type": "Shared",
@@ -376,7 +364,7 @@
     "title": "Wenn ich will (I’m DMA Remix)",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-10-10 06:43:32Z",
     "last_played_vienna": "2026-10-10 08:43:32 MESZ",
@@ -504,6 +492,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Snollebollekes",
+    "title": "Links Rechts",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-03 18:30:21Z",
+    "last_played_vienna": "2026-11-03 19:30:21 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Luca-Dante Spadafora",
     "title": "WIR SIND DIE DEUTSCHEN",
     "type": "Station-Specific",
@@ -544,7 +544,7 @@
     "title": "CRANK",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-04 19:57:04Z",
     "last_played_vienna": "2026-10-04 21:57:04 MESZ",
