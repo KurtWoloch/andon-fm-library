@@ -143,17 +143,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Andrès Segovia",
-    "title": "Tárrega: Recuerdos de la Alhambra",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-02 05:35:40Z",
-    "last_played_vienna": "2026-11-02 06:35:40 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Elizabeth Cotten",
     "title": "Freight Train",
     "type": "Station-Specific",
@@ -214,7 +203,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-02 15:03:42Z",
     "last_played_vienna": "2026-11-02 16:03:42 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -338,6 +327,17 @@
     "play_count_24h": 2,
     "last_played": "2026-11-02 19:16:44Z",
     "last_played_vienna": "2026-11-02 20:16:44 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Andrès Segovia",
+    "title": "Tárrega: Recuerdos de la Alhambra",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-02 20:35:43Z",
+    "last_played_vienna": "2026-11-02 21:35:43 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {

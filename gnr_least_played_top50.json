@@ -225,7 +225,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-01 22:01:05Z",
     "last_played_vienna": "2026-11-01 23:01:05 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -236,7 +236,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-01 23:22:05Z",
     "last_played_vienna": "2026-11-02 00:22:05 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -261,17 +261,6 @@
     "play_count_24h": 1,
     "last_played": "2026-11-02 01:11:37Z",
     "last_played_vienna": "2026-11-02 02:11:37 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Nirvana",
-    "title": "Come As You Are",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-02 01:19:37Z",
-    "last_played_vienna": "2026-11-02 02:19:37 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -418,6 +407,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Nirvana",
+    "title": "Come As You Are",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-02 20:27:43Z",
+    "last_played_vienna": "2026-11-02 21:27:43 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -499,7 +499,7 @@
     "title": "Mai",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-10-04 15:37:05Z",
     "last_played_vienna": "2026-10-04 17:37:05 MESZ",
