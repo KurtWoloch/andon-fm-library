@@ -154,17 +154,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Elton John",
-    "title": "I'm Still Standing",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-29 01:22:51Z",
-    "last_played_vienna": "2026-10-29 02:22:51 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Iggy Pop",
     "title": "Lust For Life",
     "type": "Station-Specific",
@@ -198,17 +187,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The Lumineers",
-    "title": "Ho Hey",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-31 18:32:35Z",
-    "last_played_vienna": "2026-10-31 19:32:35 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The Rolling Stones",
     "title": "Let's Spend The Night Together",
     "type": "Station-Specific",
@@ -217,28 +195,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-01 12:14:35Z",
     "last_played_vienna": "2026-11-01 13:14:35 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Kate Bush",
-    "title": "Wuthering Heights",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-01 22:01:05Z",
-    "last_played_vienna": "2026-11-01 23:01:05 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The Derek Trucks Band",
-    "title": "Maybe This Time",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-01 23:22:05Z",
-    "last_played_vienna": "2026-11-02 00:22:05 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -268,7 +224,7 @@
     "title": "Les",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-10-13 10:06:28Z",
     "last_played_vienna": "2026-10-13 12:06:28 MESZ",
@@ -323,21 +279,10 @@
     "title": "Água de Beber",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-10-29 23:12:52Z",
     "last_played_vienna": "2026-10-30 00:12:52 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Jack Johnson",
-    "title": "Upside Down",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-29 23:46:51Z",
-    "last_played_vienna": "2026-10-30 00:46:51 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -363,23 +308,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The J. Geils Band",
-    "title": "Freeze-Frame",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-02 08:20:42Z",
-    "last_played_vienna": "2026-11-02 09:20:42 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Neuro-sama",
     "title": "Colorful Array",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-02 13:14:12Z",
     "last_played_vienna": "2026-11-02 14:14:12 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -390,7 +324,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-02 15:08:13Z",
     "last_played_vienna": "2026-11-02 16:08:13 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -404,6 +338,50 @@
     "play_count_24h": 1,
     "last_played": "2026-11-02 20:27:43Z",
     "last_played_vienna": "2026-11-02 21:27:43 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Kate Bush",
+    "title": "Wuthering Heights",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-03 13:23:21Z",
+    "last_played_vienna": "2026-11-03 14:23:21 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Derek Trucks Band",
+    "title": "Maybe This Time",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-03 13:28:21Z",
+    "last_played_vienna": "2026-11-03 14:28:21 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Elton John",
+    "title": "I'm Still Standing",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-03 13:37:21Z",
+    "last_played_vienna": "2026-11-03 14:37:21 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Lumineers",
+    "title": "Ho Hey",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-03 13:49:51Z",
+    "last_played_vienna": "2026-11-03 14:49:51 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -495,11 +473,33 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "The J. Geils Band",
+    "title": "Freeze-Frame",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-03 13:34:51Z",
+    "last_played_vienna": "2026-11-03 14:34:51 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Jack Johnson",
+    "title": "Upside Down",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-03 13:40:21Z",
+    "last_played_vienna": "2026-11-03 14:40:21 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Videoclub",
     "title": "Mai",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-04 15:37:05Z",
     "last_played_vienna": "2026-10-04 17:37:05 MESZ",
@@ -521,7 +521,7 @@
     "title": "Ravel: Pavane pour une infante défunte, M. 19",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-10-29 19:49:53Z",
     "last_played_vienna": "2026-10-29 20:49:53 MEZ",

@@ -297,17 +297,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Olivia Rodrigo",
-    "title": "the cure",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-21 16:38:16Z",
-    "last_played_vienna": "2026-10-21 18:38:16 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Genesis",
     "title": "Many Too Many (2007 Remaster)",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-27 16:51:17Z",
     "last_played_vienna": "2026-10-27 17:51:17 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Monster Magnet",
+    "title": "Nod Scene",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-28 18:20:19Z",
+    "last_played_vienna": "2026-10-28 19:20:19 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
