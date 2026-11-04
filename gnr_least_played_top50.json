@@ -412,7 +412,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-03 03:23:47Z",
     "last_played_vienna": "2026-11-03 04:23:47 MEZ",
     "source": "Scraper Logs (GNR Play History)"

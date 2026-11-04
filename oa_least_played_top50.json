@@ -148,7 +148,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-03 04:22:19Z",
     "last_played_vienna": "2026-11-03 05:22:19 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -187,17 +187,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Andrès Segovia",
-    "title": "Tárrega: Recuerdos de la Alhambra",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-11-03 11:35:20Z",
-    "last_played_vienna": "2026-11-03 12:35:20 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Thelonious Monk",
     "title": "Round Midnight (Remastered 2025)",
     "type": "Station-Specific",
@@ -214,7 +203,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-04 00:44:21Z",
     "last_played_vienna": "2026-11-04 01:44:21 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -313,7 +302,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-03 21:03:51Z",
     "last_played_vienna": "2026-11-03 22:03:51 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -437,6 +426,17 @@
     "play_count_24h": 2,
     "last_played": "2026-11-04 01:16:21Z",
     "last_played_vienna": "2026-11-04 02:16:21 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Andrès Segovia",
+    "title": "Tárrega: Recuerdos de la Alhambra",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 2,
+    "last_played": "2026-11-04 02:36:51Z",
+    "last_played_vienna": "2026-11-04 03:36:51 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
