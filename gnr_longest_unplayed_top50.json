@@ -341,17 +341,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Childish Gambino",
-    "title": "Les",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-13 10:06:28Z",
-    "last_played_vienna": "2026-10-13 12:06:28 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Seals & Crofts",
     "title": "Summer Breeze (Album Version)",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-17 06:18:40Z",
     "last_played_vienna": "2026-10-17 08:18:40 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Hozier",
+    "title": "Cherry Wine  (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 70,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-10-17 13:54:15Z",
+    "last_played_vienna": "2026-10-17 15:54:15 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
