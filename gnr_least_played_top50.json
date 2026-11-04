@@ -26,7 +26,7 @@
     "title": "Sparkle (From \"Tatsuro Yamashita\") (Cover)",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-05 06:07:04Z",
     "last_played_vienna": "2026-10-05 08:07:04 MESZ",
@@ -107,28 +107,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-09 22:29:11Z",
     "last_played_vienna": "2026-09-10 00:29:11 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Scooter",
-    "title": "Hyper Hyper",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 03:01:31Z",
-    "last_played_vienna": "2026-10-10 05:01:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Solisti e Orchestre del Cinema Italiano",
-    "title": "Harmonica",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-17 06:18:40Z",
-    "last_played_vienna": "2026-10-17 08:18:40 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -286,17 +264,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Elton John",
-    "title": "I'm Still Standing",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-11-03 13:37:21Z",
-    "last_played_vienna": "2026-11-03 14:37:21 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The Lumineers",
     "title": "Ho Hey",
     "type": "Station-Specific",
@@ -327,6 +294,28 @@
     "play_count_24h": 1,
     "last_played": "2026-11-03 23:29:21Z",
     "last_played_vienna": "2026-11-04 00:29:21 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Solisti e Orchestre del Cinema Italiano",
+    "title": "Harmonica",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-04 07:41:22Z",
+    "last_played_vienna": "2026-11-04 08:41:22 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Scooter",
+    "title": "Hyper Hyper",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-04 09:04:22Z",
+    "last_played_vienna": "2026-11-04 10:04:22 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -418,17 +407,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The J. Geils Band",
-    "title": "Freeze-Frame",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-11-03 13:34:51Z",
-    "last_played_vienna": "2026-11-03 14:34:51 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Jack Johnson",
     "title": "Upside Down",
     "type": "Station-Specific",
@@ -495,6 +473,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Elton John",
+    "title": "I'm Still Standing",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 2,
+    "last_played": "2026-11-04 07:08:52Z",
+    "last_played_vienna": "2026-11-04 08:08:52 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Videoclub",
     "title": "Mai",
     "type": "Station-Specific",
@@ -510,7 +499,7 @@
     "title": "Last Summer Whisper (From \"Anri\")",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-10-21 11:21:45Z",
     "last_played_vienna": "2026-10-21 13:21:45 MESZ",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-02 02:43:38Z",
     "last_played_vienna": "2026-11-02 03:43:38 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The J. Geils Band",
+    "title": "Freeze-Frame",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 2,
+    "last_played": "2026-11-04 06:45:52Z",
+    "last_played_vienna": "2026-11-04 07:45:52 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

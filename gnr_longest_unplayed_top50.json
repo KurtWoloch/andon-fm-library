@@ -165,17 +165,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Dua Lipa",
-    "title": "Future Nostalgia",
-    "type": "Shared",
-    "play_count_total": 29,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-27 06:45:06Z",
-    "last_played_vienna": "2026-09-27 08:45:06 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Cigarettes After Sex",
     "title": "Young & Dumb",
     "type": "Station-Specific",
@@ -246,7 +235,7 @@
     "title": "Sparkle (From \"Tatsuro Yamashita\") (Cover)",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-05 06:07:04Z",
     "last_played_vienna": "2026-10-05 08:07:04 MESZ",
@@ -295,17 +284,6 @@
     "last_played": "2026-10-09 23:34:32Z",
     "last_played_vienna": "2026-10-10 01:34:32 MESZ",
     "source": "Shared Library"
-  },
-  {
-    "artist": "Scooter",
-    "title": "Hyper Hyper",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 03:01:31Z",
-    "last_played_vienna": "2026-10-10 05:01:31 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
   },
   {
     "artist": "Alfa Mist",
@@ -466,7 +444,7 @@
     "title": "Sexual Healing (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 85,
-    "play_count_30d": 6,
+    "play_count_30d": 5,
     "play_count_24h": 0,
     "last_played": "2026-10-15 14:50:01Z",
     "last_played_vienna": "2026-10-15 16:50:01 MESZ",
@@ -506,17 +484,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Modeselektor",
-    "title": "Evil Twin",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 15:38:07Z",
-    "last_played_vienna": "2026-10-16 17:38:07 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Celtic Siren Noreen",
     "title": "Snow on the Crown V.1",
     "type": "Station-Specific",
@@ -528,25 +495,58 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Solisti e Orchestre del Cinema Italiano",
-    "title": "Harmonica",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-17 06:18:40Z",
-    "last_played_vienna": "2026-10-17 08:18:40 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Hozier",
     "title": "Cherry Wine  (Live)",
     "type": "Station-Specific",
     "play_count_total": 70,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "play_count_24h": 0,
     "last_played": "2026-10-17 13:54:15Z",
     "last_played_vienna": "2026-10-17 15:54:15 MESZ",
     "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Prince",
+    "title": "Adore  (2020 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 35,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-17 14:53:46Z",
+    "last_played_vienna": "2026-10-17 16:53:46 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Justin Timberlake",
+    "title": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
+    "type": "Station-Specific",
+    "play_count_total": 118,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-10-19 07:33:05Z",
+    "last_played_vienna": "2026-10-19 09:33:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Justice Der",
+    "title": "She",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-20 05:17:43Z",
+    "last_played_vienna": "2026-10-20 07:17:43 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Yellow Magic Orchestra",
+    "title": "RYDEEN  (2018 Bob Ludwig Remastering)",
+    "type": "Shared",
+    "play_count_total": 89,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-20 10:28:13Z",
+    "last_played_vienna": "2026-10-20 12:28:13 MESZ",
+    "source": "Shared Library"
   }
 ]
