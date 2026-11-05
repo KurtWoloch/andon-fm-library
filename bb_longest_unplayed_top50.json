@@ -168,18 +168,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "KrabbelStein",
-    "title": "Bass of Silence",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 19:54:34Z",
-    "last_played_vienna": "2026-10-04 21:54:34 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Slayyyter",
     "title": "CRANK",
     "type": "Station-Specific",
@@ -540,18 +528,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "SHERELLE",
-    "title": "160 DOWN THE A406",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 05:02:01Z",
-    "last_played_vienna": "2026-10-10 07:02:01 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Gebirgsmusikkorps Garmisch-Partenkirchen",
     "title": "Badner Lied",
     "type": "Station-Specific",
@@ -596,6 +572,30 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 05:29:02Z",
     "last_played_vienna": "2026-10-10 07:29:02 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Die Lochis",
+    "title": "Durchgehend Online",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 06:40:03Z",
+    "last_played_vienna": "2026-10-10 08:40:03 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Ruffiction",
+    "title": "Wenn ich will (I’m DMA Remix)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 06:43:32Z",
+    "last_played_vienna": "2026-10-10 08:43:32 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

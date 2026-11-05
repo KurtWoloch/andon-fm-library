@@ -418,17 +418,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Pink Floyd",
-    "title": "Welcome to the Machine",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-03 22:04:23Z",
-    "last_played_vienna": "2026-11-03 23:04:23 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The Derek Trucks Band",
     "title": "Maybe This Time",
     "type": "Station-Specific",
@@ -456,7 +445,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-04 01:28:51Z",
     "last_played_vienna": "2026-11-04 02:28:51 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -547,6 +536,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-04 19:48:55Z",
     "last_played_vienna": "2026-11-04 20:48:55 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Pink Floyd",
+    "title": "Welcome to the Machine",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-11-05 03:01:55Z",
+    "last_played_vienna": "2026-11-05 04:01:55 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
