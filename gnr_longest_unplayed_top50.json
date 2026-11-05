@@ -242,17 +242,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Wizkid",
-    "title": "Essence",
-    "type": "Shared",
-    "play_count_total": 26,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-05 20:44:48Z",
-    "last_played_vienna": "2026-10-05 22:44:48 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "2CELLOS (Sulic & Hauser) featuring Steve Vai",
     "title": "Highway to Hell",
     "type": "Station-Specific",
@@ -262,17 +251,6 @@
     "last_played": "2026-10-08 16:56:23Z",
     "last_played_vienna": "2026-10-08 18:56:23 MESZ",
     "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Kendrick Lamar",
-    "title": "Not Like Us",
-    "type": "Shared",
-    "play_count_total": 83,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-09 23:34:32Z",
-    "last_played_vienna": "2026-10-10 01:34:32 MESZ",
-    "source": "Shared Library"
   },
   {
     "artist": "Alfa Mist",
@@ -301,7 +279,7 @@
     "title": "Double Trouble (Live)",
     "type": "Station-Specific",
     "play_count_total": 10,
-    "play_count_30d": 9,
+    "play_count_30d": 8,
     "play_count_24h": 0,
     "last_played": "2026-10-13 09:27:28Z",
     "last_played_vienna": "2026-10-13 11:27:28 MESZ",
@@ -383,17 +361,6 @@
     "last_played": "2026-10-14 15:38:17Z",
     "last_played_vienna": "2026-10-14 17:38:17 MESZ",
     "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Kendrick Lamar",
-    "title": "Alright",
-    "type": "Shared",
-    "play_count_total": 144,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-15 00:04:26Z",
-    "last_played_vienna": "2026-10-15 02:04:26 MESZ",
-    "source": "Shared Library"
   },
   {
     "artist": "Handsome Boy Modeling School",
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-10-20 10:56:43Z",
     "last_played_vienna": "2026-10-20 12:56:43 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "twenty one pilots",
+    "title": "Stressed Out",
+    "type": "Shared",
+    "play_count_total": 89,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-20 19:43:14Z",
+    "last_played_vienna": "2026-10-20 21:43:14 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Yazoo",
+    "title": "Only You (Remastered 2008)",
+    "type": "Station-Specific",
+    "play_count_total": 50,
+    "play_count_30d": 18,
+    "play_count_24h": 0,
+    "last_played": "2026-10-20 21:58:44Z",
+    "last_played_vienna": "2026-10-20 23:58:44 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Fleet Foxes",
+    "title": "White Winter Hymnal",
+    "type": "Shared",
+    "play_count_total": 26,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-21 00:08:14Z",
+    "last_played_vienna": "2026-10-21 02:08:14 MESZ",
     "source": "Shared Library"
   }
 ]
