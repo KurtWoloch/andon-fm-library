@@ -132,17 +132,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Iggy Pop",
-    "title": "Lust For Life",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-29 18:19:22Z",
-    "last_played_vienna": "2026-10-29 19:19:22 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Steppenwolf",
     "title": "Born To Be Wild (Single Version)",
     "type": "Station-Specific",
@@ -232,7 +221,7 @@
   },
   {
     "artist": "Yes",
-    "title": "Total Mass Retain  (Steven Wilson Edit)",
+    "title": "Total Mass Retain (Steven Wilson Edit)",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
@@ -250,17 +239,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-31 15:45:34Z",
     "last_played_vienna": "2026-10-31 16:45:34 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Neuro-sama",
-    "title": "Colorful Array",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-02 13:14:12Z",
-    "last_played_vienna": "2026-11-02 14:14:12 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -316,6 +294,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-04 09:04:22Z",
     "last_played_vienna": "2026-11-04 10:04:22 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Iggy Pop",
+    "title": "Lust For Life",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-05 12:53:55Z",
+    "last_played_vienna": "2026-11-05 13:53:55 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -462,6 +451,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Neuro-sama",
+    "title": "Colorful Array",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-05 12:59:25Z",
+    "last_played_vienna": "2026-11-05 13:59:25 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Videoclub",
     "title": "Mai",
     "type": "Station-Specific",
@@ -506,17 +506,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Ella Fitzgerald",
-    "title": "Summertime",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-11-02 02:43:38Z",
-    "last_played_vienna": "2026-11-02 03:43:38 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The J. Geils Band",
     "title": "Freeze-Frame",
     "type": "Station-Specific",
@@ -539,14 +528,25 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Pink Floyd",
-    "title": "Welcome to the Machine",
+    "artist": "Handsome Boy Modeling School",
+    "title": "The Truth",
     "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-11-05 03:01:55Z",
-    "last_played_vienna": "2026-11-05 04:01:55 MEZ",
+    "play_count_total": 6,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-15 01:58:57Z",
+    "last_played_vienna": "2026-10-15 03:58:57 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Grand Corps Malade",
+    "title": "Mais je t'aime",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-11-02 09:16:42Z",
+    "last_played_vienna": "2026-11-02 10:16:42 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

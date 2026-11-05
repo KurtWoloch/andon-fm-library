@@ -12,66 +12,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Led Zeppelin",
-    "title": "Stairway to Heaven (Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-05 06:03:24Z",
-    "last_played_vienna": "2026-11-05 07:03:24 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Kraftwerk",
-    "title": "Tour de France (Etape 2) (2009 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-05 08:01:25Z",
-    "last_played_vienna": "2026-11-05 09:01:25 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Daft Punk feat. Pharrell Williams",
-    "title": "Get Lucky (feat. Pharrell Williams and Nile Rodgers)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-05 08:18:55Z",
-    "last_played_vienna": "2026-11-05 09:18:55 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Fleetwood Mac",
-    "title": "Dreams (2004 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-05 10:03:25Z",
-    "last_played_vienna": "2026-11-05 11:03:25 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Simon & Garfunkel",
-    "title": "The Sound of Silence (Acoustic Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-05 10:48:55Z",
-    "last_played_vienna": "2026-11-05 11:48:55 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -596,6 +536,66 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 03:49:02Z",
     "last_played_vienna": "2026-10-04 05:49:02 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Slayyyter",
+    "title": "CRANK",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 19:57:04Z",
+    "last_played_vienna": "2026-10-04 21:57:04 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "SXTN",
+    "title": "Die Fotzen sind wieder da",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 01:35:19Z",
+    "last_played_vienna": "2026-10-08 03:35:19 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "O Holy Night",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 17:05:31Z",
+    "last_played_vienna": "2026-10-09 19:05:31 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "System Of A Down",
+    "title": "Johnny",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 14:48:04Z",
+    "last_played_vienna": "2026-10-10 16:48:04 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Kalim",
+    "title": "LINEA ROSSA",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 14:54:33Z",
+    "last_played_vienna": "2026-10-10 16:54:33 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
