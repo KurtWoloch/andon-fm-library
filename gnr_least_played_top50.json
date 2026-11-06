@@ -110,6 +110,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Bobby Caldwell",
+    "title": "What You Won't Do for Love",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-06 11:07:56Z",
+    "last_played_vienna": "2026-11-06 12:07:56 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -301,7 +312,7 @@
     "title": "Harmonica",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-11-04 07:41:22Z",
     "last_played_vienna": "2026-11-04 08:41:22 MEZ",
@@ -324,7 +335,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-05 12:53:55Z",
     "last_played_vienna": "2026-11-05 13:53:55 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -467,7 +478,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-05 12:59:25Z",
     "last_played_vienna": "2026-11-05 13:59:25 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -536,17 +547,6 @@
     "play_count_24h": 1,
     "last_played": "2026-11-05 22:38:25Z",
     "last_played_vienna": "2026-11-05 23:38:25 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Handsome Boy Modeling School",
-    "title": "The Truth",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-15 01:58:57Z",
-    "last_played_vienna": "2026-10-15 03:58:57 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

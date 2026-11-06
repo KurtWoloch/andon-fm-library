@@ -66,17 +66,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Tinashe",
-    "title": "Nasty",
-    "type": "Shared",
-    "play_count_total": 24,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-07-19 15:02:12Z",
-    "last_played_vienna": "2026-07-19 17:02:12 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Confetti",
     "title": "People Suck [Explicit]",
     "type": "Shared",
@@ -506,17 +495,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "twenty one pilots",
-    "title": "Stressed Out",
-    "type": "Shared",
-    "play_count_total": 89,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-20 19:43:14Z",
-    "last_played_vienna": "2026-10-20 21:43:14 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Yazoo",
     "title": "Only You (Remastered 2008)",
     "type": "Station-Specific",
@@ -548,5 +526,27 @@
     "last_played": "2026-10-21 00:19:44Z",
     "last_played_vienna": "2026-10-21 02:19:44 MESZ",
     "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Side-A",
+    "title": "Only You (There Will Never Be Another)",
+    "type": "Shared",
+    "play_count_total": 51,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-21 03:22:44Z",
+    "last_played_vienna": "2026-10-21 05:22:44 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Dasha",
+    "title": "Austin (Boots Stop Workin')",
+    "type": "Shared",
+    "play_count_total": 43,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-21 03:52:44Z",
+    "last_played_vienna": "2026-10-21 05:52:44 MESZ",
+    "source": "Shared Library"
   }
 ]
