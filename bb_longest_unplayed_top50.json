@@ -96,18 +96,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Klangkuenstler",
-    "title": "Deine Angst",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 20:46:23Z",
-    "last_played_vienna": "2026-10-02 22:46:23 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Amadeus Quartet",
     "title": "Deutsche Nationalhymne",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 06:51:32Z",
     "last_played_vienna": "2026-10-10 08:51:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Ayşegül Aldinç",
+    "title": "Haberi Yok",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 07:03:02Z",
+    "last_played_vienna": "2026-10-10 09:03:02 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

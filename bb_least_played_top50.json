@@ -240,18 +240,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Klangkuenstler",
-    "title": "Deine Angst",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 20:46:23Z",
-    "last_played_vienna": "2026-10-02 22:46:23 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Cypisolo",
     "title": "Gdzie jest biały węgorz ? (Zejście)",
     "type": "Station-Specific",
@@ -492,18 +480,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Snollebollekes",
-    "title": "Links Rechts",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-03 18:30:21Z",
-    "last_played_vienna": "2026-11-03 19:30:21 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Luca-Dante Spadafora",
     "title": "WIR SIND DIE DEUTSCHEN",
     "type": "Station-Specific",
@@ -598,5 +574,29 @@
     "last_played_vienna": "2026-10-10 16:54:33 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Avatar",
+    "title": "The Dirt I'm Buried In",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-13 14:04:01Z",
+    "last_played_vienna": "2026-10-13 16:04:01 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Confetti",
+    "title": "People Suck [Explicit]",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-10-19 13:07:35Z",
+    "last_played_vienna": "2026-10-19 15:07:35 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
   }
 ]
