@@ -429,17 +429,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Walter Gieseking",
-    "title": "Suite Bergamasque, L. 75: III. Clair de lune (Andante très expressif)",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 1,
-    "last_played": "2026-11-06 15:46:26Z",
-    "last_played_vienna": "2026-11-06 16:46:26 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Mac DeMarco",
     "title": "Chamber Of Reflection",
     "type": "Station-Specific",
@@ -478,7 +467,7 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-07 05:13:56Z",
     "last_played_vienna": "2026-11-07 06:13:56 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -536,6 +525,17 @@
     "play_count_24h": 2,
     "last_played": "2026-11-07 05:40:26Z",
     "last_played_vienna": "2026-11-07 06:40:26 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Walter Gieseking",
+    "title": "Suite Bergamasque, L. 75: III. Clair de lune (Andante très expressif)",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "play_count_24h": 2,
+    "last_played": "2026-11-07 08:22:56Z",
+    "last_played_vienna": "2026-11-07 09:22:56 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {

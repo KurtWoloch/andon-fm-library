@@ -33,17 +33,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Fiona Apple",
-    "title": "Slow Like Honey",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 07:42:06Z",
-    "last_played_vienna": "2026-10-16 09:42:06 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Frank Zander",
     "title": "Das war'n Zeiten (den Kudamm rauf)",
     "type": "Station-Specific",
@@ -115,7 +104,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-06 11:07:56Z",
     "last_played_vienna": "2026-11-06 12:07:56 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -129,6 +118,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-07 01:56:56Z",
     "last_played_vienna": "2026-11-07 02:56:56 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Max Richter",
+    "title": "Quiet",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 07:35:26Z",
+    "last_played_vienna": "2026-11-07 08:35:26 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -206,6 +206,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-01 12:14:35Z",
     "last_played_vienna": "2026-11-01 13:14:35 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Fiona Apple",
+    "title": "Slow Like Honey",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 08:13:56Z",
+    "last_played_vienna": "2026-11-07 09:13:56 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -536,17 +547,6 @@
     "play_count_24h": 1,
     "last_played": "2026-11-07 01:32:56Z",
     "last_played_vienna": "2026-11-07 02:32:56 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The Derek Trucks Band",
-    "title": "Maybe This Time",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-11-07 02:45:56Z",
-    "last_played_vienna": "2026-11-07 03:45:56 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
