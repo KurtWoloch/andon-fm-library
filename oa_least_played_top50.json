@@ -154,17 +154,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Gillian Welch",
-    "title": "Everything Is Free",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-05 03:23:55Z",
-    "last_played_vienna": "2026-11-05 04:23:55 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Vanilla Ice",
     "title": "Ice Ice Baby",
     "type": "Station-Specific",
@@ -195,6 +184,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-04 15:17:23Z",
     "last_played_vienna": "2026-11-04 16:17:23 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Gillian Welch",
+    "title": "Everything Is Free",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 18:30:56Z",
+    "last_played_vienna": "2026-11-07 19:30:56 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -319,23 +319,12 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Blind Willie Johnson",
-    "title": "Dark Was the Night, Cold Was the Ground",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-11-06 19:36:56Z",
-    "last_played_vienna": "2026-11-06 20:36:56 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Wham!",
     "title": "Last Christmas (Single Version)",
     "type": "Shared",
     "play_count_total": 5,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-06 19:53:56Z",
     "last_played_vienna": "2026-11-06 20:53:56 MEZ",
     "source": "Shared Library"
@@ -346,7 +335,7 @@
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-07 12:43:56Z",
     "last_played_vienna": "2026-11-07 13:43:56 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -429,6 +418,17 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
+    "artist": "Blind Willie Johnson",
+    "title": "Dark Was the Night, Cold Was the Ground",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 19:04:57Z",
+    "last_played_vienna": "2026-11-07 20:04:57 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
     "artist": "Courtney Barnett",
     "title": "Avant Gardener",
     "type": "Station-Specific",
@@ -467,7 +467,7 @@
     "type": "Station-Specific",
     "play_count_total": 8,
     "play_count_30d": 8,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-07 08:22:56Z",
     "last_played_vienna": "2026-11-07 09:22:56 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -489,7 +489,7 @@
     "type": "Station-Specific",
     "play_count_total": 8,
     "play_count_30d": 8,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-07 12:46:27Z",
     "last_played_vienna": "2026-11-07 13:46:27 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -500,7 +500,7 @@
     "type": "Station-Specific",
     "play_count_total": 8,
     "play_count_30d": 8,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-07 12:50:57Z",
     "last_played_vienna": "2026-11-07 13:50:57 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -528,17 +528,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Kevin Morby",
-    "title": "Harlem River",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 9,
-    "play_count_24h": 1,
-    "last_played": "2026-11-07 04:29:56Z",
-    "last_played_vienna": "2026-11-07 05:29:56 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "José González",
     "title": "Crosses",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-07 05:55:56Z",
     "last_played_vienna": "2026-11-07 06:55:56 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Sufjan Stevens",
+    "title": "To Be Alone With You",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 9,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 06:04:26Z",
+    "last_played_vienna": "2026-11-07 07:04:26 MEZ",
     "source": "Scraper Logs (OA Play History)"
   }
 ]

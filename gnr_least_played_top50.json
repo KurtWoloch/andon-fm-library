@@ -121,6 +121,28 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Tricky",
+    "title": "Aftermath",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 18:37:56Z",
+    "last_played_vienna": "2026-11-07 19:37:56 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Mr. Mister",
+    "title": "Kyrie",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 20:05:27Z",
+    "last_played_vienna": "2026-11-07 21:05:27 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -198,17 +220,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Fiona Apple",
-    "title": "Slow Like Honey",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-07 08:13:56Z",
-    "last_played_vienna": "2026-11-07 09:13:56 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Bobby Caldwell",
     "title": "What You Won't Do for Love",
     "type": "Station-Specific",
@@ -250,17 +261,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-29 19:42:53Z",
     "last_played_vienna": "2026-10-29 20:42:53 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Toto",
-    "title": "Hold the Line",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-29 19:56:23Z",
-    "last_played_vienna": "2026-10-29 20:56:23 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -363,6 +363,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Fiona Apple",
+    "title": "Slow Like Honey",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-07 18:50:27Z",
+    "last_played_vienna": "2026-11-07 19:50:27 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -462,6 +473,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Toto",
+    "title": "Hold the Line",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 17:17:58Z",
+    "last_played_vienna": "2026-11-07 18:17:58 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Videoclub",
     "title": "Mai",
     "type": "Station-Specific",
@@ -506,17 +528,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Electric Light Orchestra",
-    "title": "Livin' Thing",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-11-07 01:04:26Z",
-    "last_played_vienna": "2026-11-07 02:04:26 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Cheap Trick",
     "title": "I Want You to Want Me",
     "type": "Station-Specific",
@@ -536,17 +547,6 @@
     "play_count_24h": 1,
     "last_played": "2026-11-07 02:45:56Z",
     "last_played_vienna": "2026-11-07 03:45:56 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Childish Gambino",
-    "title": "Les",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-11-07 13:13:57Z",
-    "last_played_vienna": "2026-11-07 14:13:57 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
