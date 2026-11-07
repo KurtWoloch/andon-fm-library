@@ -99,17 +99,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bobby Caldwell",
-    "title": "What You Won't Do for Love",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-06 11:07:56Z",
-    "last_played_vienna": "2026-11-06 12:07:56 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The Doobie Brothers",
     "title": "What a Fool Believes",
     "type": "Station-Specific",
@@ -217,6 +206,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-07 08:13:56Z",
     "last_played_vienna": "2026-11-07 09:13:56 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bobby Caldwell",
+    "title": "What You Won't Do for Love",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 15:22:27Z",
+    "last_played_vienna": "2026-11-07 16:22:27 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -440,17 +440,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Childish Gambino",
-    "title": "Les",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-04 01:28:51Z",
-    "last_played_vienna": "2026-11-04 02:28:51 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Elton John",
     "title": "I'm Still Standing",
     "type": "Station-Specific",
@@ -506,17 +495,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Michael Holm",
-    "title": "Barfuß im Regen",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-30 11:04:53Z",
-    "last_played_vienna": "2026-10-30 12:04:53 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The J. Geils Band",
     "title": "Freeze-Frame",
     "type": "Station-Specific",
@@ -547,6 +525,28 @@
     "play_count_24h": 1,
     "last_played": "2026-11-07 01:32:56Z",
     "last_played_vienna": "2026-11-07 02:32:56 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Derek Trucks Band",
+    "title": "Maybe This Time",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 02:45:56Z",
+    "last_played_vienna": "2026-11-07 03:45:56 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Childish Gambino",
+    "title": "Les",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 13:13:57Z",
+    "last_played_vienna": "2026-11-07 14:13:57 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
