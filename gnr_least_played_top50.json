@@ -121,6 +121,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "The Doobie Brothers",
+    "title": "What a Fool Believes",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 01:56:56Z",
+    "last_played_vienna": "2026-11-07 02:56:56 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Obie Fernandez",
     "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
     "type": "Station-Specific",
@@ -352,17 +363,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Electric Light Orchestra",
-    "title": "Livin' Thing",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-10-30 07:44:53Z",
-    "last_played_vienna": "2026-10-30 08:44:53 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Yussef Dayes",
     "title": "Gelato",
     "type": "Station-Specific",
@@ -371,17 +371,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-31 22:27:34Z",
     "last_played_vienna": "2026-10-31 23:27:34 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Cheap Trick",
-    "title": "I Want You to Want Me",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-01 08:27:04Z",
-    "last_played_vienna": "2026-11-01 09:27:04 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -426,17 +415,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-03 13:40:21Z",
     "last_played_vienna": "2026-11-03 14:40:21 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The Derek Trucks Band",
-    "title": "Maybe This Time",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-03 23:08:22Z",
-    "last_played_vienna": "2026-11-04 00:08:22 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -521,7 +499,7 @@
     "title": "Barfuß im Regen",
     "type": "Station-Specific",
     "play_count_total": 5,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "play_count_24h": 0,
     "last_played": "2026-10-30 11:04:53Z",
     "last_played_vienna": "2026-10-30 12:04:53 MEZ",
@@ -539,14 +517,36 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Vance Joy",
-    "title": "Riptide",
+    "artist": "Electric Light Orchestra",
+    "title": "Livin' Thing",
     "type": "Station-Specific",
     "play_count_total": 5,
     "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-11-05 22:38:25Z",
-    "last_played_vienna": "2026-11-05 23:38:25 MEZ",
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 01:04:26Z",
+    "last_played_vienna": "2026-11-07 02:04:26 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Cheap Trick",
+    "title": "I Want You to Want Me",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 01:32:56Z",
+    "last_played_vienna": "2026-11-07 02:32:56 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Derek Trucks Band",
+    "title": "Maybe This Time",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 02:45:56Z",
+    "last_played_vienna": "2026-11-07 03:45:56 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
