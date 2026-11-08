@@ -99,17 +99,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Max Richter",
-    "title": "Quiet",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-07 07:35:26Z",
-    "last_played_vienna": "2026-11-07 08:35:26 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Tricky",
     "title": "Aftermath",
     "type": "Station-Specific",
@@ -195,6 +184,50 @@
     "play_count_24h": 1,
     "last_played": "2026-11-07 23:16:27Z",
     "last_played_vienna": "2026-11-08 00:16:27 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bebel Gilberto",
+    "title": "Sem Contenção",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-08 00:13:28Z",
+    "last_played_vienna": "2026-11-08 01:13:28 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bebel Gilberto",
+    "title": "Sun Is Shining",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-08 01:03:59Z",
+    "last_played_vienna": "2026-11-08 02:03:59 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Max Richter",
+    "title": "On the Nature of Daylight",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-08 01:14:00Z",
+    "last_played_vienna": "2026-11-08 02:14:00 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Lianne La Havas",
+    "title": "Bittersweet",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-08 03:02:01Z",
+    "last_played_vienna": "2026-11-08 04:02:01 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -291,9 +324,20 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-07 21:18:27Z",
     "last_played_vienna": "2026-11-07 22:18:27 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Max Richter",
+    "title": "Quiet",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-08 03:17:02Z",
+    "last_played_vienna": "2026-11-08 04:17:02 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -503,50 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-03 13:40:21Z",
     "last_played_vienna": "2026-11-03 14:40:21 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Kate Bush",
-    "title": "Wuthering Heights",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-03 23:12:21Z",
-    "last_played_vienna": "2026-11-04 00:12:21 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Elton John",
-    "title": "I'm Still Standing",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-04 07:08:52Z",
-    "last_played_vienna": "2026-11-04 08:08:52 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Neuro-sama",
-    "title": "Colorful Array",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-05 12:59:25Z",
-    "last_played_vienna": "2026-11-05 13:59:25 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Toto",
-    "title": "Hold the Line",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-11-07 17:17:58Z",
-    "last_played_vienna": "2026-11-07 18:17:58 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
