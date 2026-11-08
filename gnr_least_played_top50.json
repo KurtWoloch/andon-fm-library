@@ -104,7 +104,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-07 18:37:56Z",
     "last_played_vienna": "2026-11-07 19:37:56 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -528,25 +528,25 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Iggy Pop",
-    "title": "Lust For Life",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-05 12:53:55Z",
-    "last_played_vienna": "2026-11-05 13:53:55 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Fiona Apple",
     "title": "Slow Like Honey",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-07 18:50:27Z",
     "last_played_vienna": "2026-11-07 19:50:27 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Mr. Mister",
+    "title": "Kyrie",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-08 14:30:05Z",
+    "last_played_vienna": "2026-11-08 15:30:05 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
