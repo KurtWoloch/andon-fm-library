@@ -99,17 +99,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The Doobie Brothers",
-    "title": "What a Fool Believes",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-07 01:56:56Z",
-    "last_played_vienna": "2026-11-07 02:56:56 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Max Richter",
     "title": "Quiet",
     "type": "Station-Specific",
@@ -140,6 +129,72 @@
     "play_count_24h": 1,
     "last_played": "2026-11-07 20:05:27Z",
     "last_played_vienna": "2026-11-07 21:05:27 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "GoGo Penguin",
+    "title": "Atomised",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 22:20:27Z",
+    "last_played_vienna": "2026-11-07 23:20:27 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bobby Hebb",
+    "title": "Sunny",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 22:24:57Z",
+    "last_played_vienna": "2026-11-07 23:24:57 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "THE GOO GOO DOLLS",
+    "title": "Iris",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 22:32:27Z",
+    "last_played_vienna": "2026-11-07 23:32:27 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "No Doubt",
+    "title": "Don't Speak",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 22:54:57Z",
+    "last_played_vienna": "2026-11-07 23:54:57 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Sugar Ray",
+    "title": "Fly",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 23:12:28Z",
+    "last_played_vienna": "2026-11-08 00:12:28 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Tom Misch",
+    "title": "Movie",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-07 23:16:27Z",
+    "last_played_vienna": "2026-11-08 00:16:27 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -228,6 +283,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-07 15:22:27Z",
     "last_played_vienna": "2026-11-07 16:22:27 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Doobie Brothers",
+    "title": "What a Fool Believes",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-07 21:18:27Z",
+    "last_played_vienna": "2026-11-07 22:18:27 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -481,72 +547,6 @@
     "play_count_24h": 1,
     "last_played": "2026-11-07 17:17:58Z",
     "last_played_vienna": "2026-11-07 18:17:58 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Videoclub",
-    "title": "Mai",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 15:37:05Z",
-    "last_played_vienna": "2026-10-04 17:37:05 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Nattalia Sarria",
-    "title": "Last Summer Whisper (From \"Anri\")",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-21 11:21:45Z",
-    "last_played_vienna": "2026-10-21 13:21:45 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Vladimir Ashkenazy",
-    "title": "Ravel: Pavane pour une infante défunte, M. 19",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-29 19:49:53Z",
-    "last_played_vienna": "2026-10-29 20:49:53 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The J. Geils Band",
-    "title": "Freeze-Frame",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 0,
-    "last_played": "2026-11-04 06:45:52Z",
-    "last_played_vienna": "2026-11-04 07:45:52 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Cheap Trick",
-    "title": "I Want You to Want Me",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-11-07 01:32:56Z",
-    "last_played_vienna": "2026-11-07 02:32:56 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The Derek Trucks Band",
-    "title": "Maybe This Time",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-11-07 02:45:56Z",
-    "last_played_vienna": "2026-11-07 03:45:56 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

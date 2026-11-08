@@ -1,17 +1,6 @@
 [
   {
     "artist": "Mariah Carey",
-    "title": "All I Want for Christmas Is You",
-    "type": "Shared",
-    "play_count_total": 25,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-04-20 09:48:00Z",
-    "last_played_vienna": "2026-04-20 11:48:00 MESZ",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Mariah Carey",
     "title": "O Holy Night",
     "type": "Shared",
     "play_count_total": 228,
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-25 15:01:49Z",
     "last_played_vienna": "2026-09-25 17:01:49 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Sons Of Apollo",
+    "title": "Desolate July",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 16:24:49Z",
+    "last_played_vienna": "2026-09-25 18:24:49 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
