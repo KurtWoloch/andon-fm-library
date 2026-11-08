@@ -110,17 +110,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Mr. Mister",
-    "title": "Kyrie",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-07 20:05:27Z",
-    "last_played_vienna": "2026-11-07 21:05:27 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "GoGo Penguin",
     "title": "Atomised",
     "type": "Station-Specific",
@@ -209,25 +198,36 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Max Richter",
-    "title": "On the Nature of Daylight",
+    "artist": "Ben Howard",
+    "title": "Only Love",
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
     "play_count_24h": 1,
-    "last_played": "2026-11-08 01:14:00Z",
-    "last_played_vienna": "2026-11-08 02:14:00 MEZ",
+    "last_played": "2026-11-08 11:37:35Z",
+    "last_played_vienna": "2026-11-08 12:37:35 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Lianne La Havas",
-    "title": "Bittersweet",
+    "artist": "Pink Floyd",
+    "title": "Hey You",
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
     "play_count_24h": 1,
-    "last_played": "2026-11-08 03:02:01Z",
-    "last_played_vienna": "2026-11-08 04:02:01 MEZ",
+    "last_played": "2026-11-08 12:34:35Z",
+    "last_played_vienna": "2026-11-08 13:34:35 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Guns N' Roses",
+    "title": "November Rain",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-08 12:58:35Z",
+    "last_played_vienna": "2026-11-08 13:58:35 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -319,17 +319,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The Doobie Brothers",
-    "title": "What a Fool Believes",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-07 21:18:27Z",
-    "last_played_vienna": "2026-11-07 22:18:27 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Max Richter",
     "title": "Quiet",
     "type": "Station-Specific",
@@ -338,6 +327,39 @@
     "play_count_24h": 1,
     "last_played": "2026-11-08 03:17:02Z",
     "last_played_vienna": "2026-11-08 04:17:02 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Lianne La Havas",
+    "title": "Bittersweet",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-08 11:11:05Z",
+    "last_played_vienna": "2026-11-08 12:11:05 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Mr. Mister",
+    "title": "Kyrie",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-08 11:25:05Z",
+    "last_played_vienna": "2026-11-08 12:25:05 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Max Richter",
+    "title": "On the Nature of Daylight",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-08 12:47:05Z",
+    "last_played_vienna": "2026-11-08 13:47:05 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -407,17 +429,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The Lumineers",
-    "title": "Ho Hey",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-03 13:49:51Z",
-    "last_played_vienna": "2026-11-03 14:49:51 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Garbage",
     "title": "Push It",
     "type": "Station-Specific",
@@ -484,6 +495,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "The Doobie Brothers",
+    "title": "What a Fool Believes",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-08 11:29:35Z",
+    "last_played_vienna": "2026-11-08 12:29:35 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -525,28 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-02 08:14:42Z",
     "last_played_vienna": "2026-11-02 09:14:42 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Huey Lewis And The News",
-    "title": "The Power Of Love",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-02 08:16:42Z",
-    "last_played_vienna": "2026-11-02 09:16:42 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Jack Johnson",
-    "title": "Upside Down",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-03 13:40:21Z",
-    "last_played_vienna": "2026-11-03 14:40:21 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
