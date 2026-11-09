@@ -204,18 +204,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "ROSALÍA",
-    "title": "Dio$ No$ Libre Del Dinero",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-06 05:43:25Z",
-    "last_played_vienna": "2026-11-06 06:43:25 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Wham!",
     "title": "Last Christmas (Single Version)",
     "type": "Shared",
@@ -476,6 +464,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-28 16:52:50Z",
     "last_played_vienna": "2026-10-28 17:52:50 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "ROSALÍA",
+    "title": "Dio$ No$ Libre Del Dinero",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-09 03:38:06Z",
+    "last_played_vienna": "2026-11-09 04:38:06 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
