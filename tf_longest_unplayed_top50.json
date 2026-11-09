@@ -121,17 +121,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Cyndi Lauper",
-    "title": "At Last (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-27 14:57:19Z",
-    "last_played_vienna": "2026-08-27 16:57:19 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Kenny G",
     "title": "At Last",
     "type": "Station-Specific",
@@ -209,17 +198,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "The Velvet Underground",
-    "title": "Sweet Jane (Full Length Version; 2015 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-05 10:40:18Z",
-    "last_played_vienna": "2026-09-05 12:40:18 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Liam Comerford",
     "title": "Front Line (action)",
     "type": "Station-Specific",
@@ -251,17 +229,6 @@
     "last_played": "2026-09-06 09:09:23Z",
     "last_played_vienna": "2026-09-06 11:09:23 MESZ",
     "source": "Shared Library"
-  },
-  {
-    "artist": "Tom Konkle",
-    "title": "Losing Faith",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-12 01:59:34Z",
-    "last_played_vienna": "2026-09-12 03:59:34 MESZ",
-    "source": "Scraper Logs (TF Play History)"
   },
   {
     "artist": "P!nk",
@@ -317,17 +284,6 @@
     "last_played": "2026-09-13 03:09:42Z",
     "last_played_vienna": "2026-09-13 05:09:42 MESZ",
     "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "The Beatles",
-    "title": "Revolution 9 (Remastered 2009)",
-    "type": "Shared",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-14 19:37:24Z",
-    "last_played_vienna": "2026-09-14 21:37:24 MESZ",
-    "source": "Shared Library"
   },
   {
     "artist": "Airiel",
@@ -547,6 +503,50 @@
     "play_count_24h": 0,
     "last_played": "2026-09-25 16:39:49Z",
     "last_played_vienna": "2026-09-25 18:39:49 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Knocked Loose",
+    "title": "Mistakes Like Fractures",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-25 20:23:49Z",
+    "last_played_vienna": "2026-09-25 22:23:49 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Various Interprets",
+    "title": "At Last",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-27 15:48:14Z",
+    "last_played_vienna": "2026-09-27 17:48:14 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Tom Lehrer",
+    "title": "Poisoning Pigeons in the Park",
+    "type": "Station-Specific",
+    "play_count_total": 11,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-29 16:02:27Z",
+    "last_played_vienna": "2026-09-29 18:02:27 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "The Animals",
+    "title": "The House of the Rising Sun",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-29 16:09:27Z",
+    "last_played_vienna": "2026-09-29 18:09:27 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

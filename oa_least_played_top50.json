@@ -198,17 +198,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Kiss",
-    "title": "I Was Made For Lovin' You",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-09 00:22:36Z",
-    "last_played_vienna": "2026-11-09 01:22:36 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Vanilla Ice",
     "title": "Ice Ice Baby",
     "type": "Station-Specific",
@@ -228,6 +217,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-11 19:48:12Z",
     "last_played_vienna": "2026-10-11 21:48:12 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Kiss",
+    "title": "I Was Made For Lovin' You",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-09 19:21:08Z",
+    "last_played_vienna": "2026-11-09 20:21:08 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -539,14 +539,14 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Mac DeMarco",
-    "title": "Chamber Of Reflection",
+    "artist": "Franz Ferdinand",
+    "title": "Take Me Out",
     "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 9,
-    "play_count_24h": 1,
-    "last_played": "2026-11-09 04:45:36Z",
-    "last_played_vienna": "2026-11-09 05:45:36 MEZ",
+    "play_count_total": 10,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-09-28 23:01:18Z",
+    "last_played_vienna": "2026-09-29 01:01:18 MESZ",
     "source": "Scraper Logs (OA Play History)"
   }
 ]
