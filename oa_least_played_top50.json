@@ -280,7 +280,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-08 09:36:04Z",
     "last_played_vienna": "2026-11-08 10:36:04 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -434,7 +434,7 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-08 09:17:34Z",
     "last_played_vienna": "2026-11-08 10:17:34 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -489,7 +489,7 @@
     "type": "Station-Specific",
     "play_count_total": 9,
     "play_count_30d": 9,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-08 09:32:35Z",
     "last_played_vienna": "2026-11-08 10:32:35 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -503,17 +503,6 @@
     "play_count_24h": 1,
     "last_played": "2026-11-08 10:50:04Z",
     "last_played_vienna": "2026-11-08 11:50:04 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Courtney Barnett",
-    "title": "Avant Gardener",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 9,
-    "play_count_24h": 1,
-    "last_played": "2026-11-08 16:15:05Z",
-    "last_played_vienna": "2026-11-08 17:15:05 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -547,6 +536,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-08 14:41:05Z",
     "last_played_vienna": "2026-11-08 15:41:05 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Thelonious Monk",
+    "title": "Round Midnight (Remastered 2025)",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 10,
+    "play_count_24h": 1,
+    "last_played": "2026-11-08 17:29:35Z",
+    "last_played_vienna": "2026-11-08 18:29:35 MEZ",
     "source": "Scraper Logs (OA Play History)"
   }
 ]
