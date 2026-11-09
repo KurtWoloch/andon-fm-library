@@ -132,6 +132,39 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
+    "artist": "The Marías",
+    "title": "Over the Moon",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-09 14:18:07Z",
+    "last_played_vienna": "2026-11-09 15:18:07 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Clairo",
+    "title": "Juna",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-09 14:21:37Z",
+    "last_played_vienna": "2026-11-09 15:21:37 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Maye",
+    "title": "My Love",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-09 14:25:07Z",
+    "last_played_vienna": "2026-11-09 15:25:07 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
     "artist": "Benetti House Bar",
     "title": "The Constellation",
     "type": "Station-Specific",
@@ -180,7 +213,7 @@
     "title": "Ice Ice Baby",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-10 14:07:02Z",
     "last_played_vienna": "2026-10-10 16:07:02 MESZ",
@@ -445,7 +478,7 @@
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-08 10:46:34Z",
     "last_played_vienna": "2026-11-08 11:46:34 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -500,7 +533,7 @@
     "type": "Station-Specific",
     "play_count_total": 9,
     "play_count_30d": 9,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-08 10:50:04Z",
     "last_played_vienna": "2026-11-08 11:50:04 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -514,39 +547,6 @@
     "play_count_24h": 1,
     "last_played": "2026-11-09 04:45:36Z",
     "last_played_vienna": "2026-11-09 05:45:36 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Franz Ferdinand",
-    "title": "Take Me Out",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-28 23:01:18Z",
-    "last_played_vienna": "2026-09-29 01:01:18 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Andrès Segovia",
-    "title": "Tárrega: Recuerdos de la Alhambra",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 10,
-    "play_count_24h": 1,
-    "last_played": "2026-11-08 14:41:05Z",
-    "last_played_vienna": "2026-11-08 15:41:05 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Thelonious Monk",
-    "title": "Round Midnight (Remastered 2025)",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 10,
-    "play_count_24h": 1,
-    "last_played": "2026-11-08 17:29:35Z",
-    "last_played_vienna": "2026-11-08 18:29:35 MEZ",
     "source": "Scraper Logs (OA Play History)"
   }
 ]
