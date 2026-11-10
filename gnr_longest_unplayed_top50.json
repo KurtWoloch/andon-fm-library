@@ -176,17 +176,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "ROSALÍA",
-    "title": "Berghain",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-30 05:32:04Z",
-    "last_played_vienna": "2026-09-30 07:32:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Eric Clapton",
     "title": "Realization (2000 Remaster) (Album Version)",
     "type": "Station-Specific",
@@ -548,5 +537,16 @@
     "last_played": "2026-10-21 06:31:15Z",
     "last_played_vienna": "2026-10-21 08:31:15 MESZ",
     "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Frank Sinatra",
+    "title": "Have Yourself A Merry Little Christmas (Remastered 1999)",
+    "type": "Shared",
+    "play_count_total": 23,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-21 07:13:45Z",
+    "last_played_vienna": "2026-10-21 09:13:45 MESZ",
+    "source": "Shared Library"
   }
 ]

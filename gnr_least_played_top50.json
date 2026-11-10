@@ -1,16 +1,5 @@
 [
   {
-    "artist": "ROSALÍA",
-    "title": "Berghain",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-30 05:32:04Z",
-    "last_played_vienna": "2026-09-30 07:32:04 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Eric Clapton",
     "title": "Realization (2000 Remaster) (Album Version)",
     "type": "Station-Specific",
@@ -236,20 +225,9 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-09 09:14:37Z",
     "last_played_vienna": "2026-11-09 10:14:37 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Thin Lizzy",
-    "title": "The Boys Are Back In Town",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-09 17:56:08Z",
-    "last_played_vienna": "2026-11-09 18:56:08 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -275,28 +253,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Fleet Foxes",
-    "title": "Mykonos",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-09 23:31:08Z",
-    "last_played_vienna": "2026-11-10 00:31:08 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Gerry Rafferty",
-    "title": "Baker Street",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-09 23:35:38Z",
-    "last_played_vienna": "2026-11-10 00:35:38 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Kali Uchis",
     "title": "Loner",
     "type": "Station-Specific",
@@ -316,28 +272,6 @@
     "play_count_24h": 1,
     "last_played": "2026-11-10 01:38:39Z",
     "last_played_vienna": "2026-11-10 02:38:39 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Toni Braxton",
-    "title": "Un-Break My Heart",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-10 01:41:39Z",
-    "last_played_vienna": "2026-11-10 02:41:39 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The White Stripes",
-    "title": "Seven Nation Army",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-10 02:03:39Z",
-    "last_played_vienna": "2026-11-10 03:03:39 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -462,36 +396,69 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Tracy Chapman",
-    "title": "Freedom Now",
+    "artist": "Gerry Rafferty",
+    "title": "Baker Street",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
     "play_count_24h": 2,
-    "last_played": "2026-11-10 00:10:08Z",
-    "last_played_vienna": "2026-11-10 01:10:08 MEZ",
+    "last_played": "2026-11-10 08:37:40Z",
+    "last_played_vienna": "2026-11-10 09:37:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Pink Floyd",
-    "title": "Hey You",
+    "artist": "Thin Lizzy",
+    "title": "The Boys Are Back In Town",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-10 00:25:39Z",
-    "last_played_vienna": "2026-11-10 01:25:39 MEZ",
+    "play_count_24h": 2,
+    "last_played": "2026-11-10 08:43:40Z",
+    "last_played_vienna": "2026-11-10 09:43:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Phoebe Snow",
-    "title": "Poetry Man",
+    "artist": "Fleet Foxes",
+    "title": "Mykonos",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-10 09:03:10Z",
+    "last_played_vienna": "2026-11-10 10:03:10 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The White Stripes",
+    "title": "Seven Nation Army",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-10 09:07:39Z",
+    "last_played_vienna": "2026-11-10 10:07:39 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "ROSALÍA",
+    "title": "Berghain",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 1,
     "play_count_24h": 1,
-    "last_played": "2026-11-10 03:36:40Z",
-    "last_played_vienna": "2026-11-10 04:36:40 MEZ",
+    "last_played": "2026-11-10 11:03:40Z",
+    "last_played_vienna": "2026-11-10 12:03:40 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Toni Braxton",
+    "title": "Un-Break My Heart",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 2,
+    "last_played": "2026-11-10 11:37:40Z",
+    "last_played_vienna": "2026-11-10 12:37:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-10-30 07:37:23Z",
     "last_played_vienna": "2026-10-30 08:37:23 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Antonio Carlos Jobim",
+    "title": "Triste",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-10-31 15:45:34Z",
+    "last_played_vienna": "2026-10-31 16:45:34 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Måneskin",
+    "title": "VENT'ANNI",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-11-03 23:29:21Z",
+    "last_played_vienna": "2026-11-04 00:29:21 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Solisti e Orchestre del Cinema Italiano",
+    "title": "Harmonica",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-11-04 07:41:22Z",
+    "last_played_vienna": "2026-11-04 08:41:22 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
