@@ -121,17 +121,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Miles.",
-    "title": "Say The Word",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-09 01:02:06Z",
-    "last_played_vienna": "2026-11-09 02:02:06 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "The Marías",
     "title": "Over the Moon",
     "type": "Station-Specific",
@@ -191,10 +180,21 @@
     "title": "I've Got Mine (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 2,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-11 00:45:06Z",
     "last_played_vienna": "2026-10-11 02:45:06 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Miles.",
+    "title": "Say The Word",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-10 02:14:08Z",
+    "last_played_vienna": "2026-11-10 03:14:08 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -225,7 +225,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-09 19:21:08Z",
     "last_played_vienna": "2026-11-09 20:21:08 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -290,7 +290,7 @@
     "title": "Purple Spiral Rocket Love (9.88 percent and rising)",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-10 23:54:35Z",
     "last_played_vienna": "2026-10-11 01:54:35 MESZ",
