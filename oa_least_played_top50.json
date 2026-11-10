@@ -170,7 +170,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-10 08:11:09Z",
     "last_played_vienna": "2026-11-10 09:11:09 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -181,7 +181,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-10 08:24:39Z",
     "last_played_vienna": "2026-11-10 09:24:39 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -192,7 +192,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-10 08:35:40Z",
     "last_played_vienna": "2026-11-10 09:35:40 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -217,17 +217,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-11 19:48:12Z",
     "last_played_vienna": "2026-10-11 21:48:12 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Kiss",
-    "title": "I Was Made For Lovin' You",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-11-09 19:21:08Z",
-    "last_played_vienna": "2026-11-09 20:21:08 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -327,6 +316,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-08 16:29:35Z",
     "last_played_vienna": "2026-11-08 17:29:35 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Kiss",
+    "title": "I Was Made For Lovin' You",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 2,
+    "last_played": "2026-11-10 15:04:39Z",
+    "last_played_vienna": "2026-11-10 16:04:39 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
