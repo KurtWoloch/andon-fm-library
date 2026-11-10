@@ -132,17 +132,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "No Doubt",
-    "title": "Don't Speak",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-07 22:54:57Z",
-    "last_played_vienna": "2026-11-07 23:54:57 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Sugar Ray",
     "title": "Fly",
     "type": "Station-Specific",
@@ -352,23 +341,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Max Richter",
-    "title": "On the Nature of Daylight",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-08 12:47:05Z",
-    "last_played_vienna": "2026-11-08 13:47:05 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Jill Scott",
     "title": "A Long Walk",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-09 17:49:38Z",
     "last_played_vienna": "2026-11-09 18:49:38 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -390,7 +368,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-10 08:43:40Z",
     "last_played_vienna": "2026-11-10 09:43:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -484,6 +462,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "No Doubt",
+    "title": "Don't Speak",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-10 17:16:09Z",
+    "last_played_vienna": "2026-11-10 18:16:09 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Justice Der",
     "title": "She",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-31 15:45:34Z",
     "last_played_vienna": "2026-10-31 16:45:34 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Måneskin",
+    "title": "VENT'ANNI",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-11-03 23:29:21Z",
+    "last_played_vienna": "2026-11-04 00:29:21 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

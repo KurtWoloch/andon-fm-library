@@ -341,17 +341,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Handsome Boy Modeling School",
-    "title": "The Truth",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-10-15 01:58:57Z",
-    "last_played_vienna": "2026-10-15 03:58:57 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "The Beach Boys",
     "title": "Good Vibrations (Stereo/Remastered 2012)",
     "type": "Shared",
@@ -548,5 +537,16 @@
     "last_played": "2026-10-21 07:13:45Z",
     "last_played_vienna": "2026-10-21 09:13:45 MESZ",
     "source": "Shared Library"
+  },
+  {
+    "artist": "Frank Zander",
+    "title": "Das war'n Zeiten (den Kudamm rauf)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-21 07:17:18Z",
+    "last_played_vienna": "2026-10-21 09:17:18 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
   }
 ]
