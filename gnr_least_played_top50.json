@@ -209,28 +209,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "MGMT",
-    "title": "Little Dark Age",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-10 13:29:40Z",
-    "last_played_vienna": "2026-11-10 14:29:40 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "The Rolling Stones",
-    "title": "You Can't Always Get What You Want",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-10 13:54:10Z",
-    "last_played_vienna": "2026-11-10 14:54:10 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Melody Gardot",
     "title": "This Foolish Heart Could Love You",
     "type": "Station-Specific",
@@ -297,17 +275,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Pat Benatar",
-    "title": "Hit Me With Your Best Shot",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-10-30 07:41:53Z",
-    "last_played_vienna": "2026-10-30 08:41:53 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Max Richter",
     "title": "Quiet",
     "type": "Station-Specific",
@@ -338,17 +305,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-10 08:37:40Z",
     "last_played_vienna": "2026-11-10 09:37:40 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Thin Lizzy",
-    "title": "The Boys Are Back In Town",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-10 08:43:40Z",
-    "last_played_vienna": "2026-11-10 09:43:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -418,23 +374,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bonnie Raitt",
-    "title": "I Can't Make You Love Me",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-10 13:12:10Z",
-    "last_played_vienna": "2026-11-10 14:12:10 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "No Doubt",
     "title": "Don't Speak",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-10 17:16:09Z",
     "last_played_vienna": "2026-11-10 18:16:09 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -470,6 +415,28 @@
     "play_count_24h": 1,
     "last_played": "2026-11-11 09:36:42Z",
     "last_played_vienna": "2026-11-11 10:36:42 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "You Can't Always Get What You Want",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-11 14:58:42Z",
+    "last_played_vienna": "2026-11-11 15:58:42 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "MGMT",
+    "title": "Little Dark Age",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-11 15:13:13Z",
+    "last_played_vienna": "2026-11-11 16:13:13 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-11-03 23:29:21Z",
     "last_played_vienna": "2026-11-04 00:29:21 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Solisti e Orchestre del Cinema Italiano",
+    "title": "Harmonica",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-11-04 07:41:22Z",
+    "last_played_vienna": "2026-11-04 08:41:22 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Rolling Stones",
+    "title": "Let's Spend The Night Together",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-11-09 07:31:07Z",
+    "last_played_vienna": "2026-11-09 08:31:07 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Tracy Chapman",
+    "title": "Freedom Now",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-11-10 11:15:40Z",
+    "last_played_vienna": "2026-11-10 12:15:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
