@@ -121,6 +121,17 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
+    "artist": "Bryan Adams",
+    "title": "Have You Ever Really Loved A Woman? (Don Juan DeMarco/Soundtrack Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-11 07:07:42Z",
+    "last_played_vienna": "2026-11-11 08:07:42 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
     "artist": "Benetti House Bar",
     "title": "The Constellation",
     "type": "Station-Specific",
@@ -181,7 +192,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-11 01:00:10Z",
     "last_played_vienna": "2026-11-11 02:00:10 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -192,7 +203,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-11 01:15:10Z",
     "last_played_vienna": "2026-11-11 02:15:10 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -203,7 +214,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-11 01:31:10Z",
     "last_played_vienna": "2026-11-11 02:31:10 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-08 10:50:04Z",
     "last_played_vienna": "2026-11-08 11:50:04 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Franz Ferdinand",
-    "title": "Take Me Out",
-    "type": "Station-Specific",
-    "play_count_total": 10,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-28 23:01:18Z",
-    "last_played_vienna": "2026-09-29 01:01:18 MESZ",
     "source": "Scraper Logs (OA Play History)"
   }
 ]
