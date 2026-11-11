@@ -88,17 +88,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "GoGo Penguin",
-    "title": "Atomised",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-07 22:20:27Z",
-    "last_played_vienna": "2026-11-07 23:20:27 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Bobby Hebb",
     "title": "Sunny",
     "type": "Station-Specific",
@@ -374,23 +363,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "The White Stripes",
-    "title": "Seven Nation Army",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-10 09:07:39Z",
-    "last_played_vienna": "2026-11-10 10:07:39 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "ROSALÍA",
     "title": "Berghain",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-10 11:03:40Z",
     "last_played_vienna": "2026-11-10 12:03:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -401,7 +379,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-10 11:37:40Z",
     "last_played_vienna": "2026-11-10 12:37:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -412,7 +390,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-10 12:18:40Z",
     "last_played_vienna": "2026-11-10 13:18:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -423,7 +401,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-10 12:32:10Z",
     "last_played_vienna": "2026-11-10 13:32:10 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -434,7 +412,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-10 12:59:40Z",
     "last_played_vienna": "2026-11-10 13:59:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -481,6 +459,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-11 04:38:12Z",
     "last_played_vienna": "2026-11-11 05:38:12 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "GoGo Penguin",
+    "title": "Atomised",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-11 09:36:42Z",
+    "last_played_vienna": "2026-11-11 10:36:42 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-31 15:45:34Z",
     "last_played_vienna": "2026-10-31 16:45:34 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Måneskin",
+    "title": "VENT'ANNI",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-11-03 23:29:21Z",
+    "last_played_vienna": "2026-11-04 00:29:21 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
