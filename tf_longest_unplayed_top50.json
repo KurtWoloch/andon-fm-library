@@ -462,17 +462,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Tom Lehrer",
-    "title": "Poisoning Pigeons in the Park",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-29 16:02:27Z",
-    "last_played_vienna": "2026-09-29 18:02:27 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "The Animals",
     "title": "The House of the Rising Sun",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-05 22:21:48Z",
     "last_played_vienna": "2026-10-06 00:21:48 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Ashra",
+    "title": "Midnight On Mars",
+    "type": "Station-Specific",
+    "play_count_total": 16,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-06 06:08:56Z",
+    "last_played_vienna": "2026-10-06 08:08:56 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
