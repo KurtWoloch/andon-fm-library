@@ -522,20 +522,9 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-11 21:50:43Z",
     "last_played_vienna": "2026-11-11 22:50:43 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Steely Dan",
-    "title": "Reelin' In The Years",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-11-12 06:38:41Z",
-    "last_played_vienna": "2026-11-12 07:38:41 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +536,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-12 08:41:12Z",
     "last_played_vienna": "2026-11-12 09:41:12 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "GoGo Penguin",
+    "title": "Atomised",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-12 09:14:12Z",
+    "last_played_vienna": "2026-11-12 10:14:12 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
