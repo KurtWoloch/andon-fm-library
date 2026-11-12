@@ -88,39 +88,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bobby Hebb",
-    "title": "Sunny",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-07 22:24:57Z",
-    "last_played_vienna": "2026-11-07 23:24:57 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "THE GOO GOO DOLLS",
-    "title": "Iris",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-07 22:32:27Z",
-    "last_played_vienna": "2026-11-07 23:32:27 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Sugar Ray",
-    "title": "Fly",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-07 23:12:28Z",
-    "last_played_vienna": "2026-11-08 00:12:28 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Tom Misch",
     "title": "Movie",
     "type": "Station-Specific",
@@ -198,17 +165,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Tracy Chapman",
-    "title": "All That You Have Is Your Soul",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-10 03:54:39Z",
-    "last_played_vienna": "2026-11-10 04:54:39 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Melody Gardot",
     "title": "This Foolish Heart Could Love You",
     "type": "Station-Specific",
@@ -228,6 +184,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-12 02:19:07Z",
     "last_played_vienna": "2026-11-12 03:19:07 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "John Coltrane",
+    "title": "Equinox",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-12 17:30:12Z",
+    "last_played_vienna": "2026-11-12 18:30:12 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -294,17 +261,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-08 03:17:02Z",
     "last_played_vienna": "2026-11-08 04:17:02 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Gerry Rafferty",
-    "title": "Baker Street",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-10 08:37:40Z",
-    "last_played_vienna": "2026-11-10 09:37:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -396,14 +352,47 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Whitesnake",
-    "title": "Here I Go Again",
+    "artist": "Tracy Chapman",
+    "title": "All That You Have Is Your Soul",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
-    "last_played": "2026-11-12 05:58:40Z",
-    "last_played_vienna": "2026-11-12 06:58:40 MEZ",
+    "play_count_24h": 1,
+    "last_played": "2026-11-12 11:12:42Z",
+    "last_played_vienna": "2026-11-12 12:12:42 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Sugar Ray",
+    "title": "Fly",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-12 11:25:11Z",
+    "last_played_vienna": "2026-11-12 12:25:11 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bobby Hebb",
+    "title": "Sunny",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-12 12:44:42Z",
+    "last_played_vienna": "2026-11-12 13:44:42 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "THE GOO GOO DOLLS",
+    "title": "Iris",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-12 13:03:12Z",
+    "last_played_vienna": "2026-11-12 14:03:12 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -528,25 +517,36 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Max Richter",
-    "title": "On the Nature of Daylight",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-10 17:34:10Z",
-    "last_played_vienna": "2026-11-10 18:34:10 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Pat Benatar",
-    "title": "Hit Me With Your Best Shot",
+    "artist": "MGMT",
+    "title": "Little Dark Age",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
     "play_count_24h": 1,
-    "last_played": "2026-11-11 14:24:42Z",
-    "last_played_vienna": "2026-11-11 15:24:42 MEZ",
+    "last_played": "2026-11-11 21:50:43Z",
+    "last_played_vienna": "2026-11-11 22:50:43 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Steely Dan",
+    "title": "Reelin' In The Years",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-12 06:38:41Z",
+    "last_played_vienna": "2026-11-12 07:38:41 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Jill Scott",
+    "title": "A Long Walk",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-12 08:41:12Z",
+    "last_played_vienna": "2026-11-12 09:41:12 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
