@@ -214,9 +214,20 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-11 01:18:11Z",
     "last_played_vienna": "2026-11-11 02:18:11 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Whitesnake",
+    "title": "Here I Go Again",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-11 22:51:44Z",
+    "last_played_vienna": "2026-11-11 23:51:44 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -390,7 +401,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-10 23:01:10Z",
     "last_played_vienna": "2026-11-11 00:01:10 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-10 11:32:40Z",
     "last_played_vienna": "2026-11-10 12:32:40 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Max Richter",
-    "title": "On the Nature of Daylight",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-10 17:34:10Z",
-    "last_played_vienna": "2026-11-10 18:34:10 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
