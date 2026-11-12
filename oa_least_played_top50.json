@@ -77,17 +77,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Midge Ure",
-    "title": "If I Was",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-28 07:59:49Z",
-    "last_played_vienna": "2026-10-28 08:59:49 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Joe Hisaishi",
     "title": "Summer (from 'Kikujiro')",
     "type": "Station-Specific",
@@ -118,17 +107,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-05 13:20:25Z",
     "last_played_vienna": "2026-11-05 14:20:25 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Bryan Adams",
-    "title": "Have You Ever Really Loved A Woman? (Don Juan DeMarco/Soundtrack Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-11 07:07:42Z",
-    "last_played_vienna": "2026-11-11 08:07:42 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -173,6 +151,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-11 00:45:06Z",
     "last_played_vienna": "2026-10-11 02:45:06 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Bryan Adams",
+    "title": "Have You Ever Really Loved A Woman? (Don Juan DeMarco/Soundtrack Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-12 06:44:41Z",
+    "last_played_vienna": "2026-11-12 07:44:41 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Midge Ure",
+    "title": "If I Was",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-12 09:58:41Z",
+    "last_played_vienna": "2026-11-12 10:58:41 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -374,17 +374,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Gillian Welch",
-    "title": "Everything Is Free",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 1,
-    "last_played": "2026-11-11 12:57:12Z",
-    "last_played_vienna": "2026-11-11 13:57:12 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Kiss",
     "title": "I Was Made For Lovin' You",
     "type": "Station-Specific",
@@ -470,6 +459,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-08 15:20:05Z",
     "last_played_vienna": "2026-11-08 16:20:05 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Gillian Welch",
+    "title": "Everything Is Free",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 2,
+    "last_played": "2026-11-12 08:07:41Z",
+    "last_played_vienna": "2026-11-12 09:07:41 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
