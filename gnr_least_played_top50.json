@@ -77,17 +77,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Tricky",
-    "title": "Aftermath",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-07 18:37:56Z",
-    "last_played_vienna": "2026-11-07 19:37:56 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Tom Misch",
     "title": "Movie",
     "type": "Station-Specific",
@@ -143,17 +132,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Swan Dive",
-    "title": "Get Back Together",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-09 23:26:38Z",
-    "last_played_vienna": "2026-11-10 00:26:38 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Kali Uchis",
     "title": "Loner",
     "type": "Station-Specific",
@@ -181,7 +159,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-12 02:19:07Z",
     "last_played_vienna": "2026-11-12 03:19:07 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -195,6 +173,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-12 17:30:12Z",
     "last_played_vienna": "2026-11-12 18:30:12 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Redbone",
+    "title": "Come and Get Your Love",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-13 01:59:12Z",
+    "last_played_vienna": "2026-11-13 02:59:12 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -396,6 +385,28 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Tricky",
+    "title": "Aftermath",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-13 00:07:12Z",
+    "last_played_vienna": "2026-11-13 01:07:12 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Swan Dive",
+    "title": "Get Back Together",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-13 02:19:12Z",
+    "last_played_vienna": "2026-11-13 03:19:12 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Justice Der",
     "title": "She",
     "type": "Station-Specific",
@@ -525,17 +536,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-11 21:50:43Z",
     "last_played_vienna": "2026-11-11 22:50:43 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Jill Scott",
-    "title": "A Long Walk",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-11-12 08:41:12Z",
-    "last_played_vienna": "2026-11-12 09:41:12 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
