@@ -192,7 +192,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-13 11:23:14Z",
     "last_played_vienna": "2026-11-13 12:23:14 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -473,23 +473,12 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Gillian Welch",
-    "title": "Everything Is Free",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 1,
-    "last_played": "2026-11-13 01:23:42Z",
-    "last_played_vienna": "2026-11-13 02:23:42 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Kiss",
     "title": "I Was Made For Lovin' You",
     "type": "Station-Specific",
     "play_count_total": 7,
     "play_count_30d": 7,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-13 13:24:13Z",
     "last_played_vienna": "2026-11-13 14:24:13 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -514,6 +503,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-13 04:24:43Z",
     "last_played_vienna": "2026-11-13 05:24:43 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Gillian Welch",
+    "title": "Everything Is Free",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "play_count_24h": 2,
+    "last_played": "2026-11-13 19:33:14Z",
+    "last_played_vienna": "2026-11-13 20:33:14 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
