@@ -165,17 +165,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "John Coltrane",
-    "title": "Equinox",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-12 17:30:12Z",
-    "last_played_vienna": "2026-11-12 18:30:12 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Redbone",
     "title": "Come and Get Your Love",
     "type": "Station-Specific",
@@ -319,17 +308,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Lou Rawls",
-    "title": "At Last",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-10 23:01:10Z",
-    "last_played_vienna": "2026-11-11 00:01:10 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Tracy Chapman",
     "title": "All That You Have Is Your Soul",
     "type": "Station-Specific",
@@ -357,31 +335,20 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-12 12:44:42Z",
     "last_played_vienna": "2026-11-12 13:44:42 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "THE GOO GOO DOLLS",
-    "title": "Iris",
+    "artist": "John Coltrane",
+    "title": "Equinox",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-12 13:03:12Z",
-    "last_played_vienna": "2026-11-12 14:03:12 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Swan Dive",
-    "title": "Get Back Together",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-13 02:19:12Z",
-    "last_played_vienna": "2026-11-13 03:19:12 MEZ",
+    "play_count_24h": 2,
+    "last_played": "2026-11-13 14:15:44Z",
+    "last_played_vienna": "2026-11-13 15:15:44 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -422,7 +389,7 @@
     "title": "Água de Beber",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-10-29 23:12:52Z",
     "last_played_vienna": "2026-10-30 00:12:52 MEZ",
@@ -533,7 +500,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-12 12:48:12Z",
     "last_played_vienna": "2026-11-12 13:48:12 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -547,6 +514,39 @@
     "play_count_24h": 1,
     "last_played": "2026-11-13 04:03:43Z",
     "last_played_vienna": "2026-11-13 05:03:43 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "THE GOO GOO DOLLS",
+    "title": "Iris",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-13 13:44:43Z",
+    "last_played_vienna": "2026-11-13 14:44:43 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Swan Dive",
+    "title": "Get Back Together",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 2,
+    "last_played": "2026-11-13 16:10:45Z",
+    "last_played_vienna": "2026-11-13 17:10:45 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Lou Rawls",
+    "title": "At Last",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-13 16:30:44Z",
+    "last_played_vienna": "2026-11-13 17:30:44 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
