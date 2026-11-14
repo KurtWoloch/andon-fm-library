@@ -88,17 +88,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bebel Gilberto",
-    "title": "Sun Is Shining",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-08 01:03:59Z",
-    "last_played_vienna": "2026-11-08 02:03:59 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Anyma",
     "title": "Beautiful",
     "type": "Station-Specific",
@@ -129,17 +118,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-10 00:53:38Z",
     "last_played_vienna": "2026-11-10 01:53:38 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Melody Gardot",
-    "title": "This Foolish Heart Could Love You",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-11 01:18:11Z",
-    "last_played_vienna": "2026-11-11 02:18:11 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -231,17 +209,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Toni Braxton",
-    "title": "Un-Break My Heart",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-10 11:37:40Z",
-    "last_played_vienna": "2026-11-10 12:37:40 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Soft Cell",
     "title": "Tainted Love",
     "type": "Station-Specific",
@@ -313,7 +280,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-13 14:15:44Z",
     "last_played_vienna": "2026-11-13 15:15:44 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -327,6 +294,28 @@
     "play_count_24h": 1,
     "last_played": "2026-11-14 07:49:46Z",
     "last_played_vienna": "2026-11-14 08:49:46 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bebel Gilberto",
+    "title": "Sun Is Shining",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-14 15:13:47Z",
+    "last_played_vienna": "2026-11-14 16:13:47 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Melody Gardot",
+    "title": "This Foolish Heart Could Love You",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-14 16:01:47Z",
+    "last_played_vienna": "2026-11-14 17:01:47 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -500,7 +489,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-13 16:10:45Z",
     "last_played_vienna": "2026-11-13 17:10:45 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -511,7 +500,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-13 16:30:44Z",
     "last_played_vienna": "2026-11-13 17:30:44 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -536,6 +525,17 @@
     "play_count_24h": 2,
     "last_played": "2026-11-14 10:12:46Z",
     "last_played_vienna": "2026-11-14 11:12:46 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Toni Braxton",
+    "title": "Un-Break My Heart",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-14 17:26:47Z",
+    "last_played_vienna": "2026-11-14 18:26:47 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {

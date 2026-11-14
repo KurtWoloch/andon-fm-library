@@ -528,17 +528,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Zaz",
-    "title": "Champs-Elysées",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-05 15:14:55Z",
-    "last_played_vienna": "2026-11-05 16:14:55 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "HUGEL",
     "title": "Movin' To The Sun",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-07 14:10:26Z",
     "last_played_vienna": "2026-11-07 15:10:26 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Tina Turner",
+    "title": "Private Dancer (Single Edit)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-11-07 18:01:26Z",
+    "last_played_vienna": "2026-11-07 19:01:26 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
