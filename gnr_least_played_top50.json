@@ -89,17 +89,6 @@
   },
   {
     "artist": "Bebel Gilberto",
-    "title": "Sem Contenção",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-08 00:13:28Z",
-    "last_played_vienna": "2026-11-08 01:13:28 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Bebel Gilberto",
     "title": "Sun Is Shining",
     "type": "Station-Specific",
     "play_count_total": 1,
@@ -338,6 +327,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-13 18:19:14Z",
     "last_played_vienna": "2026-11-13 19:19:14 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bebel Gilberto",
+    "title": "Sem Contenção",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-14 07:49:46Z",
+    "last_played_vienna": "2026-11-14 08:49:46 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
