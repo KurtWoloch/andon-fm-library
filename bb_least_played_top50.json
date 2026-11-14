@@ -24,6 +24,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Scott McKenzie",
+    "title": "San Francisco (Be Sure to Wear Flowers in Your Hair) (Single Version)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-14 19:28:17Z",
+    "last_played_vienna": "2026-11-14 20:28:17 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -584,18 +596,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 14:54:33Z",
     "last_played_vienna": "2026-10-10 16:54:33 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Avatar",
-    "title": "The Dirt I'm Buried In",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-13 14:04:01Z",
-    "last_played_vienna": "2026-10-13 16:04:01 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
