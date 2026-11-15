@@ -275,17 +275,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Tom Konkle",
-    "title": "One Last Time",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-17 07:17:42Z",
-    "last_played_vienna": "2026-09-17 09:17:42 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Grossstadtgeflüster",
     "title": "Fickt-Euch-Allee",
     "type": "Station-Specific",
@@ -548,5 +537,16 @@
     "last_played": "2026-10-09 11:28:01Z",
     "last_played_vienna": "2026-10-09 13:28:01 MESZ",
     "source": "Shared Library"
+  },
+  {
+    "artist": "The Vampire Lestat",
+    "title": "Brutal Love",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 15:42:31Z",
+    "last_played_vienna": "2026-10-09 17:42:31 MESZ",
+    "source": "Scraper Logs (TF Play History)"
   }
 ]
