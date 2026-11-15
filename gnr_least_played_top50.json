@@ -291,7 +291,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-14 16:01:47Z",
     "last_played_vienna": "2026-11-14 17:01:47 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -429,17 +429,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Gerry Rafferty",
-    "title": "Baker Street",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-12 12:48:12Z",
-    "last_played_vienna": "2026-11-12 13:48:12 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "No Doubt",
     "title": "Don't Speak",
     "type": "Station-Specific",
@@ -489,7 +478,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-14 19:22:17Z",
     "last_played_vienna": "2026-11-14 20:22:17 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-10 08:30:10Z",
     "last_played_vienna": "2026-11-10 09:30:10 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Lianne La Havas",
+    "title": "Bittersweet",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-11-10 10:17:10Z",
+    "last_played_vienna": "2026-11-10 11:17:10 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
