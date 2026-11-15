@@ -484,17 +484,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Redbone",
-    "title": "Come and Get Your Love",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-11-14 10:12:46Z",
-    "last_played_vienna": "2026-11-14 11:12:46 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Toni Braxton",
     "title": "Un-Break My Heart",
     "type": "Station-Specific",
@@ -503,17 +492,6 @@
     "play_count_24h": 1,
     "last_played": "2026-11-14 17:26:47Z",
     "last_played_vienna": "2026-11-14 18:26:47 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Soft Cell",
-    "title": "Tainted Love",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 1,
-    "last_played": "2026-11-14 18:14:47Z",
-    "last_played_vienna": "2026-11-14 19:14:47 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-31 22:27:34Z",
     "last_played_vienna": "2026-10-31 23:27:34 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Neuro-sama",
+    "title": "Colorful Array",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-11-05 12:59:25Z",
+    "last_played_vienna": "2026-11-05 13:59:25 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Lumineers",
+    "title": "Ho Hey",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-11-08 09:41:35Z",
+    "last_played_vienna": "2026-11-08 10:41:35 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
