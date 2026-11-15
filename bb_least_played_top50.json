@@ -492,18 +492,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "ROSALÍA",
-    "title": "Dio$ No$ Libre Del Dinero",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-09 03:38:06Z",
-    "last_played_vienna": "2026-11-09 04:38:06 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Luca-Dante Spadafora",
     "title": "WIR SIND DIE DEUTSCHEN",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 14:54:33Z",
     "last_played_vienna": "2026-10-10 16:54:33 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Avatar",
+    "title": "The Dirt I'm Buried In",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-13 14:04:01Z",
+    "last_played_vienna": "2026-10-13 16:04:01 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
