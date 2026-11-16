@@ -390,7 +390,7 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-15 23:30:20Z",
     "last_played_vienna": "2026-11-16 00:30:20 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -495,17 +495,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Clairo",
-    "title": "Juna",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 9,
-    "play_count_24h": 1,
-    "last_played": "2026-11-15 12:40:49Z",
-    "last_played_vienna": "2026-11-15 13:40:49 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Maye",
     "title": "My Love",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-09-28 23:01:18Z",
     "last_played_vienna": "2026-09-29 01:01:18 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Andrès Segovia",
+    "title": "Tárrega: Recuerdos de la Alhambra",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 10,
+    "play_count_24h": 0,
+    "last_played": "2026-11-08 14:41:05Z",
+    "last_played_vienna": "2026-11-08 15:41:05 MEZ",
     "source": "Scraper Logs (OA Play History)"
   }
 ]
