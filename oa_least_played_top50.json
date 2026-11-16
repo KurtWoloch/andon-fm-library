@@ -495,28 +495,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Maye",
-    "title": "My Love",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 9,
-    "play_count_24h": 1,
-    "last_played": "2026-11-15 14:21:49Z",
-    "last_played_vienna": "2026-11-15 15:21:49 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Miles.",
-    "title": "Say The Word",
-    "type": "Station-Specific",
-    "play_count_total": 9,
-    "play_count_30d": 9,
-    "play_count_24h": 1,
-    "last_played": "2026-11-15 16:58:19Z",
-    "last_played_vienna": "2026-11-15 17:58:19 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "The Marías",
     "title": "Over the Moon",
     "type": "Station-Specific",
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-11-08 14:41:05Z",
     "last_played_vienna": "2026-11-08 15:41:05 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Kiss",
+    "title": "I Was Made For Lovin' You",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 10,
+    "play_count_24h": 1,
+    "last_played": "2026-11-15 22:58:19Z",
+    "last_played_vienna": "2026-11-15 23:58:19 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Clairo",
+    "title": "Juna",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 10,
+    "play_count_24h": 1,
+    "last_played": "2026-11-16 06:59:21Z",
+    "last_played_vienna": "2026-11-16 07:59:21 MEZ",
     "source": "Scraper Logs (OA Play History)"
   }
 ]

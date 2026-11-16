@@ -275,17 +275,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Melody Gardot",
-    "title": "This Foolish Heart Could Love You",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-14 16:01:47Z",
-    "last_played_vienna": "2026-11-14 17:01:47 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Justice Der",
     "title": "She",
     "type": "Station-Specific",
@@ -481,6 +470,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-16 00:11:50Z",
     "last_played_vienna": "2026-11-16 01:11:50 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Melody Gardot",
+    "title": "This Foolish Heart Could Love You",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-16 10:23:51Z",
+    "last_played_vienna": "2026-11-16 11:23:51 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
