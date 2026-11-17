@@ -334,7 +334,7 @@
     "title": "Triste",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-10-31 15:45:34Z",
     "last_played_vienna": "2026-10-31 16:45:34 MEZ",
@@ -473,17 +473,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Melody Gardot",
-    "title": "This Foolish Heart Could Love You",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-16 10:23:51Z",
-    "last_played_vienna": "2026-11-16 11:23:51 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-10 10:17:10Z",
     "last_played_vienna": "2026-11-10 11:17:10 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Ben Howard",
+    "title": "Only Love",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-11-10 12:35:40Z",
+    "last_played_vienna": "2026-11-10 13:35:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
