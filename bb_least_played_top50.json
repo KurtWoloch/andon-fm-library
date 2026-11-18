@@ -48,6 +48,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Nina Simone",
+    "title": "Sinnerman (Sofi Tukker Remix)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-18 15:54:58Z",
+    "last_played_vienna": "2026-11-18 16:54:58 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -460,7 +472,7 @@
     "title": "Mary Jane Holland",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-19 12:57:35Z",
     "last_played_vienna": "2026-10-19 14:57:35 MESZ",
@@ -584,18 +596,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 14:48:04Z",
     "last_played_vienna": "2026-10-10 16:48:04 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Kalim",
-    "title": "LINEA ROSSA",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 14:54:33Z",
-    "last_played_vienna": "2026-10-10 16:54:33 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
