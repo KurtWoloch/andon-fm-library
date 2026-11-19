@@ -347,17 +347,19 @@ SCRIPTS = [
         "params": [
             {
                 "key": "sync", "label": "sync", "flag": "--sync", "kind": "flag",
+                "group": "mode", "default_group": True,
                 "help": "Synchronisiert alle 910 Archivtitel mit dem Live-Log und "
                         "gleicht die Einzelwertungen aus Titelbewertung.csv ab.",
             },
             {
                 "key": "stats", "label": "stats", "flag": "--stats", "kind": "flag",
+                "group": "mode",
                 "help": "Zeigt den aktuellen Fuellstand der Fit-Datenbank fuer alle "
                         "Sendungen.",
             },
             {
                 "key": "playlist", "label": "playlist", "flag": "--playlist",
-                "kind": "slot", "required": True, "default": "18:00",
+                "kind": "slot", "group": "mode", "required": True, "default": "18:00",
                 "placeholder": "18:00 oder Sendungsname",
                 "help": "Berechnet aus der Datenbank nach Kurts Quotienten-Formel "
                         "(Zeit ungespielt / Cooldown) die optimale Playlist fuer "
@@ -620,15 +622,33 @@ class AndonToolsGUI:
         for child in self.files_inner.winfo_children():
             child.destroy()
         self.rows = []
+        self.group_vars = {}
 
         # Parameter-Zeilen
         for r, p in enumerate(script["params"]):
             row = ttk.Frame(self.params_frame)
             row.pack(fill="x", anchor="w", pady=3)
 
-            cb_var = BooleanVar(value=False)
-            cb = ttk.Checkbutton(row, text=p["label"], variable=cb_var,
-                                  width=20)
+            group_name = p.get("group")
+            if group_name:
+                if group_name not in self.group_vars:
+                    # Default value is the key with default_group=True, or the first key in the group
+                    default_val = p["key"]
+                    for param_item in script["params"]:
+                        if param_item.get("group") == group_name and param_item.get("default_group"):
+                            default_val = param_item["key"]
+                            break
+                    self.group_vars[group_name] = StringVar(value=default_val)
+                    self.group_vars[group_name].trace_add("write", lambda *_a, g=group_name: self._on_group_changed(g))
+
+                cb_var = self.group_vars[group_name]
+                cb = ttk.Radiobutton(row, text=p["label"], variable=cb_var,
+                                     value=p["key"], width=20,
+                                     command=lambda g=group_name: self._on_group_changed(g))
+            else:
+                cb_var = BooleanVar(value=False)
+                cb = ttk.Checkbutton(row, text=p["label"], variable=cb_var,
+                                      width=20)
             cb.grid(row=0, column=0, sticky="w")
 
             entry = None
@@ -682,9 +702,8 @@ class AndonToolsGUI:
                       font=("Segoe UI", 8)).pack(anchor="w", pady=(8, 0))
         if idx == 5:  # bb_fit_db
             ttk.Label(self.params_frame,
-                      text="Hinweis: sync / stats sind eigenstaendige Modi (auf der "
-                           "Kommandozeile wird nur der erste erkannte Modus ausgefuehrt). "
-                           "playlist schliesst die Ausfuehrung von sync/stats aus.",
+                      text="Modus: sync, stats und playlist sind Radio-Buttons (genau ein Modus aktiv, Standard: sync). "
+                           "at und top sind optionale Parameter fuer den Modus playlist.",
                       wraplength=880, justify="left", foreground="#8a5a00",
                       font=("Segoe UI", 8)).pack(anchor="w", pady=(8, 0))
         if idx == 3:  # simulate
@@ -718,14 +737,25 @@ class AndonToolsGUI:
             "slot": "Uhrzeit oder Sendung",
         }.get(kind, "")
 
-    def _toggle_row(self, rec):
-        """Eingabefeld erst beim Aktivieren der Checkbox einblenden."""
-        active = bool(rec["var"].get())
+    def _is_active(self, rec):
+        group_name = rec["param"].get("group")
+        if group_name:
+            return rec["var"].get() == rec["param"]["key"]
+        return bool(rec["var"].get())
+
+    def _on_group_changed(self, group_name):
+        for rec in self.rows:
+            if rec["param"].get("group") == group_name:
+                self._toggle_row(rec, update_cmd=False)
+        self._update_cmd()
+
+    def _toggle_row(self, rec, update_cmd=True):
+        """Eingabefeld erst beim Aktivieren einblenden."""
+        active = self._is_active(rec)
         p = rec["param"]
         if rec["entry"] is not None:
             if active:
                 rec["entry"].configure(state="normal")
-                # Nutzer soll direkt tippen koennen -> Text selektieren
                 try:
                     rec["entry"].focus_set()
                     rec["entry"].selection_range(0, "end")
@@ -733,15 +763,23 @@ class AndonToolsGUI:
                     pass
             else:
                 rec["entry"].configure(state="disabled")
-        self._update_cmd()
+        if update_cmd:
+            self._update_cmd()
 
     def _reset_fields(self):
         script = SCRIPTS[self.script_index]
+        for g_name, g_var in self.group_vars.items():
+            for p in script["params"]:
+                if p.get("group") == g_name and p.get("default_group"):
+                    g_var.set(p["key"])
+                    break
         for rec, p in zip(self.rows, script["params"]):
-            rec["var"].set(False)
+            if not p.get("group"):
+                rec["var"].set(False)
             if rec["entry_var"] is not None:
                 rec["entry_var"].set(p.get("default", ""))
-            self._toggle_row(rec)
+            self._toggle_row(rec, update_cmd=False)
+        self._update_cmd()
         self.status_var.set("Felder zurueckgesetzt.")
         self.status_color = "#138a13"
         self.status_lbl.configure(foreground=self.status_color)
@@ -754,7 +792,7 @@ class AndonToolsGUI:
         errors = []
         for rec in self.rows:
             p = rec["param"]
-            if not rec["var"].get():
+            if not self._is_active(rec):
                 continue
             kind = p["kind"]
             flag = p["flag"]
