@@ -431,7 +431,7 @@ def main():
     # Load existing CSV rows to avoid re-running LLM calls for already analyzed shows
     existing_rows = {}
     if os.path.exists(OUT_CSV) and not force_recalc:
-        with open(OUT_CSV, 'r', encoding='utf-8', errors='replace') as f:
+        with open(OUT_CSV, 'r', encoding='utf-8-sig', errors='replace') as f:
             reader = csv.DictReader(f)
             for r in reader:
                 if r.get('Startzeit'):
