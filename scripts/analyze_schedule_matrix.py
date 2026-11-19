@@ -452,7 +452,7 @@ def main():
         if max_shows is not None and processed_count >= max_shows:
             break
 
-        print(f"\\nAnalysiere [{st_key}] {s['show_name']} ...")
+        print(f"\nAnalysiere [{st_key}] {s['show_name']} ...")
         s_plays = [p for p in play_metrics if s['start_dt'] <= p[0] < s['end_dt']]
 
         # Parameter 4: Fishing Depth
@@ -500,7 +500,7 @@ def main():
         # Save incrementally after each show
         save_outputs(existing_rows)
 
-    print(f"\\nFertig! {processed_count} neue Sendungen ausgewertet. Gesamt in Tabelle: {len(existing_rows)} Sendungen.")
+    print(f"\nFertig! {processed_count} neue Sendungen ausgewertet. Gesamt in Tabelle: {len(existing_rows)} Sendungen.")
     print(f"CSV gespeichert unter: {OUT_CSV}")
     print(f"Markdown gespeichert unter: {OUT_MD}")
 
