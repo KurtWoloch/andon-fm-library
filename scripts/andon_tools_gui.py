@@ -723,6 +723,8 @@ class AndonToolsGUI:
             ToolTip(b, Tip)
 
         self.canvas.yview_moveto(0)
+        for g in self.group_vars:
+            self._on_group_changed(g)
         self._update_cmd()
 
     @staticmethod
@@ -747,6 +749,17 @@ class AndonToolsGUI:
         for rec in self.rows:
             if rec["param"].get("group") == group_name:
                 self._toggle_row(rec, update_cmd=False)
+        # Fuer bb_fit_db: at und top nur aktivieren, wenn playlist gewaehlt ist
+        if self.script_index == 5:
+            is_playlist = (self.group_vars.get("mode") and self.group_vars["mode"].get() == "playlist")
+            for rec in self.rows:
+                if rec["param"]["key"] in ("at", "top"):
+                    if is_playlist:
+                        rec["cb"].configure(state="normal")
+                    else:
+                        rec["var"].set(False)
+                        rec["cb"].configure(state="disabled")
+                    self._toggle_row(rec, update_cmd=False)
         self._update_cmd()
 
     def _toggle_row(self, rec, update_cmd=True):
@@ -847,7 +860,7 @@ class AndonToolsGUI:
         args, errors = self._collect()
 
         # Zusatzpruefungen
-        active = {rec["param"]["key"]: rec for rec in self.rows if rec["var"].get()}
+        active = {rec["param"]["key"]: rec for rec in self.rows if self._is_active(rec)}
 
         if self.script_index == 2:  # andon_context_analysis
             # hours ist das 2. positionsale Argument -> station-Position ggf. leer
