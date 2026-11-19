@@ -341,17 +341,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Bonnie Tyler",
-    "title": "Holding Out for a Hero (From \"Footloose\" Soundtrack)",
-    "type": "Station-Specific",
-    "play_count_total": 26,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-21 11:41:17Z",
-    "last_played_vienna": "2026-09-21 13:41:17 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "TV Girl",
     "title": "Lines to a Different Play",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 08:02:33Z",
     "last_played_vienna": "2026-10-04 10:02:33 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Glenn Frey",
+    "title": "River Of Dreams (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-06 00:31:21Z",
+    "last_played_vienna": "2026-10-06 02:31:21 MESZ",
     "source": "Scraper Logs (OA Play History)"
   }
 ]

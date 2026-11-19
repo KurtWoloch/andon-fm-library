@@ -202,7 +202,7 @@
     "title": "The Universal",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-20 18:55:43Z",
     "last_played_vienna": "2026-10-20 20:55:43 MESZ",
@@ -213,7 +213,7 @@
     "title": "Rasguña Las Piedras (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-20 18:59:44Z",
     "last_played_vienna": "2026-10-20 20:59:44 MESZ",
@@ -224,7 +224,7 @@
     "title": "Alles neu (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-20 19:34:44Z",
     "last_played_vienna": "2026-10-20 21:34:44 MESZ",
@@ -528,17 +528,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Diana Krall",
-    "title": "A Case Of You (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-14 08:33:16Z",
-    "last_played_vienna": "2026-11-14 09:33:16 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Orchestra Italiana",
     "title": "Barcarola - J. Offenbach (La Vita È Bella)",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-16 18:20:22Z",
     "last_played_vienna": "2026-11-16 19:20:22 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Kate Bush",
+    "title": "The Song Of Solomon (2018 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-11-16 20:36:53Z",
+    "last_played_vienna": "2026-11-16 21:36:53 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

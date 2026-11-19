@@ -253,17 +253,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bebel Gilberto",
-    "title": "Sem Contenção",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-14 07:49:46Z",
-    "last_played_vienna": "2026-11-14 08:49:46 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Justice Der",
     "title": "She",
     "type": "Station-Specific",
@@ -418,6 +407,17 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
+    "artist": "Bebel Gilberto",
+    "title": "Sem Contenção",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-19 23:14:00Z",
+    "last_played_vienna": "2026-11-20 00:14:00 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -517,28 +517,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Walk The Moon",
-    "title": "Shut Up and Dance",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-11-19 06:14:28Z",
-    "last_played_vienna": "2026-11-19 07:14:28 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Lou Rawls",
-    "title": "At Last",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-11-19 06:17:59Z",
-    "last_played_vienna": "2026-11-19 07:17:59 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Swan Dive",
     "title": "Get Back Together",
     "type": "Station-Specific",
@@ -547,6 +525,28 @@
     "play_count_24h": 1,
     "last_played": "2026-11-19 14:18:30Z",
     "last_played_vienna": "2026-11-19 15:18:30 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Videoclub",
+    "title": "Mai",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 15:37:05Z",
+    "last_played_vienna": "2026-10-04 17:37:05 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Nattalia Sarria",
+    "title": "Last Summer Whisper (From \"Anri\")",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-21 11:21:45Z",
+    "last_played_vienna": "2026-10-21 13:21:45 MESZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
