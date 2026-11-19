@@ -1,0 +1,7 @@
+# Sperrliste für Andon FM Bibliothekslisten
+# Einträge in dieser Liste werden vom Scraper zwar weiterhin erfasst (historischer Verlauf bleibt intakt),
+# aber von der Aufnahme in die Bibliothekslisten (HTML, JSON, CSV) ausgeschlossen.
+# Format: Genau eine Zeile pro Titel ("Interpret - Titel"). Zeilen mit # sind Kommentare, Leerzeilen werden ignoriert.
+
+Jimmy Cliff - I Can See Clearly Now (Album Version)
+Leon - The Monthly Big Top 15
