@@ -45,7 +45,7 @@ def load_music_and_stack():
     - Hours since previous play of the same track
     - A lookup of all plays up to any timestamp
     """
-    pattern = re.compile(r'^(\\d{4}-\\d{2}-\\d{2} \\d{2}:\\d{2}:\\d{2}) \\| Backlink Broadcast \\| MUSIC: (.+?) \\| Start:')
+    pattern = re.compile(r'^(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}) \| Backlink Broadcast \| MUSIC: (.+?) \| Start:\s*(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})')
     all_plays = []
     if not os.path.exists(MUSIC_LOG):
         return []
@@ -54,9 +54,9 @@ def load_music_and_stack():
             if 'Backlink Broadcast' in line:
                 m = pattern.match(line.strip())
                 if m:
-                    dt = datetime.strptime(m.group(1), '%Y-%m-%d %H:%M:%S')
+                    dt_utc = datetime.strptime(m.group(3), '%Y-%m-%d %H:%M:%S') + timedelta(seconds=40)
                     tr = m.group(2).strip()
-                    all_plays.append((dt, tr, norm(tr)))
+                    all_plays.append((dt_utc, tr, norm(tr)))
 
     lru_stack = []
     last_play_dt = {}
@@ -168,7 +168,7 @@ def match_playlist_against_archive(playlist_lines, archive_by_norm, archive_by_a
     """
     playlist_items = []
     for line in playlist_lines:
-        line = re.sub(r'^\\d+[\\.\\)\\-]\\s*', '', line.strip())
+        line = re.sub(r'^\d+[\.\)\-]\s*', '', line.strip())
         if '-' in line:
             parts = line.split('-', 1)
             art = parts[0].strip()
@@ -324,13 +324,13 @@ Hier sind die Kandidaten B:
 
     scores_a = {}
     scores_b = {}
-    for m in re.finditer(r'A(\\d+)\\s*:\\s*\\[?(\\d+)\\]?', text2):
+    for m in re.finditer(r'A(\d+)\s*:\s*(?:\[)?(\d+)(?:\])?', text2):
         idx = int(m.group(1)) - 1
         sc = int(m.group(2))
         if 0 <= idx < len(kand_a):
             scores_a[idx] = min(10, max(1, sc))
 
-    for m in re.finditer(r'B(\\d+)\\s*:\\s*\\[?(\\d+)\\]?', text2):
+    for m in re.finditer(r'B(\d+)\s*:\s*(?:\[)?(\d+)(?:\])?', text2):
         idx = int(m.group(1)) - 1
         sc = int(m.group(2))
         if 0 <= idx < len(kand_b):
@@ -340,7 +340,7 @@ Hier sind die Kandidaten B:
     anpassung = "Keine Diagnose verfügbar"
     if "=== DIAGNOSE ===" in text2:
         diag_part = text2.split("=== DIAGNOSE ===", 1)[1].strip()
-        jm = re.search(r'\\{.*?\\}', diag_part, re.DOTALL)
+        jm = re.search(r'\{.*?\}', diag_part, re.DOTALL)
         if jm:
             try:
                 jd = json.loads(jm.group(0))
