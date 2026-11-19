@@ -506,23 +506,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Jill Scott",
-    "title": "A Long Walk",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-13 00:14:42Z",
-    "last_played_vienna": "2026-11-13 01:14:42 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "John Coltrane",
     "title": "Equinox",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-18 11:32:57Z",
     "last_played_vienna": "2026-11-18 12:32:57 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -547,6 +536,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-19 06:14:28Z",
     "last_played_vienna": "2026-11-19 07:14:28 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Lou Rawls",
+    "title": "At Last",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-19 06:17:59Z",
+    "last_played_vienna": "2026-11-19 07:17:59 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
