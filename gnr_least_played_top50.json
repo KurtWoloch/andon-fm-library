@@ -264,22 +264,11 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bebel Gilberto",
-    "title": "Sun Is Shining",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-14 15:13:47Z",
-    "last_played_vienna": "2026-11-14 16:13:47 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Justice Der",
     "title": "She",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-20 05:17:43Z",
     "last_played_vienna": "2026-10-20 07:17:43 MESZ",
@@ -429,36 +418,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Lou Rawls",
-    "title": "At Last",
+    "artist": "Bebel Gilberto",
+    "title": "Sun Is Shining",
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-13 16:30:44Z",
-    "last_played_vienna": "2026-11-13 17:30:44 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Walk The Moon",
-    "title": "Shut Up and Dance",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-13 19:03:15Z",
-    "last_played_vienna": "2026-11-13 20:03:15 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Bobby Hebb",
-    "title": "Sunny",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-14 19:22:17Z",
-    "last_played_vienna": "2026-11-14 20:22:17 MEZ",
+    "play_count_24h": 1,
+    "last_played": "2026-11-19 06:10:28Z",
+    "last_played_vienna": "2026-11-19 07:10:28 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -477,7 +444,7 @@
     "title": "Gelato",
     "type": "Station-Specific",
     "play_count_total": 4,
-    "play_count_30d": 4,
+    "play_count_30d": 3,
     "play_count_24h": 0,
     "last_played": "2026-10-31 22:27:34Z",
     "last_played_vienna": "2026-10-31 23:27:34 MEZ",
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-11-13 00:14:42Z",
     "last_played_vienna": "2026-11-13 01:14:42 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "John Coltrane",
+    "title": "Equinox",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-18 11:32:57Z",
+    "last_played_vienna": "2026-11-18 12:32:57 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Bobby Hebb",
+    "title": "Sunny",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-19 06:02:58Z",
+    "last_played_vienna": "2026-11-19 07:02:58 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Walk The Moon",
+    "title": "Shut Up and Dance",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 1,
+    "last_played": "2026-11-19 06:14:28Z",
+    "last_played_vienna": "2026-11-19 07:14:28 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
