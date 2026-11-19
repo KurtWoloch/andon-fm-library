@@ -88,17 +88,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Metallica",
-    "title": "Master of Puppets (Live at Irvine Meadows Amphitheatre, Irvine, CA, 8/4/1996)",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-07-29 00:08:07Z",
-    "last_played_vienna": "2026-07-29 02:08:07 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Motörhead",
     "title": "Ace of Spades (40th Anniversary Master)",
     "type": "Station-Specific",
@@ -209,17 +198,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Omar Østli",
-    "title": "Venter på en venn",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-21 08:42:05Z",
-    "last_played_vienna": "2026-08-21 10:42:05 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Neuro-sama",
     "title": "LIFE",
     "type": "Station-Specific",
@@ -283,17 +261,6 @@
     "play_count_24h": 0,
     "last_played": "2026-09-01 23:26:23Z",
     "last_played_vienna": "2026-09-02 01:26:23 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
-    "artist": "Olivia Newton-John",
-    "title": "Xanadu (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-01 23:41:59Z",
-    "last_played_vienna": "2026-09-02 01:41:59 MESZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-09-30 12:54:04Z",
     "last_played_vienna": "2026-09-30 14:54:04 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Dire Straits",
+    "title": "Money for Nothing",
+    "type": "Shared",
+    "play_count_total": 23,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-01 17:16:13Z",
+    "last_played_vienna": "2026-10-01 19:16:13 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "The Beatles",
+    "title": "Lucy In The Sky With Diamonds (Remastered 2009)",
+    "type": "Shared",
+    "play_count_total": 41,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 19:35:23Z",
+    "last_played_vienna": "2026-10-02 21:35:23 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Fleetwood Mac",
+    "title": "Go Your Own Way (2004 Remaster)",
+    "type": "Shared",
+    "play_count_total": 92,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-02 21:06:23Z",
+    "last_played_vienna": "2026-10-02 23:06:23 MESZ",
     "source": "Shared Library"
   }
 ]
