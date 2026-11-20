@@ -52,6 +52,7 @@ def find_uuid(known_uuids, song, artist, title):
 def load_known_uuids():
     paths = [
         os.path.join(os.path.dirname(__file__), "andon_fm_uuids.json"),
+        os.path.join(REPO_DIR, "andon_fm_uuids.json"),
         os.path.join(os.path.dirname(__file__), "andon-fm-library", "andon_fm_uuids.json"),
     ]
     uuids = {}

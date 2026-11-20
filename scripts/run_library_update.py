@@ -97,7 +97,7 @@ def check_and_update():
         # 4. Git Add, Commit, Push
         log_event("Staging files in Git repository...")
         files_to_add = [
-            "index.html",
+            "index.html", "andon-fm-library.html",
             "bb_only.json", "bb_only.csv", "bb_only.html", "bb_longest_unplayed_top50.json", "bb_least_played_top50.json", "bb_missing.csv",
             "oa_only.json", "oa_only.csv", "oa_only.html", "oa_longest_unplayed_top50.json", "oa_least_played_top50.json", "oa_missing.csv",
             "tf_only.json", "tf_only.csv", "tf_only.html", "tf_longest_unplayed_top50.json", "tf_least_played_top50.json", "tf_missing.csv",

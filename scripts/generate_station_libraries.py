@@ -275,12 +275,22 @@ def generate_libraries():
                 writer.writerow(row)
 
         # Write main HTML
-        json2table_path = os.path.join(os.path.dirname(__file__), "kontensystem", "tools", "json2table.py")
-        if os.path.exists(json2table_path):
+        workspace_dir = os.path.dirname(REPO_DIR)
+        candidates = [
+            os.path.join(workspace_dir, "kontensystem", "tools", "json2table.py"),
+            os.path.join(REPO_DIR, "kontensystem", "tools", "json2table.py"),
+            os.path.join(os.path.dirname(__file__), "kontensystem", "tools", "json2table.py"),
+        ]
+        json2table_path = next((p for p in candidates if os.path.exists(p)), None)
+        if json2table_path:
             print(f"  - Generating HTML table to: {html_output}")
             import sys
             import subprocess
-            subprocess.run([sys.executable, json2table_path, json_output, "-o", html_output], capture_output=True)
+            res_html = subprocess.run([sys.executable, json2table_path, json_output, "-o", html_output], capture_output=True, text=True)
+            if res_html.returncode != 0:
+                print(f"  - Error generating HTML ({html_output}): {res_html.stderr.strip()}")
+        else:
+            print(f"  - Warning: json2table.py not found, HTML table not generated: {html_output}")
 
         # Generate Longest Unplayed Top 50
         longest_unplayed = sorted(
