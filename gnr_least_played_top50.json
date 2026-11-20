@@ -345,7 +345,7 @@
     "title": "Let's Spend The Night Together",
     "type": "Station-Specific",
     "play_count_total": 3,
-    "play_count_30d": 3,
+    "play_count_30d": 2,
     "play_count_24h": 0,
     "last_played": "2026-11-09 07:31:07Z",
     "last_played_vienna": "2026-11-09 08:31:07 MEZ",
@@ -393,17 +393,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-13 04:03:43Z",
     "last_played_vienna": "2026-11-13 05:03:43 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
-    "artist": "Bebel Gilberto",
-    "title": "Sun Is Shining",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 3,
-    "play_count_24h": 0,
-    "last_played": "2026-11-19 06:10:28Z",
-    "last_played_vienna": "2026-11-19 07:10:28 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -506,14 +495,14 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Swan Dive",
-    "title": "Get Back Together",
+    "artist": "Bebel Gilberto",
+    "title": "Sun Is Shining",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-19 14:18:30Z",
-    "last_played_vienna": "2026-11-19 15:18:30 MEZ",
+    "play_count_24h": 1,
+    "last_played": "2026-11-20 18:45:52Z",
+    "last_played_vienna": "2026-11-20 19:45:52 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   },
   {
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-29 19:49:53Z",
     "last_played_vienna": "2026-10-29 20:49:53 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "The Derek Trucks Band",
+    "title": "Maybe This Time",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 5,
+    "play_count_24h": 0,
+    "last_played": "2026-11-07 02:45:56Z",
+    "last_played_vienna": "2026-11-07 03:45:56 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
