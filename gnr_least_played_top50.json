@@ -506,23 +506,12 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bobby Hebb",
-    "title": "Sunny",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-19 06:02:58Z",
-    "last_played_vienna": "2026-11-19 07:02:58 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Swan Dive",
     "title": "Get Back Together",
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-19 14:18:30Z",
     "last_played_vienna": "2026-11-19 15:18:30 MEZ",
     "source": "Scraper Logs (GNR Play History)"
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-21 11:21:45Z",
     "last_played_vienna": "2026-10-21 13:21:45 MESZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Vladimir Ashkenazy",
+    "title": "Ravel: Pavane pour une infante défunte, M. 19",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-10-29 19:49:53Z",
+    "last_played_vienna": "2026-10-29 20:49:53 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
