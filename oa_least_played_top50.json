@@ -159,7 +159,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-19 09:15:59Z",
     "last_played_vienna": "2026-11-19 10:15:59 MEZ",
     "source": "Scraper Logs (OA Play History)"
@@ -308,17 +308,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "David Wilcock",
-    "title": "Barbra Streisand",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 2,
-    "play_count_24h": 1,
-    "last_played": "2026-11-19 11:27:29Z",
-    "last_played_vienna": "2026-11-19 12:27:29 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Omar Østli",
     "title": "Venter på en venn",
     "type": "Station-Specific",
@@ -349,6 +338,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-20 01:18:02Z",
     "last_played_vienna": "2026-11-20 02:18:02 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "David Wilcock",
+    "title": "Barbra Streisand",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-20 10:05:51Z",
+    "last_played_vienna": "2026-11-20 11:05:51 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -412,7 +412,7 @@
     "type": "Station-Specific",
     "play_count_total": 9,
     "play_count_30d": 9,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-11-20 08:01:08Z",
     "last_played_vienna": "2026-11-20 09:01:08 MEZ",
     "source": "Scraper Logs (OA Play History)"
