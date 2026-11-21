@@ -276,6 +276,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Queen",
+    "title": "The Show Must Go On",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 3,
+    "last_played": "2026-11-21 00:14:23Z",
+    "last_played_vienna": "2026-11-21 01:14:23 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Wham!",
     "title": "Last Christmas (Single Version)",
     "type": "Shared",
@@ -584,18 +596,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 19:57:04Z",
     "last_played_vienna": "2026-10-04 21:57:04 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "SXTN",
-    "title": "Die Fotzen sind wieder da",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 01:35:19Z",
-    "last_played_vienna": "2026-10-08 03:35:19 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

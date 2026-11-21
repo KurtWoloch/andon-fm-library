@@ -169,7 +169,7 @@
     "title": "Born To Be Wild (Single Version)",
     "type": "Station-Specific",
     "play_count_total": 2,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-10-29 22:36:53Z",
     "last_played_vienna": "2026-10-29 23:36:53 MEZ",
@@ -401,7 +401,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-19 23:14:00Z",
     "last_played_vienna": "2026-11-20 00:14:00 MEZ",
     "source": "Scraper Logs (GNR Play History)"
