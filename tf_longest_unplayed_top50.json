@@ -429,17 +429,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "The Jetzons",
-    "title": "When the Sun Goes Down",
-    "type": "Station-Specific",
-    "play_count_total": 14,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 05:22:52Z",
-    "last_played_vienna": "2026-10-02 07:22:52 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "La Fenice",
     "title": "Le Chant des oiseaux",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-11 11:31:41Z",
     "last_played_vienna": "2026-10-11 13:31:41 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "P!nk",
+    "title": "Glitter In the Air",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-13 01:53:23Z",
+    "last_played_vienna": "2026-10-13 03:53:23 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
