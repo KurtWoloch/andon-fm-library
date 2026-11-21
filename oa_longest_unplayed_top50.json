@@ -484,17 +484,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Dire Straits",
-    "title": "Money for Nothing",
-    "type": "Shared",
-    "play_count_total": 23,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-01 17:16:13Z",
-    "last_played_vienna": "2026-10-01 19:16:13 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "The Beatles",
     "title": "Lucy In The Sky With Diamonds (Remastered 2009)",
     "type": "Shared",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-07 18:26:43Z",
     "last_played_vienna": "2026-10-07 20:26:43 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Harry Styles",
+    "title": "Watermelon Sugar",
+    "type": "Shared",
+    "play_count_total": 57,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 00:47:46Z",
+    "last_played_vienna": "2026-10-08 02:47:46 MESZ",
     "source": "Shared Library"
   }
 ]
