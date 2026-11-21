@@ -48,18 +48,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Nina Simone",
-    "title": "Sinnerman (Sofi Tukker Remix)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-18 15:54:58Z",
-    "last_played_vienna": "2026-11-18 16:54:58 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Alien Ant Farm",
     "title": "Smooth Criminal",
     "type": "Station-Specific",
@@ -180,6 +168,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Nina Simone",
+    "title": "Sinnerman (Sofi Tukker Remix)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-21 23:10:02Z",
+    "last_played_vienna": "2026-11-22 00:10:02 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Aerosmith",
     "title": "Round And Round",
     "type": "Station-Specific",
@@ -281,7 +281,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 3,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-11-21 00:14:23Z",
     "last_played_vienna": "2026-11-21 01:14:23 MEZ",
     "file_id": "",

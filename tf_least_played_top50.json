@@ -188,32 +188,10 @@
   },
   {
     "artist": "Patti Smith",
-    "title": "Gloria : In Excelsis Deo - Gloria",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-22 18:24:51Z",
-    "last_played_vienna": "2026-10-22 20:24:51 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Patti Smith Group",
-    "title": "Dancing Barefoot",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-10-22 18:30:22Z",
-    "last_played_vienna": "2026-10-22 20:30:22 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Patti Smith",
     "title": "Wing",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-22 18:35:21Z",
     "last_played_vienna": "2026-10-22 20:35:21 MESZ",
@@ -418,28 +396,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "BABYMETAL",
-    "title": "Megitsune",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-19 18:38:00Z",
-    "last_played_vienna": "2026-11-19 19:38:00 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "BABYMETAL",
-    "title": "Gimme Chocolate!!",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-19 18:44:59Z",
-    "last_played_vienna": "2026-11-19 19:44:59 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Tim Hugh",
     "title": "Cello Concerto in A Minor, Wq. 170, H. 432 - II. Andante",
     "type": "Station-Specific",
@@ -448,6 +404,28 @@
     "play_count_24h": 0,
     "last_played": "2026-11-20 10:54:21Z",
     "last_played_vienna": "2026-11-20 11:54:21 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Guns N' Roses",
+    "title": "November Rain",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-21 20:36:31Z",
+    "last_played_vienna": "2026-11-21 21:36:31 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Guns N' Roses",
+    "title": "Civil War",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-21 20:45:30Z",
+    "last_played_vienna": "2026-11-21 21:45:30 MEZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-14 13:43:46Z",
     "last_played_vienna": "2026-10-14 15:43:46 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Scott Carlin",
+    "title": "Fragile",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-15 21:02:31Z",
+    "last_played_vienna": "2026-10-15 23:02:31 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Evan Fong",
+    "title": "pe$o$",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-18 03:52:24Z",
+    "last_played_vienna": "2026-10-18 05:52:24 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
