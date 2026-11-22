@@ -319,17 +319,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Midge Ure",
-    "title": "If I Was",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 7,
-    "play_count_24h": 0,
-    "last_played": "2026-11-20 20:43:52Z",
-    "last_played_vienna": "2026-11-20 21:43:52 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Joe Hisaishi",
     "title": "Summer (from 'Kikujiro')",
     "type": "Station-Specific",
@@ -360,6 +349,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-20 13:28:22Z",
     "last_played_vienna": "2026-11-20 14:28:22 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Midge Ure",
+    "title": "If I Was",
+    "type": "Station-Specific",
+    "play_count_total": 8,
+    "play_count_30d": 8,
+    "play_count_24h": 1,
+    "last_played": "2026-11-22 08:24:08Z",
+    "last_played_vienna": "2026-11-22 09:24:08 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {
@@ -443,11 +443,11 @@
     "artist": "Elizabeth Cotten",
     "title": "Freight Train",
     "type": "Station-Specific",
-    "play_count_total": 11,
-    "play_count_30d": 11,
-    "play_count_24h": 1,
-    "last_played": "2026-11-21 19:13:30Z",
-    "last_played_vienna": "2026-11-21 20:13:30 MEZ",
+    "play_count_total": 12,
+    "play_count_30d": 12,
+    "play_count_24h": 2,
+    "last_played": "2026-11-22 08:59:08Z",
+    "last_played_vienna": "2026-11-22 09:59:08 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {

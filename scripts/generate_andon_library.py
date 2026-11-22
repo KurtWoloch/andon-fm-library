@@ -388,7 +388,86 @@ document.addEventListener('DOMContentLoaded', function() {
   const sharedTable = document.getElementById('shared-table');
   const nonSharedTable = document.getElementById('non-shared-table');
 
+  const sharedHeader = document.getElementById('shared-header');
+  const nonSharedHeader = document.getElementById('non-shared-header');
 
+  const sharedRows = Array.from(sharedTable.querySelectorAll('tbody tr')).slice(1);
+  const nonSharedRows = Array.from(nonSharedTable.querySelectorAll('tbody tr')).slice(1);
+
+  function filterTable() {
+    const station = stationFilter.value;
+    const status = statusFilter.value;
+    const search = searchFilter.value.toLowerCase().trim();
+
+    let visibleShared = 0;
+    let visibleNonShared = 0;
+
+    // Filter shared rows
+    sharedRows.forEach(row => {
+      const searchContent = row.textContent.toLowerCase();
+      let show = true;
+
+      // Search match
+      if (search && !searchContent.includes(search)) {
+        show = false;
+      }
+
+      // Status check (Shared songs are always available on all stations)
+      if (status === 'unavailable') {
+        show = false; // Never unavailable
+      }
+
+      if (show) {
+        row.style.display = '';
+        visibleShared++;
+      } else {
+        row.style.display = 'none';
+      }
+    });
+
+    // Filter non-shared rows
+    nonSharedRows.forEach(row => {
+      const stationsAttr = row.getAttribute('data-stations') || '';
+      const stationsList = stationsAttr.split(',');
+      const searchContent = row.textContent.toLowerCase();
+
+      let show = true;
+
+      // Search match
+      if (search && !searchContent.includes(search)) {
+        show = false;
+      }
+
+      // Station + Status checks
+      if (show) {
+        if (station !== 'all') {
+          const isAvailable = stationsList.includes(station);
+          if (status === 'available' && !isAvailable) {
+            show = false;
+          } else if (status === 'unavailable' && isAvailable) {
+            show = false;
+          }
+        }
+      }
+
+      if (show) {
+        row.style.display = '';
+        visibleNonShared++;
+      } else {
+        row.style.display = 'none';
+      }
+    });
+
+    // Update section labels and table visibility
+    sharedHeader.textContent = `Shared Library — all stations (${visibleShared} track${visibleShared === 1 ? '' : 's'} visible)`;
+    if (visibleShared === 0) {
+      sharedTable.style.display = 'none';
+    } else {
+      sharedTable.style.display = '';
+    }
+
+    nonSharedHeader.textContent = `Station-specific tracks (${visibleNonShared} track${visibleNonShared === 1 ? '' : 's'} visible)`;
+    if (visibleNonShared === 0) {
       nonSharedTable.style.display = 'none';
     } else {
       nonSharedTable.style.display = '';
