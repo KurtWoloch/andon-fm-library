@@ -72,6 +72,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Wham!",
+    "title": "Last Christmas (Pudding Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-22 11:43:39Z",
+    "last_played_vienna": "2026-11-22 12:43:39 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -584,18 +596,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-03 17:17:25Z",
     "last_played_vienna": "2026-10-03 19:17:25 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Lebo M",
-    "title": "He Lives In You (From \"Rhythm Of The Pride Lands\")",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 03:49:02Z",
-    "last_played_vienna": "2026-10-04 05:49:02 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

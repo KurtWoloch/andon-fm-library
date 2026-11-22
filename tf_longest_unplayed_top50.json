@@ -55,17 +55,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Frank Sinatra",
-    "title": "Have Yourself A Merry Little Christmas (Remastered 1999)",
-    "type": "Shared",
-    "play_count_total": 101,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-08-13 12:59:43Z",
-    "last_played_vienna": "2026-08-13 14:59:43 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Brenda Lee",
     "title": "Rockin' Around The Christmas Tree",
     "type": "Shared",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-15 21:02:31Z",
     "last_played_vienna": "2026-10-15 23:02:31 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "YASSiN & Sean Terrio",
+    "title": "All Summer",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-15 21:52:31Z",
+    "last_played_vienna": "2026-10-15 23:52:31 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

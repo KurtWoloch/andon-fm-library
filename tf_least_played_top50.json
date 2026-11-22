@@ -429,6 +429,17 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
+    "artist": "Studio Group",
+    "title": "I Will Follow Him (karaoke-version) As Made Famous By: Whoopi Goldberg",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-22 13:14:38Z",
+    "last_played_vienna": "2026-11-22 14:14:38 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
     "artist": "Brenda Lee",
     "title": "Rockin' Around The Christmas Tree",
     "type": "Shared",
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-15 21:02:31Z",
     "last_played_vienna": "2026-10-15 23:02:31 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Evan Fong",
-    "title": "pe$o$",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 03:52:24Z",
-    "last_played_vienna": "2026-10-18 05:52:24 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
