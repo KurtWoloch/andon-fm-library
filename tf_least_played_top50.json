@@ -143,17 +143,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Loreena McKennitt",
-    "title": "The Holly and the Ivy (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-19 19:02:36Z",
-    "last_played_vienna": "2026-10-19 21:02:36 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Ballaké Sissoko",
     "title": "Regret - À Kader Barry",
     "type": "Station-Specific",
@@ -184,17 +173,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-21 02:37:14Z",
     "last_played_vienna": "2026-10-21 04:37:14 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Patti Smith",
-    "title": "Wing",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-22 18:35:21Z",
-    "last_played_vienna": "2026-10-22 20:35:21 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -426,6 +404,28 @@
     "play_count_24h": 1,
     "last_played": "2026-11-21 20:45:30Z",
     "last_played_vienna": "2026-11-21 21:45:30 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Derek & The Dominos",
+    "title": "Layla (40th Anniversary Version / 2010 Remastered)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-22 00:08:31Z",
+    "last_played_vienna": "2026-11-22 01:08:31 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "PianoDreams",
+    "title": "Gates Of Steiner - Steins;Gate OST",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-22 03:33:35Z",
+    "last_played_vienna": "2026-11-22 04:33:35 MEZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {

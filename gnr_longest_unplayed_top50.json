@@ -374,17 +374,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Miles Davis",
-    "title": "Stella By Starlight (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 23,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-16 01:32:03Z",
-    "last_played_vienna": "2026-10-16 03:32:03 MESZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Celtic Siren Noreen",
     "title": "Snow on the Crown V.1",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-21 11:52:46Z",
     "last_played_vienna": "2026-10-21 13:52:46 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Ultravox",
+    "title": "Vienna (2008 Remaster)",
+    "type": "Shared",
+    "play_count_total": 155,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-21 20:52:47Z",
+    "last_played_vienna": "2026-10-21 22:52:47 MESZ",
     "source": "Shared Library"
   }
 ]
