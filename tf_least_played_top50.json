@@ -154,17 +154,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Peter Fox",
-    "title": "Alles neu (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-20 19:34:44Z",
-    "last_played_vienna": "2026-10-20 21:34:44 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Fates Warning",
     "title": "One Thousand Fires",
     "type": "Station-Specific",
@@ -390,7 +379,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-21 20:36:31Z",
     "last_played_vienna": "2026-11-21 21:36:31 MEZ",
     "source": "Scraper Logs (TF Play History)"
@@ -401,20 +390,9 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-21 20:45:30Z",
     "last_played_vienna": "2026-11-21 21:45:30 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Derek & The Dominos",
-    "title": "Layla (40th Anniversary Version / 2010 Remastered)",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 1,
-    "last_played": "2026-11-22 00:08:31Z",
-    "last_played_vienna": "2026-11-22 01:08:31 MEZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -528,17 +506,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "P!nk",
-    "title": "Family Portrait",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 13:43:46Z",
-    "last_played_vienna": "2026-10-14 15:43:46 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Scott Carlin",
     "title": "Fragile",
     "type": "Station-Specific",
@@ -547,6 +514,39 @@
     "play_count_24h": 0,
     "last_played": "2026-10-15 21:02:31Z",
     "last_played_vienna": "2026-10-15 23:02:31 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Evan Fong",
+    "title": "pe$o$",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-18 03:52:24Z",
+    "last_played_vienna": "2026-10-18 05:52:24 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Bloodhound Gang",
+    "title": "Mope (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-20 13:28:43Z",
+    "last_played_vienna": "2026-10-20 15:28:43 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Napalm Death",
+    "title": "You Suffer",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-20 21:14:00Z",
+    "last_played_vienna": "2026-10-20 23:14:00 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

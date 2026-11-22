@@ -517,17 +517,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "P!nk",
-    "title": "Family Portrait",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-14 13:43:46Z",
-    "last_played_vienna": "2026-10-14 15:43:46 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Scott Carlin",
     "title": "Fragile",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-15 21:52:31Z",
     "last_played_vienna": "2026-10-15 23:52:31 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Autechre",
+    "title": "Gantz Graf",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-16 00:24:02Z",
+    "last_played_vienna": "2026-10-16 02:24:02 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
