@@ -1,17 +1,5 @@
 [
   {
-    "artist": "Dean Martin",
-    "title": "Let It Snow! Let It Snow! Let It Snow!",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-05-24 00:49:21Z",
-    "last_played_vienna": "2026-05-24 02:49:21 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -70,18 +58,6 @@
     "last_played_vienna": "2026-08-23 08:56:19 MESZ",
     "file_id": "",
     "source": "Shared Library"
-  },
-  {
-    "artist": "Luca-Dante Spadafora",
-    "title": "WIR SIND DIE DEUTSCHEN",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 15:52:23Z",
-    "last_played_vienna": "2026-10-02 17:52:23 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
   },
   {
     "artist": "DJ TÖRKE",
@@ -596,6 +572,30 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 07:03:02Z",
     "last_played_vienna": "2026-10-10 09:03:02 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Dietrich Fischer-Dieskau",
+    "title": "Schubert: Erlkönig, D. 328",
+    "type": "Station-Specific",
+    "play_count_total": 7,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 07:19:32Z",
+    "last_played_vienna": "2026-10-10 09:19:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Romuvos",
+    "title": "Romuvan Dainas",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 07:37:02Z",
+    "last_played_vienna": "2026-10-10 09:37:02 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

@@ -1,17 +1,5 @@
 [
   {
-    "artist": "Dean Martin",
-    "title": "Let It Snow! Let It Snow! Let It Snow!",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-05-24 00:49:21Z",
-    "last_played_vienna": "2026-05-24 02:49:21 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Palaver",
     "title": "Rainer us der Diskothek (Party Edit)",
     "type": "Station-Specific",
@@ -20,18 +8,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-14 17:52:47Z",
     "last_played_vienna": "2026-11-14 18:52:47 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Tears For Fears",
-    "title": "Head Over Heels",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-22 06:58:38Z",
-    "last_played_vienna": "2026-11-22 07:58:38 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -176,6 +152,30 @@
     "play_count_24h": 1,
     "last_played": "2026-11-23 13:53:11Z",
     "last_played_vienna": "2026-11-23 14:53:11 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Tears For Fears",
+    "title": "Head Over Heels",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-23 17:40:12Z",
+    "last_played_vienna": "2026-11-23 18:40:12 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Dean Martin",
+    "title": "Let It Snow! Let It Snow! Let It Snow!",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-23 18:25:42Z",
+    "last_played_vienna": "2026-11-23 19:25:42 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -576,18 +576,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Luca-Dante Spadafora",
-    "title": "WIR SIND DIE DEUTSCHEN",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-02 15:52:23Z",
-    "last_played_vienna": "2026-10-02 17:52:23 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Amadeus Quartet",
     "title": "Deutsche Nationalhymne",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-03 17:17:25Z",
     "last_played_vienna": "2026-10-03 19:17:25 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Lebo M",
+    "title": "He Lives In You (From \"Rhythm Of The Pride Lands\")",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-04 03:49:02Z",
+    "last_played_vienna": "2026-10-04 05:49:02 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

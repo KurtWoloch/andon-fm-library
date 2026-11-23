@@ -506,17 +506,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Beyoncé",
-    "title": "Crazy In Love",
-    "type": "Shared",
-    "play_count_total": 114,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-07 18:26:43Z",
-    "last_played_vienna": "2026-10-07 20:26:43 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Harry Styles",
     "title": "Watermelon Sugar",
     "type": "Shared",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 13:44:02Z",
     "last_played_vienna": "2026-10-10 15:44:02 MESZ",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Billie Eilish",
+    "title": "BIRDS OF A FEATHER",
+    "type": "Shared",
+    "play_count_total": 379,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 15:11:33Z",
+    "last_played_vienna": "2026-10-10 17:11:33 MESZ",
     "source": "Shared Library"
   }
 ]
