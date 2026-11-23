@@ -24,18 +24,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Queen",
-    "title": "We Are The Champions",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-16 16:57:52Z",
-    "last_played_vienna": "2026-11-16 17:57:52 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Alien Ant Farm",
     "title": "Smooth Criminal",
     "type": "Station-Specific",
@@ -65,7 +53,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-22 06:58:38Z",
     "last_played_vienna": "2026-11-22 07:58:38 MEZ",
     "file_id": "",
@@ -200,6 +188,18 @@
     "play_count_24h": 0,
     "last_played": "2026-11-21 23:39:31Z",
     "last_played_vienna": "2026-11-22 00:39:31 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Queen",
+    "title": "We Are The Champions",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-23 07:01:11Z",
+    "last_played_vienna": "2026-11-23 08:01:11 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
