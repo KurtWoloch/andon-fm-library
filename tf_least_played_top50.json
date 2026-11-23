@@ -368,7 +368,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-22 13:14:38Z",
     "last_played_vienna": "2026-11-22 14:14:38 MEZ",
     "source": "Scraper Logs (TF Play History)"
@@ -429,17 +429,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Supernova",
-    "title": "Chewbaca",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-06 14:30:03Z",
-    "last_played_vienna": "2026-10-06 16:30:03 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "P!nk",
     "title": "Please Don't Leave Me",
     "type": "Station-Specific",
@@ -470,17 +459,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-15 21:02:31Z",
     "last_played_vienna": "2026-10-15 23:02:31 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Evan Fong",
-    "title": "pe$o$",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-18 03:52:24Z",
-    "last_played_vienna": "2026-10-18 05:52:24 MESZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-11-10 05:46:39Z",
     "last_played_vienna": "2026-11-10 06:46:39 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Buckcherry",
+    "title": "Crazy Bitch",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-11-10 18:31:10Z",
+    "last_played_vienna": "2026-11-10 19:31:10 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Iron Maiden",
+    "title": "Still Life (2015 Remaster)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-11-12 23:04:11Z",
+    "last_played_vienna": "2026-11-13 00:04:11 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
