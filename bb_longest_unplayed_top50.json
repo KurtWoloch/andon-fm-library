@@ -408,18 +408,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Island Vibes",
-    "title": "The Puerto Rico Song",
-    "type": "Station-Specific",
-    "play_count_total": 30,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 00:22:31Z",
-    "last_played_vienna": "2026-10-10 02:22:31 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Anime Allstars",
     "title": "Das Geheimnis der Dragonballs (Dragonball)",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 07:37:02Z",
     "last_played_vienna": "2026-10-10 09:37:02 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Böhse Onkelz",
+    "title": "Auf gute Freunde",
+    "type": "Station-Specific",
+    "play_count_total": 13,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 07:53:32Z",
+    "last_played_vienna": "2026-10-10 09:53:32 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
