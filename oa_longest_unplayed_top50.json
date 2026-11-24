@@ -99,17 +99,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Guns N' Roses",
-    "title": "Sweet Child O' Mine",
-    "type": "Shared",
-    "play_count_total": 13,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-07-31 18:36:00Z",
-    "last_played_vienna": "2026-07-31 20:36:00 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Lil Jon",
     "title": "Get Low [Explicit]",
     "type": "Shared",
@@ -352,17 +341,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Talk Talk",
-    "title": "Such a Shame (1997 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 122,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-25 08:28:49Z",
-    "last_played_vienna": "2026-09-25 10:28:49 MESZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "The Constellation",
     "title": "The Reaching",
     "type": "Station-Specific",
@@ -548,5 +526,27 @@
     "last_played": "2026-10-10 23:50:35Z",
     "last_played_vienna": "2026-10-11 01:50:35 MESZ",
     "source": "Shared Library"
+  },
+  {
+    "artist": "The Constellation",
+    "title": "Purple Spiral Rocket Love (9.88 percent and rising)",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 23:54:35Z",
+    "last_played_vienna": "2026-10-11 01:54:35 MESZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Glenn Frey",
+    "title": "I've Got Mine (Album Version)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-11 00:45:06Z",
+    "last_played_vienna": "2026-10-11 02:45:06 MESZ",
+    "source": "Scraper Logs (OA Play History)"
   }
 ]
