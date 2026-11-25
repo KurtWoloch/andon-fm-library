@@ -348,18 +348,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Jan Jester",
-    "title": "Sauberina",
-    "type": "Station-Specific",
-    "play_count_total": 17,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 19:53:24Z",
-    "last_played_vienna": "2026-10-08 21:53:24 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Rahmschnitzel",
     "title": "Kohle Metal",
     "type": "Station-Specific",
@@ -466,18 +454,6 @@
     "last_played_vienna": "2026-10-10 06:22:31 MESZ",
     "file_id": "",
     "source": "Shared Library"
-  },
-  {
-    "artist": "Gebirgsmusikkorps Garmisch-Partenkirchen",
-    "title": "Badner Lied",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 05:22:03Z",
-    "last_played_vienna": "2026-10-10 07:22:03 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
   },
   {
     "artist": "Pepper Coyote",
@@ -596,6 +572,30 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 08:03:32Z",
     "last_played_vienna": "2026-10-10 10:03:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Christ.Tec",
+    "title": "RASENSCHACH",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 08:48:32Z",
+    "last_played_vienna": "2026-10-10 10:48:32 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Hans Entertainment",
+    "title": "Hoch die Hände - Wochenende (#sotrue) [Hans Entertainment Vs. Finger & Kadel] (Radio Edit)",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 09:22:02Z",
+    "last_played_vienna": "2026-10-10 11:22:02 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
