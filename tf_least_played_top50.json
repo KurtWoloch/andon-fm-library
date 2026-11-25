@@ -352,17 +352,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Bing Crosby",
-    "title": "White Christmas",
-    "type": "Shared",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-09-05 21:37:18Z",
-    "last_played_vienna": "2026-09-05 23:37:18 MESZ",
-    "source": "Shared Library"
-  },
-  {
     "artist": "Airiel",
     "title": "Bloom",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-21 14:26:30Z",
     "last_played_vienna": "2026-11-21 15:26:30 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Hollie Col",
+    "title": "The Gambler",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-11-21 14:31:31Z",
+    "last_played_vienna": "2026-11-21 15:31:31 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

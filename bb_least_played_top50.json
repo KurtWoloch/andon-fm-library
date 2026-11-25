@@ -24,6 +24,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Ricchi E Poveri",
+    "title": "Sarà perché ti amo",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-25 17:49:19Z",
+    "last_played_vienna": "2026-11-25 18:49:19 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -32,18 +44,6 @@
     "play_count_24h": 0,
     "last_played": "2026-07-22 19:00:17Z",
     "last_played_vienna": "2026-07-22 21:00:17 MESZ",
-    "file_id": "",
-    "source": "Shared Library"
-  },
-  {
-    "artist": "Mariah Carey",
-    "title": "All I Want for Christmas Is You",
-    "type": "Shared",
-    "play_count_total": 2,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-07-22 19:04:17Z",
-    "last_played_vienna": "2026-07-22 21:04:17 MESZ",
     "file_id": "",
     "source": "Shared Library"
   },
@@ -276,6 +276,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Mariah Carey",
+    "title": "All I Want for Christmas Is You",
+    "type": "Shared",
+    "play_count_total": 3,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-25 17:36:18Z",
+    "last_played_vienna": "2026-11-25 18:36:18 MEZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
     "artist": "Wham!",
     "title": "Last Christmas (Single Version)",
     "type": "Shared",
@@ -497,7 +509,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-24 17:04:46Z",
     "last_played_vienna": "2026-11-24 18:04:46 MEZ",
     "file_id": "",
@@ -509,7 +521,7 @@
     "type": "Station-Specific",
     "play_count_total": 4,
     "play_count_30d": 4,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-24 18:59:16Z",
     "last_played_vienna": "2026-11-24 19:59:16 MEZ",
     "file_id": "",
@@ -584,18 +596,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 14:48:04Z",
     "last_played_vienna": "2026-10-10 16:48:04 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Kalim",
-    "title": "LINEA ROSSA",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 14:54:33Z",
-    "last_played_vienna": "2026-10-10 16:54:33 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
