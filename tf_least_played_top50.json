@@ -484,17 +484,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Big Foot Mama",
-    "title": "Obseden z njo",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-17 09:26:54Z",
-    "last_played_vienna": "2026-11-17 10:26:54 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Sons Of Apollo",
     "title": "Desolate July",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-21 14:23:00Z",
     "last_played_vienna": "2026-11-21 15:23:00 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Extrabreit",
+    "title": "Für mich soll's rote Rosen regnen (Live)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-11-21 14:26:30Z",
+    "last_played_vienna": "2026-11-21 15:26:30 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

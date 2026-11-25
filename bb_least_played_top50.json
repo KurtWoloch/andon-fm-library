@@ -396,30 +396,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Ruffiction",
-    "title": "Wenn ich will (I’m DMA Remix)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 06:43:32Z",
-    "last_played_vienna": "2026-10-10 08:43:32 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Schillah",
-    "title": "Megan",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 06:51:32Z",
-    "last_played_vienna": "2026-10-10 08:51:32 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Christ.Tec",
     "title": "RASENSCHACH",
     "type": "Station-Specific",
@@ -466,18 +442,6 @@
     "last_played_vienna": "2026-10-13 16:08:01 MESZ",
     "file_id": "",
     "source": "Shared Library"
-  },
-  {
-    "artist": "Gruppa Viktor",
-    "title": "Pachka sigaret",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-19 04:32:04Z",
-    "last_played_vienna": "2026-10-19 06:32:04 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
   },
   {
     "artist": "Lady Gaga",
@@ -576,18 +540,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Lebo M",
-    "title": "He Lives In You (From \"Rhythm Of The Pride Lands\")",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 03:49:02Z",
-    "last_played_vienna": "2026-10-04 05:49:02 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Slayyyter",
     "title": "CRANK",
     "type": "Station-Specific",
@@ -596,6 +548,54 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 19:57:04Z",
     "last_played_vienna": "2026-10-04 21:57:04 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "SXTN",
+    "title": "Die Fotzen sind wieder da",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 01:35:19Z",
+    "last_played_vienna": "2026-10-08 03:35:19 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "O Holy Night",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 17:05:31Z",
+    "last_played_vienna": "2026-10-09 19:05:31 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "System Of A Down",
+    "title": "Johnny",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 14:48:04Z",
+    "last_played_vienna": "2026-10-10 16:48:04 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Kalim",
+    "title": "LINEA ROSSA",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 14:54:33Z",
+    "last_played_vienna": "2026-10-10 16:54:33 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
