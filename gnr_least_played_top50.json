@@ -451,17 +451,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bonnie Tyler",
-    "title": "Total Eclipse of the Heart",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-10 08:30:10Z",
-    "last_played_vienna": "2026-11-10 09:30:10 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Ben Howard",
     "title": "Only Love",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-07 02:45:56Z",
     "last_played_vienna": "2026-11-07 03:45:56 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "PJ Morton",
+    "title": "How Deep Is Your Love",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-11-10 06:40:40Z",
+    "last_played_vienna": "2026-11-10 07:40:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]
