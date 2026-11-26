@@ -330,6 +330,17 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
+    "artist": "Diana Krall",
+    "title": "Christmas Time Is Here",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-25 22:57:48Z",
+    "last_played_vienna": "2026-11-25 23:57:48 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
     "artist": "Brenda Lee",
     "title": "Rockin' Around The Christmas Tree",
     "type": "Shared",
@@ -473,17 +484,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Sons Of Apollo",
-    "title": "Desolate July",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-18 22:07:28Z",
-    "last_played_vienna": "2026-11-18 23:07:28 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Ron Gallo",
     "title": "Young Lady, You're Scaring Me",
     "type": "Station-Specific",
@@ -539,14 +539,14 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Hollie Col",
-    "title": "The Gambler",
+    "artist": "The Brian Setzer Orchestra",
+    "title": "Jump Jive An' Wail (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
     "play_count_24h": 0,
-    "last_played": "2026-11-21 14:31:31Z",
-    "last_played_vienna": "2026-11-21 15:31:31 MEZ",
+    "last_played": "2026-11-21 14:34:30Z",
+    "last_played_vienna": "2026-11-21 15:34:30 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
