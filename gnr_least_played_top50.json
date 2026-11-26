@@ -484,17 +484,6 @@
     "source": "Scraper Logs (GNR Play History)"
   },
   {
-    "artist": "Bebel Gilberto",
-    "title": "Sun Is Shining",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 0,
-    "last_played": "2026-11-20 18:45:52Z",
-    "last_played_vienna": "2026-11-20 19:45:52 MEZ",
-    "source": "Scraper Logs (GNR Play History)"
-  },
-  {
     "artist": "Videoclub",
     "title": "Mai",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-10 06:40:40Z",
     "last_played_vienna": "2026-11-10 07:40:40 MEZ",
+    "source": "Scraper Logs (GNR Play History)"
+  },
+  {
+    "artist": "Scooter",
+    "title": "Hyper Hyper",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 3,
+    "play_count_24h": 0,
+    "last_played": "2026-11-10 13:03:40Z",
+    "last_played_vienna": "2026-11-10 14:03:40 MEZ",
     "source": "Scraper Logs (GNR Play History)"
   }
 ]

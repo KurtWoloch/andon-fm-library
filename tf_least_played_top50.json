@@ -169,7 +169,7 @@
     "title": "Hell",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-27 16:51:17Z",
     "last_played_vienna": "2026-10-27 17:51:17 MEZ",
@@ -316,6 +316,17 @@
     "play_count_24h": 1,
     "last_played": "2026-11-25 22:57:48Z",
     "last_played_vienna": "2026-11-25 23:57:48 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Norah Jones",
+    "title": "The Christmas Waltz",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-26 17:34:21Z",
+    "last_played_vienna": "2026-11-26 18:34:21 MEZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -521,7 +532,7 @@
     "title": "Jump Jive An' Wail (Album Version)",
     "type": "Station-Specific",
     "play_count_total": 2,
-    "play_count_30d": 2,
+    "play_count_30d": 1,
     "play_count_24h": 0,
     "last_played": "2026-11-21 14:34:30Z",
     "last_played_vienna": "2026-11-21 15:34:30 MEZ",
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-21 14:37:30Z",
     "last_played_vienna": "2026-11-21 15:37:30 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Blue Murder",
-    "title": "Still Of The Night (Live In Tokyo, Japan / 1993)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-21 15:21:00Z",
-    "last_played_vienna": "2026-11-21 16:21:00 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
