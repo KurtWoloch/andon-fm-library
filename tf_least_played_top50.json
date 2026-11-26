@@ -308,17 +308,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "PianoDreams",
-    "title": "Gates Of Steiner - Steins;Gate OST",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-22 03:33:35Z",
-    "last_played_vienna": "2026-11-22 04:33:35 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Studio Group",
     "title": "I Will Follow Him (karaoke-version) As Made Famous By: Whoopi Goldberg",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-21 14:34:30Z",
     "last_played_vienna": "2026-11-21 15:34:30 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Jimi Hendrix",
+    "title": "Hey Joe (Live At Winterland, San Francisco, CA)",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 0,
+    "last_played": "2026-11-21 14:37:30Z",
+    "last_played_vienna": "2026-11-21 15:37:30 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
