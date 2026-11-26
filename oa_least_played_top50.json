@@ -220,17 +220,6 @@
     "source": "Scraper Logs (OA Play History)"
   },
   {
-    "artist": "Bill Withers",
-    "title": "Lovely Day",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 5,
-    "play_count_24h": 2,
-    "last_played": "2026-11-26 02:12:19Z",
-    "last_played_vienna": "2026-11-26 03:12:19 MEZ",
-    "source": "Scraper Logs (OA Play History)"
-  },
-  {
     "artist": "Motörhead",
     "title": "Ace of Spades (40th Anniversary Master)",
     "type": "Station-Specific",
@@ -280,9 +269,20 @@
     "type": "Station-Specific",
     "play_count_total": 6,
     "play_count_30d": 6,
-    "play_count_24h": 3,
+    "play_count_24h": 2,
     "last_played": "2026-11-26 03:50:20Z",
     "last_played_vienna": "2026-11-26 04:50:20 MEZ",
+    "source": "Scraper Logs (OA Play History)"
+  },
+  {
+    "artist": "Bill Withers",
+    "title": "Lovely Day",
+    "type": "Station-Specific",
+    "play_count_total": 6,
+    "play_count_30d": 6,
+    "play_count_24h": 2,
+    "last_played": "2026-11-26 13:01:21Z",
+    "last_played_vienna": "2026-11-26 14:01:21 MEZ",
     "source": "Scraper Logs (OA Play History)"
   },
   {

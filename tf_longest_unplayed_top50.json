@@ -396,17 +396,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Jerry Cantrell",
-    "title": "Rooster (2022 Remaster)",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-05 22:21:48Z",
-    "last_played_vienna": "2026-10-06 00:21:48 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "P!nk",
     "title": "Please Don't Leave Me",
     "type": "Station-Specific",
@@ -473,17 +462,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Pierre Monteux",
-    "title": "The Fire Bird: IV. Infernal Dance of King Kastchei",
-    "type": "Station-Specific",
-    "play_count_total": 12,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-13 10:34:28Z",
-    "last_played_vienna": "2026-10-13 12:34:28 MESZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Scott Carlin",
     "title": "Fragile",
     "type": "Station-Specific",
@@ -547,6 +525,28 @@
     "play_count_24h": 0,
     "last_played": "2026-10-16 03:12:33Z",
     "last_played_vienna": "2026-10-16 05:12:33 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "John T. Williams",
+    "title": "Anything Goes",
+    "type": "Station-Specific",
+    "play_count_total": 9,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-16 05:14:34Z",
+    "last_played_vienna": "2026-10-16 07:14:34 MESZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Seatbelts",
+    "title": "Space Lion",
+    "type": "Station-Specific",
+    "play_count_total": 12,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-18 01:09:21Z",
+    "last_played_vienna": "2026-10-18 03:09:21 MESZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
