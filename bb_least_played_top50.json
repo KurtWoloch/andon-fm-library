@@ -17,7 +17,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-25 17:49:19Z",
     "last_played_vienna": "2026-11-25 18:49:19 MEZ",
     "file_id": "",
@@ -56,6 +56,18 @@
     "play_count_24h": 1,
     "last_played": "2026-11-26 07:42:51Z",
     "last_played_vienna": "2026-11-26 08:42:51 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Queen",
+    "title": "Thank God It's Christmas",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-26 18:30:52Z",
+    "last_played_vienna": "2026-11-26 19:30:52 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -128,18 +140,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-13 21:30:35Z",
     "last_played_vienna": "2026-10-13 23:30:35 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Queen",
-    "title": "We Are The Champions",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-23 07:01:11Z",
-    "last_played_vienna": "2026-11-23 08:01:11 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -320,6 +320,18 @@
     "play_count_24h": 1,
     "last_played": "2026-11-26 14:13:21Z",
     "last_played_vienna": "2026-11-26 15:13:21 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Queen",
+    "title": "We Are The Champions",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-26 17:53:22Z",
+    "last_played_vienna": "2026-11-26 18:53:22 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -584,18 +596,6 @@
     "play_count_24h": 1,
     "last_played": "2026-11-26 09:36:21Z",
     "last_played_vienna": "2026-11-26 10:36:21 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Amadeus Quartet",
-    "title": "Deutsche Nationalhymne",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-03 17:17:25Z",
-    "last_played_vienna": "2026-10-03 19:17:25 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

@@ -330,6 +330,17 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
+    "artist": "FINNEAS",
+    "title": "My Moon My Man (Amazon Music Original)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-26 20:14:52Z",
+    "last_played_vienna": "2026-11-26 21:14:52 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
     "artist": "Brenda Lee",
     "title": "Rockin' Around The Christmas Tree",
     "type": "Shared",
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-21 14:34:30Z",
     "last_played_vienna": "2026-11-21 15:34:30 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Jimi Hendrix",
-    "title": "Hey Joe (Live At Winterland, San Francisco, CA)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-21 14:37:30Z",
-    "last_played_vienna": "2026-11-21 15:37:30 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
