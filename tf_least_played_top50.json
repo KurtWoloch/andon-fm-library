@@ -187,17 +187,6 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
-    "artist": "Fairport Convention",
-    "title": "Who Knows Where The Time Goes?",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-01 11:34:34Z",
-    "last_played_vienna": "2026-11-01 12:34:34 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
     "artist": "Kate Bush",
     "title": "The Song Of Solomon (2018 Remaster)",
     "type": "Station-Specific",
@@ -547,6 +536,17 @@
     "play_count_24h": 0,
     "last_played": "2026-11-21 14:37:30Z",
     "last_played_vienna": "2026-11-21 15:37:30 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "La Fenice",
+    "title": "Le Chant des oiseaux",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 1,
+    "play_count_24h": 0,
+    "last_played": "2026-11-21 14:53:30Z",
+    "last_played_vienna": "2026-11-21 15:53:30 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
