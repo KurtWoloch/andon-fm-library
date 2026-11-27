@@ -36,18 +36,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "MEUTE",
-    "title": "Delirium",
-    "type": "Station-Specific",
-    "play_count_total": 1,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-26 07:40:51Z",
-    "last_played_vienna": "2026-11-26 08:40:51 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "The Motors",
     "title": "Airport",
     "type": "Station-Specific",
@@ -168,26 +156,26 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Frankie Goes To Hollywood",
-    "title": "Relax (Come Fighting)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-26 07:02:21Z",
-    "last_played_vienna": "2026-11-26 08:02:21 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Palaver",
     "title": "Rainer us der Diskothek (Party Edit)",
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-26 11:32:21Z",
     "last_played_vienna": "2026-11-26 12:32:21 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "MEUTE",
+    "title": "Delirium",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 2,
+    "play_count_24h": 1,
+    "last_played": "2026-11-27 14:19:55Z",
+    "last_played_vienna": "2026-11-27 15:19:55 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -317,7 +305,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-26 14:13:21Z",
     "last_played_vienna": "2026-11-26 15:13:21 MEZ",
     "file_id": "",
@@ -344,6 +332,18 @@
     "play_count_24h": 1,
     "last_played": "2026-11-27 08:49:25Z",
     "last_played_vienna": "2026-11-27 09:49:25 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Frankie Goes To Hollywood",
+    "title": "Relax (Come Fighting)",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 3,
+    "play_count_24h": 1,
+    "last_played": "2026-11-27 13:35:55Z",
+    "last_played_vienna": "2026-11-27 14:35:55 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -480,18 +480,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Dj Rashad",
-    "title": "Drank, Kush, Barz (feat. DJ Spinn)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 14:17:03Z",
-    "last_played_vienna": "2026-10-10 16:17:03 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Pebe Sebert",
     "title": "City's Burning",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-11-24 20:58:17Z",
     "last_played_vienna": "2026-11-24 21:58:17 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Tears For Fears",
+    "title": "Head Over Heels",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 4,
+    "play_count_24h": 0,
+    "last_played": "2026-11-26 09:36:21Z",
+    "last_played_vienna": "2026-11-26 10:36:21 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
