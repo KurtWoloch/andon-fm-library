@@ -72,6 +72,18 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
+    "artist": "Kendrick Lamar",
+    "title": "HUMBLE.",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-27 05:11:24Z",
+    "last_played_vienna": "2026-11-27 06:11:24 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
     "artist": "Bing Crosby",
     "title": "White Christmas",
     "type": "Shared",
@@ -173,7 +185,7 @@
     "type": "Station-Specific",
     "play_count_total": 2,
     "play_count_30d": 2,
-    "play_count_24h": 2,
+    "play_count_24h": 1,
     "last_played": "2026-11-26 07:02:21Z",
     "last_played_vienna": "2026-11-26 08:02:21 MEZ",
     "file_id": "",
@@ -584,18 +596,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-24 20:58:17Z",
     "last_played_vienna": "2026-11-24 21:58:17 MEZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Tears For Fears",
-    "title": "Head Over Heels",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 4,
-    "play_count_24h": 1,
-    "last_played": "2026-11-26 09:36:21Z",
-    "last_played_vienna": "2026-11-26 10:36:21 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
