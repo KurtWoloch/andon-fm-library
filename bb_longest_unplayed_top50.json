@@ -96,18 +96,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Hia & Do Brass",
-    "title": "Auf, Auf! Hirtenweise",
-    "type": "Station-Specific",
-    "play_count_total": 7,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 19:39:35Z",
-    "last_played_vienna": "2026-10-04 21:39:35 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Slayyyter",
     "title": "CRANK",
     "type": "Station-Specific",
@@ -228,18 +216,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Aerosmith",
-    "title": "No More No More",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 02:08:18Z",
-    "last_played_vienna": "2026-10-08 04:08:18 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "SUV WHATEVER",
     "title": "Heut Bums Ich Ne Fette",
     "type": "Station-Specific",
@@ -260,18 +236,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-08 03:44:19Z",
     "last_played_vienna": "2026-10-08 05:44:19 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Hgich.T",
-    "title": "Tanke",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-08 03:49:49Z",
-    "last_played_vienna": "2026-10-08 05:49:49 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -308,18 +272,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-09 01:49:56Z",
     "last_played_vienna": "2026-10-09 03:49:56 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Kelly Clarkson",
-    "title": "Underneath the Tree",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-09 17:01:32Z",
-    "last_played_vienna": "2026-10-09 19:01:32 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -368,18 +320,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 01:01:03Z",
     "last_played_vienna": "2026-10-10 03:01:03 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "GPF",
-    "title": "All Goes Wrong",
-    "type": "Station-Specific",
-    "play_count_total": 124,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 01:12:31Z",
-    "last_played_vienna": "2026-10-10 03:12:31 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -480,18 +420,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Böhse Onkelz",
-    "title": "Auf gute Freunde",
-    "type": "Station-Specific",
-    "play_count_total": 13,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 07:53:32Z",
-    "last_played_vienna": "2026-10-10 09:53:32 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Nine Inch Nails",
     "title": "Physical (You're So) (Album Version)",
     "type": "Station-Specific",
@@ -500,18 +428,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 08:03:32Z",
     "last_played_vienna": "2026-10-10 10:03:32 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Christ.Tec",
-    "title": "RASENSCHACH",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 08:48:32Z",
-    "last_played_vienna": "2026-10-10 10:48:32 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -576,18 +492,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "System Of A Down",
-    "title": "Johnny",
-    "type": "Station-Specific",
-    "play_count_total": 5,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 14:48:04Z",
-    "last_played_vienna": "2026-10-10 16:48:04 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Kalim",
     "title": "LINEA ROSSA",
     "type": "Station-Specific",
@@ -596,6 +500,102 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 14:54:33Z",
     "last_played_vienna": "2026-10-10 16:54:33 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Aerosmith",
+    "title": "Adam's Apple",
+    "type": "Station-Specific",
+    "play_count_total": 3,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-12 17:19:51Z",
+    "last_played_vienna": "2026-10-12 19:19:51 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Equilibrium",
+    "title": "Unbesiegt",
+    "type": "Station-Specific",
+    "play_count_total": 48,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-12 21:41:50Z",
+    "last_played_vienna": "2026-10-12 23:41:50 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Obie Fernandez",
+    "title": "Naked",
+    "type": "Station-Specific",
+    "play_count_total": 28,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-13 00:40:52Z",
+    "last_played_vienna": "2026-10-13 02:40:52 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Peaches",
+    "title": "Fuck the Pain Away",
+    "type": "Station-Specific",
+    "play_count_total": 11,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-13 07:30:27Z",
+    "last_played_vienna": "2026-10-13 09:30:27 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Obie Fernandez",
+    "title": "Take Me Back (Extended Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 31,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-13 13:33:01Z",
+    "last_played_vienna": "2026-10-13 15:33:01 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Megadeth",
+    "title": "Tipping Point",
+    "type": "Shared",
+    "play_count_total": 4,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-13 14:08:01Z",
+    "last_played_vienna": "2026-10-13 16:08:01 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Aerosmith",
+    "title": "You See Me Crying",
+    "type": "Station-Specific",
+    "play_count_total": 2,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-13 21:30:35Z",
+    "last_played_vienna": "2026-10-13 23:30:35 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Obie Fernandez",
+    "title": "Todo Para Mi (Sholan Extended Remix)",
+    "type": "Station-Specific",
+    "play_count_total": 23,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-13 21:44:05Z",
+    "last_played_vienna": "2026-10-13 23:44:05 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

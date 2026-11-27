@@ -324,7 +324,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-26 17:34:21Z",
     "last_played_vienna": "2026-11-26 18:34:21 MEZ",
     "source": "Scraper Logs (TF Play History)"
@@ -338,6 +338,28 @@
     "play_count_24h": 1,
     "last_played": "2026-11-26 20:14:52Z",
     "last_played_vienna": "2026-11-26 21:14:52 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "Gianna Nannini",
+    "title": "La differenza (Gold)",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-27 18:34:26Z",
+    "last_played_vienna": "2026-11-27 19:34:26 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
+    "artist": "The Stone Roses",
+    "title": "I Wanna Be Adored",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-27 18:37:55Z",
+    "last_played_vienna": "2026-11-27 19:37:55 MEZ",
     "source": "Scraper Logs (TF Play History)"
   },
   {
@@ -525,28 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-21 14:23:00Z",
     "last_played_vienna": "2026-11-21 15:23:00 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Extrabreit",
-    "title": "Für mich soll's rote Rosen regnen (Live)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-21 14:26:30Z",
-    "last_played_vienna": "2026-11-21 15:26:30 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "The Brian Setzer Orchestra",
-    "title": "Jump Jive An' Wail (Album Version)",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 1,
-    "play_count_24h": 0,
-    "last_played": "2026-11-21 14:34:30Z",
-    "last_played_vienna": "2026-11-21 15:34:30 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]
