@@ -233,7 +233,7 @@ def evaluate_show_hour(client, show, show_plays, archive_by_norm, archive_by_art
     time_str = show['start_dt'].strftime('%H:%M')
     end_dt = show['end_dt']
 
-    played_tracks_str = "\\n".join(f"- {p[1]}" for p in show_plays) if show_plays else "- (Keine Titel in dieser Stunde gespielt)"
+    played_tracks_str = "\n".join(f"- {p[1]}" for p in show_plays) if show_plays else "- (Keine Titel in dieser Stunde gespielt)"
 
     # Sort archive by unplayed days at the end of the show
     unplayed_sorted = []
@@ -281,8 +281,8 @@ Wichtig: Gib unter beiden Überschriften jeweils ausschließlich nummerierte Zei
     vorhanden_a, kand_a = match_playlist_against_archive(lines_a, archive_by_norm, archive_by_artist, unplayed_sorted)
     vorhanden_b, kand_b = match_playlist_against_archive(lines_b, archive_by_norm, archive_by_artist, unplayed_sorted)
 
-    kand_a_lines = "\\n".join(f"A{i+1}: {x.get('artist')} - {x.get('title')}" for i, x in enumerate(kand_a))
-    kand_b_lines = "\\n".join(f"B{i+1}: {x.get('artist')} - {x.get('title')}" for i, x in enumerate(kand_b))
+    kand_a_lines = "\n".join(f"A{i+1}: {x.get('artist')} - {x.get('title')}" for i, x in enumerate(kand_a))
+    kand_b_lines = "\n".join(f"B{i+1}: {x.get('artist')} - {x.get('title')}" for i, x in enumerate(kand_b))
 
     # --- CALL 2: Score candidates A & B + Evaluate Fit (7) & Description surgery (8) ---
     prompt2 = f"""Wir bewerten das Musikarchiv und die Sendungsbeschreibung für die Stunde um {time_str} Uhr MESZ.
@@ -518,14 +518,29 @@ def save_outputs(existing_rows):
         for k in sorted_keys:
             writer.writerow(existing_rows[k])
 
+    def _md_cell(val):
+        return str(val or "").replace("|", r"\|").replace("\r\n", "<br>").replace("\n", "<br>")
+
     # Also write readable Markdown summary
     with open(OUT_MD, 'w', encoding='utf-8') as f:
-        f.write("# Backlink Broadcast – Automatische Programmanalyse (10-Parameter-Matrix)\\n\\n")
-        f.write("| Startzeit (MESZ) | 1. Show-Name | 4. Fishing Depth | 5a. Archiv (Plan) | 5b. Archiv (Vibe) | 6a. Pool>=4 (Plan) | 6b. Pool>=4 (Vibe) | 7. Fit | 9. Hörer | 10. Quote | 8. Vorschlag zur Anpassung (Name / Beschreibung) |\\n")
-        f.write("| :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |\\n")
+        f.write("# Backlink Broadcast – Automatische Programmanalyse (10-Parameter-Matrix)\n\n")
+        f.write("| Startzeit (MESZ) | 1. Show-Name | 4. Fishing Depth | 5a. Archiv (Plan) | 5b. Archiv (Vibe) | 6a. Pool>=4 (Plan) | 6b. Pool>=4 (Vibe) | 7. Fit | 9. Hörer | 10. Quote | 8. Vorschlag zur Anpassung (Name / Beschreibung) |\n")
+        f.write("| :--- | :--- | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :--- |\n")
         for k in sorted_keys:
             r = existing_rows[k]
-            f.write(f"| {r['Startzeit']} | **{r['Show_Name']}**<br>*(Desc: {r['Show_Beschreibung']})* | {r['4_Fishing_Depth']} | {r['5a_Archiv_Sendeplan']} | {r['5b_Archiv_RealVibe']} | {r['6a_Pool_Sendeplan']} | {r['6b_Pool_RealVibe']} | **{r['7_Fit_Score']}** | {r['9_Hoerer_Absolut']} | {r['10_Marktanteil_Rel']} | {r['8_Anpassung_Vorschlag']} |\\n")
+            f.write(
+                f"| {_md_cell(r['Startzeit'])} "
+                f"| **{_md_cell(r['Show_Name'])}**<br>*(Desc: {_md_cell(r['Show_Beschreibung'])})* "
+                f"| {_md_cell(r['4_Fishing_Depth'])} "
+                f"| {_md_cell(r['5a_Archiv_Sendeplan'])} "
+                f"| {_md_cell(r['5b_Archiv_RealVibe'])} "
+                f"| {_md_cell(r['6a_Pool_Sendeplan'])} "
+                f"| {_md_cell(r['6b_Pool_RealVibe'])} "
+                f"| **{_md_cell(r['7_Fit_Score'])}** "
+                f"| {_md_cell(r['9_Hoerer_Absolut'])} "
+                f"| {_md_cell(r['10_Marktanteil_Rel'])} "
+                f"| {_md_cell(r['8_Anpassung_Vorschlag'])} |\n"
+            )
 
 if __name__ == '__main__':
     main()

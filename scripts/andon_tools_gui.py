@@ -22,12 +22,16 @@ Skripte:
 ================================================================================
 """
 
+import csv
+import datetime
 import os
 import re
 import sys
 import queue
 import subprocess
+import tempfile
 import threading
+import unicodedata
 from tkinter import Tk, StringVar, BooleanVar, TkVersion
 import tkinter as tk
 from tkinter import ttk, messagebox
@@ -436,6 +440,91 @@ def validate_value(kind, value):
 
 
 # ----------------------------------------------------------------------------
+# Excel-2000-kompatible CSV-Ansichtskopie (;-getrennt, Windows-1252)
+# ----------------------------------------------------------------------------
+_CP1252_FALLBACKS = {
+    "\u0142": "l",   # ł
+    "\u0141": "L",   # Ł
+    "\u0131": "i",   # ı
+    "\u2192": "->",  # →
+    "\u2190": "<-",  # ←
+    "\u2264": "<=",  # ≤
+    "\u2265": ">=",  # ≥
+    "\u2260": "!=",  # ≠
+    "\u2248": "~",   # ≈
+    "\u00a0": " ",   # NBSP
+}
+
+
+def _sanitize_cp1252(text):
+    """Konvertiert einen String verlustarm fuer Windows-1252 (Excel 2000)."""
+    if not text:
+        return ""
+    try:
+        text.encode("cp1252")
+        return text
+    except UnicodeEncodeError:
+        out = []
+        for ch in text:
+            try:
+                ch.encode("cp1252")
+                out.append(ch)
+                continue
+            except UnicodeEncodeError:
+                pass
+            if ch in _CP1252_FALLBACKS:
+                out.append(_CP1252_FALLBACKS[ch])
+                continue
+            decomposed = unicodedata.normalize("NFKD", ch)
+            ascii_part = "".join(c for c in decomposed if not unicodedata.combining(c))
+            try:
+                ascii_part.encode("cp1252")
+                out.append(ascii_part if ascii_part else "?")
+            except UnicodeEncodeError:
+                out.append("?")
+        return "".join(out)
+
+
+def _prepare_excel_csv(src_path):
+    """Erzeugt eine temporäre ;-getrennte Windows-1252-Kopie fuer Excel 2000.
+
+    Die Original-CSV (UTF-8, Komma) bleibt unveraendert, damit alle
+    Analyse-Skripte sie weiterhin fehlerfrei einlesen koennen.
+    """
+    view_dir = os.path.join(tempfile.gettempdir(), "andon_csv_view")
+    os.makedirs(view_dir, exist_ok=True)
+
+    # Quelldatei einlesen (UTF-8 mit/ohne BOM; Trennzeichen anhand Kopfzeile erkennen)
+    with open(src_path, "r", encoding="utf-8-sig", errors="replace", newline="") as f:
+        first_line = f.readline()
+        src_delim = ";" if (";" in first_line and "," not in first_line) else ","
+        f.seek(0)
+        rows = list(csv.reader(f, delimiter=src_delim))
+
+    stem = os.path.splitext(os.path.basename(src_path))[0]
+    base_dst = os.path.join(view_dir, stem + "_excel.csv")
+    candidates = [base_dst]
+    stamp = datetime.datetime.now().strftime("%H%M%S_%f")[:10]
+    candidates.append(os.path.join(view_dir, f"{stem}_excel_{stamp}.csv"))
+
+    last_err = None
+    for dst_path in candidates:
+        try:
+            with open(dst_path, "w", encoding="cp1252", errors="replace", newline="") as out:
+                writer = csv.writer(out, delimiter=";", lineterminator="\r\n")
+                for row in rows:
+                    writer.writerow([_sanitize_cp1252(cell) for cell in row])
+            return dst_path
+        except PermissionError as exc:
+            # Zieldatei ist bereits in Excel geoeffnet -> Zeitstempel-Kopie nutzen
+            last_err = exc
+        except OSError as exc:
+            last_err = exc
+
+    raise last_err if last_err is not None else OSError("Konnte Excel-CSV nicht schreiben.")
+
+
+# ----------------------------------------------------------------------------
 # GUI
 # ----------------------------------------------------------------------------
 def _cmdline_quote(s):
@@ -719,7 +808,8 @@ class AndonToolsGUI:
                            command=lambda pth=path: self._open_file(pth))
             b.pack(side="left", padx=(0, 8), pady=2)
             exists = os.path.exists(path)
-            Tip = "Oeffnen: " + path + ("" if exists else "\n\n(noch nicht vorhanden)")
+            extra = "\n(Oeffnet fuer Excel 2000 als ;-getrennte Windows-1252-Ansichtskopie)" if path.lower().endswith(".csv") else ""
+            Tip = "Oeffnen: " + path + extra + ("" if exists else "\n\n(noch nicht vorhanden)")
             ToolTip(b, Tip)
 
         self.canvas.yview_moveto(0)
@@ -986,11 +1076,19 @@ class AndonToolsGUI:
                 "Diese Datei existiert noch nicht:\n\n" + path +
                 "\n\nBitte zuerst das zugehoerige Skript ausfuehren.")
             return
+        target = path
         try:
-            os.startfile(path)  # noqa: S606 - Windows-spezifisch, gewuenscht
+            if path.lower().endswith(".csv"):
+                target = _prepare_excel_csv(path)
+                print("CSV-Ansichtskopie (;-getrennt, Windows-1252): " + target)
+                try:
+                    sys.stdout.flush()
+                except Exception:
+                    pass
+            os.startfile(target)  # noqa: S606 - Windows-spezifisch, gewuenscht
         except Exception as exc:
             messagebox.showerror("Oeffnen fehlgeschlagen",
-                                 str(path) + "\n\n" + str(exc))
+                                 str(target) + "\n\n" + str(exc))
 
     # --------------------------------------------------------------- Fenster
     def _on_close(self):
