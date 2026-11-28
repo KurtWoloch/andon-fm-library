@@ -492,18 +492,6 @@
     "source": "Shared Library"
   },
   {
-    "artist": "Lady Gaga",
-    "title": "Mary Jane Holland",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-19 12:57:35Z",
-    "last_played_vienna": "2026-10-19 14:57:35 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "David Eisley",
     "title": "Sweet Victory",
     "type": "Station-Specific",
@@ -596,6 +584,18 @@
     "play_count_24h": 0,
     "last_played": "2026-10-04 19:57:04Z",
     "last_played_vienna": "2026-10-04 21:57:04 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "SXTN",
+    "title": "Die Fotzen sind wieder da",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-08 01:35:19Z",
+    "last_played_vienna": "2026-10-08 03:35:19 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
