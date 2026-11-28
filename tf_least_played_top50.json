@@ -180,7 +180,7 @@
     "title": "Layla",
     "type": "Station-Specific",
     "play_count_total": 1,
-    "play_count_30d": 1,
+    "play_count_30d": 0,
     "play_count_24h": 0,
     "last_played": "2026-10-29 09:21:52Z",
     "last_played_vienna": "2026-10-29 10:21:52 MEZ",
@@ -374,6 +374,17 @@
     "source": "Scraper Logs (TF Play History)"
   },
   {
+    "artist": "Ike & Tina Turner",
+    "title": "Proud Mary",
+    "type": "Station-Specific",
+    "play_count_total": 1,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-28 09:35:58Z",
+    "last_played_vienna": "2026-11-28 10:35:58 MEZ",
+    "source": "Scraper Logs (TF Play History)"
+  },
+  {
     "artist": "Brenda Lee",
     "title": "Rockin' Around The Christmas Tree",
     "type": "Shared",
@@ -536,17 +547,6 @@
     "play_count_24h": 0,
     "last_played": "2026-11-19 22:49:00Z",
     "last_played_vienna": "2026-11-19 23:49:00 MEZ",
-    "source": "Scraper Logs (TF Play History)"
-  },
-  {
-    "artist": "Berliner Philharmoniker",
-    "title": "Boléro, M. 81",
-    "type": "Station-Specific",
-    "play_count_total": 2,
-    "play_count_30d": 2,
-    "play_count_24h": 0,
-    "last_played": "2026-11-21 14:08:30Z",
-    "last_played_vienna": "2026-11-21 15:08:30 MEZ",
     "source": "Scraper Logs (TF Play History)"
   }
 ]

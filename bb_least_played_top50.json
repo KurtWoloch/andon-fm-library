@@ -329,7 +329,7 @@
     "type": "Station-Specific",
     "play_count_total": 3,
     "play_count_30d": 2,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-27 08:49:25Z",
     "last_played_vienna": "2026-11-27 09:49:25 MEZ",
     "file_id": "",
@@ -368,18 +368,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-02 20:24:54Z",
     "last_played_vienna": "2026-10-02 22:24:54 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Cypisolo",
-    "title": "Gdzie jest biały węgorz ? (Zejście)",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-06 05:58:56Z",
-    "last_played_vienna": "2026-10-06 07:58:56 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -440,18 +428,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-10 05:26:32Z",
     "last_played_vienna": "2026-10-10 07:26:32 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Die Lochis",
-    "title": "Durchgehend Online",
-    "type": "Station-Specific",
-    "play_count_total": 4,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 06:40:03Z",
-    "last_played_vienna": "2026-10-10 08:40:03 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -596,6 +572,30 @@
     "play_count_24h": 0,
     "last_played": "2026-10-08 01:35:19Z",
     "last_played_vienna": "2026-10-08 03:35:19 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Mariah Carey",
+    "title": "O Holy Night",
+    "type": "Shared",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-09 17:05:31Z",
+    "last_played_vienna": "2026-10-09 19:05:31 MESZ",
+    "file_id": "",
+    "source": "Shared Library"
+  },
+  {
+    "artist": "Kalim",
+    "title": "LINEA ROSSA",
+    "type": "Station-Specific",
+    "play_count_total": 5,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-10 14:54:33Z",
+    "last_played_vienna": "2026-10-10 16:54:33 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }
