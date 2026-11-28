@@ -84,18 +84,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Erdem Kınay",
-    "title": "Mahşer",
-    "type": "Station-Specific",
-    "play_count_total": 6,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-04 02:30:30Z",
-    "last_played_vienna": "2026-10-04 04:30:30 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Slayyyter",
     "title": "CRANK",
     "type": "Station-Specific",
@@ -396,18 +384,6 @@
     "source": "Scraper Logs (BB Play History)"
   },
   {
-    "artist": "Ayşegül Aldinç",
-    "title": "Haberi Yok",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 07:03:02Z",
-    "last_played_vienna": "2026-10-10 09:03:02 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
     "artist": "Hans Entertainment",
     "title": "Hoch die Hände - Wochenende (#sotrue) [Hans Entertainment Vs. Finger & Kadel] (Radio Edit)",
     "type": "Station-Specific",
@@ -596,6 +572,30 @@
     "play_count_24h": 0,
     "last_played": "2026-10-14 09:53:46Z",
     "last_played_vienna": "2026-10-14 11:53:46 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Obie Fernandez",
+    "title": "Goodbye Love (Obie’s ‘So Long & Thanks For All The Fish’ Mix)",
+    "type": "Station-Specific",
+    "play_count_total": 42,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-14 15:23:47Z",
+    "last_played_vienna": "2026-10-14 17:23:47 MESZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Ultrabeat",
+    "title": "Pretty Green Eyes (Radio Edit)",
+    "type": "Station-Specific",
+    "play_count_total": 10,
+    "play_count_30d": 0,
+    "play_count_24h": 0,
+    "last_played": "2026-10-19 05:40:05Z",
+    "last_played_vienna": "2026-10-19 07:40:05 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   }

@@ -41,7 +41,7 @@
     "type": "Station-Specific",
     "play_count_total": 1,
     "play_count_30d": 1,
-    "play_count_24h": 1,
+    "play_count_24h": 0,
     "last_played": "2026-11-27 05:11:24Z",
     "last_played_vienna": "2026-11-27 06:11:24 MEZ",
     "file_id": "",
@@ -248,18 +248,6 @@
     "play_count_24h": 0,
     "last_played": "2026-10-09 01:49:56Z",
     "last_played_vienna": "2026-10-09 03:49:56 MESZ",
-    "file_id": "",
-    "source": "Scraper Logs (BB Play History)"
-  },
-  {
-    "artist": "Ayşegül Aldinç",
-    "title": "Haberi Yok",
-    "type": "Station-Specific",
-    "play_count_total": 3,
-    "play_count_30d": 0,
-    "play_count_24h": 0,
-    "last_played": "2026-10-10 07:03:02Z",
-    "last_played_vienna": "2026-10-10 09:03:02 MESZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
@@ -560,6 +548,18 @@
     "play_count_24h": 1,
     "last_played": "2026-11-27 20:47:27Z",
     "last_played_vienna": "2026-11-27 21:47:27 MEZ",
+    "file_id": "",
+    "source": "Scraper Logs (BB Play History)"
+  },
+  {
+    "artist": "Ayşegül Aldinç",
+    "title": "Haberi Yok",
+    "type": "Station-Specific",
+    "play_count_total": 4,
+    "play_count_30d": 1,
+    "play_count_24h": 1,
+    "last_played": "2026-11-28 08:21:28Z",
+    "last_played_vienna": "2026-11-28 09:21:28 MEZ",
     "file_id": "",
     "source": "Scraper Logs (BB Play History)"
   },
